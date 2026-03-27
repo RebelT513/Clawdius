@@ -11,5 +11,18 @@
     "pnl": "0.0",
     "reasoning_summary": "Only game with confirmed lineups on Day 1. NYY elite lineup (Goldschmidt/Judge/Bellinger/Stanton) vs unknown SP Schlittler. Robbie Ray returning from TJS for SF. Market at -128 underprices NYY lineup advantage. Oracle Park, no adverse line movement.",
     "bankroll_after": "485.0"
+  },
+  {
+    "date": "2026-03-27",
+    "game": "LAA_HOU_20260327",
+    "bet_type": "pregame",
+    "market": "totals",
+    "line": "8.5",
+    "units": "1",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Pinnacle line discrepancy: sharp books at 9.0 while Heritage still posted 8.5. Kikuchi vs Burrows in Minute Maid Park. ~2-3% implied probability edge vs Heritage price.",
+    "bankroll_after": "485.0"
   }
 ]
