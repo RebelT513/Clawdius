@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude Dagger — MLB Performance</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="logo">Claude Dagger <span class="tag">MLB</span></div>
+      <div id="last-updated" class="muted">—</div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Top stat strip -->
+    <div class="stat-strip">
+      <div class="stat-card">
+        <div class="stat-label">Record</div>
+        <div class="stat-value" id="record">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Win Rate</div>
+        <div class="stat-value" id="win-rate">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Total P&amp;L</div>
+        <div class="stat-value" id="pnl">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">ROI</div>
+        <div class="stat-value" id="roi">—</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Bets Placed</div>
+        <div class="stat-value" id="total-bets">—</div>
+      </div>
+    </div>
+
+    <!-- Cumulative P&L chart -->
+    <div class="card">
+      <div class="card-title">Cumulative P&amp;L</div>
+      <div class="chart-wrap">
+        <canvas id="pnl-chart"></canvas>
+      </div>
+    </div>
+
+    <!-- Bet history table -->
+    <div class="card">
+      <div class="card-title">All Bets</div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Game</th>
+              <th>Type</th>
+              <th>Market</th>
+              <th>Line</th>
+              <th>Units</th>
+              <th>Result</th>
+              <th>P&amp;L</th>
+              <th>Running P&amp;L</th>
+            </tr>
+          </thead>
+          <tbody id="bet-table-body">
+            <tr><td colspan="9" class="empty-row">No bets recorded yet.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      Automated MLB performance tracker. No account or identity information stored.
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
