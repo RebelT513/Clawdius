@@ -166,7 +166,9 @@ function renderTable(ledger) {
   tbody.innerHTML = rows.map(e => {
     const pnl = parseFloat(e.pnl) || 0;
     const run = e._running;
-    const lineStr = e.line ? (parseFloat(e.line) > 0 ? `+${e.line}` : `${e.line}`) : '—';
+    const selStr = e.selection || '—';
+    const oddsVal = parseFloat(e.odds);
+    const oddsStr = e.odds ? (oddsVal > 0 ? `+${oddsVal}` : `${oddsVal}`) : '—';
     const pnlStr = e.result === 'pending' ? '—' : fmt$(pnl);
     const runStr = e.result === 'pending' ? '—' : fmt$(run);
     return `<tr>
@@ -174,7 +176,8 @@ function renderTable(ledger) {
       <td>${e.game || '—'}</td>
       <td>${e.bet_type || '—'}</td>
       <td>${(e.market || '—').toUpperCase()}</td>
-      <td>${lineStr}</td>
+      <td>${selStr}</td>
+      <td>${oddsStr}</td>
       <td>${e.units || '—'}u</td>
       <td>${badge(e.result)}</td>
       <td class="${pnlClass(pnl)}">${pnlStr}</td>
