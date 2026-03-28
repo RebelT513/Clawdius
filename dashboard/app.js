@@ -20,7 +20,7 @@ function fmt$(n) {
 
 function badge(result) {
   const r = (result || 'pending').toLowerCase();
-  const map = { win: ['W', 'w'], loss: ['L', 'l'], push: ['P', 'p'], pending: ['—', 'pending'] };
+  const map = { win: ['W', 'w'], loss: ['L', 'l'], push: ['P', 'p'], void: ['V', 'v'], pending: ['—', 'pending'] };
   const [label, cls] = map[r] || ['—', 'pending'];
   return `<span class="badge ${cls}">${label}</span>`;
 }
@@ -148,7 +148,7 @@ function renderPnlChart(ledger) {
 function renderTable(ledger) {
   const tbody = el('bet-table-body');
   if (!ledger || !ledger.length) {
-    tbody.innerHTML = '<tr><td colspan="9" class="empty-row">No bets recorded yet.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="11" class="empty-row">No bets recorded yet.</td></tr>';
     return;
   }
 
@@ -177,6 +177,7 @@ function renderTable(ledger) {
       <td>${selStr}</td>
       <td>${oddsStr}</td>
       <td>${e.units || '—'}u</td>
+      <td>$${parseFloat(e.stake_usd || 0).toFixed(2)}</td>
       <td>${badge(e.result)}</td>
       <td class="${pnlClass(pnl)}">${pnlStr}</td>
       <td class="${pnlClass(run)}">${runStr}</td>
