@@ -58,10 +58,10 @@
     "units": "1",
     "stake_usd": "14.0",
     "confidence_score": "59",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
-    "reasoning_summary": "12mph NNW wind in at Citizens Bank Park, 35F. deGrom vs Nola ace matchup. Wind-in neutralizes CBP.",
-    "bankroll_after": "468.72"
+    "reasoning_summary": "12mph NNW wind in at Citizens Bank Park, 35F. deGrom vs Nola ace matchup. Wind-in neutralizes CBP. BET VOIDED \u00e2\u20ac\u201d deGrom scratched pregame.",
+    "bankroll_after": "482.72"
   },
   {
     "date": "2026-03-28",
@@ -77,6 +77,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "14mph NNW wind in at Citi Field, 32F. Keller vs Peterson. Strongest wind-in signal on the board.",
-    "bankroll_after": "454.72"
+    "bankroll_after": "468.72"
   }
 ]
