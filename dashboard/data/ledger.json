@@ -94,5 +94,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Matz (ERA 3.05, WHIP 1.10) clear edge over May (ERA 4.96, WHIP 1.42). Cardinals bullpen more taxed (6 relievers at 2+ apps). Slight line movement toward Tampa Bay.",
     "bankroll_after": "506.35"
+  },
+  {
+    "date": "2026-03-29",
+    "game": "Cleveland Guardians @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "125.0",
+    "line": "125.0",
+    "units": "1",
+    "stake_usd": "16.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Cecconi (ERA 4.30, WHIP 1.19) edges Hancock (ERA 4.90, WHIP 1.38). Seattle bullpen more taxed (7 relievers, Woo at 83 pitches). Line moved 12pts from -156 to -144 toward Cleveland indicating sharp action.",
+    "bankroll_after": "506.35"
   }
 ]
