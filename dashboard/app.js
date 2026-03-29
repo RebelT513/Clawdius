@@ -29,6 +29,32 @@ function pnlClass(v) {
   return v > 0 ? 'pos-cell' : v < 0 ? 'neg-cell' : 'neu-cell';
 }
 
+// ── Team name → 3-letter abbreviation ───────────────────────────────────────
+
+const TEAM_ABBR = {
+  'Arizona Diamondbacks': 'ARI', 'Atlanta Braves': 'ATL', 'Baltimore Orioles': 'BAL',
+  'Boston Red Sox': 'BOS', 'Chicago Cubs': 'CHC', 'Chicago White Sox': 'CWS',
+  'Cincinnati Reds': 'CIN', 'Cleveland Guardians': 'CLE', 'Colorado Rockies': 'COL',
+  'Detroit Tigers': 'DET', 'Houston Astros': 'HOU', 'Kansas City Royals': 'KCR',
+  'Los Angeles Angels': 'LAA', 'Los Angeles Dodgers': 'LAD', 'Miami Marlins': 'MIA',
+  'Milwaukee Brewers': 'MIL', 'Minnesota Twins': 'MIN', 'New York Mets': 'NYM',
+  'New York Yankees': 'NYY', 'Oakland Athletics': 'OAK', 'Athletics': 'OAK',
+  'Philadelphia Phillies': 'PHI', 'Pittsburgh Pirates': 'PIT', 'San Diego Padres': 'SDP',
+  'San Francisco Giants': 'SFG', 'Seattle Mariners': 'SEA', 'St. Louis Cardinals': 'STL',
+  'Tampa Bay Rays': 'TBR', 'Texas Rangers': 'TEX', 'Toronto Blue Jays': 'TOR',
+  'Washington Nationals': 'WSN',
+};
+
+function abbrevTeam(name) {
+  return TEAM_ABBR[name.trim()] || name.trim().slice(0, 3).toUpperCase();
+}
+
+function abbrevGame(game) {
+  if (!game || !game.includes('@')) return game || '—';
+  const [away, home] = game.split('@').map(s => s.trim());
+  return `${abbrevTeam(away)} @ ${abbrevTeam(home)}`;
+}
+
 // ── Summary strip ────────────────────────────────────────────────────────────
 
 function renderSummary(s) {
@@ -171,7 +197,7 @@ function renderTable(ledger) {
     const runStr = e.result === 'pending' ? '—' : fmt$(run);
     return `<tr>
       <td>${e.date || '—'}</td>
-      <td>${e.game || '—'}</td>
+      <td>${abbrevGame(e.game)}</td>
       <td>${e.bet_type || '—'}</td>
       <td>${(e.market || '—').toUpperCase()}</td>
       <td>${selStr}</td>
