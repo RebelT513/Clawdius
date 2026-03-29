@@ -110,5 +110,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Cecconi (ERA 4.30, WHIP 1.19) edges Hancock (ERA 4.90, WHIP 1.38). Seattle bullpen more taxed (7 relievers, Woo at 83 pitches). Line moved 12pts from -156 to -144 toward Cleveland indicating sharp action.",
     "bankroll_after": "506.35"
+  },
+  {
+    "date": "2026-03-29",
+    "game": "Athletics @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u9",
+    "odds": "-121",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Luis Morales (ERA 3.14, WHIP 1.15) and Eric Lauer (ERA 3.18, WHIP 1.11) are the two best starters on today slate. Dome venue, no weather variance. Two elite SPs suggest suppressed scoring across full game. Bet landed as full-game under due to 1H column switcher malfunction.",
+    "bankroll_after": "506.35"
   }
 ]
