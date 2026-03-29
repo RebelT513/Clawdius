@@ -55,6 +55,17 @@ function abbrevGame(game) {
   return `${abbrevTeam(away)} @ ${abbrevTeam(home)}`;
 }
 
+function abbrevSelection(sel) {
+  if (!sel || sel === '—') return sel || '—';
+  // Totals: starts with o/u followed by a number (e.g. "o7.5", "u8.5")
+  if (/^[ouOU]\d/.test(sel)) return sel;
+  // Spreads: "Team Name +/-line" — team name followed by a signed number
+  const spreadMatch = sel.match(/^(.+?)\s+([+-]?\d+\.?\d*)$/);
+  if (spreadMatch) return abbrevTeam(spreadMatch[1]) + ' ' + spreadMatch[2];
+  // H2H / 1H ML: just a team name
+  return abbrevTeam(sel);
+}
+
 // ── Summary strip ────────────────────────────────────────────────────────────
 
 function renderSummary(s) {
@@ -190,7 +201,7 @@ function renderTable(ledger) {
   tbody.innerHTML = rows.map(e => {
     const pnl = parseFloat(e.pnl) || 0;
     const run = e._running;
-    const selStr = e.selection || '—';
+    const selStr = abbrevSelection(e.selection);
     const oddsVal = parseFloat(e.odds);
     const oddsStr = e.odds ? (oddsVal > 0 ? `+${oddsVal}` : `${oddsVal}`) : '—';
     const pnlStr = e.result === 'pending' ? '—' : fmt$(pnl);
