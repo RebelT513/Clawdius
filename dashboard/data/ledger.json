@@ -302,5 +302,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Bubic holds a meaningful edge over Woods Richardson across every key SP metric \u00e2\u20ac\u201d ERA 2.55 vs 4.04, WHIP 1.18 vs 1.28, BB/9 3.0 vs 3.7. The 1H market isolates that advantage cleanly: bullpen tax (6 taxed KC relievers) is irrelevant before the 6th in",
     "bankroll_after": "506.3"
+  },
+  {
+    "date": "2026-03-30",
+    "game": "Pittsburgh Pirates @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-106.0",
+    "line": "-106.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Ashcraft (2.71 ERA, 1.25 WHIP, 69.2 IP) holds a clear advantage over Burns (4.57 ERA, 1.32 WHIP, 43.1 IP) as the starting pitcher, and that edge is the primary signal here. The line moved 14 cents away from Cincinnati (from -124 to -110), consistent ",
+    "bankroll_after": "506.29999999999995"
   }
 ]
