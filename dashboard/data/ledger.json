@@ -222,5 +222,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Gore (ERA 3.38, WHIP 0.94) holds a decisive edge over Luzardo (ERA 9.00, WHIP 1.17), yet Texas is priced at +152, implying only 39.7% win probability \u00e2\u20ac\u201d roughly 4-5 points below what the SP matchup justifies. The PHI bullpen is severely taxed, with ",
     "bankroll_after": "546.08"
+  },
+  {
+    "date": "2026-03-29",
+    "game": "Colorado Rockies @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Miami Marlins",
+    "odds": "-134.0",
+    "line": "-134.0",
+    "units": "1",
+    "stake_usd": "17",
+    "confidence_score": "59",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Meyer holds a decisive command edge for the first 5 innings: BB/9 3.6 vs. Quintana's 8.3, K/9 9.0 vs. 4.2, and tighter WHIP (1.40 vs. 1.85). The 1H isolates the SP matchup with no bullpen variance \u00e2\u20ac\u201d Quintana's extreme walk rate (8.3 BB/9) generates",
+    "bankroll_after": "546.08"
   }
 ]
