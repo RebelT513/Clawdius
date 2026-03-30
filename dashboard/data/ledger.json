@@ -286,5 +286,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Placed 1:03 AM PT. TEX@BAL over 9 at -117. Expected pnl $13.65 per sportsbook slip. Logging reconstructed \u00e2\u20ac\u201d original session context unavailable.",
     "bankroll_after": "513.25"
+  },
+  {
+    "date": "2026-03-30",
+    "game": "Minnesota Twins @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Kansas City Royals",
+    "odds": "-153.0",
+    "line": "-153.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "63",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Bubic holds a meaningful edge over Woods Richardson across every key SP metric \u00e2\u20ac\u201d ERA 2.55 vs 4.04, WHIP 1.18 vs 1.28, BB/9 3.0 vs 3.7. The 1H market isolates that advantage cleanly: bullpen tax (6 taxed KC relievers) is irrelevant before the 6th in",
+    "bankroll_after": "506.29999999999995"
   }
 ]
