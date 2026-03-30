@@ -334,5 +334,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Walker (4.08 ERA, 1.41 WHIP) is a run-suppression liability, and Griffin enters with 0 IP this season \u00e2\u20ac\u201d debut-quality uncertainty skews scoring upward. The PHI bullpen is severely compromised: Nola (91 pitches) and Luzardo (99 pitches) both threw y",
     "bankroll_after": "506.29999999999995"
+  },
+  {
+    "date": "2026-03-30",
+    "game": "New York Mets @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "134.0",
+    "line": "134.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Leahy holds a clear edge over Holmes across all four SP metrics (ERA 3.07 vs 3.53, WHIP 1.23 vs 1.30, K/9 8.2 vs 7.0, BB/9 2.9 vs 3.6), pitching at home. The larger factor is the Mets bullpen entering severely taxed \u00e2\u20ac\u201d five relievers with 2+ recent ",
+    "bankroll_after": "506.29999999999995"
   }
 ]
