@@ -241,22 +241,6 @@
   },
   {
     "date": "2026-03-29",
-    "game": "Texas Rangers @ Philadelphia Phillies",
-    "bet_type": "pregame",
-    "market": "h2h",
-    "selection": "Texas Rangers",
-    "odds": "152.0",
-    "line": "152.0",
-    "units": "1",
-    "stake_usd": "17",
-    "confidence_score": "44",
-    "result": "win",
-    "pnl": "25.84",
-    "reasoning_summary": "Gore (ERA 3.38, WHIP 0.94) holds a decisive edge over Luzardo (ERA 9.00, WHIP 1.17), yet Texas is priced at +152, implying only 39.7% win probability \u00e2\u20ac\u201d roughly 4-5 points below what the SP matchup justifies. The PHI bullpen is severely taxed, with ",
-    "bankroll_after": "589.09"
-  },
-  {
-    "date": "2026-03-29",
     "game": "Texas Rangers @ Baltimore Orioles",
     "bet_type": "pregame",
     "market": "h2h",
@@ -269,7 +253,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Intentional pregame bet placed in prior session. J Leiter vs Chris Bassitt. TEX +108 underdog value play.",
-    "bankroll_after": "572.09"
+    "bankroll_after": "546.25"
   },
   {
     "date": "2026-03-29",
@@ -285,6 +269,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "TOR 1H ML (Cody Ponce) vs COL (Tomoyuki Sugano). Corrected from erroneous COL@MIA entry \u00e2\u20ac\u201d actual bet was COL@TOR at -244. Ticket 293185280.",
-    "bankroll_after": "555.09"
+    "bankroll_after": "529.25"
   }
 ]
