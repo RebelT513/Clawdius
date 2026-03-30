@@ -104,12 +104,28 @@
     "odds": "125.0",
     "line": "125.0",
     "units": "1",
-    "stake_usd": "16.0",
+    "stake_usd": "17.0",
     "confidence_score": "48",
     "result": "loss",
-    "pnl": "-16.0",
+    "pnl": "-17.0",
     "reasoning_summary": "Cecconi (ERA 4.30, WHIP 1.19) edges Hancock (ERA 4.90, WHIP 1.38). Seattle bullpen more taxed (7 relievers, Woo at 83 pitches). Line moved 12pts from -156 to -144 toward Cleveland indicating sharp action.",
-    "bankroll_after": "506.35"
+    "bankroll_after": "505.35"
+  },
+  {
+    "date": "2026-03-29",
+    "game": "Cleveland Guardians @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "125.0",
+    "line": "125.0",
+    "units": "1",
+    "stake_usd": "17.0",
+    "confidence_score": "48",
+    "result": "loss",
+    "pnl": "-17.0",
+    "reasoning_summary": "DUPLICATE BET \u00e2\u20ac\u201d Ticket #293012383. Placed accidentally at 4:02 PM PST due to betslip clear failure. Same matchup as prior entry (Ticket #293011656).",
+    "bankroll_after": "488.35"
   },
   {
     "date": "2026-03-29",
