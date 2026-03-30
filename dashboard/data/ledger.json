@@ -140,7 +140,7 @@
     "confidence_score": "58",
     "result": "win",
     "pnl": "13.22",
-    "reasoning_summary": "DUPLICATE BET \u2014 placed accidentally due to betslip clear failure before TBR attempt. Same as prior entry. Bet G9036603 confirmed by sportsbook.",
+    "reasoning_summary": "DUPLICATE BET \u00ef\u00bf\u00bd placed accidentally due to betslip clear failure before TBR attempt. Same as prior entry. Bet G9036603 confirmed by sportsbook.",
     "bankroll_after": "535.57"
   },
   {
@@ -172,7 +172,7 @@
     "confidence_score": "0",
     "result": "loss",
     "pnl": "-16.0",
-    "reasoning_summary": "UNINTENDED BET \u2014 G9036734. Placed accidentally during column switcher debugging. Not an intentional pick.",
+    "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9036734. Placed accidentally during column switcher debugging. Not an intentional pick.",
     "bankroll_after": "520.64"
   },
   {
@@ -188,7 +188,7 @@
     "confidence_score": "0",
     "result": "push",
     "pnl": "0.0",
-    "reasoning_summary": "UNINTENDED BET \u2014 G9036807. Placed accidentally during column switcher debugging. Not an intentional pick.",
+    "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9036807. Placed accidentally during column switcher debugging. Not an intentional pick.",
     "bankroll_after": "522.35"
   },
   {
@@ -204,7 +204,7 @@
     "confidence_score": "0",
     "result": "win",
     "pnl": "10.06",
-    "reasoning_summary": "UNINTENDED BET \u2014 G9037186. Placed accidentally during column switcher debugging. Not an intentional pick.",
+    "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9037186. Placed accidentally during column switcher debugging. Not an intentional pick.",
     "bankroll_after": "532.41"
   },
   {
@@ -225,18 +225,34 @@
   },
   {
     "date": "2026-03-29",
-    "game": "Colorado Rockies @ Miami Marlins",
+    "game": "Texas Rangers @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Texas Rangers",
+    "odds": "108.0",
+    "line": "108.0",
+    "units": "1",
+    "stake_usd": "17",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Intentional pregame bet placed in prior session. J Leiter vs Chris Bassitt. TEX +108 underdog value play.",
+    "bankroll_after": "571.92"
+  },
+  {
+    "date": "2026-03-29",
+    "game": "Colorado Rockies @ Toronto Blue Jays",
     "bet_type": "pregame",
     "market": "1h_ml",
-    "selection": "Miami Marlins",
-    "odds": "-134.0",
-    "line": "-134.0",
+    "selection": "Toronto Blue Jays",
+    "odds": "-244.0",
+    "line": "-244.0",
     "units": "1",
     "stake_usd": "17",
     "confidence_score": "59",
-    "result": "loss",
-    "pnl": "-17.0",
-    "reasoning_summary": "Meyer holds a decisive command edge for the first 5 innings: BB/9 3.6 vs. Quintana's 8.3, K/9 9.0 vs. 4.2, and tighter WHIP (1.40 vs. 1.85). The 1H isolates the SP matchup with no bullpen variance \u00e2\u20ac\u201d Quintana's extreme walk rate (8.3 BB/9) generates",
-    "bankroll_after": "546.08"
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "TOR 1H ML (Cody Ponce) vs COL (Tomoyuki Sugano). Corrected from erroneous COL@MIA entry \u00e2\u20ac\u201d actual bet was COL@TOR at -244. Ticket 293185280.",
+    "bankroll_after": "554.92"
   }
 ]
