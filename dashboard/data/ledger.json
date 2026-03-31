@@ -446,5 +446,21 @@
     "pnl": "0.0",
     "reasoning_summary": "deGrom (ERA 2.97, WHIP 0.92, K/9 9.6) vs. Eflin (ERA 5.93, WHIP 1.42, K/9 6.3) is one of the starkest SP mismatches on the slate. The 1H market isolates this edge cleanly \u00e2\u20ac\u201d no bullpen variance, pure starter quality over 4-5 innings. Texas's heavily",
     "bankroll_after": "488.09000000000003"
+  },
+  {
+    "date": "2026-03-31",
+    "game": "Pittsburgh Pirates @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-130.0",
+    "line": "-130.0",
+    "units": "1",
+    "stake_usd": "16",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The 240-point line swing from Cincinnati -108 to +132 is a powerful market signal \u00e2\u20ac\u201d the sharpest moves in that range typically reflect either SP news or concentrated sharp action, and Williamson's 0 IP this season is the likely driver. For 1H purpo",
+    "bankroll_after": "504.09000000000003"
   }
 ]
