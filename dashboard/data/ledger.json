@@ -384,20 +384,20 @@
     "bankroll_after": "498.19"
   },
   {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "game": "Washington Nationals @ Philadelphia Phillies",
     "bet_type": "pregame",
     "market": "h2h",
     "selection": "Washington Nationals",
-    "odds": "146.0",
-    "line": "146.0",
+    "odds": "160.0",
+    "line": "160.0",
     "units": "1",
     "stake_usd": "15",
     "confidence_score": "47",
-    "result": "win",
-    "pnl": "21.9",
-    "reasoning_summary": "Griffin (3.60 ERA, 1.00 WHIP, 9.0 K/9, 0 BB) holds a commanding advantage over Walker (11.57 ERA, 2.79 WHIP, 5.8 BB/9), making this the sharpest SP quality gap on the card. The Phillies line has lengthened from -180 to -174, consistent with sharp mon",
-    "bankroll_after": "520.09"
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Griffin (3.60 ERA, 1.00 WHIP, 9.0 K/9, 0 BB) holds a commanding advantage over Walker (11.57 ERA, 2.79 WHIP, 5.8 BB/9), making this the sharpest SP quality gap on the card. The Phillies line has lengthened from -180 to -174, consistent with sharp money. Ticket 293283385-1 placed 10:05 PM PST 3/30 (1:05 AM ET 3/31) for 3/31 game.",
+    "bankroll_after": "483.19"
   },
   {
     "date": "2026-03-31",
@@ -412,8 +412,8 @@
     "confidence_score": "62",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "deGrom (2.97 ERA, 0.92 WHIP) vs Eflin (5.93 ERA, 1.42 WHIP) is one of the sharpest SP quality gaps on the slate. The 1H market isolates this advantage before both heavily taxed bullpens enter. 14 mph wind out at Camden Yards in warm conditions amplif",
-    "bankroll_after": "504.09000000000003"
+    "reasoning_summary": "deGrom (2.97 ERA, 0.92 WHIP) vs Eflin (5.93 ERA, 1.42 WHIP) is one of the sharpest SP quality gaps on the slate. The 1H market isolates this advantage before both heavily taxed bullpens enter. 14 mph wind out at Camden Yards in warm conditions amplif. Ticket 293298419-1.",
+    "bankroll_after": "467.19"
   },
   {
     "date": "2026-03-31",
@@ -428,8 +428,8 @@
     "confidence_score": "63",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "The 240-pt line movement on CIN ML from -108 to +132 confirms sharp market signal of PIT SP dominance. Chandler (0.93 WHIP, 1.1 BB/9) vs Williamson (0.0 IP this season) is a massive quality gap in the first 5 innings. 1H market at -128 isolates Chand",
-    "bankroll_after": "504.09000000000003"
+    "reasoning_summary": "The 240-pt line movement on CIN ML from -108 to +132 confirms sharp market signal of PIT SP dominance. Chandler (0.93 WHIP, 1.1 BB/9) vs Williamson (0.0 IP this season) is a massive quality gap in the first 5 innings. 1H market at -128 isolates Chand. Ticket 293298436-1.",
+    "bankroll_after": "451.19"
   },
   {
     "date": "2026-03-31",
@@ -444,8 +444,8 @@
     "confidence_score": "65",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "deGrom (ERA 2.97, WHIP 0.92, K/9 9.6) vs. Eflin (ERA 5.93, WHIP 1.42, K/9 6.3) is one of the starkest SP mismatches on the slate. The 1H market isolates this edge cleanly \u00e2\u20ac\u201d no bullpen variance, pure starter quality over 4-5 innings. Texas's heavily",
-    "bankroll_after": "488.09000000000003"
+    "reasoning_summary": "deGrom (ERA 2.97, WHIP 0.92, K/9 9.6) vs. Eflin (ERA 5.93, WHIP 1.42, K/9 6.3) is one of the starkest SP mismatches on the slate. The 1H market isolates this edge cleanly \u00e2\u20ac\u201d no bullpen variance, pure starter quality over 4-5 innings. Texas's heavily. Ticket 293298753-1.",
+    "bankroll_after": "419.19"
   },
   {
     "date": "2026-03-31",
@@ -453,15 +453,15 @@
     "bet_type": "pregame",
     "market": "1h_ml",
     "selection": "Pittsburgh Pirates",
-    "odds": "-130.0",
-    "line": "-130.0",
+    "odds": "-128.0",
+    "line": "-128.0",
     "units": "1",
     "stake_usd": "16",
     "confidence_score": "60",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "The 240-point line swing from Cincinnati -108 to +132 is a powerful market signal \u00e2\u20ac\u201d the sharpest moves in that range typically reflect either SP news or concentrated sharp action, and Williamson's 0 IP this season is the likely driver. For 1H purpo",
-    "bankroll_after": "504.09000000000003"
+    "reasoning_summary": "The 240-point line swing from Cincinnati -108 to +132 is a powerful market signal \u00e2\u20ac\u201d the sharpest moves in that range typically reflect either SP news or concentrated sharp action, and Williamson's 0 IP this season is the likely driver. For 1H purpo. Ticket 293298778-1.",
+    "bankroll_after": "403.19"
   },
   {
     "date": "2026-03-31",
@@ -476,7 +476,23 @@
     "confidence_score": "62",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "The 1H is a pure SP matchup, and Junk's profile (WHIP 1.14, BB/9 1.1) represents a substantial edge over Fedde (WHIP 1.52, BB/9 4.3) \u00e2\u20ac\u201d the control gap alone is significant. Fedde's 4.3 BB/9 means persistent baserunner traffic against a home Miami l",
-    "bankroll_after": "504.09000000000003"
+    "reasoning_summary": "The 1H is a pure SP matchup, and Junk's profile (WHIP 1.14, BB/9 1.1) represents a substantial edge over Fedde (WHIP 1.52, BB/9 4.3) \u00e2\u20ac\u201d the control gap alone is significant. Fedde's 4.3 BB/9 means persistent baserunner traffic against a home Miami l. Ticket 293298827-1.",
+    "bankroll_after": "387.19"
+  },
+  {
+    "date": "2026-03-31",
+    "game": "New York Mets @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "New York Mets",
+    "odds": "-144.0",
+    "line": "-144.0",
+    "units": "1",
+    "stake_usd": "15",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Senga (ERA 3.02, WHIP 1.31, K/9 8.7) holds a substantial edge over Pallante (ERA 5.31, WHIP 1.44, K/9 6.1) in what is a pure SP matchup through 5 innings \u00e2\u20ac\u201d no bullpen variance applies. The 1H ML at -144 is a marginally better price than the full-ga",
+    "bankroll_after": "483.19"
   }
 ]
