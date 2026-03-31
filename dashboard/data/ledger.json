@@ -394,9 +394,25 @@
     "units": "1",
     "stake_usd": "15",
     "confidence_score": "47",
+    "result": "win",
+    "pnl": "21.9",
+    "reasoning_summary": "Griffin (3.60 ERA, 1.00 WHIP, 9.0 K/9, 0 BB) holds a commanding advantage over Walker (11.57 ERA, 2.79 WHIP, 5.8 BB/9), making this the sharpest SP quality gap on the card. The Phillies line has lengthened from -180 to -174, consistent with sharp mon",
+    "bankroll_after": "520.09"
+  },
+  {
+    "date": "2026-03-31",
+    "game": "Texas Rangers @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Texas Rangers",
+    "odds": "-140.0",
+    "line": "-140.0",
+    "units": "1",
+    "stake_usd": "16.0",
+    "confidence_score": "62",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "Griffin (3.60 ERA, 1.00 WHIP, 9.0 K/9, 0 BB) holds a commanding advantage over Walker (11.57 ERA, 2.79 WHIP, 5.8 BB/9), making this the sharpest SP quality gap on the card. The Phillies line has lengthened from -180 to -174, consistent with sharp mon",
-    "bankroll_after": "483.19"
+    "reasoning_summary": "deGrom (2.97 ERA, 0.92 WHIP) vs Eflin (5.93 ERA, 1.42 WHIP) is one of the sharpest SP quality gaps on the slate. The 1H market isolates this advantage before both heavily taxed bullpens enter. 14 mph wind out at Camden Yards in warm conditions amplif",
+    "bankroll_after": "504.09000000000003"
   }
 ]
