@@ -382,5 +382,21 @@
     "pnl": "14.55",
     "reasoning_summary": "Sharp money moved the total 0.5 points from 8.5 to 8.0, the strongest signal here. Cold weather (36\u00c2\u00b0F) at a pitcher-friendly park suppresses offense. Messick is the clear SP edge \u00e2\u20ac\u201d 2.72 ERA, 1.31 WHIP, 1.4 BB/9 \u00e2\u20ac\u201d and should provide quality innin",
     "bankroll_after": "498.19"
+  },
+  {
+    "date": "2026-03-30",
+    "game": "Washington Nationals @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Washington Nationals",
+    "odds": "146.0",
+    "line": "146.0",
+    "units": "1",
+    "stake_usd": "15",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Griffin (3.60 ERA, 1.00 WHIP, 9.0 K/9, 0 BB) holds a commanding advantage over Walker (11.57 ERA, 2.79 WHIP, 5.8 BB/9), making this the sharpest SP quality gap on the card. The Phillies line has lengthened from -180 to -174, consistent with sharp mon",
+    "bankroll_after": "483.19"
   }
 ]
