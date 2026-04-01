@@ -522,8 +522,8 @@
     "units": "1",
     "stake_usd": "14",
     "confidence_score": "63",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-14.0",
     "reasoning_summary": "The 1H market isolates the clear SP mismatch \u00e2\u20ac\u201d Crochet is an established elite arm. Ticket 293347680-1. Odds moved from eval -156 to sportsbook -168.",
     "bankroll_after": "442.76"
   },
@@ -538,8 +538,8 @@
     "units": "1",
     "stake_usd": "14",
     "confidence_score": "63",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-14.0",
     "reasoning_summary": "DUPLICATE \u00e2\u20ac\u201d placed by MANUAL run while batch_1 already had this game. Ticket 293352417-1. Odds moved from eval -150 to sportsbook -161.",
     "bankroll_after": "428.76"
   }
