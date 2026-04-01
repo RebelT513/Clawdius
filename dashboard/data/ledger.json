@@ -526,5 +526,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The 1H market isolates the clear SP mismatch \u00e2\u20ac\u201d Crochet is an established elite arm (career profile supports dominance, not just one start) while Burrows is unproven and struggled in his only outing. Both bullpens are heavily taxed, which adds varia",
     "bankroll_after": "442.76"
+  },
+  {
+    "date": "2026-04-01",
+    "game": "Boston Red Sox @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Boston Red Sox",
+    "odds": "-150.0",
+    "line": "-150.0",
+    "units": "1",
+    "stake_usd": "14",
+    "confidence_score": "63",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Crochet is an established high-end arm (elite K rate, strong career track record) facing an unproven Burrows who struggled in his only start. While both pitchers have tiny 2026 samples, the talent gap is real and not a small-sample artifact. Both bul",
+    "bankroll_after": "428.76"
   }
 ]
