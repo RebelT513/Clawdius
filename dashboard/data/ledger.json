@@ -485,14 +485,30 @@
     "bet_type": "pregame",
     "market": "1h_ml",
     "selection": "New York Mets",
-    "odds": "-144.0",
-    "line": "-144.0",
+    "odds": "-159.0",
+    "line": "-159.0",
     "units": "1",
     "stake_usd": "15",
     "confidence_score": "62",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "Senga (ERA 3.02, WHIP 1.31, K/9 8.7) holds a substantial edge over Pallante (ERA 5.31, WHIP 1.44, K/9 6.1) in what is a pure SP matchup through 5 innings \u00e2\u20ac\u201d no bullpen variance applies. The 1H ML at -144 is a marginally better price than the full-ga",
-    "bankroll_after": "483.19"
+    "reasoning_summary": "Senga (ERA 3.02, WHIP 1.31, K/9 8.7) holds a substantial edge over Pallante (ERA 5.31, WHIP 1.44, K/9 6.1) in what is a pure SP matchup through 5 innings \u00e2\u20ac\u201d no bullpen variance applies. Ticket 293299545-1.",
+    "bankroll_after": "372.19"
+  },
+  {
+    "date": "2026-03-31",
+    "game": "Chicago White Sox @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-105.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "15",
+    "confidence_score": "0",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Full-game under 8 at -105. Placed by automated session after batch_1. Ticket 293299350-1.",
+    "bankroll_after": "357.19"
   }
 ]
