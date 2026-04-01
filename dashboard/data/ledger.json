@@ -517,14 +517,14 @@
     "bet_type": "pregame",
     "market": "1h_ml",
     "selection": "Boston Red Sox",
-    "odds": "-156.0",
-    "line": "-156.0",
+    "odds": "-168.0",
+    "line": "-168.0",
     "units": "1",
     "stake_usd": "14",
     "confidence_score": "63",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "The 1H market isolates the clear SP mismatch \u00e2\u20ac\u201d Crochet is an established elite arm (career profile supports dominance, not just one start) while Burrows is unproven and struggled in his only outing. Both bullpens are heavily taxed, which adds varia",
+    "reasoning_summary": "The 1H market isolates the clear SP mismatch \u00e2\u20ac\u201d Crochet is an established elite arm. Ticket 293347680-1. Odds moved from eval -156 to sportsbook -168.",
     "bankroll_after": "442.76"
   },
   {
@@ -533,14 +533,14 @@
     "bet_type": "pregame",
     "market": "1h_ml",
     "selection": "Boston Red Sox",
-    "odds": "-150.0",
-    "line": "-150.0",
+    "odds": "-161.0",
+    "line": "-161.0",
     "units": "1",
     "stake_usd": "14",
     "confidence_score": "63",
     "result": "pending",
     "pnl": "0.0",
-    "reasoning_summary": "Crochet is an established high-end arm (elite K rate, strong career track record) facing an unproven Burrows who struggled in his only start. While both pitchers have tiny 2026 samples, the talent gap is real and not a small-sample artifact. Both bul",
+    "reasoning_summary": "DUPLICATE \u00e2\u20ac\u201d placed by MANUAL run while batch_1 already had this game. Ticket 293352417-1. Odds moved from eval -150 to sportsbook -161.",
     "bankroll_after": "428.76"
   }
 ]
