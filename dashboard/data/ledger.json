@@ -542,5 +542,21 @@
     "pnl": "-14.0",
     "reasoning_summary": "DUPLICATE \u00e2\u20ac\u201d placed by MANUAL run while batch_1 already had this game. Ticket 293352417-1. Odds moved from eval -150 to sportsbook -161.",
     "bankroll_after": "428.76"
+  },
+  {
+    "date": "2026-04-02",
+    "game": "Atlanta Braves @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Atlanta Braves",
+    "odds": "-115.0",
+    "line": "-120.0",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "L\u00f3pez holds a clear SP advantage over Nelson grounded in multi-year track records \u2014 L\u00f3pez 2024 breakout (2.06 ERA) represents a legitimate ace-tier arm, while Nelson profiles as a back-end starter (~4.50 career ERA). Both bullpens severely taxed (was",
+    "bankroll_after": "415.76"
   }
 ]
