@@ -590,5 +590,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Horton's command profile (1.4 BB/9, 0.79 WHIP) is sharply superior to Cantillo's wildness (7.4 BB/9, 1.91 WHIP) in what the 1H market isolates as a pure SP matchup. While both have only 1 start this season and current-year stats carry heavy noise, th",
     "bankroll_after": "414.06"
+  },
+  {
+    "date": "2026-04-03",
+    "game": "Tampa Bay Rays @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "1h_totals",
+    "selection": "u4.0",
+    "odds": "106.0",
+    "line": "4.0",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Boyle and Ober are both quality arms with strong early-season profiles. 1H isolates SP matchup cleanly. Under 4 at plus money in cold weather with two capable starters.",
+    "bankroll_after": "401.06"
   }
 ]
