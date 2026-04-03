@@ -638,5 +638,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Over 8 at -107. Ticket 293512795-1. Placed by system but not logged \u2014 confirmation detection missed it.",
     "bankroll_after": "362.06"
+  },
+  {
+    "date": "2026-04-03",
+    "game": "Baltimore Orioles @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "104.0",
+    "line": "-102.0",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The 208-cent sharp line movement toward Pittsburgh (from +106 to -102) is the dominant signal here \u00e2\u20ac\u201d that magnitude indicates strong professional action. Both SPs are quality career arms, but Bradish's 3 BB in 4.2 IP on return from injury hints at ",
+    "bankroll_after": "362.06"
   }
 ]
