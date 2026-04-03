@@ -558,5 +558,21 @@
     "pnl": "11.3",
     "reasoning_summary": "L\u00f3pez holds a clear SP advantage over Nelson grounded in multi-year track records \u2014 L\u00f3pez 2024 breakout (2.06 ERA) represents a legitimate ace-tier arm, while Nelson profiles as a back-end starter (~4.50 career ERA). Both bullpens severely taxed (was",
     "bankroll_after": "440.06"
+  },
+  {
+    "date": "2026-04-03",
+    "game": "Miami Marlins @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Miami Marlins",
+    "odds": "112.0",
+    "line": "118.0",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch favors Miami in the first 5 innings. P\u00c3\u00a9rez's peripherals (0.86 WHIP, 10.3 K/9, 1.3 BB/9) are elite across every metric, while Warren's profile is concerning (1.62 WHIP, 4.2 BB/9, 6.2 K/9) \u00e2\u20ac\u201d that WHIP-to-ERA divergence screams seq",
+    "bankroll_after": "427.06"
   }
 ]
