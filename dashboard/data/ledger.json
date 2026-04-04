@@ -686,5 +686,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Cold weather (42\u00c2\u00b0F) at pitcher-friendly Comerica Park with both SPs on early-season pitch limits creates a clean pitching environment for the first 5 innings. Despite shaky season debuts (1 start each, 4.0 IP apiece), both May and Flaherty have soli",
     "bankroll_after": "375.81"
+  },
+  {
+    "date": "2026-04-04",
+    "game": "Tampa Bay Rays @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "1h_totals",
+    "selection": "u4.0",
+    "odds": "106.0",
+    "line": "4.0",
+    "units": "1",
+    "stake_usd": "12.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "34\u00c2\u00b0F with light drizzle and mist at Target Field is a significant, objective run-suppression environment. The 1H total isolates the starter matchup and removes both heavily taxed bullpens from the equation. While Abel's 10.8 BB/9 (3.1 IP \u00e2\u20ac\u201d noise-l",
+    "bankroll_after": "363.81"
   }
 ]
