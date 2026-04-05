@@ -762,8 +762,8 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-12.0",
     "reasoning_summary": "Cold weather (42\u00c2\u00b0F) at pitcher-friendly Comerica Park with both SPs on early-season pitch limits creates a clean pitching environment for the first 5 innings. Despite shaky season debuts (1 start each, 4.0 IP apiece), both May and Flaherty have soli",
     "bankroll_after": "375.81"
   },
@@ -778,8 +778,8 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-12.0",
     "reasoning_summary": "34\u00c2\u00b0F with light drizzle and mist at Target Field is a significant, objective run-suppression environment. The 1H total isolates the starter matchup and removes both heavily taxed bullpens from the equation. While Abel's 10.8 BB/9 (3.1 IP \u00e2\u20ac\u201d noise-l",
     "bankroll_after": "363.81"
   },
@@ -794,10 +794,10 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "12.6",
     "reasoning_summary": "Strong weather suppression at Fenway \u00e2\u20ac\u201d 45\u00c2\u00b0F with 15 mph wind blowing in from ENE \u00e2\u20ac\u201d significantly limits ball flight and scoring. Early (prior-year xERA 2.35) is a quality arm who should limit San Diego through 5 innings. V\u00c3\u00a1squez's prior-year xE",
-    "bankroll_after": "351.81"
+    "bankroll_after": "375.57"
   },
   {
     "date": "2026-04-04",
@@ -810,8 +810,8 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-12.0",
     "reasoning_summary": "Oracle Park at 33\u00c2\u00b0F with 11 mph ENE wind blowing in creates an extreme run-suppression environment \u00e2\u20ac\u201d cold, wind-in, and one of MLB's most pitcher-friendly dimensions all compounding. Both SPs have comparable prior-year xERAs (~4.3) so the pitching",
     "bankroll_after": "339.81"
   },
@@ -826,10 +826,10 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "14.64",
     "reasoning_summary": "Kumar Rocker is a confirmed below-average pitcher (76 career IP, 5.45 ERA, 5.73 prior-year xERA aligned) while Lowder, though extremely unproven at 35 career IP, shows a promising 1.51 career ERA and was impressive enough for sharp money to move the ",
-    "bankroll_after": "340.78"
+    "bankroll_after": "366.34"
   },
   {
     "date": "2026-04-04",
@@ -842,9 +842,9 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "11.76",
     "reasoning_summary": "Clear SP mismatch favors Tampa Bay in the first half. Matz is a proven veteran (4.21 career ERA over 1009 IP, 3.38 prior-year xERA) while Abel is a young, unproven arm with serious command issues (6.80 career ERA over just 42 IP, 5.09 prior-year xERA",
-    "bankroll_after": "328.78"
+    "bankroll_after": "351.49"
   }
 ]
