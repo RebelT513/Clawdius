@@ -846,5 +846,21 @@
     "pnl": "11.76",
     "reasoning_summary": "Clear SP mismatch favors Tampa Bay in the first half. Matz is a proven veteran (4.21 career ERA over 1009 IP, 3.38 prior-year xERA) while Abel is a young, unproven arm with serious command issues (6.80 career ERA over just 42 IP, 5.09 prior-year xERA",
     "bankroll_after": "351.49"
+  },
+  {
+    "date": "2026-04-05",
+    "game": "San Diego Padres @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9.0",
+    "odds": "-115.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "12.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Wind out at Fenway Park (elevated-offense park, flagged signal) combined with both SPs likely limited to 4-5 IP based on first-start workload patterns, feeding into heavily taxed bullpens on both sides \u00e2\u20ac\u201d SD has King (81 pitches) and V\u00c3\u00a1squez (83 pi",
+    "bankroll_after": "391.78"
   }
 ]
