@@ -2,6 +2,7 @@
   "bankroll_current": 403.78,
   "bankroll_start": 500.98,
   "total_pnl": -97.2,
+  "pnl_correction": -23.33,
   "total_bets": 52,
   "wins": 23,
   "losses": 25,
@@ -222,5 +223,5 @@
       "bankroll_after": 351.49
     }
   ],
-  "last_updated": "2026-04-04 9:24 PM CDT"
+  "last_updated": "2026-04-04 9:32 PM CDT"
 }
