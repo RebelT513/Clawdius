@@ -1,4 +1,4 @@
-/* Claude Dagger — MLB performance dashboard */
+/* Clawdius — MLB performance dashboard */
 
 Chart.defaults.color = '#8b949e';
 Chart.defaults.font.family = "'Inter', 'Segoe UI', system-ui, sans-serif";
