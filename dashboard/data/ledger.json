@@ -910,5 +910,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Coors Field at 65F sunny is the premier run-scoring environment in baseball. Bolton career 5.60 ERA, 1.78 WHIP, and 6.43 prior-year xERA over just 45 career IP makes him extremely vulnerable at altitude. Both bullpens are heavily taxed (7 and 5 relie",
     "bankroll_after": "401.22"
+  },
+  {
+    "date": "2026-04-07",
+    "game": "Baltimore Orioles @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.0",
+    "odds": "-114.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "12.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Extreme weather suppression: 34\u00c2\u00b0F with 15 mph wind blowing in at Rate Field creates strongly offense-limiting conditions. Rogers (career 3.77 ERA, 533 IP, prior-year xERA 3.41) should dominate through 6+ innings \u00e2\u20ac\u201d his recent form confirms it (1.38",
+    "bankroll_after": "384.18"
   }
 ]
