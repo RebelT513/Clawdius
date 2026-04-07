@@ -974,5 +974,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Skenes is an elite arm (career 2.10 ERA / 326 IP, prior xERA 2.65) pitching at home in 35\u00c2\u00b0F \u00e2\u20ac\u201d among the coldest games of the season \u00e2\u20ac\u201d at pitcher-friendly PNC Park. The total opened at 6.5 and moved to 7.5, giving a full run of cushion above wher",
     "bankroll_after": "379.99"
+  },
+  {
+    "date": "2026-04-07",
+    "game": "Athletics @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8.5",
+    "odds": "-117.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong weather suppression at Yankee Stadium \u00e2\u20ac\u201d 37\u00c2\u00b0F with 17 mph NNW wind blowing in significantly reduces ball carry and offensive output. Both SPs are roughly equivalent ~4.10 ERA true-talent pitchers on reliable data (Civale 4.14 career ERA/743 ",
+    "bankroll_after": "366.99"
   }
 ]
