@@ -958,5 +958,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Extreme cold (30\u00c2\u00b0F) with 12 mph wind blowing in at Progressive Field creates strong run suppression beyond what the 7.0\u00e2\u2020\u20196.5 line move already captures. Both starters are capable of going 5-6 innings (Cameron career 2.95 ERA/143 IP, Williams career",
     "bankroll_after": "392.99"
+  },
+  {
+    "date": "2026-04-07",
+    "game": "San Diego Padres @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-103.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Skenes is an elite arm (career 2.10 ERA / 326 IP, prior xERA 2.65) pitching at home in 35\u00c2\u00b0F \u00e2\u20ac\u201d among the coldest games of the season \u00e2\u20ac\u201d at pitcher-friendly PNC Park. The total opened at 6.5 and moved to 7.5, giving a full run of cushion above wher",
+    "bankroll_after": "379.99"
   }
 ]
