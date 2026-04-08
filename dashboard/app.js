@@ -190,9 +190,10 @@ function renderTable(ledger) {
     return;
   }
 
-  // Build rows newest-first with running P&L
+  // Build rows newest-first with running P&L (include correction to match authoritative bankroll)
   const settled = [...ledger].sort((a, b) => (a.date || '').localeCompare(b.date || ''));
-  let running = 0;
+  const correction = window._summaryData?.pnl_correction || 0;
+  let running = correction;
   const withRunning = settled.map(e => {
     if (e.result && e.result !== 'pending') running += parseFloat(e.pnl) || 0;
     return { ...e, _running: parseFloat(running.toFixed(2)) };
@@ -230,6 +231,7 @@ async function init() {
     load('data/summary.json'),
     load('data/ledger.json'),
   ]);
+  window._summaryData = summary;  // expose for renderTable's correction
   renderSummary(summary);
   renderPnlChart(ledger, summary);
   renderTable(ledger);
