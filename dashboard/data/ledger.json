@@ -938,10 +938,10 @@
     "units": "1",
     "stake_usd": "12.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "12.48",
     "reasoning_summary": "27\u00c2\u00b0F at Target Field is extreme cold \u00e2\u20ac\u201d one of the strongest run-suppression signals available. Skubal is elite (career 3.04 ERA/779 IP, prior-year xERA 2.71) and should keep Minnesota quiet through 6+. Bradley's career 4.75 ERA is mediocre, but fr",
-    "bankroll_after": "394.71"
+    "bankroll_after": "419.19"
   },
   {
     "date": "2026-04-07",
@@ -957,7 +957,7 @@
     "result": "win",
     "pnl": "12.87",
     "reasoning_summary": "Extreme cold (30\u00c2\u00b0F) with 12 mph wind blowing in at Progressive Field creates strong run suppression beyond what the 7.0\u00e2\u2020\u20196.5 line move already captures. Both starters are capable of going 5-6 innings (Cameron career 2.95 ERA/143 IP, Williams career",
-    "bankroll_after": "418.86"
+    "bankroll_after": "432.06"
   },
   {
     "date": "2026-04-07",
@@ -970,8 +970,8 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-13.0",
     "reasoning_summary": "Skenes is an elite arm (career 2.10 ERA / 326 IP, prior xERA 2.65) pitching at home in 35\u00c2\u00b0F \u00e2\u20ac\u201d among the coldest games of the season \u00e2\u20ac\u201d at pitcher-friendly PNC Park. The total opened at 6.5 and moved to 7.5, giving a full run of cushion above wher",
     "bankroll_after": "405.86"
   },
@@ -986,10 +986,10 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "11.11",
     "reasoning_summary": "Strong weather suppression at Yankee Stadium \u00e2\u20ac\u201d 37\u00c2\u00b0F with 17 mph NNW wind blowing in significantly reduces ball carry and offensive output. Both SPs are roughly equivalent ~4.10 ERA true-talent pitchers on reliable data (Civale 4.14 career ERA/743 ",
-    "bankroll_after": "392.86"
+    "bankroll_after": "416.97"
   },
   {
     "date": "2026-04-07",
@@ -1002,10 +1002,10 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "13.26",
     "reasoning_summary": "PHANTOM: Duplicate placed by batch_3 session due to race condition. Not caught before Heritage placement.",
-    "bankroll_after": "379.86"
+    "bankroll_after": "406.12"
   },
   {
     "date": "2026-04-07",
@@ -1018,9 +1018,25 @@
     "units": "1",
     "stake_usd": "13.0",
     "confidence_score": "55",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "PHANTOM: Duplicate placed by lineups session at different line. Not caught before Heritage placement.",
-    "bankroll_after": "366.86"
+    "bankroll_after": "379.86"
+  },
+  {
+    "date": "2026-04-07",
+    "game": "Athletics @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-111.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "13.0",
+    "confidence_score": "58",
+    "result": "push",
+    "pnl": "0.0",
+    "reasoning_summary": "PHANTOM: Third duplicate placed by lineups_30 session before dedup fix was deployed.",
+    "bankroll_after": "0.0"
   }
 ]
