@@ -1038,5 +1038,21 @@
     "pnl": "0.0",
     "reasoning_summary": "PHANTOM: Third duplicate placed by lineups_30 session before dedup fix was deployed.",
     "bankroll_after": "0.0"
+  },
+  {
+    "date": "2026-04-08",
+    "game": "Baltimore Orioles @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o7.5",
+    "odds": "-110.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "14.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The primary catalyst is 15 mph SSW wind at Rate Field blowing out toward RF/CF \u00e2\u20ac\u201d one of the stronger wind-out situations on today's slate. Both bullpens are heavily taxed (BAL: Helsley 2 app/42 pitches, Cano 2 app; CWS: Hudson, Murphy, Leasure all ",
+    "bankroll_after": "463.31"
   }
 ]
