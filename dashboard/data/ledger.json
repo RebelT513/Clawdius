@@ -1102,5 +1102,21 @@
     "pnl": "12.73",
     "reasoning_summary": "Both bullpens are severely taxed \u00e2\u20ac\u201d Cincinnati has 5+ relievers with 2+ recent appearances or starter-level pitch counts from yesterday, Miami has 4+ in similar shape. Late-game scoring is highly likely when both teams must rely on depleted arms aft",
     "bankroll_after": "448.04"
+  },
+  {
+    "date": "2026-04-10",
+    "game": "Pittsburgh Pirates @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u6.5",
+    "odds": "-110.0",
+    "line": "6.5",
+    "units": "1",
+    "stake_usd": "14.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong weather-driven under at Wrigley: 39\u00c2\u00b0F with mist and 7 mph wind blowing in from right field significantly suppresses carry and exit velocity. Both SPs have solid career profiles (Imanaga 3.32 ERA/1.01 WHIP over 328 IP, Mlodzinski 3.28 ERA/1.28",
+    "bankroll_after": "460.77"
   }
 ]
