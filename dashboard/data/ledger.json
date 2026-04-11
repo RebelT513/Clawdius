@@ -1114,10 +1114,10 @@
     "units": "1",
     "stake_usd": "14.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "14.42",
     "reasoning_summary": "Strong weather-driven under at Wrigley: 39\u00c2\u00b0F with mist and 7 mph wind blowing in from right field significantly suppresses carry and exit velocity. Both SPs have solid career profiles (Imanaga 3.32 ERA/1.01 WHIP over 328 IP, Mlodzinski 3.28 ERA/1.28",
-    "bankroll_after": "460.77"
+    "bankroll_after": "489.19"
   },
   {
     "date": "2026-04-10",
@@ -1130,10 +1130,10 @@
     "units": "1",
     "stake_usd": "14.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "13.08",
     "reasoning_summary": "Both starters have career ERAs above 4.00 (Woods Richardson 4.12/xERA 3.82, Corbin 4.51/xERA 4.77), and both bullpens are severely taxed \u00e2\u20ac\u201d Minnesota has 7 relievers with 2+ appearances in the last 3 days, Toronto has 5. The total dropped 1.5 runs f [CORRECTION 4/10: Bet placed at Heritage total 9.0, not evaluator 7.5. Odds API returned stale/wrong line from FanDuel (7.5) while Heritage and consensus had 9.0. Line verification guard now prevents this. Decision: let it ride \u2014 o9 at -107 is market price, hedging just locks in vig.]",
-    "bankroll_after": "446.77"
+    "bankroll_after": "473.85"
   },
   {
     "date": "2026-04-10",
@@ -1146,8 +1146,8 @@
     "units": "1",
     "stake_usd": "14.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-14.0",
     "reasoning_summary": "May's decline is structural \u00e2\u20ac\u201d prior-year xERA of 5.20 over a full season confirms he's no longer a league-average starter, and 13 ER in 7.1 IP across two starts this year continues the trajectory. Early has upside (prior-year xERA 2.35) but is walk",
     "bankroll_after": "432.77"
   }
