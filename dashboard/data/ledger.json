@@ -1178,9 +1178,9 @@
     "units": "1",
     "stake_usd": "25.0",
     "confidence_score": "55",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Petco Park is one of MLB's strongest run-suppression environments, amplified by 61\u00c2\u00b0F cloudy conditions and 10mph WNW wind blowing in. Kyle Freeland's 4.51 career ERA is heavily inflated by half his games at Coors \u00e2\u20ac\u201d his road performance at a suppre",
-    "bankroll_after": "476.54"
+    "bankroll_after": "526.54"
   }
 ]
