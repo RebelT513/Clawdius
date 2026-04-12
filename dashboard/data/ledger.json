@@ -11,7 +11,7 @@
     "stake_usd": "15.0",
     "confidence_score": "63",
     "result": "win",
-    "pnl": "11.72",
+    "pnl": "10.98",
     "reasoning_summary": "Only game with confirmed lineups on Day 1. NYY elite lineup (Goldschmidt/Judge/Bellinger/Stanton) vs unknown SP Schlittler. Robbie Ray returning from TJS for SF. Market at -128 underprices NYY lineup advantage. Oracle Park, no adverse line movement.",
     "bankroll_after": "496.72"
   },
@@ -43,7 +43,7 @@
     "stake_usd": "14.0",
     "confidence_score": "60",
     "result": "win",
-    "pnl": "13.44",
+    "pnl": "12.57",
     "reasoning_summary": "13mph NNW wind in at Camden Yards, 37F. Bradish vs Bradley. Cold/wind-in strongly suppresses offense.",
     "bankroll_after": "510.16"
   },
@@ -75,7 +75,7 @@
     "stake_usd": "14.0",
     "confidence_score": "62",
     "result": "win",
-    "pnl": "12.16",
+    "pnl": "11.37",
     "reasoning_summary": "14mph NNW wind in at Citi Field, 32F. Keller vs Peterson. Strongest wind-in signal on the board.",
     "bankroll_after": "522.32"
   },
@@ -91,7 +91,7 @@
     "stake_usd": "16.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "14.08",
+    "pnl": "13.17",
     "reasoning_summary": "Matz (ERA 3.05, WHIP 1.10) clear edge over May (ERA 4.96, WHIP 1.42). Cardinals bullpen more taxed (6 relievers at 2+ apps). Slight line movement toward Tampa Bay.",
     "bankroll_after": "536.43"
   },
@@ -155,7 +155,7 @@
     "stake_usd": "16.0",
     "confidence_score": "58",
     "result": "win",
-    "pnl": "13.27",
+    "pnl": "12.41",
     "reasoning_summary": "Luis Morales (ERA 3.14, WHIP 1.15) and Eric Lauer (ERA 3.18, WHIP 1.11) are the two best starters on today slate. Dome venue, no weather variance. Two elite SPs suggest suppressed scoring across full game. Bet landed as full-game under due to 1H column switcher malfunction.",
     "bankroll_after": "535.66"
   },
@@ -171,7 +171,7 @@
     "stake_usd": "16.0",
     "confidence_score": "58",
     "result": "win",
-    "pnl": "13.27",
+    "pnl": "12.41",
     "reasoning_summary": "DUPLICATE BET \u00ef\u00bf\u00bd placed accidentally due to betslip clear failure before TBR attempt. Same as prior entry. Bet G9036603 confirmed by sportsbook.",
     "bankroll_after": "535.71"
   },
@@ -187,7 +187,7 @@
     "stake_usd": "16.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "14.29",
+    "pnl": "13.37",
     "reasoning_summary": "Matz (ERA 3.05, WHIP 1.10) clear edge over May (ERA 4.96, WHIP 1.42) for first 5 innings. STL bullpen 6 taxed relievers. Line moved 204 pts toward TBR. 1H ML -112 (moved from +100). Positive EV at 55% confidence.",
     "bankroll_after": "536.64"
   },
@@ -235,7 +235,7 @@
     "stake_usd": "16.0",
     "confidence_score": "0",
     "result": "win",
-    "pnl": "10.09",
+    "pnl": "9.44",
     "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9037186. Placed accidentally during column switcher debugging. Not an intentional pick.",
     "bankroll_after": "532.58"
   },
@@ -251,7 +251,7 @@
     "stake_usd": "17.0",
     "confidence_score": "52",
     "result": "win",
-    "pnl": "18.36",
+    "pnl": "17.17",
     "reasoning_summary": "Intentional pregame bet placed in prior session. J Leiter vs Chris Bassitt. TEX +108 underdog value play.",
     "bankroll_after": "540.66"
   },
@@ -299,7 +299,7 @@
     "stake_usd": "16.0",
     "confidence_score": "63",
     "result": "win",
-    "pnl": "10.46",
+    "pnl": "9.78",
     "reasoning_summary": "Bubic holds a meaningful edge over Woods Richardson across every key SP metric \u00e2\u20ac\u201d ERA 2.55 vs 4.04, WHIP 1.18 vs 1.28, BB/9 3.0 vs 3.7. The 1H market isolates that advantage cleanly: bullpen tax (6 taxed KC relievers) is irrelevant before the 6th in",
     "bankroll_after": "518.12"
   },
@@ -379,7 +379,7 @@
     "stake_usd": "16.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "14.55",
+    "pnl": "13.61",
     "reasoning_summary": "Sharp money moved the total 0.5 points from 8.5 to 8.0, the strongest signal here. Cold weather (36\u00c2\u00b0F) at a pitcher-friendly park suppresses offense. Messick is the clear SP edge \u00e2\u20ac\u201d 2.72 ERA, 1.31 WHIP, 1.4 BB/9 \u00e2\u20ac\u201d and should provide quality innin",
     "bankroll_after": "498.19"
   },
@@ -923,7 +923,7 @@
     "stake_usd": "12.0",
     "confidence_score": "57",
     "result": "win",
-    "pnl": "10.53",
+    "pnl": "10.91",
     "reasoning_summary": "Extreme weather suppression: 34\u00c2\u00b0F with 15 mph wind blowing in at Rate Field creates strongly offense-limiting conditions. Rogers (career 3.77 ERA, 533 IP, prior-year xERA 3.41) should dominate through 6+ innings \u00e2\u20ac\u201d his recent form confirms it (1.38",
     "bankroll_after": "406.71"
   },
@@ -939,7 +939,7 @@
     "stake_usd": "12.0",
     "confidence_score": "57",
     "result": "win",
-    "pnl": "12.48",
+    "pnl": "10.91",
     "reasoning_summary": "27\u00c2\u00b0F at Target Field is extreme cold \u00e2\u20ac\u201d one of the strongest run-suppression signals available. Skubal is elite (career 3.04 ERA/779 IP, prior-year xERA 2.71) and should keep Minnesota quiet through 6+. Bradley's career 4.75 ERA is mediocre, but fr",
     "bankroll_after": "419.19"
   },
@@ -955,7 +955,7 @@
     "stake_usd": "13.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "12.87",
+    "pnl": "11.82",
     "reasoning_summary": "Extreme cold (30\u00c2\u00b0F) with 12 mph wind blowing in at Progressive Field creates strong run suppression beyond what the 7.0\u00e2\u2020\u20196.5 line move already captures. Both starters are capable of going 5-6 innings (Cameron career 2.95 ERA/143 IP, Williams career",
     "bankroll_after": "432.06"
   },
@@ -987,7 +987,7 @@
     "stake_usd": "13.0",
     "confidence_score": "57",
     "result": "win",
-    "pnl": "11.11",
+    "pnl": "11.82",
     "reasoning_summary": "Strong weather suppression at Yankee Stadium \u00e2\u20ac\u201d 37\u00c2\u00b0F with 17 mph NNW wind blowing in significantly reduces ball carry and offensive output. Both SPs are roughly equivalent ~4.10 ERA true-talent pitchers on reliable data (Civale 4.14 career ERA/743 ",
     "bankroll_after": "416.97"
   },
@@ -1003,7 +1003,7 @@
     "stake_usd": "13.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "13.26",
+    "pnl": "12.4",
     "reasoning_summary": "PHANTOM: Duplicate placed by batch_3 session due to race condition. Not caught before Heritage placement.",
     "bankroll_after": "406.12"
   },
@@ -1051,7 +1051,7 @@
     "stake_usd": "14.0",
     "confidence_score": "56",
     "result": "win",
-    "pnl": "12.73",
+    "pnl": "11.91",
     "reasoning_summary": "The primary catalyst is 15 mph SSW wind at Rate Field blowing out toward RF/CF \u00e2\u20ac\u201d one of the stronger wind-out situations on today's slate. Both bullpens are heavily taxed (BAL: Helsley 2 app/42 pitches, Cano 2 app; CWS: Hudson, Murphy, Leasure all ",
     "bankroll_after": "490.04"
   },
@@ -1099,7 +1099,7 @@
     "stake_usd": "14.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "12.73",
+    "pnl": "11.91",
     "reasoning_summary": "Both bullpens are severely taxed \u00e2\u20ac\u201d Cincinnati has 5+ relievers with 2+ recent appearances or starter-level pitch counts from yesterday, Miami has 4+ in similar shape. Late-game scoring is highly likely when both teams must rely on depleted arms aft",
     "bankroll_after": "448.04"
   },
@@ -1115,7 +1115,7 @@
     "stake_usd": "14.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "14.42",
+    "pnl": "13.49",
     "reasoning_summary": "Strong weather-driven under at Wrigley: 39\u00c2\u00b0F with mist and 7 mph wind blowing in from right field significantly suppresses carry and exit velocity. Both SPs have solid career profiles (Imanaga 3.32 ERA/1.01 WHIP over 328 IP, Mlodzinski 3.28 ERA/1.28",
     "bankroll_after": "489.19"
   },
@@ -1131,7 +1131,7 @@
     "stake_usd": "14.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "13.08",
+    "pnl": "12.23",
     "reasoning_summary": "Both starters have career ERAs above 4.00 (Woods Richardson 4.12/xERA 3.82, Corbin 4.51/xERA 4.77), and both bullpens are severely taxed \u00e2\u20ac\u201d Minnesota has 7 relievers with 2+ appearances in the last 3 days, Toronto has 5. The total dropped 1.5 runs f [CORRECTION 4/10: Bet placed at Heritage total 9.0, not evaluator 7.5. Odds API returned stale/wrong line from FanDuel (7.5) while Heritage and consensus had 9.0. Line verification guard now prevents this. Decision: let it ride \u2014 o9 at -107 is market price, hedging just locks in vig.]",
     "bankroll_after": "473.85"
   },
@@ -1163,7 +1163,7 @@
     "stake_usd": "15.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "13.27",
+    "pnl": "12.41",
     "reasoning_summary": "Both starters have career ERAs above 4.00 (Sheehan 4.04/142 IP, Leiter 4.67/198 IP) and neither projects as a shutdown arm. Sheehan is struggling badly early (8.00 ERA, 1.89 WHIP, 5.0 BB/9, 6.16 xERA in 9 IP) and faces no platoon advantage against an",
     "bankroll_after": "501.54"
   },
