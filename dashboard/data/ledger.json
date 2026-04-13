@@ -1182,5 +1182,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Petco Park is one of MLB's strongest run-suppression environments, amplified by 61\u00c2\u00b0F cloudy conditions and 10mph WNW wind blowing in. Kyle Freeland's 4.51 career ERA is heavily inflated by half his games at Coors \u00e2\u20ac\u201d his road performance at a suppre",
     "bankroll_after": "502.86"
+  },
+  {
+    "date": "2026-04-13",
+    "game": "Cleveland Guardians @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8",
+    "odds": "-110.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "25.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Liberatore's career profile is poor (4.58 ERA, 350 IP, xERA 4.90/5.50) and hitters are squaring him up (xwOBA .367), suggesting Cleveland will score. Williams is the better pitcher but his 7.1 BB/9 this season creates free baserunners that can come a",
+    "bankroll_after": "477.86"
   }
 ]
