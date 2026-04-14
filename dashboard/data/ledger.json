@@ -1246,5 +1246,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Petco Park at 55\u00c2\u00b0F with 10 mph wind blowing in from WNW creates a strongly run-suppressive environment on top of an already pitcher-friendly park. Bryan Woo (career 3.13 ERA, prior xERA 3.07, 413 IP) is a reliable run suppressor who has been sharp a",
     "bankroll_after": "447.6"
+  },
+  {
+    "date": "2026-04-14",
+    "game": "San Francisco Giants @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-106.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Singer's early-season collapse is backed by underlying contact quality \u00e2\u20ac\u201d his 7.72 xERA through 59 PA aligns with his 7.71 ERA, meaning exit velocities and launch angles confirm the damage is real, not BABIP noise. Against a loaded SF lineup (Adames",
+    "bankroll_after": "421.6"
   }
 ]
