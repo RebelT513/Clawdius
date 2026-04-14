@@ -1194,9 +1194,9 @@
     "units": "1",
     "stake_usd": "25.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "22.73",
     "reasoning_summary": "Liberatore's career profile is poor (4.58 ERA, 350 IP, xERA 4.90/5.50) and hitters are squaring him up (xwOBA .367), suggesting Cleveland will score. Williams is the better pitcher but his 7.1 BB/9 this season creates free baserunners that can come a",
-    "bankroll_after": "477.86"
+    "bankroll_after": "525.59"
   }
 ]
