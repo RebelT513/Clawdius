@@ -1227,9 +1227,9 @@
     "stake_usd": "26.0",
     "confidence_score": "54",
     "result": "win",
-    "pnl": "25.49",
+    "pnl": "25.85",
     "reasoning_summary": "McGreevy's xERA (5.68 current, 4.67 prior year) and xwOBA (.370) signal heavy regression from his 2.16 surface ERA \u00e2\u20ac\u201d he's a low-K contact pitcher consistently outperforming his stuff, with only 5.4 K/9 leaving him reliant on luck and defense. Both ",
-    "bankroll_after": "525.09"
+    "bankroll_after": "525.45"
   },
   {
     "date": "2026-04-14",
@@ -1243,9 +1243,9 @@
     "stake_usd": "26.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "26.0",
+    "pnl": "25.62",
     "reasoning_summary": "Petco Park at 55\u00c2\u00b0F with 10 mph wind blowing in from WNW creates a strongly run-suppressive environment on top of an already pitcher-friendly park. Bryan Woo (career 3.13 ERA, prior xERA 3.07, 413 IP) is a reliable run suppressor who has been sharp a",
-    "bankroll_after": "499.6"
+    "bankroll_after": "551.07"
   },
   {
     "date": "2026-04-14",
@@ -1261,7 +1261,7 @@
     "result": "loss",
     "pnl": "-26.0",
     "reasoning_summary": "Singer's early-season collapse is backed by underlying contact quality \u00e2\u20ac\u201d his 7.72 xERA through 59 PA aligns with his 7.71 ERA, meaning exit velocities and launch angles confirm the damage is real, not BABIP noise. Against a loaded SF lineup (Adames",
-    "bankroll_after": "421.6"
+    "bankroll_after": "525.07"
   },
   {
     "date": "2026-04-14",
@@ -1277,7 +1277,7 @@
     "result": "loss",
     "pnl": "-26.0",
     "reasoning_summary": "Both starters are career below-average pitchers (Detmers 4.76 ERA/465 IP, Weathers 4.82 ERA/297 IP) and Weathers' underlying contact quality is alarming (xERA 5.12, xwOBA .354) \u00e2\u20ac\u201d his 2.81 surface ERA is unsustainable and regression is imminent. Bot",
-    "bankroll_after": "395.6"
+    "bankroll_after": "499.07"
   },
   {
     "date": "2026-04-14",
@@ -1291,8 +1291,8 @@
     "stake_usd": "26.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "24.76",
+    "pnl": "24.29",
     "reasoning_summary": "Noah Schultz appears to be making his MLB debut (0.0 IP, stats unconfirmed), creating significant run-scoring upside for Tampa Bay. McClanahan's early-season walk rate (7.3 BB/9 vs 2.7 career across just 8.2 IP) loads baserunners despite his strong c",
-    "bankroll_after": "420.36"
+    "bankroll_after": "523.36"
   }
 ]
