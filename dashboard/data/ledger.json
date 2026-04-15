@@ -1326,5 +1326,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Great American Ball Park at 76\u00c2\u00b0F is a textbook over environment. Both starters project as roughly league-average arms \u00e2\u20ac\u201d Mahle's career 4.07 ERA with currently elevated walks (BB/9 4.3) means extra baserunners, and Lowder's low K rate (6.1) at a hi",
     "bankroll_after": "471.36"
+  },
+  {
+    "date": "2026-04-15",
+    "game": "Chicago Cubs @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-107.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Citizens Bank Park at 80\u00c2\u00b0F with 15 mph STRONG_OUT wind (+10 mph tailwind to CF) is an elite run-scoring environment \u00e2\u20ac\u201d the strongest weather signal available. Both bullpens are heavily taxed: Cubs have 5 relievers with 2+ appearances in 3 days incl",
+    "bankroll_after": "445.36"
   }
 ]
