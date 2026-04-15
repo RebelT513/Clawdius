@@ -1310,5 +1310,21 @@
     "pnl": "0.0",
     "reasoning_summary": "92\u00c2\u00b0F at Camden Yards is a significant offensive boost \u00e2\u20ac\u201d among the hottest game-time temperatures this season. Arizona's bullpen is severely taxed with 5+ relievers at 2+ appearances in 3 days, including starters pressed into relief duty, meaning l",
     "bankroll_after": "497.36"
+  },
+  {
+    "date": "2026-04-15",
+    "game": "San Francisco Giants @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-107.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Great American Ball Park at 76\u00c2\u00b0F is a textbook over environment. Both starters project as roughly league-average arms \u00e2\u20ac\u201d Mahle's career 4.07 ERA with currently elevated walks (BB/9 4.3) means extra baserunners, and Lowder's low K rate (6.1) at a hi",
+    "bankroll_after": "471.36"
   }
 ]
