@@ -1358,5 +1358,21 @@
     "pnl": "-30.0",
     "reasoning_summary": "Two starters posting ERAs over 9.00 this season face off in a weather-neutral dome. Corbin is a declining vet with a 4.51 career ERA and his lone start this year was 4 ER in 4 IP. Sproat is showing extreme wildness (8.7 BB/9) with only 31 career IP a",
     "bankroll_after": "567.34"
+  },
+  {
+    "date": "2026-04-17",
+    "game": "Detroit Tigers @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-102.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "28.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Weather is genuinely suppressive at wind-sensitive Fenway: 50\u00c2\u00b0F with MODERATE_IN tailwind (-7.1 mph into CF) knocks down fly ball carry. Detroit's lineup is flat-out weak (.639 avg OPS with three sub-.400 black holes in Jones, P\u00c3\u00a9rez, Durbin-equival",
+    "bankroll_after": "539.34"
   }
 ]
