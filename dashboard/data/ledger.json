@@ -1390,5 +1390,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Two elite starters with strong career credentials: Skenes (career 2.07 ERA, 338 IP, xERA 2.43) and Rasmussen (career 2.83 ERA, 476 IP, xERA 2.47 / prior 3.48). Both are rolling recently \u00e2\u20ac\u201d Rasmussen 2 ER in 16 IP, Skenes 3 ER in 17.1 IP. Weather act",
     "bankroll_after": "564.93"
+  },
+  {
+    "date": "2026-04-18",
+    "game": "Cincinnati Reds @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "-127.0",
+    "line": "-130.0",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear lineup mismatch drives the edge: CIN lineup averages .630 OPS with three top-5 bats under .600 (Friedl .417, Benson .532, Lowe .581), while MIN lineup averages .808 OPS with four top-5 bats above .800. Bradley is in career-best form (1.25 ERA, ",
+    "bankroll_after": "534.93"
   }
 ]
