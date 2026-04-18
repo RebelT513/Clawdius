@@ -1374,5 +1374,21 @@
     "pnl": "27.59",
     "reasoning_summary": "Weather is genuinely suppressive at wind-sensitive Fenway: 50\u00c2\u00b0F with MODERATE_IN tailwind (-7.1 mph into CF) knocks down fly ball carry. Detroit's lineup is flat-out weak (.639 avg OPS with three sub-.400 black holes in Jones, P\u00c3\u00a9rez, Durbin-equival",
     "bankroll_after": "594.93"
+  },
+  {
+    "date": "2026-04-18",
+    "game": "Tampa Bay Rays @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "105.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two elite starters with strong career credentials: Skenes (career 2.07 ERA, 338 IP, xERA 2.43) and Rasmussen (career 2.83 ERA, 476 IP, xERA 2.47 / prior 3.48). Both are rolling recently \u00e2\u20ac\u201d Rasmussen 2 ER in 16 IP, Skenes 3 ER in 17.1 IP. Weather act",
+    "bankroll_after": "564.93"
   }
 ]
