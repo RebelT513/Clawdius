@@ -1454,5 +1454,21 @@
     "pnl": "24.55",
     "reasoning_summary": "Philadelphia's posted lineup averages just .639 OPS with three sub-.500 OPS bats in the bottom third (Bohm .414, Stott .493, March\u00c3\u00a1n .257) \u00e2\u20ac\u201d essentially three automatic outs against Holmes (career 3.78 ERA over 205 IP, current xERA 3.16). Painter'",
     "bankroll_after": "505.48"
+  },
+  {
+    "date": "2026-04-20",
+    "game": "Los Angeles Dodgers @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o12",
+    "odds": "-104.0",
+    "line": "12.0",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Coors Field (5,200 ft) with Jose Quintana \u00e2\u20ac\u201d his prior-year xERA was 5.20 over a full season, and he's opened this year with a 9.0 BB/9 rate (4 walks in his last start, 4 the start before). That's a pitcher trending worse entering the hardest park t",
+    "bankroll_after": "574.72"
   }
 ]
