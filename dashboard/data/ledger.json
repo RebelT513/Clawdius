@@ -1466,9 +1466,9 @@
     "units": "1",
     "stake_usd": "30.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "29.04",
     "reasoning_summary": "Coors Field (5,200 ft) with Jose Quintana \u00e2\u20ac\u201d his prior-year xERA was 5.20 over a full season, and he's opened this year with a 9.0 BB/9 rate (4 walks in his last start, 4 the start before). That's a pitcher trending worse entering the hardest park t",
-    "bankroll_after": "574.72"
+    "bankroll_after": "633.76"
   }
 ]
