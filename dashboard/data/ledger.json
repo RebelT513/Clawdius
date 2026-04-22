@@ -1486,5 +1486,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch on career data: Ashcraft career 2.63 ERA/1.20 WHIP over 92 IP with prior-year xERA 3.43, versus Leiter career 4.81 ERA/1.37 WHIP over 207 IP with prior-year xERA 4.45 \u00e2\u20ac\u201d a ~2.00 ERA gap across reliable samples. Both pitchers' curre",
     "bankroll_after": "601.76"
+  },
+  {
+    "date": "2026-04-22",
+    "game": "Athletics @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-115.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "32.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Gilbert is a clear top-tier SP \u00e2\u20ac\u201d career 3.59 ERA over 864 IP, current-year xERA 3.08 matching prior-year 3.09, 9.9 K/9 with elite command (1.6 BB/9). He draws a Seattle home lineup that is historically weak through four spots (Crawford .639, Raleig",
+    "bankroll_after": "569.76"
   }
 ]
