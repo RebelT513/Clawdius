@@ -1502,5 +1502,21 @@
     "pnl": "-32.0",
     "reasoning_summary": "Gilbert is a clear top-tier SP \u00e2\u20ac\u201d career 3.59 ERA over 864 IP, current-year xERA 3.08 matching prior-year 3.09, 9.9 K/9 with elite command (1.6 BB/9). He draws a Seattle home lineup that is historically weak through four spots (Crawford .639, Raleig",
     "bankroll_after": "569.76"
+  },
+  {
+    "date": "2026-04-23",
+    "game": "Philadelphia Phillies @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9.5",
+    "odds": "-103.0",
+    "line": "9.5",
+    "units": "1",
+    "stake_usd": "31.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Wrigley with a 16 mph tailwind to CF (+14.5) is a physics-driven over environment; the market moved the total only 0.5 (9 to 9.5), so the wind signal is not fully priced. Cabrera's career profile (3.98 ERA, 4.4 BB/9, 4.22 xERA) is hittable and walk-p",
+    "bankroll_after": "598.35"
   }
 ]
