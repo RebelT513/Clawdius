@@ -1534,5 +1534,21 @@
     "pnl": "26.25",
     "reasoning_summary": "Glasnow (career 3.72, current xERA 2.60, prior-year xERA 3.33) faces a Giants lineup averaging .655 OPS with Devers (.605), Bailey (.429), and no lefty bats to exploit anything \u00e2\u20ac\u201d this side of the total should produce 1-2 runs. Webb's current 5.10 E",
     "bankroll_after": "624.6"
+  },
+  {
+    "date": "2026-04-24",
+    "game": "Cleveland Guardians @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "-122.0",
+    "line": "-125.0",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Genuine SP edge to Cleveland. Williams has real improvement signal \u00e2\u20ac\u201d prior-year xERA 4.30 and career 3.42 ERA over 355 IP, with current form trending further up (three quality starts). Scherzer, despite HOF career, shows legitimate late-career decl",
+    "bankroll_after": "651.88"
   }
 ]
