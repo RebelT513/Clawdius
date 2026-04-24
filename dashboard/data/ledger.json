@@ -1514,10 +1514,10 @@
     "units": "1",
     "stake_usd": "31.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "30.28",
     "reasoning_summary": "Wrigley with a 16 mph tailwind to CF (+14.5) is a physics-driven over environment; the market moved the total only 0.5 (9 to 9.5), so the wind signal is not fully priced. Cabrera's career profile (3.98 ERA, 4.4 BB/9, 4.22 xERA) is hittable and walk-p",
-    "bankroll_after": "598.35"
+    "bankroll_after": "659.63"
   },
   {
     "date": "2026-04-23",
@@ -1530,9 +1530,9 @@
     "units": "1",
     "stake_usd": "31.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "26.25",
     "reasoning_summary": "Glasnow (career 3.72, current xERA 2.60, prior-year xERA 3.33) faces a Giants lineup averaging .655 OPS with Devers (.605), Bailey (.429), and no lefty bats to exploit anything \u00e2\u20ac\u201d this side of the total should produce 1-2 runs. Webb's current 5.10 E",
-    "bankroll_after": "567.35"
+    "bankroll_after": "624.6"
   }
 ]
