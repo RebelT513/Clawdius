@@ -1550,5 +1550,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Genuine SP edge to Cleveland. Williams has real improvement signal \u00e2\u20ac\u201d prior-year xERA 4.30 and career 3.42 ERA over 355 IP, with current form trending further up (three quality starts). Scherzer, despite HOF career, shows legitimate late-career decl",
     "bankroll_after": "651.88"
+  },
+  {
+    "date": "2026-04-24",
+    "game": "Miami Marlins @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-106.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Extreme cold (32\u00c2\u00b0F) at Oracle Park is the dominant signal \u00e2\u20ac\u201d one of MLB's most pitcher-friendly parks combined with weather that significantly suppresses ball flight and exit velocity. Alcantara's career profile (3.62 ERA over 1110 IP, current xERA",
+    "bankroll_after": "617.88"
   }
 ]
