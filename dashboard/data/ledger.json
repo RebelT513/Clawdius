@@ -1614,5 +1614,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Career data favors Ginn (4.68 ERA / 1.31 WHIP over 146 IP) over Rocker (5.03 ERA / 1.44 WHIP over 96 IP, with prior-year xERA 5.73 \u00e2\u20ac\u201d a real red flag), while current-year xERA gaps are noise at ~85 PA each. The Rangers bullpen is heavily taxed with ",
     "bankroll_after": "580.97"
+  },
+  {
+    "date": "2026-04-26",
+    "game": "Colorado Rockies @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Mets",
+    "odds": "-175.0",
+    "line": "-179.0",
+    "units": "1",
+    "stake_usd": "31.0",
+    "confidence_score": "67",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "McLean is pitching at an elite level (career 2.30 ERA, current xERA 1.95 over a meaningful 114 PA sample, 0.76 WHIP, 11.3 K/9) and gets a Rockies lineup averaging .704 OPS with weak bottom of order. Quintana counters with a horrid current profile \u00e2\u20ac\u201d",
+    "bankroll_after": "549.97"
   }
 ]
