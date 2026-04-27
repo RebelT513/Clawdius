@@ -1646,5 +1646,21 @@
     "pnl": "29.74",
     "reasoning_summary": "McLean is genuinely elite \u00e2\u20ac\u201d career 2.30 ERA, current 1.95 xERA over 114 PA, K/9 above 11, and a recent 3-start line of 1-2-3 ER \u00e2\u20ac\u201d and he's facing a Mets-side lineup posted at .576 OPS that won't give up many over-side runs against him either. Qui",
     "bankroll_after": "579.71"
+  },
+  {
+    "date": "2026-04-27",
+    "game": "St. Louis Cardinals @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "105.0",
+    "line": "104.0",
+    "units": "1",
+    "stake_usd": "32.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Pittsburgh is throwing a bullpen game \u00e2\u20ac\u201d Mason Montgomery's 1.0 IP in his most recent 'start' and his appearance in the taxed-reliever list confirm he's an opener, not a starter. Behind him, PIT's pen is heavily taxed (Mlodzinski 81 pitches and Sand",
+    "bankroll_after": "610.7"
   }
 ]
