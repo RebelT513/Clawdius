@@ -2810,9 +2810,9 @@
     "units": "1",
     "stake_usd": "38.0",
     "confidence_score": "59",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "31.94",
     "reasoning_summary": "deGrom (career 2.62 ERA, prior-year xERA 3.36, elite K-BB) substantially outclasses McGreevy, whose 2.98 ERA masks a 5.64 xERA and .368 xwOBA \u00e2\u20ac\u201d poor contact quality that signals regression. The market priced Texas at only -124 by anchoring on McGre",
-    "bankroll_after": "724.02"
+    "bankroll_after": "793.96"
   }
 ]
