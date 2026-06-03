@@ -2830,5 +2830,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Gausman is the more reliable, higher-quality starter \u00e2\u20ac\u201d career 3.79 ERA over 1980 IP, xERA 3.45, excellent current form and elite walk control \u00e2\u20ac\u201d while Elder is a career 4.28-ERA back-end arm whose 2.50 ERA is unsupported by his career profile and ",
     "bankroll_after": "753.96"
+  },
+  {
+    "date": "2026-06-02",
+    "game": "New York Mets @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Seattle Mariners",
+    "odds": "-147.0",
+    "line": "-143.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Structural mismatch favors Seattle: Logan Gilbert is a reliable, durable starter (career 3.59 ERA over 903 IP, two scoreless outings in his last three) who carries the first 5-6 innings himself, while the Mets are running Brazob\u00c3\u00a1n as a 1-inning open",
+    "bankroll_after": "713.96"
   }
 ]
