@@ -2826,8 +2826,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Gausman is the more reliable, higher-quality starter \u00e2\u20ac\u201d career 3.79 ERA over 1980 IP, xERA 3.45, excellent current form and elite walk control \u00e2\u20ac\u201d while Elder is a career 4.28-ERA back-end arm whose 2.50 ERA is unsupported by his career profile and ",
     "bankroll_after": "753.96"
   },
