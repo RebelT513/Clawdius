@@ -2862,5 +2862,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: S\u00c3\u00a1nchez is a genuine ace (career 3.01 ERA, current 2.91 xERA confirming the 1.47 ERA is largely real, 10.8 K/9) and just threw 7 shutout innings against this same San Diego lineup a week ago, while Buehler has been m",
     "bankroll_after": "742.35"
+  },
+  {
+    "date": "2026-06-03",
+    "game": "Colorado Rockies @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Los Angeles Angels -1.5",
+    "odds": "132.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "39.0",
+    "confidence_score": "46",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear, reliable SP mismatch: Ure\u00c3\u00b1a (xERA 3.30, xwOBA .289, 1/1/0 ER last three) versus a Lorenzen who is genuinely getting hit (7.22 ERA, 1.90 WHIP, 5.88 xERA confirming it's not luck). Angels ML -157 is real but ~62% true vs ~61% implied \u00e2\u20ac\u201d the ed",
+    "bankroll_after": "703.35"
   }
 ]
