@@ -2842,9 +2842,9 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "27.39",
     "reasoning_summary": "Structural mismatch favors Seattle: Logan Gilbert is a reliable, durable starter (career 3.59 ERA over 903 IP, two scoreless outings in his last three) who carries the first 5-6 innings himself, while the Mets are running Brazob\u00c3\u00a1n as a 1-inning open",
-    "bankroll_after": "713.96"
+    "bankroll_after": "781.35"
   }
 ]
