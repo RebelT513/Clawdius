@@ -2874,10 +2874,10 @@
     "units": "1",
     "stake_usd": "39.0",
     "confidence_score": "46",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "51.81",
     "reasoning_summary": "Clear, reliable SP mismatch: Ure\u00c3\u00b1a (xERA 3.30, xwOBA .289, 1/1/0 ER last three) versus a Lorenzen who is genuinely getting hit (7.22 ERA, 1.90 WHIP, 5.88 xERA confirming it's not luck). Angels ML -157 is real but ~62% true vs ~61% implied \u00e2\u20ac\u201d the ed",
-    "bankroll_after": "703.35"
+    "bankroll_after": "794.16"
   },
   {
     "date": "2026-06-03",
@@ -2893,6 +2893,6 @@
     "result": "win",
     "pnl": "44.26",
     "reasoning_summary": "The Athletics carry the clear starting-pitcher edge yet sit as underdogs: Springs (career 3.69 ERA / 3.87 xERA / .311 xwOBA over 551 IP) is materially better than Rea (career 4.44 ERA / 5.14 current xERA / .353 xwOBA), who profiles as hittable. The m",
-    "bankroll_after": "747.61"
+    "bankroll_after": "838.42"
   }
 ]
