@@ -2894,5 +2894,21 @@
     "pnl": "44.26",
     "reasoning_summary": "The Athletics carry the clear starting-pitcher edge yet sit as underdogs: Springs (career 3.69 ERA / 3.87 xERA / .311 xwOBA over 551 IP) is materially better than Rea (career 4.44 ERA / 5.14 current xERA / .353 xwOBA), who profiles as hittable. The m",
     "bankroll_after": "838.42"
+  },
+  {
+    "date": "2026-06-04",
+    "game": "San Diego Padres @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Philadelphia Phillies -1.5",
+    "odds": "-106.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "42.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large SP mismatch: Wheeler is elite with reliable data (2.27 ERA, 3.19 xERA, 0.85 WHIP) while Giolito is wild and ineffective (4.97 ERA, 8.5 BB/9, 1.74 WHIP). SD's weak .650-OPS all-RHB lineup should be smothered to 0-1 runs, while PHI draws walks an",
+    "bankroll_after": "796.42"
   }
 ]
