@@ -2922,10 +2922,10 @@
     "units": "1",
     "stake_usd": "42.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "44.51",
     "reasoning_summary": "Bello is the clearly worse starter on predictive metrics (xERA 5.98, xwOBA .376, prior-year xERA 4.48 and three straight blowups), while Rogers carries the better career profile (4.08 ERA over 568 IP, prior-year xERA 3.41). Baltimore also has the str",
-    "bankroll_after": "836.36"
+    "bankroll_after": "922.87"
   },
   {
     "date": "2026-06-04",
@@ -2938,8 +2938,8 @@
     "units": "1",
     "stake_usd": "42.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-42.0",
     "reasoning_summary": "Two struggling starters anchor this over: Bello carries a 5.98 xERA and .376 xwOBA with three recent blowup starts, and Rogers despite a decent career profile is in poor current form. Both lineups are competent (BAL .741 OPS, BOS .716), clearing the ",
     "bankroll_after": "794.36"
   }
