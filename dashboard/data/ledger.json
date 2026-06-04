@@ -2890,9 +2890,9 @@
     "units": "1",
     "stake_usd": "39.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "44.26",
     "reasoning_summary": "The Athletics carry the clear starting-pitcher edge yet sit as underdogs: Springs (career 3.69 ERA / 3.87 xERA / .311 xwOBA over 551 IP) is materially better than Rea (career 4.44 ERA / 5.14 current xERA / .353 xwOBA), who profiles as hittable. The m",
-    "bankroll_after": "664.35"
+    "bankroll_after": "747.61"
   }
 ]
