@@ -2858,8 +2858,8 @@
     "units": "1",
     "stake_usd": "39.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-39.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: S\u00c3\u00a1nchez is a genuine ace (career 3.01 ERA, current 2.91 xERA confirming the 1.47 ERA is largely real, 10.8 K/9) and just threw 7 shutout innings against this same San Diego lineup a week ago, while Buehler has been m",
     "bankroll_after": "742.35"
   },
