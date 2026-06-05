@@ -2958,5 +2958,21 @@
     "pnl": "42.21",
     "reasoning_summary": "Strong 14 mph tailwind out at Wrigley combines with two starters who cannot finish five innings \u00e2\u20ac\u201d Ray has gone exactly 4 IP in three straight starts (9 ER, then 7 BB) with a 5.19 xERA, and Cabrera's recent outings are equally short. Both bullpens h",
     "bankroll_after": "923.08"
+  },
+  {
+    "date": "2026-06-05",
+    "game": "New York Mets @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7",
+    "odds": "102.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "46.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Petco is a strong pitcher's park and both lineups are below average \u00e2\u20ac\u201d Mets average .700 OPS (Soto/Young carry it, the rest is .58\u00e2\u20ac\u201c.63) and the Padres are a genuinely weak .638 (Machado .174 AVG, Song/Dur\u00c3\u00a1n sub-.500 OPS). Two offenses with roughl",
+    "bankroll_after": "877.08"
   }
 ]
