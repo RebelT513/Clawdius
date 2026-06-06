@@ -2970,9 +2970,9 @@
     "units": "1",
     "stake_usd": "46.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "46.98",
     "reasoning_summary": "Petco is a strong pitcher's park and both lineups are below average \u00e2\u20ac\u201d Mets average .700 OPS (Soto/Young carry it, the rest is .58\u00e2\u20ac\u201c.63) and the Padres are a genuinely weak .638 (Machado .174 AVG, Song/Dur\u00c3\u00a1n sub-.500 OPS). Two offenses with roughl",
-    "bankroll_after": "877.08"
+    "bankroll_after": "970.06"
   }
 ]
