@@ -3002,8 +3002,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "59",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "Clean starting-pitcher mismatch: McClanahan carries elite, reliable career data (2.96 ERA / 1.09 WHIP over 459 IP, 2.45 ERA this year) against Bachar, who is competent but a clear tier down (3.79 career ERA, only 111 career IP, single recent start). ",
     "bankroll_after": "872.06"
   }
