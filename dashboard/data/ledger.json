@@ -2986,8 +2986,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "Pittsburgh holds both edges yet is priced as a near-pickem underdog. Ashcraft is the more reliable starter on real data (career 2.74 ERA over 144 IP, 2.78 xERA, and dominant recent form: 19 ER-suppressing innings with 25 K in his last three), while S",
     "bankroll_after": "921.06"
   },
