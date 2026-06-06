@@ -2974,5 +2974,21 @@
     "pnl": "46.98",
     "reasoning_summary": "Petco is a strong pitcher's park and both lineups are below average \u00e2\u20ac\u201d Mets average .700 OPS (Soto/Young carry it, the rest is .58\u00e2\u20ac\u201c.63) and the Padres are a genuinely weak .638 (Machado .174 AVG, Song/Dur\u00c3\u00a1n sub-.500 OPS). Two offenses with roughl",
     "bankroll_after": "970.06"
+  },
+  {
+    "date": "2026-06-06",
+    "game": "Pittsburgh Pirates @ Atlanta Braves",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-104.0",
+    "line": "-104.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Pittsburgh holds both edges yet is priced as a near-pickem underdog. Ashcraft is the more reliable starter on real data (career 2.74 ERA over 144 IP, 2.78 xERA, and dominant recent form: 19 ER-suppressing innings with 25 K in his last three), while S",
+    "bankroll_after": "921.06"
   }
 ]
