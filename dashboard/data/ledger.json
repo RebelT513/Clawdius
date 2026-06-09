@@ -3038,5 +3038,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large, clean starting-pitcher mismatch: Burns is elite (career 3.01 ERA, 2.89 xERA, double-digit K/9, 70 IP reliable sample) while Giolito is a below-average arm walking 7/9 with a 5.14 xERA and 1.74 WHIP \u00e2\u20ac\u201d and his prior-year xERA (5.06) confirms i",
     "bankroll_after": "876.0"
+  },
+  {
+    "date": "2026-06-09",
+    "game": "Boston Red Sox @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Boston Red Sox",
+    "odds": "-113.0",
+    "line": "-117.0",
+    "units": "1",
+    "stake_usd": "46.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Tolle meaningfully outclasses Martinez: 2.32 xERA / 0.242 xwOBA over a now-reliable 187 PA sample versus Martinez's regression-prone 4.53 xERA / 0.333 xwOBA despite a lucky 2.29 ERA on a 1010-IP league-average career baseline. Tampa carries four taxe",
+    "bankroll_after": "830.0"
   }
 ]
