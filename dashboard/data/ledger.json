@@ -3022,5 +3022,21 @@
     "pnl": "49.94",
     "reasoning_summary": "San Francisco holds both the pitching and lineup edge yet is priced as a plus-money road dog. McDonald carries a prior-year xERA of 3.21 and current 3.84/.309 xwOBA, while Taillon's poor year is earned, not luck \u00e2\u20ac\u201d his 5.24 xERA and .355 xwOBA come ",
     "bankroll_after": "921.99"
+  },
+  {
+    "date": "2026-06-09",
+    "game": "Cincinnati Reds @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cincinnati Reds",
+    "odds": "-116.0",
+    "line": "-119.0",
+    "units": "1",
+    "stake_usd": "46.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, clean starting-pitcher mismatch: Burns is elite (career 3.01 ERA, 2.89 xERA, double-digit K/9, 70 IP reliable sample) while Giolito is a below-average arm walking 7/9 with a 5.14 xERA and 1.74 WHIP \u00e2\u20ac\u201d and his prior-year xERA (5.06) confirms i",
+    "bankroll_after": "876.0"
   }
 ]
