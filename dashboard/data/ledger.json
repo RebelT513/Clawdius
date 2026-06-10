@@ -3066,10 +3066,10 @@
     "units": "1",
     "stake_usd": "46.0",
     "confidence_score": "47",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "67.22",
     "reasoning_summary": "Large, real SP mismatch: Rasmussen (career 2.91 ERA over 526 IP, 3.05 xERA, 8.7 K/9) heavily outclasses Bennett (10 career IP, 5.60 xERA, 3.5 K/9, 3.5 BB/9). The full-game ML (-150) and 1H ML (-168) are both eaten by juice and Heritage's markup, and ",
-    "bankroll_after": "869.71"
+    "bankroll_after": "982.93"
   },
   {
     "date": "2026-06-10",
@@ -3085,6 +3085,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: Luzardo carries a 3.48 xERA (prior-year 3.33, .295 xwOBA) and is a solid mid-rotation arm, while Scherzer at 41 has been knocked out before the 3rd inning in two of his last three starts (7 ER and 8 ER), with a curren",
-    "bankroll_after": "823.71"
+    "bankroll_after": "936.93"
   }
 ]
