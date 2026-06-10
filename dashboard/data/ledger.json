@@ -3054,5 +3054,21 @@
     "pnl": "-46.0",
     "reasoning_summary": "Tolle meaningfully outclasses Martinez: 2.32 xERA / 0.242 xwOBA over a now-reliable 187 PA sample versus Martinez's regression-prone 4.53 xERA / 0.333 xwOBA despite a lucky 2.29 ERA on a 1010-IP league-average career baseline. Tampa carries four taxe",
     "bankroll_after": "915.71"
+  },
+  {
+    "date": "2026-06-10",
+    "game": "Boston Red Sox @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Tampa Bay Rays -1.5",
+    "odds": "146.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "46.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, real SP mismatch: Rasmussen (career 2.91 ERA over 526 IP, 3.05 xERA, 8.7 K/9) heavily outclasses Bennett (10 career IP, 5.60 xERA, 3.5 K/9, 3.5 BB/9). The full-game ML (-150) and 1H ML (-168) are both eaten by juice and Heritage's markup, and ",
+    "bankroll_after": "869.71"
   }
 ]
