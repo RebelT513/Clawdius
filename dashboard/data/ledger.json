@@ -3086,5 +3086,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: Luzardo carries a 3.48 xERA (prior-year 3.33, .295 xwOBA) and is a solid mid-rotation arm, while Scherzer at 41 has been knocked out before the 3rd inning in two of his last three starts (7 ER and 8 ER), with a curren",
     "bankroll_after": "936.93"
+  },
+  {
+    "date": "2026-06-10",
+    "game": "St. Louis Cardinals @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "117.0",
+    "line": "118.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Austin Warren's shiny 2.01 ERA is luck-driven \u00e2\u20ac\u201d his xERA (4.01 this year, 4.36 prior) pegs him as a ~4.00 arm over a thin 80-IP career sample (last start just 1.0 IP), comparable to or worse than Pallante (3.84 xERA, career 4.28 over 523 IP). The M",
+    "bankroll_after": "887.93"
   }
 ]
