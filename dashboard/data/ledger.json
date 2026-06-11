@@ -3102,5 +3102,21 @@
     "pnl": "57.45",
     "reasoning_summary": "Austin Warren's shiny 2.01 ERA is luck-driven \u00e2\u20ac\u201d his xERA (4.01 this year, 4.36 prior) pegs him as a ~4.00 arm over a thin 80-IP career sample (last start just 1.0 IP), comparable to or worse than Pallante (3.84 xERA, career 4.28 over 523 IP). The M",
     "bankroll_after": "1072.11"
+  },
+  {
+    "date": "2026-06-11",
+    "game": "Texas Rangers @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o10.5",
+    "odds": "-105.0",
+    "line": "10.5",
+    "units": "1",
+    "stake_usd": "54.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong-out wind (+20 mph tailwind to CF) plus a heavily taxed Kansas City bullpen (five relievers with 2+ appearances in three days) sets up late-inning run leakage behind a starter who has gone only 5-5.2 IP recently. Both starters carry xERA above ",
+    "bankroll_after": "1018.1099999999999"
   }
 ]
