@@ -3114,9 +3114,9 @@
     "units": "1",
     "stake_usd": "54.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-54.0",
     "reasoning_summary": "Strong-out wind (+20 mph tailwind to CF) plus a heavily taxed Kansas City bullpen (five relievers with 2+ appearances in three days) sets up late-inning run leakage behind a starter who has gone only 5-5.2 IP recently. Both starters carry xERA above ",
-    "bankroll_after": "1018.1099999999999"
+    "bankroll_after": "1018.11"
   }
 ]
