@@ -3130,9 +3130,9 @@
     "units": "1",
     "stake_usd": "51.0",
     "confidence_score": "55",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Strong weather suppression (23mph wind moderate-in, moderate rain, 65\u00c2\u00b0F) combines with a genuinely weak Braves lineup (0.641 avg OPS, dead bottom third) to push toward the under. P\u00c3\u00a9rez has limited runs in three straight starts, and the wind blunts ",
-    "bankroll_after": "967.11"
+    "bankroll_after": "1069.11"
   }
 ]
