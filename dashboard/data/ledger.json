@@ -3166,5 +3166,21 @@
     "pnl": "0.0",
     "reasoning_summary": "deGrom (career 2.60 ERA/1610 IP, 10.8 K/9, three strong recent starts) is a clearly superior pitcher to a declining Suarez (career 3.36, 4 ER and 5 ER in two of his last three). The market has Boston favored almost entirely on Fenway home field; at n",
     "bankroll_after": "1009.48"
+  },
+  {
+    "date": "2026-06-13",
+    "game": "Detroit Tigers @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "-133.0",
+    "line": "-136.0",
+    "units": "1",
+    "stake_usd": "53.0",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Decisive SP mismatch: Skubal is elite on career data (3.06 ERA/1.02 WHIP over 810 IP, prior-year xERA 2.71) facing Cantillo, who is wild (4.8 BB/9) and getting shelled (7/4/4 ER last three starts). Sharp line movement toward Detroit confirms the read",
+    "bankroll_after": "956.48"
   }
 ]
