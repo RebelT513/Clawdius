@@ -3178,8 +3178,8 @@
     "units": "1",
     "stake_usd": "53.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-53.0",
     "reasoning_summary": "Decisive SP mismatch: Skubal is elite on career data (3.06 ERA/1.02 WHIP over 810 IP, prior-year xERA 2.71) facing Cantillo, who is wild (4.8 BB/9) and getting shelled (7/4/4 ER last three starts). Sharp line movement toward Detroit confirms the read",
     "bankroll_after": "956.48"
   }
