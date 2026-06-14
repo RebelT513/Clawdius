@@ -3182,5 +3182,21 @@
     "pnl": "-53.0",
     "reasoning_summary": "Decisive SP mismatch: Skubal is elite on career data (3.06 ERA/1.02 WHIP over 810 IP, prior-year xERA 2.71) facing Cantillo, who is wild (4.8 BB/9) and getting shelled (7/4/4 ER last three starts). Sharp line movement toward Detroit confirms the read",
     "bankroll_after": "956.48"
+  },
+  {
+    "date": "2026-06-14",
+    "game": "Texas Rangers @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-113.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong tailwind out to center (+15 mph) at Fenway is a genuine physical over signal, and both starters profile as hittable on contact quality \u00e2\u20ac\u201d Eovaldi carries a 4.63 current-year xERA and has allowed 4-5 ER in each of his last three starts, while ",
+    "bankroll_after": "908.48"
   }
 ]
