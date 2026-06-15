@@ -3198,5 +3198,21 @@
     "pnl": "42.51",
     "reasoning_summary": "Strong tailwind out to center (+15 mph) at Fenway is a genuine physical over signal, and both starters profile as hittable on contact quality \u00e2\u20ac\u201d Eovaldi carries a 4.63 current-year xERA and has allowed 4-5 ER in each of his last three starts, while ",
     "bankroll_after": "998.99"
+  },
+  {
+    "date": "2026-06-15",
+    "game": "Detroit Tigers @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "106.0",
+    "line": "106.0",
+    "units": "1",
+    "stake_usd": "50.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit holds the starting-pitcher edge (Melton career 2.78 ERA/1.01 WHIP and strong recent form vs Teng's 5.30 career ERA, 4.2 BB/9, and 12 ER over his last 3 starts), though xERA narrows the gap so I keep confidence modest. The decisive factor is b",
+    "bankroll_after": "948.99"
   }
 ]
