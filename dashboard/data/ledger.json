@@ -3210,9 +3210,9 @@
     "units": "1",
     "stake_usd": "50.0",
     "confidence_score": "52",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds the starting-pitcher edge (Melton career 2.78 ERA/1.01 WHIP and strong recent form vs Teng's 5.30 career ERA, 4.2 BB/9, and 12 ER over his last 3 starts), though xERA narrows the gap so I keep confidence modest. The decisive factor is b",
-    "bankroll_after": "948.99"
+    "bankroll_after": "1048.99"
   }
 ]
