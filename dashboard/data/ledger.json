@@ -3226,8 +3226,8 @@
     "units": "1",
     "stake_usd": "50.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-50.0",
     "reasoning_summary": "Two below-average starters face off \u00e2\u20ac\u201d Feltner (career 5.19 ERA over 376 IP) and Cabrera (career 4.17 ERA, walk-prone at 4.3 BB/9) \u00e2\u20ac\u201d neither projects to suppress runs. The dominant signal is a STRONG_OUT tailwind (+13.8 mph to CF) at Wrigley in 60",
     "bankroll_after": "948.99"
   },
