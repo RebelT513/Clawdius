@@ -3262,5 +3262,21 @@
     "pnl": "-50.0",
     "reasoning_summary": "The clearly superior and more reliable starter is on the underdog: Rasmussen (career 2.87 ERA/533 IP, xERA 2.90, xwOBA .269) versus Wrobleski (career 4.03 ERA, xERA 4.19 outrunning a lucky 2.95 ERA, weak 5.5 K/9) \u00e2\u20ac\u201d about a 1.3-run expected-pitching",
     "bankroll_after": "848.99"
+  },
+  {
+    "date": "2026-06-18",
+    "game": "New York Mets @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o10",
+    "odds": "-111.0",
+    "line": "10.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "STRONG_OUT wind (+17 mph tailwind to CF) at an already hitter-friendly park is the dominant signal, and it stacks with two non-suppressing starters (Nola 4.40 xERA and getting hit hard his last three starts; Manaea a mid-4 ERA arm), both bullpens tax",
+    "bankroll_after": "900.89"
   }
 ]
