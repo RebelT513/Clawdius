@@ -3278,5 +3278,21 @@
     "pnl": "0.0",
     "reasoning_summary": "STRONG_OUT wind (+17 mph tailwind to CF) at an already hitter-friendly park is the dominant signal, and it stacks with two non-suppressing starters (Nola 4.40 xERA and getting hit hard his last three starts; Manaea a mid-4 ERA arm), both bullpens tax",
     "bankroll_after": "947.89"
+  },
+  {
+    "date": "2026-06-19",
+    "game": "San Diego Padres @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Texas Rangers",
+    "odds": "-155.0",
+    "line": "-155.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear and large starting-pitcher mismatch favoring Texas: deGrom is a true ace (career 2.60 ERA/0.99 WHIP, 3.54 xERA, .296 xwOBA) facing V\u00c3\u00a1squez, who carries a 6.23 xERA and .380 xwOBA \u00e2\u20ac\u201d his 3.63 ERA is luck-driven and due for regression, meaning ",
+    "bankroll_after": "900.89"
   }
 ]
