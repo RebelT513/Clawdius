@@ -3274,9 +3274,9 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "56",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "STRONG_OUT wind (+17 mph tailwind to CF) at an already hitter-friendly park is the dominant signal, and it stacks with two non-suppressing starters (Nola 4.40 xERA and getting hit hard his last three starts; Manaea a mid-4 ERA arm), both bullpens tax",
-    "bankroll_after": "900.89"
+    "bankroll_after": "947.89"
   }
 ]
