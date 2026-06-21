@@ -3310,5 +3310,21 @@
     "pnl": "51.93",
     "reasoning_summary": "This is a value-on-the-underdog spot: the market gives Arizona home-field credit at -120, but the underlying matchup favors Minnesota. Gallen carries an elite career profile but is genuinely diminished this year over a meaningful 75+ IP sample \u00e2\u20ac\u201d K/",
     "bankroll_after": "1030.16"
+  },
+  {
+    "date": "2026-06-21",
+    "game": "Cincinnati Reds @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cincinnati Reds",
+    "odds": "-102.0",
+    "line": "-104.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear, well-documented SP talent gap: Chase Burns has a reliable career sample (2.90 career ERA, 2.93 xERA, 11.8 career K/9, 1.12 WHIP over 124 IP) and is pitching well this year, while Elmer Rodr\u00c3\u00adguez is a 13-IP arm with alarming peripherals \u00e2\u20ac\u201d 4.",
+    "bankroll_after": "978.1600000000001"
   }
 ]
