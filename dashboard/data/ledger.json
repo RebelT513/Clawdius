@@ -3306,9 +3306,9 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "51.93",
     "reasoning_summary": "This is a value-on-the-underdog spot: the market gives Arizona home-field credit at -120, but the underlying matchup favors Minnesota. Gallen carries an elite career profile but is genuinely diminished this year over a meaningful 75+ IP sample \u00e2\u20ac\u201d K/",
-    "bankroll_after": "929.23"
+    "bankroll_after": "1030.16"
   }
 ]
