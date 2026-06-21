@@ -3358,5 +3358,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear and reliable starting-pitcher edge to the Angels: Detmers has 88 IP of strong current-year data (2.79 xERA, 0.263 xwOBA, 10.2 K/9) and is dominant in his last three (20 IP, 1 ER, 18 K), while Perkins is running a 6.15 ERA, not finishing five in",
     "bankroll_after": "874.16"
+  },
+  {
+    "date": "2026-06-21",
+    "game": "Boston Red Sox @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u6.5",
+    "odds": "-103.0",
+    "line": "6.5",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters are quality arms with strong contact suppression: Gilbert is an established 3.56-career-ERA strikeout pitcher (xwOBA .313, recent form excellent) and Tolle is pitching to a 2.67 xERA / .257 xwOBA. Both lineups are genuinely weak \u00e2\u20ac\u201d Bos",
+    "bankroll_after": "822.16"
   }
 ]
