@@ -3326,5 +3326,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear, well-documented SP talent gap: Chase Burns has a reliable career sample (2.90 career ERA, 2.93 xERA, 11.8 career K/9, 1.12 WHIP over 124 IP) and is pitching well this year, while Elmer Rodr\u00c3\u00adguez is a 13-IP arm with alarming peripherals \u00e2\u20ac\u201d 4.",
     "bankroll_after": "978.1600000000001"
+  },
+  {
+    "date": "2026-06-21",
+    "game": "San Francisco Giants @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Francisco Giants",
+    "odds": "-139.0",
+    "line": "-144.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "63",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, reliable SP mismatch: Webb (career 3.39 ERA / 1137 IP, xERA 3.73, last 3 starts 23 IP / 1 ER) is dominant while Gusto is a back-end arm getting hit (career 5.85 ERA, current 7.24, xERA 6.49, two of last three starts \u00e2\u2030\u00a44.2 IP with 5 and 3 ER).",
+    "bankroll_after": "926.16"
   }
 ]
