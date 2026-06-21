@@ -3322,10 +3322,10 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "51.31",
     "reasoning_summary": "Clear, well-documented SP talent gap: Chase Burns has a reliable career sample (2.90 career ERA, 2.93 xERA, 11.8 career K/9, 1.12 WHIP over 124 IP) and is pitching well this year, while Elmer Rodr\u00c3\u00adguez is a 13-IP arm with alarming peripherals \u00e2\u20ac\u201d 4.",
-    "bankroll_after": "978.1600000000001"
+    "bankroll_after": "1081.47"
   },
   {
     "date": "2026-06-21",
@@ -3341,7 +3341,7 @@
     "result": "loss",
     "pnl": "-52.0",
     "reasoning_summary": "Large, reliable SP mismatch: Webb (career 3.39 ERA / 1137 IP, xERA 3.73, last 3 starts 23 IP / 1 ER) is dominant while Gusto is a back-end arm getting hit (career 5.85 ERA, current 7.24, xERA 6.49, two of last three starts \u00e2\u2030\u00a44.2 IP with 5 and 3 ER).",
-    "bankroll_after": "926.16"
+    "bankroll_after": "1029.47"
   },
   {
     "date": "2026-06-21",
@@ -3357,7 +3357,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear and reliable starting-pitcher edge to the Angels: Detmers has 88 IP of strong current-year data (2.79 xERA, 0.263 xwOBA, 10.2 K/9) and is dominant in his last three (20 IP, 1 ER, 18 K), while Perkins is running a 6.15 ERA, not finishing five in",
-    "bankroll_after": "874.16"
+    "bankroll_after": "977.47"
   },
   {
     "date": "2026-06-21",
@@ -3373,6 +3373,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters are quality arms with strong contact suppression: Gilbert is an established 3.56-career-ERA strikeout pitcher (xwOBA .313, recent form excellent) and Tolle is pitching to a 2.67 xERA / .257 xwOBA. Both lineups are genuinely weak \u00e2\u20ac\u201d Bos",
-    "bankroll_after": "822.16"
+    "bankroll_after": "925.47"
   }
 ]
