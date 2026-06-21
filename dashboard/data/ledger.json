@@ -3374,5 +3374,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are quality arms with strong contact suppression: Gilbert is an established 3.56-career-ERA strikeout pitcher (xwOBA .313, recent form excellent) and Tolle is pitching to a 2.67 xERA / .257 xwOBA. Both lineups are genuinely weak \u00e2\u20ac\u201d Bos",
     "bankroll_after": "925.47"
+  },
+  {
+    "date": "2026-06-21",
+    "game": "New York Mets @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Philadelphia Phillies -1.5",
+    "odds": "115.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "51.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear, data-backed SP mismatch: Wheeler is elite and reliable (career 3.24 ERA / 3.04 xERA over 1791 IP, prior-year xERA 2.49) while Peterson is hittable (career 4.29 ERA, 4.82 xERA, 1.63 WHIP). The weak Mets lineup (.704 OPS, only Soto a threat) fac",
+    "bankroll_after": "874.47"
   }
 ]
