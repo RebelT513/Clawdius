@@ -3294,5 +3294,21 @@
     "pnl": "30.34",
     "reasoning_summary": "Clear and large starting-pitcher mismatch favoring Texas: deGrom is a true ace (career 2.60 ERA/0.99 WHIP, 3.54 xERA, .296 xwOBA) facing V\u00c3\u00a1squez, who carries a 6.23 xERA and .380 xwOBA \u00e2\u20ac\u201d his 3.63 ERA is luck-driven and due for regression, meaning ",
     "bankroll_after": "978.23"
+  },
+  {
+    "date": "2026-06-20",
+    "game": "Minnesota Twins @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "105.0",
+    "line": "102.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a value-on-the-underdog spot: the market gives Arizona home-field credit at -120, but the underlying matchup favors Minnesota. Gallen carries an elite career profile but is genuinely diminished this year over a meaningful 75+ IP sample \u00e2\u20ac\u201d K/",
+    "bankroll_after": "929.23"
   }
 ]
