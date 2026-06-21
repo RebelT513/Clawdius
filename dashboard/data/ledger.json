@@ -3342,5 +3342,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large, reliable SP mismatch: Webb (career 3.39 ERA / 1137 IP, xERA 3.73, last 3 starts 23 IP / 1 ER) is dominant while Gusto is a back-end arm getting hit (career 5.85 ERA, current 7.24, xERA 6.49, two of last three starts \u00e2\u2030\u00a44.2 IP with 5 and 3 ER).",
     "bankroll_after": "926.16"
+  },
+  {
+    "date": "2026-06-21",
+    "game": "Los Angeles Angels @ Athletics",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Angels",
+    "odds": "115.0",
+    "line": "112.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear and reliable starting-pitcher edge to the Angels: Detmers has 88 IP of strong current-year data (2.79 xERA, 0.263 xwOBA, 10.2 K/9) and is dominant in his last three (20 IP, 1 ER, 18 K), while Perkins is running a 6.15 ERA, not finishing five in",
+    "bankroll_after": "874.16"
   }
 ]
