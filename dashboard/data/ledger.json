@@ -3386,9 +3386,9 @@
     "units": "1",
     "stake_usd": "51.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "59.05",
     "reasoning_summary": "Clear, data-backed SP mismatch: Wheeler is elite and reliable (career 3.24 ERA / 3.04 xERA over 1791 IP, prior-year xERA 2.49) while Peterson is hittable (career 4.29 ERA, 4.82 xERA, 1.63 WHIP). The weak Mets lineup (.704 OPS, only Soto a threat) fac",
-    "bankroll_after": "977.29"
+    "bankroll_after": "1087.34"
   }
 ]
