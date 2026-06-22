@@ -13,7 +13,7 @@
     "result": "win",
     "pnl": "10.98",
     "reasoning_summary": "Only game with confirmed lineups on Day 1. NYY elite lineup (Goldschmidt/Judge/Bellinger/Stanton) vs unknown SP Schlittler. Robbie Ray returning from TJS for SF. Market at -128 underprices NYY lineup advantage. Oracle Park, no adverse line movement.",
-    "bankroll_after": "496.72"
+    "bankroll_after": "511.96"
   },
   {
     "date": "2026-03-27",
@@ -29,7 +29,7 @@
     "result": "loss",
     "pnl": "-15.0",
     "reasoning_summary": "Pinnacle line discrepancy: sharp books at 9.0 while Heritage still posted 8.5. Kikuchi vs Burrows in Minute Maid Park. ~2-3% implied probability edge vs Heritage price.",
-    "bankroll_after": "496.72"
+    "bankroll_after": "496.96"
   },
   {
     "date": "2026-03-28",
@@ -45,7 +45,7 @@
     "result": "win",
     "pnl": "12.57",
     "reasoning_summary": "13mph NNW wind in at Camden Yards, 37F. Bradish vs Bradley. Cold/wind-in strongly suppresses offense.",
-    "bankroll_after": "510.16"
+    "bankroll_after": "509.53"
   },
   {
     "date": "2026-03-28",
@@ -61,7 +61,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "12mph NNW wind in at Citizens Bank Park, 35F. deGrom vs Nola ace matchup. Wind-in neutralizes CBP. BET VOIDED \u00e2\u20ac\u201d deGrom scratched pregame.",
-    "bankroll_after": "482.72"
+    "bankroll_after": "509.53"
   },
   {
     "date": "2026-03-28",
@@ -77,7 +77,7 @@
     "result": "win",
     "pnl": "11.37",
     "reasoning_summary": "14mph NNW wind in at Citi Field, 32F. Keller vs Peterson. Strongest wind-in signal on the board.",
-    "bankroll_after": "522.32"
+    "bankroll_after": "520.9"
   },
   {
     "date": "2026-03-29",
@@ -93,7 +93,7 @@
     "result": "win",
     "pnl": "13.17",
     "reasoning_summary": "Matz (ERA 3.05, WHIP 1.10) clear edge over May (ERA 4.96, WHIP 1.42). Cardinals bullpen more taxed (6 relievers at 2+ apps). Slight line movement toward Tampa Bay.",
-    "bankroll_after": "536.43"
+    "bankroll_after": "534.07"
   },
   {
     "date": "2026-03-29",
@@ -109,7 +109,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "Cecconi (ERA 4.30, WHIP 1.19) edges Hancock (ERA 4.90, WHIP 1.38). Seattle bullpen more taxed (7 relievers, Woo at 83 pitches). Line moved 12pts from -156 to -144 toward Cleveland indicating sharp action. Ticket #292915762 (7:27 AM PST).",
-    "bankroll_after": "506.35"
+    "bankroll_after": "518.07"
   },
   {
     "date": "2026-03-29",
@@ -125,7 +125,7 @@
     "result": "loss",
     "pnl": "-17.0",
     "reasoning_summary": "DUPLICATE BET \u00e2\u20ac\u201d Ticket #293011656. Placed accidentally at 3:32 PM PST due to betslip clear failure. Same matchup as prior entry.",
-    "bankroll_after": "489.35"
+    "bankroll_after": "501.07"
   },
   {
     "date": "2026-03-29",
@@ -141,7 +141,7 @@
     "result": "loss",
     "pnl": "-17.0",
     "reasoning_summary": "DUPLICATE BET \u00e2\u20ac\u201d Ticket #293012383. Placed accidentally at 4:02 PM PST due to betslip clear failure. Same matchup as prior entry.",
-    "bankroll_after": "472.35"
+    "bankroll_after": "484.07"
   },
   {
     "date": "2026-03-29",
@@ -157,7 +157,7 @@
     "result": "win",
     "pnl": "12.41",
     "reasoning_summary": "Luis Morales (ERA 3.14, WHIP 1.15) and Eric Lauer (ERA 3.18, WHIP 1.11) are the two best starters on today slate. Dome venue, no weather variance. Two elite SPs suggest suppressed scoring across full game. Bet landed as full-game under due to 1H column switcher malfunction.",
-    "bankroll_after": "535.66"
+    "bankroll_after": "496.48"
   },
   {
     "date": "2026-03-29",
@@ -173,7 +173,7 @@
     "result": "win",
     "pnl": "12.41",
     "reasoning_summary": "DUPLICATE BET \u00ef\u00bf\u00bd placed accidentally due to betslip clear failure before TBR attempt. Same as prior entry. Bet G9036603 confirmed by sportsbook.",
-    "bankroll_after": "535.71"
+    "bankroll_after": "508.89"
   },
   {
     "date": "2026-03-29",
@@ -189,7 +189,7 @@
     "result": "win",
     "pnl": "13.37",
     "reasoning_summary": "Matz (ERA 3.05, WHIP 1.10) clear edge over May (ERA 4.96, WHIP 1.42) for first 5 innings. STL bullpen 6 taxed relievers. Line moved 204 pts toward TBR. 1H ML -112 (moved from +100). Positive EV at 55% confidence.",
-    "bankroll_after": "536.64"
+    "bankroll_after": "522.26"
   },
   {
     "date": "2026-03-29",
@@ -205,7 +205,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9036734. Placed accidentally during column switcher debugging. Not an intentional pick.",
-    "bankroll_after": "520.64"
+    "bankroll_after": "506.26"
   },
   {
     "date": "2026-03-29",
@@ -221,7 +221,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9036807. Placed accidentally during column switcher debugging. Not an intentional pick.",
-    "bankroll_after": "522.35"
+    "bankroll_after": "506.26"
   },
   {
     "date": "2026-03-29",
@@ -237,7 +237,7 @@
     "result": "win",
     "pnl": "9.44",
     "reasoning_summary": "UNINTENDED BET \u00ef\u00bf\u00bd G9037186. Placed accidentally during column switcher debugging. Not an intentional pick.",
-    "bankroll_after": "532.58"
+    "bankroll_after": "515.7"
   },
   {
     "date": "2026-03-29",
@@ -253,7 +253,7 @@
     "result": "win",
     "pnl": "17.17",
     "reasoning_summary": "Intentional pregame bet placed in prior session. J Leiter vs Chris Bassitt. TEX +108 underdog value play.",
-    "bankroll_after": "540.66"
+    "bankroll_after": "532.87"
   },
   {
     "date": "2026-03-29",
@@ -269,7 +269,7 @@
     "result": "loss",
     "pnl": "-17.0",
     "reasoning_summary": "TOR 1H ML (Cody Ponce) vs COL (Tomoyuki Sugano). Corrected from erroneous COL@MIA entry \u00e2\u20ac\u201d actual bet was COL@TOR at -244. Ticket 293185280.",
-    "bankroll_after": "523.66"
+    "bankroll_after": "515.87"
   },
   {
     "date": "2026-03-30",
@@ -285,7 +285,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "Placed 1:03 AM PT. TEX@BAL over 9 at -117. Expected pnl $13.65 per sportsbook slip. Logging reconstructed \u00e2\u20ac\u201d original session context unavailable.",
-    "bankroll_after": "507.66"
+    "bankroll_after": "499.87"
   },
   {
     "date": "2026-03-30",
@@ -301,7 +301,7 @@
     "result": "win",
     "pnl": "9.78",
     "reasoning_summary": "Bubic holds a meaningful edge over Woods Richardson across every key SP metric \u00e2\u20ac\u201d ERA 2.55 vs 4.04, WHIP 1.18 vs 1.28, BB/9 3.0 vs 3.7. The 1H market isolates that advantage cleanly: bullpen tax (6 taxed KC relievers) is irrelevant before the 6th in",
-    "bankroll_after": "518.12"
+    "bankroll_after": "509.65"
   },
   {
     "date": "2026-03-30",
@@ -317,7 +317,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "Ticket G9047620. Ashcraft (2.71 ERA, 1.25 WHIP) holds clear SP edge over Burns (4.57 ERA). Line moved 14 pts toward PIT (CIN -124 to -110), sharp money on PIT. CIN bullpen more taxed (5 vs 3). Odds moved from -106 to +116 between evaluation and placement \u00e2\u20ac\u201d still value.",
-    "bankroll_after": "502.12"
+    "bankroll_after": "493.65"
   },
   {
     "date": "2026-03-30",
@@ -333,7 +333,7 @@
     "result": "win",
     "pnl": "13.52",
     "reasoning_summary": "UNINTENDED BET \u00e2\u20ac\u201d Ticket G9047636. Placed by parallel cron session. Interactive session explicitly PASSED on this game \u00e2\u20ac\u201d Foster Griffin 0.0 IP season debut made this unevaluable. Not an intentional pick.",
-    "bankroll_after": "515.64"
+    "bankroll_after": "507.17"
   },
   {
     "date": "2026-03-30",
@@ -349,7 +349,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "Ticket G9047789. Leahy (3.07 ERA, 8.2 K/9) holds SP edge over Holmes (3.53 ERA). STL pen less taxed (3 vs 5). Note: interactive session selected STL 1H ML +120; parallel cron session placed full game ML at +131 instead. Full game is riskier \u00e2\u20ac\u201d NYM lineup depth matters after Leahy exits.",
-    "bankroll_after": "499.64"
+    "bankroll_after": "491.17"
   },
   {
     "date": "2026-03-30",
@@ -365,7 +365,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "UNINTENDED BET \u00e2\u20ac\u201d Ticket G9047808. Placed by parallel cron session. Interactive session explicitly PASSED on BOS@HOU \u00e2\u20ac\u201d massive 56-pt HOU full-game line shift despite McCullers 6.51 ERA signaled SP change not captured in research data. Not an intentional pick.",
-    "bankroll_after": "483.64"
+    "bankroll_after": "475.17"
   },
   {
     "date": "2026-03-30",
@@ -381,7 +381,7 @@
     "result": "win",
     "pnl": "13.61",
     "reasoning_summary": "Sharp money moved the total 0.5 points from 8.5 to 8.0, the strongest signal here. Cold weather (36\u00c2\u00b0F) at a pitcher-friendly park suppresses offense. Messick is the clear SP edge \u00e2\u20ac\u201d 2.72 ERA, 1.31 WHIP, 1.4 BB/9 \u00e2\u20ac\u201d and should provide quality innin",
-    "bankroll_after": "498.19"
+    "bankroll_after": "488.78"
   },
   {
     "date": "2026-03-30",
@@ -397,7 +397,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "UNLOGGED BET \u2014 ticket 293199020. Placed by parallel cron session 3/30 3:03 PM. Not captured in ledger.",
-    "bankroll_after": "0.0"
+    "bankroll_after": "370.49"
   },
   {
     "date": "2026-03-30",
@@ -413,7 +413,7 @@
     "result": "loss",
     "pnl": "-16.0",
     "reasoning_summary": "UNLOGGED BET \u2014 ticket 293199055. Placed by parallel cron session 3/30 3:05 PM. DUPLICATE of existing PIT@CIN h2h entry.",
-    "bankroll_after": "0.0"
+    "bankroll_after": "354.49"
   },
   {
     "date": "2026-03-30",
@@ -429,7 +429,7 @@
     "result": "win",
     "pnl": "13.52",
     "reasoning_summary": "UNLOGGED BET \u2014 ticket 293199074. Placed by parallel cron session 3/30 3:06 PM. DUPLICATE of existing WAS@PHI totals entry.",
-    "bankroll_after": "0.0"
+    "bankroll_after": "368.01"
   },
   {
     "date": "2026-03-31",
@@ -445,7 +445,7 @@
     "result": "loss",
     "pnl": "-15.0",
     "reasoning_summary": "Griffin (3.60 ERA, 1.00 WHIP, 9.0 K/9, 0 BB) holds a commanding advantage over Walker (11.57 ERA, 2.79 WHIP, 5.8 BB/9), making this the sharpest SP quality gap on the card. The Phillies line has lengthened from -180 to -174, consistent with sharp money. Ticket 293283385-1 placed 10:05 PM PST 3/30 (1:05 AM ET 3/31) for 3/31 game.",
-    "bankroll_after": "483.19"
+    "bankroll_after": "473.78"
   },
   {
     "date": "2026-03-31",
@@ -461,7 +461,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "deGrom (2.97 ERA, 0.92 WHIP) vs Eflin (5.93 ERA, 1.42 WHIP) is one of the sharpest SP quality gaps on the slate. The 1H market isolates this advantage before both heavily taxed bullpens enter. 14 mph wind out at Camden Yards in warm conditions amplif. Ticket 293298419-1.",
-    "bankroll_after": "483.19"
+    "bankroll_after": "473.78"
   },
   {
     "date": "2026-03-31",
@@ -477,7 +477,7 @@
     "result": "win",
     "pnl": "12.5",
     "reasoning_summary": "The 240-pt line movement on CIN ML from -108 to +132 confirms sharp market signal of PIT SP dominance. Chandler (0.93 WHIP, 1.1 BB/9) vs Williamson (0.0 IP this season) is a massive quality gap in the first 5 innings. 1H market at -128 isolates Chand. Ticket 293298436-1.",
-    "bankroll_after": "479.69"
+    "bankroll_after": "486.28"
   },
   {
     "date": "2026-03-31",
@@ -493,7 +493,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "deGrom (ERA 2.97, WHIP 0.92, K/9 9.6) vs. Eflin (ERA 5.93, WHIP 1.42, K/9 6.3) is one of the starkest SP mismatches on the slate. The 1H market isolates this edge cleanly \u00e2\u20ac\u201d no bullpen variance, pure starter quality over 4-5 innings. Texas's heavily. Ticket 293298753-1.",
-    "bankroll_after": "451.19"
+    "bankroll_after": "486.28"
   },
   {
     "date": "2026-03-31",
@@ -509,7 +509,7 @@
     "result": "win",
     "pnl": "12.5",
     "reasoning_summary": "The 240-point line swing from Cincinnati -108 to +132 is a powerful market signal \u00e2\u20ac\u201d the sharpest moves in that range typically reflect either SP news or concentrated sharp action, and Williamson's 0 IP this season is the likely driver. For 1H purpo. Ticket 293298778-1.",
-    "bankroll_after": "431.69"
+    "bankroll_after": "498.78"
   },
   {
     "date": "2026-03-31",
@@ -525,7 +525,7 @@
     "result": "win",
     "pnl": "10.06",
     "reasoning_summary": "The 1H is a pure SP matchup, and Junk's profile (WHIP 1.14, BB/9 1.1) represents a substantial edge over Fedde (WHIP 1.52, BB/9 4.3) \u00e2\u20ac\u201d the control gap alone is significant. Fedde's 4.3 BB/9 means persistent baserunner traffic against a home Miami l. Ticket 293298827-1.",
-    "bankroll_after": "413.25"
+    "bankroll_after": "508.84"
   },
   {
     "date": "2026-03-31",
@@ -541,7 +541,7 @@
     "result": "loss",
     "pnl": "-15.0",
     "reasoning_summary": "Senga (ERA 3.02, WHIP 1.31, K/9 8.7) holds a substantial edge over Pallante (ERA 5.31, WHIP 1.44, K/9 6.1) in what is a pure SP matchup through 5 innings \u00e2\u20ac\u201d no bullpen variance applies. Ticket 293299545-1.",
-    "bankroll_after": "398.25"
+    "bankroll_after": "493.84"
   },
   {
     "date": "2026-03-31",
@@ -557,7 +557,7 @@
     "result": "loss",
     "pnl": "-15.0",
     "reasoning_summary": "Full-game under 8 at -105. Placed by automated session after batch_1. Ticket 293299350-1.",
-    "bankroll_after": "383.25"
+    "bankroll_after": "478.84"
   },
   {
     "date": "2026-04-01",
@@ -573,7 +573,7 @@
     "result": "loss",
     "pnl": "-14.0",
     "reasoning_summary": "The 1H market isolates the clear SP mismatch \u00e2\u20ac\u201d Crochet is an established elite arm. Ticket 293347680-1. Odds moved from eval -156 to sportsbook -168.",
-    "bankroll_after": "442.76"
+    "bankroll_after": "464.84"
   },
   {
     "date": "2026-04-01",
@@ -589,7 +589,7 @@
     "result": "loss",
     "pnl": "-14.0",
     "reasoning_summary": "DUPLICATE \u00e2\u20ac\u201d placed by MANUAL run while batch_1 already had this game. Ticket 293352417-1. Odds moved from eval -150 to sportsbook -161.",
-    "bankroll_after": "428.76"
+    "bankroll_after": "450.84"
   },
   {
     "date": "2026-04-02",
@@ -605,7 +605,7 @@
     "result": "win",
     "pnl": "11.3",
     "reasoning_summary": "L\u00f3pez holds a clear SP advantage over Nelson grounded in multi-year track records \u2014 L\u00f3pez 2024 breakout (2.06 ERA) represents a legitimate ace-tier arm, while Nelson profiles as a back-end starter (~4.50 career ERA). Both bullpens severely taxed (was",
-    "bankroll_after": "440.06"
+    "bankroll_after": "462.14"
   },
   {
     "date": "2026-04-02",
@@ -621,7 +621,7 @@
     "result": "win",
     "pnl": "11.34",
     "reasoning_summary": "UNLOGGED BET \u2014 ticket 293449801. Placed 4/2 1:37 PM. Ambiguous confirmation detection missed it.",
-    "bankroll_after": "0.0"
+    "bankroll_after": "379.35"
   },
   {
     "date": "2026-04-02",
@@ -637,7 +637,7 @@
     "result": "win",
     "pnl": "11.95",
     "reasoning_summary": "UNLOGGED BET \u2014 ticket 293457497. Placed 4/2 6:02 PM. Duplicate ATL ML, ambiguous confirmation.",
-    "bankroll_after": "0.0"
+    "bankroll_after": "391.3"
   },
   {
     "date": "2026-04-03",
@@ -653,7 +653,7 @@
     "result": "loss",
     "pnl": "-13.0",
     "reasoning_summary": "Clear SP mismatch favors Miami in the first 5 innings. P\u00c3\u00a9rez's peripherals (0.86 WHIP, 10.3 K/9, 1.3 BB/9) are elite across every metric, while Warren's profile is concerning (1.62 WHIP, 4.2 BB/9, 6.2 K/9) \u00e2\u20ac\u201d that WHIP-to-ERA divergence screams seq",
-    "bankroll_after": "427.06"
+    "bankroll_after": "449.14"
   },
   {
     "date": "2026-04-03",
@@ -669,7 +669,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Horton's command profile (1.4 BB/9, 0.79 WHIP) is sharply superior to Cantillo's wildness (7.4 BB/9, 1.91 WHIP) in what the 1H market isolates as a pure SP matchup. While both have only 1 start this season and current-year stats carry heavy noise, th",
-    "bankroll_after": "427.06"
+    "bankroll_after": "449.14"
   },
   {
     "date": "2026-04-03",
@@ -685,7 +685,7 @@
     "result": "loss",
     "pnl": "-13.0",
     "reasoning_summary": "Boyle and Ober are both quality arms with strong early-season profiles. 1H isolates SP matchup cleanly. Under 4 at plus money in cold weather with two capable starters.",
-    "bankroll_after": "401.06"
+    "bankroll_after": "436.14"
   },
   {
     "date": "2026-04-03",
@@ -701,7 +701,7 @@
     "result": "loss",
     "pnl": "-13.0",
     "reasoning_summary": "Sharp 212-cent line movement toward Arizona. Rodriguez SP edge over Holmes. Ticket 29351367-1. Placed but logged as ambiguous confirmation.",
-    "bankroll_after": "388.06"
+    "bankroll_after": "423.14"
   },
   {
     "date": "2026-04-03",
@@ -717,7 +717,7 @@
     "result": "loss",
     "pnl": "-13.0",
     "reasoning_summary": "Over 8 at -107. Ticket 293512795-1. Placed by system but not logged \u2014 confirmation detection missed it.",
-    "bankroll_after": "375.06"
+    "bankroll_after": "410.14"
   },
   {
     "date": "2026-04-03",
@@ -733,7 +733,7 @@
     "result": "win",
     "pnl": "12.75",
     "reasoning_summary": "The 208-cent sharp line movement toward Pittsburgh (from +106 to -102) is the dominant signal here \u00e2\u20ac\u201d that magnitude indicates strong professional action. Both SPs are quality career arms, but Bradish's 3 BB in 4.2 IP on return from injury hints at ",
-    "bankroll_after": "387.81"
+    "bankroll_after": "422.89"
   },
   {
     "date": "2026-04-03",
@@ -749,7 +749,7 @@
     "result": "loss",
     "pnl": "-13.0",
     "reasoning_summary": "Oracle Park at 33\u00c2\u00b0F with moderate rain is an extreme run-suppression environment \u00e2\u20ac\u201d cold kills ball carry and wet conditions further dampen offense. Both starters are in their second outing of the season on managed pitch counts, making the 1H a pur",
-    "bankroll_after": "375.58"
+    "bankroll_after": "409.89"
   },
   {
     "date": "2026-04-04",
@@ -765,7 +765,7 @@
     "result": "loss",
     "pnl": "-12.0",
     "reasoning_summary": "Cold weather (42\u00c2\u00b0F) at pitcher-friendly Comerica Park with both SPs on early-season pitch limits creates a clean pitching environment for the first 5 innings. Despite shaky season debuts (1 start each, 4.0 IP apiece), both May and Flaherty have soli",
-    "bankroll_after": "375.81"
+    "bankroll_after": "397.89"
   },
   {
     "date": "2026-04-04",
@@ -781,7 +781,7 @@
     "result": "loss",
     "pnl": "-12.0",
     "reasoning_summary": "34\u00c2\u00b0F with light drizzle and mist at Target Field is a significant, objective run-suppression environment. The 1H total isolates the starter matchup and removes both heavily taxed bullpens from the equation. While Abel's 10.8 BB/9 (3.1 IP \u00e2\u20ac\u201d noise-l",
-    "bankroll_after": "363.81"
+    "bankroll_after": "385.89"
   },
   {
     "date": "2026-04-04",
@@ -797,7 +797,7 @@
     "result": "win",
     "pnl": "12.6",
     "reasoning_summary": "Strong weather suppression at Fenway \u00e2\u20ac\u201d 45\u00c2\u00b0F with 15 mph wind blowing in from ENE \u00e2\u20ac\u201d significantly limits ball flight and scoring. Early (prior-year xERA 2.35) is a quality arm who should limit San Diego through 5 innings. V\u00c3\u00a1squez's prior-year xE",
-    "bankroll_after": "375.57"
+    "bankroll_after": "398.49"
   },
   {
     "date": "2026-04-04",
@@ -813,7 +813,7 @@
     "result": "loss",
     "pnl": "-12.0",
     "reasoning_summary": "Oracle Park at 33\u00c2\u00b0F with 11 mph ENE wind blowing in creates an extreme run-suppression environment \u00e2\u20ac\u201d cold, wind-in, and one of MLB's most pitcher-friendly dimensions all compounding. Both SPs have comparable prior-year xERAs (~4.3) so the pitching",
-    "bankroll_after": "339.81"
+    "bankroll_after": "386.49"
   },
   {
     "date": "2026-04-04",
@@ -829,7 +829,7 @@
     "result": "win",
     "pnl": "14.64",
     "reasoning_summary": "Kumar Rocker is a confirmed below-average pitcher (76 career IP, 5.45 ERA, 5.73 prior-year xERA aligned) while Lowder, though extremely unproven at 35 career IP, shows a promising 1.51 career ERA and was impressive enough for sharp money to move the ",
-    "bankroll_after": "366.34"
+    "bankroll_after": "405.94"
   },
   {
     "date": "2026-04-04",
@@ -845,7 +845,7 @@
     "result": "win",
     "pnl": "11.76",
     "reasoning_summary": "Clear SP mismatch favors Tampa Bay in the first half. Matz is a proven veteran (4.21 career ERA over 1009 IP, 3.38 prior-year xERA) while Abel is a young, unproven arm with serious command issues (6.80 career ERA over just 42 IP, 5.09 prior-year xERA",
-    "bankroll_after": "351.49"
+    "bankroll_after": "417.7"
   },
   {
     "date": "2026-04-05",
@@ -861,7 +861,7 @@
     "result": "win",
     "pnl": "10.91",
     "reasoning_summary": "Wind out at Fenway Park (elevated-offense park, flagged signal) combined with both SPs likely limited to 4-5 IP based on first-start workload patterns, feeding into heavily taxed bullpens on both sides \u00e2\u20ac\u201d SD has King (81 pitches) and V\u00c3\u00a1squez (83 pi",
-    "bankroll_after": "414.21"
+    "bankroll_after": "428.61"
   },
   {
     "date": "2026-04-06",
@@ -877,7 +877,7 @@
     "result": "loss",
     "pnl": "-12.0",
     "reasoning_summary": "32F with 11 mph wind blowing in at Oracle Park creates extreme triple-stacked run suppression: coldest game on the slate, wind-sensitive pitchers park with wind in, and Oracle is already the most offense-suppressing venue in MLB. Both starters had qu",
-    "bankroll_after": "402.69"
+    "bankroll_after": "416.61"
   },
   {
     "date": "2026-04-06",
@@ -893,7 +893,7 @@
     "result": "win",
     "pnl": "10.53",
     "reasoning_summary": "Wind out at 13 mph at Fenway Park (wind-sensitive park) boosts ball flight. Bello career 4.14 ERA, terrible first start (5 ER in 4.2 IP), and prior year 4.48 xERA make BOS pitching vulnerable. Both bullpens heavily taxed (5 BOS relievers with 2+ appe",
-    "bankroll_after": "413.22"
+    "bankroll_after": "427.14"
   },
   {
     "date": "2026-04-06",
@@ -909,7 +909,7 @@
     "result": "win",
     "pnl": "10.91",
     "reasoning_summary": "Coors Field at 65F sunny is the premier run-scoring environment in baseball. Bolton career 5.60 ERA, 1.78 WHIP, and 6.43 prior-year xERA over just 45 career IP makes him extremely vulnerable at altitude. Both bullpens are heavily taxed (7 and 5 relie",
-    "bankroll_after": "419.09"
+    "bankroll_after": "438.05"
   },
   {
     "date": "2026-04-07",
@@ -925,7 +925,7 @@
     "result": "win",
     "pnl": "10.91",
     "reasoning_summary": "Extreme weather suppression: 34\u00c2\u00b0F with 15 mph wind blowing in at Rate Field creates strongly offense-limiting conditions. Rogers (career 3.77 ERA, 533 IP, prior-year xERA 3.41) should dominate through 6+ innings \u00e2\u20ac\u201d his recent form confirms it (1.38",
-    "bankroll_after": "406.71"
+    "bankroll_after": "448.96"
   },
   {
     "date": "2026-04-07",
@@ -941,7 +941,7 @@
     "result": "win",
     "pnl": "10.91",
     "reasoning_summary": "27\u00c2\u00b0F at Target Field is extreme cold \u00e2\u20ac\u201d one of the strongest run-suppression signals available. Skubal is elite (career 3.04 ERA/779 IP, prior-year xERA 2.71) and should keep Minnesota quiet through 6+. Bradley's career 4.75 ERA is mediocre, but fr",
-    "bankroll_after": "419.19"
+    "bankroll_after": "459.87"
   },
   {
     "date": "2026-04-07",
@@ -957,7 +957,7 @@
     "result": "win",
     "pnl": "11.82",
     "reasoning_summary": "Extreme cold (30\u00c2\u00b0F) with 12 mph wind blowing in at Progressive Field creates strong run suppression beyond what the 7.0\u00e2\u2020\u20196.5 line move already captures. Both starters are capable of going 5-6 innings (Cameron career 2.95 ERA/143 IP, Williams career",
-    "bankroll_after": "432.06"
+    "bankroll_after": "471.69"
   },
   {
     "date": "2026-04-07",
@@ -973,7 +973,7 @@
     "result": "loss",
     "pnl": "-13.0",
     "reasoning_summary": "Skenes is an elite arm (career 2.10 ERA / 326 IP, prior xERA 2.65) pitching at home in 35\u00c2\u00b0F \u00e2\u20ac\u201d among the coldest games of the season \u00e2\u20ac\u201d at pitcher-friendly PNC Park. The total opened at 6.5 and moved to 7.5, giving a full run of cushion above wher",
-    "bankroll_after": "405.86"
+    "bankroll_after": "458.69"
   },
   {
     "date": "2026-04-07",
@@ -989,7 +989,7 @@
     "result": "win",
     "pnl": "11.82",
     "reasoning_summary": "Strong weather suppression at Yankee Stadium \u00e2\u20ac\u201d 37\u00c2\u00b0F with 17 mph NNW wind blowing in significantly reduces ball carry and offensive output. Both SPs are roughly equivalent ~4.10 ERA true-talent pitchers on reliable data (Civale 4.14 career ERA/743 ",
-    "bankroll_after": "416.97"
+    "bankroll_after": "470.51"
   },
   {
     "date": "2026-04-07",
@@ -1005,7 +1005,7 @@
     "result": "win",
     "pnl": "12.4",
     "reasoning_summary": "PHANTOM: Duplicate placed by batch_3 session due to race condition. Not caught before Heritage placement.",
-    "bankroll_after": "406.12"
+    "bankroll_after": "482.91"
   },
   {
     "date": "2026-04-07",
@@ -1021,7 +1021,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "PHANTOM: Duplicate placed by lineups session at different line. Not caught before Heritage placement.",
-    "bankroll_after": "379.86"
+    "bankroll_after": "482.91"
   },
   {
     "date": "2026-04-07",
@@ -1037,7 +1037,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "PHANTOM: Third duplicate placed by lineups_30 session before dedup fix was deployed.",
-    "bankroll_after": "0.0"
+    "bankroll_after": "482.91"
   },
   {
     "date": "2026-04-08",
@@ -1053,7 +1053,7 @@
     "result": "win",
     "pnl": "11.91",
     "reasoning_summary": "The primary catalyst is 15 mph SSW wind at Rate Field blowing out toward RF/CF \u00e2\u20ac\u201d one of the stronger wind-out situations on today's slate. Both bullpens are heavily taxed (BAL: Helsley 2 app/42 pitches, Cano 2 app; CWS: Hudson, Murphy, Leasure all ",
-    "bankroll_after": "490.04"
+    "bankroll_after": "494.82"
   },
   {
     "date": "2026-04-08",
@@ -1069,7 +1069,7 @@
     "result": "loss",
     "pnl": "-14.0",
     "reasoning_summary": "Both SPs have been terrible early \u00e2\u20ac\u201d Javier's 9 BB in 8.1 IP is especially dangerous at Coors' 5,200 ft elevation where free baserunners become runs. Career norms (3.81 and 4.16 ERA) suggest stabilization, but neither profile is elite, and Coors inf",
-    "bankroll_after": "449.31"
+    "bankroll_after": "480.82"
   },
   {
     "date": "2026-04-08",
@@ -1085,7 +1085,7 @@
     "result": "loss",
     "pnl": "-14.0",
     "reasoning_summary": "38\u00c2\u00b0F at Citi Field with 12 mph SSE wind (blowing in) is a strong, objective run-suppression environment \u00e2\u20ac\u201d one of the coldest games of the season. Neither SP is elite but both are serviceable mid-rotation arms (Nelson career 4.21 ERA/3.93 prior-yea",
-    "bankroll_after": "435.31"
+    "bankroll_after": "466.82"
   },
   {
     "date": "2026-04-08",
@@ -1101,7 +1101,7 @@
     "result": "win",
     "pnl": "11.91",
     "reasoning_summary": "Both bullpens are severely taxed \u00e2\u20ac\u201d Cincinnati has 5+ relievers with 2+ recent appearances or starter-level pitch counts from yesterday, Miami has 4+ in similar shape. Late-game scoring is highly likely when both teams must rely on depleted arms aft",
-    "bankroll_after": "448.04"
+    "bankroll_after": "478.73"
   },
   {
     "date": "2026-04-10",
@@ -1117,7 +1117,7 @@
     "result": "win",
     "pnl": "13.49",
     "reasoning_summary": "Strong weather-driven under at Wrigley: 39\u00c2\u00b0F with mist and 7 mph wind blowing in from right field significantly suppresses carry and exit velocity. Both SPs have solid career profiles (Imanaga 3.32 ERA/1.01 WHIP over 328 IP, Mlodzinski 3.28 ERA/1.28",
-    "bankroll_after": "489.19"
+    "bankroll_after": "492.22"
   },
   {
     "date": "2026-04-10",
@@ -1133,7 +1133,7 @@
     "result": "win",
     "pnl": "12.23",
     "reasoning_summary": "Both starters have career ERAs above 4.00 (Woods Richardson 4.12/xERA 3.82, Corbin 4.51/xERA 4.77), and both bullpens are severely taxed \u00e2\u20ac\u201d Minnesota has 7 relievers with 2+ appearances in the last 3 days, Toronto has 5. The total dropped 1.5 runs f [CORRECTION 4/10: Bet placed at Heritage total 9.0, not evaluator 7.5. Odds API returned stale/wrong line from FanDuel (7.5) while Heritage and consensus had 9.0. Line verification guard now prevents this. Decision: let it ride \u2014 o9 at -107 is market price, hedging just locks in vig.]",
-    "bankroll_after": "473.85"
+    "bankroll_after": "504.45"
   },
   {
     "date": "2026-04-10",
@@ -1149,7 +1149,7 @@
     "result": "loss",
     "pnl": "-14.0",
     "reasoning_summary": "May's decline is structural \u00e2\u20ac\u201d prior-year xERA of 5.20 over a full season confirms he's no longer a league-average starter, and 13 ER in 7.1 IP across two starts this year continues the trajectory. Early has upside (prior-year xERA 2.35) but is walk",
-    "bankroll_after": "432.77"
+    "bankroll_after": "490.45"
   },
   {
     "date": "2026-04-11",
@@ -1165,7 +1165,7 @@
     "result": "win",
     "pnl": "12.41",
     "reasoning_summary": "Both starters have career ERAs above 4.00 (Sheehan 4.04/142 IP, Leiter 4.67/198 IP) and neither projects as a shutdown arm. Sheehan is struggling badly early (8.00 ERA, 1.89 WHIP, 5.0 BB/9, 6.16 xERA in 9 IP) and faces no platoon advantage against an",
-    "bankroll_after": "501.54"
+    "bankroll_after": "502.86"
   },
   {
     "date": "2026-04-12",
@@ -1325,7 +1325,7 @@
     "result": "win",
     "pnl": "24.51",
     "reasoning_summary": "Great American Ball Park at 76\u00c2\u00b0F is a textbook over environment. Both starters project as roughly league-average arms \u00e2\u20ac\u201d Mahle's career 4.07 ERA with currently elevated walks (BB/9 4.3) means extra baserunners, and Lowder's low K rate (6.1) at a hi",
-    "bankroll_after": "521.87"
+    "bankroll_after": "572.83"
   },
   {
     "date": "2026-04-15",
@@ -1341,7 +1341,7 @@
     "result": "win",
     "pnl": "24.51",
     "reasoning_summary": "Citizens Bank Park at 80\u00c2\u00b0F with 15 mph STRONG_OUT wind (+10 mph tailwind to CF) is an elite run-scoring environment \u00e2\u20ac\u201d the strongest weather signal available. Both bullpens are heavily taxed: Cubs have 5 relievers with 2+ appearances in 3 days incl",
-    "bankroll_after": "495.87"
+    "bankroll_after": "597.34"
   },
   {
     "date": "2026-04-16",
@@ -1437,7 +1437,7 @@
     "result": "win",
     "pnl": "26.15",
     "reasoning_summary": "Coors Field at 5,200 ft with two shaky starters and both bullpens stressed. Sasaki's 6.9 BB/9 is poison at altitude, and he averages just 4 IP, forcing a taxed Dodgers pen to cover five innings. Lorenzen has been crushed early (8.10 ERA) and faces an",
-    "bankroll_after": "534.08"
+    "bankroll_after": "580.17"
   },
   {
     "date": "2026-04-19",
@@ -1453,7 +1453,7 @@
     "result": "win",
     "pnl": "24.55",
     "reasoning_summary": "Philadelphia's posted lineup averages just .639 OPS with three sub-.500 OPS bats in the bottom third (Bohm .414, Stott .493, March\u00c3\u00a1n .257) \u00e2\u20ac\u201d essentially three automatic outs against Holmes (career 3.78 ERA over 205 IP, current xERA 3.16). Painter'",
-    "bankroll_after": "505.48"
+    "bankroll_after": "604.72"
   },
   {
     "date": "2026-04-20",
@@ -1501,7 +1501,7 @@
     "result": "loss",
     "pnl": "-32.0",
     "reasoning_summary": "Gilbert is a clear top-tier SP \u00e2\u20ac\u201d career 3.59 ERA over 864 IP, current-year xERA 3.08 matching prior-year 3.09, 9.9 K/9 with elite command (1.6 BB/9). He draws a Seattle home lineup that is historically weak through four spots (Crawford .639, Raleig",
-    "bankroll_after": "569.76"
+    "bankroll_after": "629.35"
   },
   {
     "date": "2026-04-23",
@@ -1533,7 +1533,7 @@
     "result": "win",
     "pnl": "26.25",
     "reasoning_summary": "Glasnow (career 3.72, current xERA 2.60, prior-year xERA 3.33) faces a Giants lineup averaging .655 OPS with Devers (.605), Bailey (.429), and no lefty bats to exploit anything \u00e2\u20ac\u201d this side of the total should produce 1-2 runs. Webb's current 5.10 E",
-    "bankroll_after": "624.6"
+    "bankroll_after": "685.88"
   },
   {
     "date": "2026-04-24",
@@ -1629,7 +1629,7 @@
     "result": "loss",
     "pnl": "-31.0",
     "reasoning_summary": "McLean is pitching at an elite level (career 2.30 ERA, current xERA 1.95 over a meaningful 114 PA sample, 0.76 WHIP, 11.3 K/9) and gets a Rockies lineup averaging .704 OPS with weak bottom of order. Quintana counters with a horrid current profile \u00e2\u20ac\u201d",
-    "bankroll_after": "549.97"
+    "bankroll_after": "612.96"
   },
   {
     "date": "2026-04-26",
@@ -1645,7 +1645,7 @@
     "result": "win",
     "pnl": "29.74",
     "reasoning_summary": "McLean is genuinely elite \u00e2\u20ac\u201d career 2.30 ERA, current 1.95 xERA over 114 PA, K/9 above 11, and a recent 3-start line of 1-2-3 ER \u00e2\u20ac\u201d and he's facing a Mets-side lineup posted at .576 OPS that won't give up many over-side runs against him either. Qui",
-    "bankroll_after": "579.71"
+    "bankroll_after": "642.7"
   },
   {
     "date": "2026-04-27",
@@ -2653,7 +2653,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Clear underlying SP mismatch the market only partly prices. V\u00c3\u00a1squez carries a shiny 2.96 ERA but a 5.45 xERA (5.37 prior year) and .363 xwOBA with a weak 6.1 career K/9 \u00e2\u20ac\u201d that is one of the largest ERA-vs-xERA gaps you'll see and signals heavy reg",
-    "bankroll_after": "764.85"
+    "bankroll_after": "726.85"
   },
   {
     "date": "2026-05-25",
@@ -2669,7 +2669,7 @@
     "result": "win",
     "pnl": "46.13",
     "reasoning_summary": "The Mets are -136 favorites almost entirely on McLean's strength (career 2.89 ERA, 2.92 xERA), but their lineup is catastrophic at .567 OPS \u00e2\u20ac\u201d well below the B-squad threshold \u00e2\u20ac\u201d and can't be trusted to score even against a struggling Lodolo whose ",
-    "bankroll_after": "810.98"
+    "bankroll_after": "772.98"
   },
   {
     "date": "2026-05-27",
@@ -2685,7 +2685,7 @@
     "result": "win",
     "pnl": "36.7",
     "reasoning_summary": "Elite, in-form SP (S\u00c3\u00a1nchez: career 3.05 ERA, 2.88 xERA, three straight scoreless 7-9 IP starts) faces a genuinely weak Padres lineup (.642 avg OPS, bottom four all sub-.620) in a strong pitcher's park (Petco, 62\u00c2\u00b0F overcast, neutral wind). Padres pr",
-    "bankroll_after": "841.07"
+    "bankroll_after": "809.68"
   },
   {
     "date": "2026-05-27",
@@ -2701,7 +2701,7 @@
     "result": "win",
     "pnl": "28.94",
     "reasoning_summary": "Clear starting-pitcher mismatch: S\u00c3\u00a1nchez (career 3.05 ERA, 2.88 xERA, .271 xwOBA, three straight scoreless deep starts) is meaningfully superior to Buehler (5.05 ERA, 4.67 xERA, .339 xwOBA allowed), and the Padres lineup is genuinely weak (.642 OPS ",
-    "bankroll_after": "793.31"
+    "bankroll_after": "838.62"
   },
   {
     "date": "2026-05-28",
@@ -2717,7 +2717,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: Davis Martin has a reliable 317-IP career profile with elite control this year (1.8 BB/9, 1.02 WHIP over 61 IP), while Kendry Rojas is a 14-IP rookie walking 6.3/9 \u00e2\u20ac\u201d a wildness profile that produces crooked-number i",
-    "bankroll_after": "837.31"
+    "bankroll_after": "838.62"
   },
   {
     "date": "2026-05-29",
@@ -2941,7 +2941,7 @@
     "result": "loss",
     "pnl": "-42.0",
     "reasoning_summary": "Two struggling starters anchor this over: Bello carries a 5.98 xERA and .376 xwOBA with three recent blowup starts, and Rogers despite a decent career profile is in poor current form. Both lineups are competent (BAL .741 OPS, BOS .716), clearing the ",
-    "bankroll_after": "794.36"
+    "bankroll_after": "880.87"
   },
   {
     "date": "2026-06-05",
@@ -3021,7 +3021,7 @@
     "result": "win",
     "pnl": "49.94",
     "reasoning_summary": "San Francisco holds both the pitching and lineup edge yet is priced as a plus-money road dog. McDonald carries a prior-year xERA of 3.21 and current 3.84/.309 xwOBA, while Taillon's poor year is earned, not luck \u00e2\u20ac\u201d his 5.24 xERA and .355 xwOBA come ",
-    "bankroll_after": "921.99"
+    "bankroll_after": "922.0"
   },
   {
     "date": "2026-06-09",
@@ -3133,7 +3133,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Strong weather suppression (23mph wind moderate-in, moderate rain, 65\u00c2\u00b0F) combines with a genuinely weak Braves lineup (0.641 avg OPS, dead bottom third) to push toward the under. P\u00c3\u00a9rez has limited runs in three straight starts, and the wind blunts ",
-    "bankroll_after": "1069.11"
+    "bankroll_after": "1018.11"
   },
   {
     "date": "2026-06-12",
@@ -3213,7 +3213,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds the starting-pitcher edge (Melton career 2.78 ERA/1.01 WHIP and strong recent form vs Teng's 5.30 career ERA, 4.2 BB/9, and 12 ER over his last 3 starts), though xERA narrows the gap so I keep confidence modest. The decisive factor is b",
-    "bankroll_after": "1048.99"
+    "bankroll_after": "998.99"
   },
   {
     "date": "2026-06-16",
@@ -3261,7 +3261,7 @@
     "result": "loss",
     "pnl": "-50.0",
     "reasoning_summary": "The clearly superior and more reliable starter is on the underdog: Rasmussen (career 2.87 ERA/533 IP, xERA 2.90, xwOBA .269) versus Wrobleski (career 4.03 ERA, xERA 4.19 outrunning a lucky 2.95 ERA, weak 5.5 K/9) \u00e2\u20ac\u201d about a 1.3-run expected-pitching",
-    "bankroll_after": "848.99"
+    "bankroll_after": "947.89"
   },
   {
     "date": "2026-06-18",
@@ -3373,7 +3373,7 @@
     "result": "win",
     "pnl": "50.82",
     "reasoning_summary": "Both starters are quality arms with strong contact suppression: Gilbert is an established 3.56-career-ERA strikeout pitcher (xwOBA .313, recent form excellent) and Tolle is pitching to a 2.67 xERA / .257 xwOBA. Both lineups are genuinely weak \u00e2\u20ac\u201d Bos",
-    "bankroll_after": "1028.29"
+    "bankroll_after": "1140.28"
   },
   {
     "date": "2026-06-21",
@@ -3389,6 +3389,6 @@
     "result": "win",
     "pnl": "59.05",
     "reasoning_summary": "Clear, data-backed SP mismatch: Wheeler is elite and reliable (career 3.24 ERA / 3.04 xERA over 1791 IP, prior-year xERA 2.49) while Peterson is hittable (career 4.29 ERA, 4.82 xERA, 1.63 WHIP). The weak Mets lineup (.704 OPS, only Soto a threat) fac",
-    "bankroll_after": "1087.34"
+    "bankroll_after": "1199.33"
   }
 ]
