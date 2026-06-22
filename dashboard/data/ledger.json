@@ -3406,5 +3406,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear career-data SP edge for Cleveland: Williams (career 3.60 ERA/1.26 WHIP, 417 IP) vs Kay (career 5.15 ERA/1.53 WHIP, 155 IP, 5.64 xERA, .363 xwOBA allowed). Williams' 7-ER last start and current xERA are small-sample noise to discount per reliabi",
     "bankroll_after": "1139.34"
+  },
+  {
+    "date": "2026-06-22",
+    "game": "Houston Astros @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Houston Astros",
+    "odds": "111.0",
+    "line": "118.0",
+    "units": "1",
+    "stake_usd": "60.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Houston is the rare road dog with both the SP and lineup edge. Hunter Brown's profile is stronger than the price implies \u00e2\u20ac\u201d career 3.42 ERA over 547 IP, prior-year xERA 3.14 and current xwOBA .232 (elite contact suppression), versus Cease's career 3",
+    "bankroll_after": "1079.34"
   }
 ]
