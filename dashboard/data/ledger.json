@@ -3422,5 +3422,21 @@
     "pnl": "-60.0",
     "reasoning_summary": "Houston is the rare road dog with both the SP and lineup edge. Hunter Brown's profile is stronger than the price implies \u00e2\u20ac\u201d career 3.42 ERA over 547 IP, prior-year xERA 3.14 and current xwOBA .232 (elite contact suppression), versus Cease's career 3",
     "bankroll_after": "1079.32"
+  },
+  {
+    "date": "2026-06-23",
+    "game": "Baltimore Orioles @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Baltimore Orioles",
+    "odds": "-149.0",
+    "line": "-155.0",
+    "units": "1",
+    "stake_usd": "54.0",
+    "confidence_score": "63",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, clean starting-pitcher mismatch: Baz is an established competent arm (career 4.20 ERA/375 IP) in solid recent form, while Johnson is a struggling rookie getting shelled (12.83 ERA, 2.33 WHIP, 5.4 BB/9, career 9.96 over 28 IP). The 1H ML is the",
+    "bankroll_after": "1025.32"
   }
 ]
