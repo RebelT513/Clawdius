@@ -3418,8 +3418,8 @@
     "units": "1",
     "stake_usd": "60.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-60.0",
     "reasoning_summary": "Houston is the rare road dog with both the SP and lineup edge. Hunter Brown's profile is stronger than the price implies \u00e2\u20ac\u201d career 3.42 ERA over 547 IP, prior-year xERA 3.14 and current xwOBA .232 (elite contact suppression), versus Cease's career 3",
     "bankroll_after": "1079.34"
   }
