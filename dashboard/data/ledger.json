@@ -3438,5 +3438,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large, clean starting-pitcher mismatch: Baz is an established competent arm (career 4.20 ERA/375 IP) in solid recent form, while Johnson is a struggling rookie getting shelled (12.83 ERA, 2.33 WHIP, 5.4 BB/9, career 9.96 over 28 IP). The 1H ML is the",
     "bankroll_after": "1025.32"
+  },
+  {
+    "date": "2026-06-23",
+    "game": "Cleveland Guardians @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "-111.0",
+    "line": "-114.0",
+    "units": "1",
+    "stake_usd": "54.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Messick is the clearly superior starter \u00e2\u20ac\u201d career 2.71 ERA / 1.16 WHIP over 126 IP with a 3.07 prior-year xERA and 9+ K/9 \u00e2\u20ac\u201d versus Burke's league-average career 3.88 ERA / 1.33 WHIP and 3.99 xERA. That SP gap alone supports a Guardians lean, and i",
+    "bankroll_after": "971.3199999999999"
   }
 ]
