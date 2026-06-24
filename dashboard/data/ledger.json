@@ -3450,9 +3450,9 @@
     "units": "1",
     "stake_usd": "54.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-54.0",
     "reasoning_summary": "Messick is the clearly superior starter \u00e2\u20ac\u201d career 2.71 ERA / 1.16 WHIP over 126 IP with a 3.07 prior-year xERA and 9+ K/9 \u00e2\u20ac\u201d versus Burke's league-average career 3.88 ERA / 1.33 WHIP and 3.99 xERA. That SP gap alone supports a Guardians lean, and i",
-    "bankroll_after": "971.3199999999999"
+    "bankroll_after": "971.32"
   }
 ]
