@@ -3486,5 +3486,21 @@
     "pnl": "45.37",
     "reasoning_summary": "Oracle Park is an extreme run-suppressing venue with cold, calm conditions, and Chris Sale (elite, career 2.98 ERA / 3.44 xERA over 2168 IP) neutralizes the Giants' stronger lineup. Robbie Ray is below-average and wild, but the Braves' offense thins ",
     "bankroll_after": "967.69"
+  },
+  {
+    "date": "2026-06-28",
+    "game": "New York Yankees @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "1h_totals",
+    "selection": "u4",
+    "odds": "-103.0",
+    "line": "4.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The first five innings is a pure starter matchup between two career-proven RHP \u00e2\u20ac\u201d Gray (career 3.56 ERA / 1994 IP, hot recently with 11K/1ER and 1ER outings) and Rod\u00c3\u00b3n (career 3.73 / 1323 IP, solid). Both clear the reliable-data and sub-3.80 career",
+    "bankroll_after": "919.69"
   }
 ]
