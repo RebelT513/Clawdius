@@ -3466,8 +3466,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "Two genuinely poor starters in a run-friendly setup: Civale is imploding (15 ER over his last 11 IP, xERA 5.30) despite a respectable career line, and Aldegheri is wild and hittable (1.50 WHIP, 4.4 BB/9, 5.96 career ERA). The Athletics bullpen is hea",
     "bankroll_after": "922.32"
   },
