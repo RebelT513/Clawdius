@@ -3482,9 +3482,9 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "45.37",
     "reasoning_summary": "Oracle Park is an extreme run-suppressing venue with cold, calm conditions, and Chris Sale (elite, career 2.98 ERA / 3.44 xERA over 2168 IP) neutralizes the Giants' stronger lineup. Robbie Ray is below-average and wild, but the Braves' offense thins ",
-    "bankroll_after": "873.32"
+    "bankroll_after": "967.69"
   }
 ]
