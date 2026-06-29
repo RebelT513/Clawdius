@@ -3534,5 +3534,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Strong 15+ mph tailwind straight out to CF at Wrigley is a mandatory over signal, and the offensive case compounds it: the Cubs' solid lineup (.744 OPS) faces Griffin Canning, a career 4.84-ERA arm who is walking the park this year (5.5 BB/9, .350 xw",
     "bankroll_after": "912.29"
+  },
+  {
+    "date": "2026-06-29",
+    "game": "San Francisco Giants @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Francisco Giants",
+    "odds": "119.0",
+    "line": "116.0",
+    "units": "1",
+    "stake_usd": "51.0",
+    "confidence_score": "50",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "E-Rod's 2.27 ERA sits on a 4.82 xERA (heavy regression risk), while Mahle's 5.49 ERA masks a stable 4.35 xERA over 268 PA \u00e2\u20ac\u201d on contact quality Mahle grades better than the home starter. SF also has the clearly stronger lineup (.778 vs .705 OPS), wi",
+    "bankroll_after": "861.29"
   }
 ]
