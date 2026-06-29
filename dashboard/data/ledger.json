@@ -3498,9 +3498,9 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "46.6",
     "reasoning_summary": "The first five innings is a pure starter matchup between two career-proven RHP \u00e2\u20ac\u201d Gray (career 3.56 ERA / 1994 IP, hot recently with 11K/1ER and 1ER outings) and Rod\u00c3\u00b3n (career 3.73 / 1323 IP, solid). Both clear the reliable-data and sub-3.80 career",
-    "bankroll_after": "919.69"
+    "bankroll_after": "1014.29"
   }
 ]
