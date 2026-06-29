@@ -3502,5 +3502,21 @@
     "pnl": "46.6",
     "reasoning_summary": "The first five innings is a pure starter matchup between two career-proven RHP \u00e2\u20ac\u201d Gray (career 3.56 ERA / 1994 IP, hot recently with 11K/1ER and 1ER outings) and Rod\u00c3\u00b3n (career 3.73 / 1323 IP, solid). Both clear the reliable-data and sub-3.80 career",
     "bankroll_after": "1014.29"
+  },
+  {
+    "date": "2026-06-29",
+    "game": "Chicago White Sox @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "119.0",
+    "line": "125.0",
+    "units": "1",
+    "stake_usd": "51.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "By late June both starters have ~90 IP, so current-year stats are signal, not noise \u00e2\u20ac\u201d and Burke is the cleaner arm: xERA 3.95 vs Baz's 4.54, xwOBA .310 vs .330, WHIP 1.21 vs 1.38. Prior-year context narrows the gap (Baz was better in 2025, Burke wo",
+    "bankroll_after": "963.29"
   }
 ]
