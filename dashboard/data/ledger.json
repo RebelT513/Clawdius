@@ -3530,8 +3530,8 @@
     "units": "1",
     "stake_usd": "51.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-51.0",
     "reasoning_summary": "Strong 15+ mph tailwind straight out to CF at Wrigley is a mandatory over signal, and the offensive case compounds it: the Cubs' solid lineup (.744 OPS) faces Griffin Canning, a career 4.84-ERA arm who is walking the park this year (5.5 BB/9, .350 xw",
     "bankroll_after": "1024.05"
   },
