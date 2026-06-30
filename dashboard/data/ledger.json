@@ -3582,5 +3582,21 @@
     "pnl": "0.0",
     "reasoning_summary": "deGrom is a genuine ace (2.63 career ERA over 1628 IP, 3.50 xERA, 10.8 K/9) facing Bibee, a league-average arm with regression flags (4.63 current xERA, .333 xwOBA). The 1H is a pure starter matchup and isolates deGrom's clear edge while dodging Texa",
     "bankroll_after": "875.05"
+  },
+  {
+    "date": "2026-06-30",
+    "game": "New York Mets @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Mets",
+    "odds": "105.0",
+    "line": "102.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "McLean is the better starter here on the metric that matters most this season: xERA 3.43 (prior 3.51) and xwOBA .290 vs Gausman's 3.71 xERA / .301 xwOBA, with a clear K/9 edge (10.7 vs 8.8) and lower WHIP (1.12 vs 1.19). The full-game ML also capture",
+    "bankroll_after": "826.05"
   }
 ]
