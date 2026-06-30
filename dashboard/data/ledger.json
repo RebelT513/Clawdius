@@ -3550,5 +3550,21 @@
     "pnl": "-51.0",
     "reasoning_summary": "E-Rod's 2.27 ERA sits on a 4.82 xERA (heavy regression risk), while Mahle's 5.49 ERA masks a stable 4.35 xERA over 268 PA \u00e2\u20ac\u201d on contact quality Mahle grades better than the home starter. SF also has the clearly stronger lineup (.778 vs .705 OPS), wi",
     "bankroll_after": "973.05"
+  },
+  {
+    "date": "2026-06-30",
+    "game": "Pittsburgh Pirates @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-104.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "STRONG_OUT wind (+10.4 mph tailwind to CF) at hitter-friendly Citizens Bank Park is the dominant signal. S\u00c3\u00a1nchez's 2.13 ERA masks a 3.00 xERA and he's been hittable in 2 of his last 3 (9 ER over 10.2 IP), signaling regression. Chandler's BB/9 of 5.2",
+    "bankroll_after": "924.05"
   }
 ]
