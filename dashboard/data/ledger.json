@@ -3598,5 +3598,21 @@
     "pnl": "0.0",
     "reasoning_summary": "McLean is the better starter here on the metric that matters most this season: xERA 3.43 (prior 3.51) and xwOBA .290 vs Gausman's 3.71 xERA / .301 xwOBA, with a clear K/9 edge (10.7 vs 8.8) and lower WHIP (1.12 vs 1.19). The full-game ML also capture",
     "bankroll_after": "826.05"
+  },
+  {
+    "date": "2026-06-30",
+    "game": "San Diego Padres @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o11.5",
+    "odds": "100.0",
+    "line": "11.5",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Neither starter projects as a run-suppressor: Sears carries a 4.51 career ERA / 4.24 prior-year xERA, and Boyd sits at 4.30 xERA this year over 28.2 IP with an inflated 5.02 ERA \u00e2\u20ac\u201d both are roughly league-average arms, not the dual-quality pairing a",
+    "bankroll_after": "777.05"
   }
 ]
