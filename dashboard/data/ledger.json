@@ -3566,5 +3566,21 @@
     "pnl": "0.0",
     "reasoning_summary": "STRONG_OUT wind (+10.4 mph tailwind to CF) at hitter-friendly Citizens Bank Park is the dominant signal. S\u00c3\u00a1nchez's 2.13 ERA masks a 3.00 xERA and he's been hittable in 2 of his last 3 (9 ER over 10.2 IP), signaling regression. Chandler's BB/9 of 5.2",
     "bankroll_after": "924.05"
+  },
+  {
+    "date": "2026-06-30",
+    "game": "Texas Rangers @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Texas Rangers",
+    "odds": "-141.0",
+    "line": "-135.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "deGrom is a genuine ace (2.63 career ERA over 1628 IP, 3.50 xERA, 10.8 K/9) facing Bibee, a league-average arm with regression flags (4.63 current xERA, .333 xwOBA). The 1H is a pure starter matchup and isolates deGrom's clear edge while dodging Texa",
+    "bankroll_after": "875.05"
   }
 ]
