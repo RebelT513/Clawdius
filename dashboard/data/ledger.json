@@ -3646,5 +3646,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clean first-5 SP mismatch favoring the road underdog: Melton (xERA 3.36, WHIP 0.85, xwOBA .287, strong recent form) clearly outclasses Warren (xERA 4.11, WHIP 1.36, career 4.72 ERA, hittable in recent starts). The full-game market prices NYY -141 on ",
     "bankroll_after": "926.68"
+  },
+  {
+    "date": "2026-07-01",
+    "game": "Tampa Bay Rays @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o10.5",
+    "odds": "-108.0",
+    "line": "10.5",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "STRONG_OUT wind (17 mph, +14.8 mph tailwind to CF) at Kauffman pairs with two below-average pitchers by predictive metric: McClanahan xERA 4.31 (xwOBA .322) despite a shiny 3.07 career ERA, and Lugo xERA 5.27 / xwOBA .352, a genuinely hittable profil",
+    "bankroll_after": "877.68"
   }
 ]
