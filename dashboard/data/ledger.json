@@ -3630,5 +3630,21 @@
     "pnl": "-49.0",
     "reasoning_summary": "SF holds a clear double edge yet is priced at even money: Roupp (career 3.85 ERA, 3.28 xERA, .284 xwOBA over real sample) is a markedly better, more reliable starter than Pfaadt (career 5.19 ERA, 5.26 xERA), who is making what looks like a first star",
     "bankroll_after": "975.68"
+  },
+  {
+    "date": "2026-07-01",
+    "game": "Detroit Tigers @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Detroit Tigers",
+    "odds": "110.0",
+    "line": "106.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clean first-5 SP mismatch favoring the road underdog: Melton (xERA 3.36, WHIP 0.85, xwOBA .287, strong recent form) clearly outclasses Warren (xERA 4.11, WHIP 1.36, career 4.72 ERA, hittable in recent starts). The full-game market prices NYY -141 on ",
+    "bankroll_after": "926.68"
   }
 ]
