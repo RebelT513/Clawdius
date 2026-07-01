@@ -3562,8 +3562,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "STRONG_OUT wind (+10.4 mph tailwind to CF) at hitter-friendly Citizens Bank Park is the dominant signal. S\u00c3\u00a1nchez's 2.13 ERA masks a 3.00 xERA and he's been hittable in 2 of his last 3 (9 ER over 10.2 IP), signaling regression. Chandler's BB/9 of 5.2",
     "bankroll_after": "924.05"
   },
