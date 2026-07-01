@@ -3626,8 +3626,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "SF holds a clear double edge yet is priced at even money: Roupp (career 3.85 ERA, 3.28 xERA, .284 xwOBA over real sample) is a markedly better, more reliable starter than Pfaadt (career 5.19 ERA, 5.26 xERA), who is making what looks like a first star",
     "bankroll_after": "975.68"
   }
