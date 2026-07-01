@@ -3578,10 +3578,10 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "57",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "deGrom is a genuine ace (2.63 career ERA over 1628 IP, 3.50 xERA, 10.8 K/9) facing Bibee, a league-average arm with regression flags (4.63 current xERA, .333 xwOBA). The 1H is a pure starter matchup and isolates deGrom's clear edge while dodging Texa",
-    "bankroll_after": "875.05"
+    "bankroll_after": "924.05"
   },
   {
     "date": "2026-06-30",
@@ -3597,7 +3597,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "McLean is the better starter here on the metric that matters most this season: xERA 3.43 (prior 3.51) and xwOBA .290 vs Gausman's 3.71 xERA / .301 xwOBA, with a clear K/9 edge (10.7 vs 8.8) and lower WHIP (1.12 vs 1.19). The full-game ML also capture",
-    "bankroll_after": "826.05"
+    "bankroll_after": "875.05"
   },
   {
     "date": "2026-06-30",
@@ -3613,7 +3613,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Neither starter projects as a run-suppressor: Sears carries a 4.51 career ERA / 4.24 prior-year xERA, and Boyd sits at 4.30 xERA this year over 28.2 IP with an inflated 5.02 ERA \u00e2\u20ac\u201d both are roughly league-average arms, not the dual-quality pairing a",
-    "bankroll_after": "777.05"
+    "bankroll_after": "826.05"
   },
   {
     "date": "2026-06-30",
@@ -3629,6 +3629,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "SF holds a clear double edge yet is priced at even money: Roupp (career 3.85 ERA, 3.28 xERA, .284 xwOBA over real sample) is a markedly better, more reliable starter than Pfaadt (career 5.19 ERA, 5.26 xERA), who is making what looks like a first star",
-    "bankroll_after": "728.05"
+    "bankroll_after": "777.05"
   }
 ]
