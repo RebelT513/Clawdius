@@ -3658,8 +3658,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "STRONG_OUT wind (17 mph, +14.8 mph tailwind to CF) at Kauffman pairs with two below-average pitchers by predictive metric: McClanahan xERA 4.31 (xwOBA .322) despite a shiny 3.07 career ERA, and Lugo xERA 5.27 / xwOBA .352, a genuinely hittable profil",
     "bankroll_after": "980.58"
   }
