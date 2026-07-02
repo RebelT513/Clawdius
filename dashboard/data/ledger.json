@@ -3674,9 +3674,9 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "51",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "55.61",
     "reasoning_summary": "The pitching matchup is close to a wash between two below-average arms \u2014 Jones carries a mediocre but real 146 IP career track record (4.42 ERA, 4.81 xERA), while Rangel is a near-unknown with only 23 career IP whose prior-year xERA was 5.77 (his 2.9",
-    "bankroll_after": "931.58"
+    "bankroll_after": "1036.19"
   }
 ]
