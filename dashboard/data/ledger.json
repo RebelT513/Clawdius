@@ -3662,5 +3662,21 @@
     "pnl": "-49.0",
     "reasoning_summary": "STRONG_OUT wind (17 mph, +14.8 mph tailwind to CF) at Kauffman pairs with two below-average pitchers by predictive metric: McClanahan xERA 4.31 (xwOBA .322) despite a shiny 3.07 career ERA, and Lugo xERA 5.27 / xwOBA .352, a genuinely hittable profil",
     "bankroll_after": "980.58"
+  },
+  {
+    "date": "2026-07-02",
+    "game": "Pittsburgh Pirates @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "113.0",
+    "line": "110.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The pitching matchup is close to a wash between two below-average arms \u2014 Jones carries a mediocre but real 146 IP career track record (4.42 ERA, 4.81 xERA), while Rangel is a near-unknown with only 23 career IP whose prior-year xERA was 5.77 (his 2.9",
+    "bankroll_after": "931.58"
   }
 ]
