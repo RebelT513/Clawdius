@@ -3690,9 +3690,9 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "50.98",
     "reasoning_summary": "This is a genuine SP mismatch on current-season data with reliable samples: Pallante (89.1 IP, 3.79 xERA, 1.23 WHIP) is running more than a full run better than Peterson (73.2 IP, 4.86 xERA, 1.59 WHIP), and both samples are well past the 30-IP reliab",
-    "bankroll_after": "984.19"
+    "bankroll_after": "1087.17"
   }
 ]
