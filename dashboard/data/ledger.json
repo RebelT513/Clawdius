@@ -3774,5 +3774,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a surface-stat mirage matchup: Quantrill's 3.31 ERA hides a 4.83 xERA and a 5.81 prior-year xERA, while Flaherty's 4.97 ERA overstates his decline (4.39 xERA, 3.99 prior year, career 3.88 over 1061 IP) \u2014 a ~1.8-run gap in the most reliable St",
     "bankroll_after": "913.17"
+  },
+  {
+    "date": "2026-07-04",
+    "game": "Milwaukee Brewers @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "-147.0",
+    "line": "-153.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "63",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is one of the largest reliable-sample SP mismatches available: Woodruff (2.84 xERA on 160 PA, 2.22 prior-year xERA, .264 xwOBA, 0 ER across his last two starts) against Kelly, whose 7.57 xERA and .408 xwOBA over 362 PA (81.2 IP) is a full-sample",
+    "bankroll_after": "856.17"
   }
 ]
