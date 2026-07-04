@@ -3726,5 +3726,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch in the first five: Matthews has a real 2026 sample (56.1 IP, 4.27 xERA, 1.9 BB/9) and three straight quality starts against strong lineups (HOU, LAD, TEX), while Beck has 3 career MLB innings with no reliable track record and severe",
     "bankroll_after": "1084.17"
+  },
+  {
+    "date": "2026-07-04",
+    "game": "Miami Marlins @ Athletics",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Miami Marlins",
+    "odds": "-125.0",
+    "line": "-115.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a first-half structural spot: Alcantara (career 3.70 ERA over 1191 IP, current xERA 3.90 on a real 486-PA sample) holds a large in-season gap over Civale (xERA 5.33, 1.57 WHIP, and outings of 3.0/4.0/5.0 IP in his last three \u2014 both pitchers w",
+    "bankroll_after": "1027.17"
   }
 ]
