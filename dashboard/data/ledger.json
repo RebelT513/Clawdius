@@ -3742,5 +3742,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a first-half structural spot: Alcantara (career 3.70 ERA over 1191 IP, current xERA 3.90 on a real 486-PA sample) holds a large in-season gap over Civale (xERA 5.33, 1.57 WHIP, and outings of 3.0/4.0/5.0 IP in his last three \u2014 both pitchers w",
     "bankroll_after": "1027.17"
+  },
+  {
+    "date": "2026-07-04",
+    "game": "Pittsburgh Pirates @ Washington Nationals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-152.0",
+    "line": "-157.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "63",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Enormous and reliably-documented SP gap: Ashcraft has a 3.07 xERA over 416 PA this season and a 3.08 career ERA across 172 IP, while Palmquist owns a career 8.15 ERA / 1.94 WHIP with 6.0 BB/9 and a 6.27 prior-year xERA \u2014 his 2.08 season ERA covers ju",
+    "bankroll_after": "970.1700000000001"
   }
 ]
