@@ -3706,9 +3706,9 @@
     "units": "1",
     "stake_usd": "54.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "54.0",
     "reasoning_summary": "The full-game market moved sharply from near pick'em to Boston -158, but the 1H line still prices Boston as a +105 underdog \u2014 an internal inversion, since the 1H is the most SP-driven segment and Boston has the better current arm (Bennett xERA 2.65, ",
-    "bankroll_after": "1033.17"
+    "bankroll_after": "1141.17"
   }
 ]
