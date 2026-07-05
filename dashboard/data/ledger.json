@@ -3738,10 +3738,10 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "45.6",
     "reasoning_summary": "This is a first-half structural spot: Alcantara (career 3.70 ERA over 1191 IP, current xERA 3.90 on a real 486-PA sample) holds a large in-season gap over Civale (xERA 5.33, 1.57 WHIP, and outings of 3.0/4.0/5.0 IP in his last three \u2014 both pitchers w",
-    "bankroll_after": "1173.09"
+    "bankroll_after": "1275.69"
   },
   {
     "date": "2026-07-04",
@@ -3757,7 +3757,7 @@
     "result": "win",
     "pnl": "37.66",
     "reasoning_summary": "Enormous and reliably-documented SP gap: Ashcraft has a 3.07 xERA over 416 PA this season and a 3.08 career ERA across 172 IP, while Palmquist owns a career 8.15 ERA / 1.94 WHIP with 6.0 BB/9 and a 6.27 prior-year xERA \u2014 his 2.08 season ERA covers ju",
-    "bankroll_after": "1210.75"
+    "bankroll_after": "1313.35"
   },
   {
     "date": "2026-07-04",
@@ -3773,7 +3773,7 @@
     "result": "win",
     "pnl": "45.97",
     "reasoning_summary": "This is a surface-stat mirage matchup: Quantrill's 3.31 ERA hides a 4.83 xERA and a 5.81 prior-year xERA, while Flaherty's 4.97 ERA overstates his decline (4.39 xERA, 3.99 prior year, career 3.88 over 1061 IP) \u2014 a ~1.8-run gap in the most reliable St",
-    "bankroll_after": "1256.72"
+    "bankroll_after": "1359.32"
   },
   {
     "date": "2026-07-04",
@@ -3789,7 +3789,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is one of the largest reliable-sample SP mismatches available: Woodruff (2.84 xERA on 160 PA, 2.22 prior-year xERA, .264 xwOBA, 0 ER across his last two starts) against Kelly, whose 7.57 xERA and .408 xwOBA over 362 PA (81.2 IP) is a full-sample",
-    "bankroll_after": "1199.72"
+    "bankroll_after": "1302.32"
   },
   {
     "date": "2026-07-04",
@@ -3805,6 +3805,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Large, reliable SP mismatch: Gray (career 3.54 ERA / 2001 IP, xERA 3.61, xwOBA .296, three straight dominant starts) vs Aldegheri (career 5.59 ERA, 1.74 WHIP, xERA 5.06, two of last three starts blown up early), compounded by a lineup gap (.758 vs .6",
-    "bankroll_after": "1133.72"
+    "bankroll_after": "1236.32"
   }
 ]
