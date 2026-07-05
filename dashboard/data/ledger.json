@@ -3870,5 +3870,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP quality mismatch favoring the road team: Yesavage carries a 3.19 xERA (274 PA, well past the reliability threshold) with three straight strong starts, while Hancock's 3.47 ERA masks a 4.48 xERA, 4.33 career ERA over 253 IP, and a 5.51 prior-",
     "bankroll_after": "1094.25"
+  },
+  {
+    "date": "2026-07-05",
+    "game": "Minnesota Twins @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Minnesota Twins",
+    "odds": "-102.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Real SP mismatch with reliable data on both sides: Ryan (xERA 3.21 this year, 3.43 prior, career 3.76 over 738 IP, 0.280 xwOBA) clearly outclasses Weathers, whose 4.08 ERA hides a 4.64 xERA and 0.332 xwOBA consistent with his 4.73 career mark. The 1H",
+    "bankroll_after": "1026.25"
   }
 ]
