@@ -3838,5 +3838,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP quality gap that the near-pickem market underprices in the first half: Bradish carries a 3.53 career ERA over 450 IP with a 3.99 current xERA (.310 xwOBA), while Lodolo's 6.11 xERA and .374 xwOBA over 231 PA show badly degraded contact quali",
     "bankroll_after": "1230.25"
+  },
+  {
+    "date": "2026-07-05",
+    "game": "Detroit Tigers @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "-113.0",
+    "line": "-117.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, reliably-sampled SP mismatch: Mize has a 2.82 xERA over 253 PA (65 IP, past the reliability threshold) with a career 3.99 baseline and prior-year 3.66 xERA supporting a real breakout, while Rocker's 4.51 xERA (344 PA) sits worse than his 3.83 ",
+    "bankroll_after": "1162.25"
   }
 ]
