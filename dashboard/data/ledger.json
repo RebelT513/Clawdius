@@ -3898,8 +3898,8 @@
     "units": "1",
     "stake_usd": "68.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-68.0",
     "reasoning_summary": "Strong 13+ mph wind blowing in at Wrigley is a major run-suppression signal that affects both offenses, and the total moved from 8 to 8.5, giving the best number in the market range with a half run of cushion against a shaky Liberatore start. Both li",
     "bankroll_after": "1223.88"
   }
