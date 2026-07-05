@@ -3822,5 +3822,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large, reliable SP quality gap: McLean's career 3.20 ERA/143 IP and stable ~3.5 xERA across two seasons (.290 xwOBA, 10.7 K/9) against P\u00e9rez, whose 3.27 ERA masks a 4.36 xERA matching his 4.36 career ERA over 1708 IP, with regression visible in his l",
     "bankroll_after": "1298.25"
+  },
+  {
+    "date": "2026-07-05",
+    "game": "Baltimore Orioles @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Baltimore Orioles",
+    "odds": "-107.0",
+    "line": "-109.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP quality gap that the near-pickem market underprices in the first half: Bradish carries a 3.53 career ERA over 450 IP with a 3.99 current xERA (.310 xwOBA), while Lodolo's 6.11 xERA and .374 xwOBA over 231 PA show badly degraded contact quali",
+    "bankroll_after": "1230.25"
   }
 ]
