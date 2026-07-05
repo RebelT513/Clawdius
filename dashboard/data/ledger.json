@@ -3818,10 +3818,10 @@
     "units": "1",
     "stake_usd": "68.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "62.96",
     "reasoning_summary": "Large, reliable SP quality gap: McLean's career 3.20 ERA/143 IP and stable ~3.5 xERA across two seasons (.290 xwOBA, 10.7 K/9) against P\u00e9rez, whose 3.27 ERA masks a 4.36 xERA matching his 4.36 career ERA over 1708 IP, with regression visible in his l",
-    "bankroll_after": "1298.25"
+    "bankroll_after": "1429.21"
   },
   {
     "date": "2026-07-05",
@@ -3837,7 +3837,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Clear SP quality gap that the near-pickem market underprices in the first half: Bradish carries a 3.53 career ERA over 450 IP with a 3.99 current xERA (.310 xwOBA), while Lodolo's 6.11 xERA and .374 xwOBA over 231 PA show badly degraded contact quali",
-    "bankroll_after": "1230.25"
+    "bankroll_after": "1361.21"
   },
   {
     "date": "2026-07-05",
@@ -3853,7 +3853,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Large, reliably-sampled SP mismatch: Mize has a 2.82 xERA over 253 PA (65 IP, past the reliability threshold) with a career 3.99 baseline and prior-year 3.66 xERA supporting a real breakout, while Rocker's 4.51 xERA (344 PA) sits worse than his 3.83 ",
-    "bankroll_after": "1162.25"
+    "bankroll_after": "1293.21"
   },
   {
     "date": "2026-07-05",
@@ -3869,7 +3869,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP quality mismatch favoring the road team: Yesavage carries a 3.19 xERA (274 PA, well past the reliability threshold) with three straight strong starts, while Hancock's 3.47 ERA masks a 4.48 xERA, 4.33 career ERA over 253 IP, and a 5.51 prior-",
-    "bankroll_after": "1094.25"
+    "bankroll_after": "1225.21"
   },
   {
     "date": "2026-07-05",
@@ -3885,7 +3885,7 @@
     "result": "win",
     "pnl": "66.67",
     "reasoning_summary": "Real SP mismatch with reliable data on both sides: Ryan (xERA 3.21 this year, 3.43 prior, career 3.76 over 738 IP, 0.280 xwOBA) clearly outclasses Weathers, whose 4.08 ERA hides a 4.64 xERA and 0.332 xwOBA consistent with his 4.73 career mark. The 1H",
-    "bankroll_after": "1160.92"
+    "bankroll_after": "1291.88"
   },
   {
     "date": "2026-07-05",
@@ -3901,6 +3901,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Strong 13+ mph wind blowing in at Wrigley is a major run-suppression signal that affects both offenses, and the total moved from 8 to 8.5, giving the best number in the market range with a half run of cushion against a shaky Liberatore start. Both li",
-    "bankroll_after": "1092.92"
+    "bankroll_after": "1223.88"
   }
 ]
