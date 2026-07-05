@@ -3790,5 +3790,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is one of the largest reliable-sample SP mismatches available: Woodruff (2.84 xERA on 160 PA, 2.22 prior-year xERA, .264 xwOBA, 0 ER across his last two starts) against Kelly, whose 7.57 xERA and .408 xwOBA over 362 PA (81.2 IP) is a full-sample",
     "bankroll_after": "1199.72"
+  },
+  {
+    "date": "2026-07-04",
+    "game": "Boston Red Sox @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Boston Red Sox -1.5",
+    "odds": "-104.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "66.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, reliable SP mismatch: Gray (career 3.54 ERA / 2001 IP, xERA 3.61, xwOBA .296, three straight dominant starts) vs Aldegheri (career 5.59 ERA, 1.74 WHIP, xERA 5.06, two of last three starts blown up early), compounded by a lineup gap (.758 vs .6",
+    "bankroll_after": "1133.72"
   }
 ]
