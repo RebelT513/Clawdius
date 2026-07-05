@@ -3882,10 +3882,10 @@
     "units": "1",
     "stake_usd": "68.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "66.67",
     "reasoning_summary": "Real SP mismatch with reliable data on both sides: Ryan (xERA 3.21 this year, 3.43 prior, career 3.76 over 738 IP, 0.280 xwOBA) clearly outclasses Weathers, whose 4.08 ERA hides a 4.64 xERA and 0.332 xwOBA consistent with his 4.73 career mark. The 1H",
-    "bankroll_after": "1026.25"
+    "bankroll_after": "1160.92"
   },
   {
     "date": "2026-07-05",
@@ -3901,6 +3901,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Strong 13+ mph wind blowing in at Wrigley is a major run-suppression signal that affects both offenses, and the total moved from 8 to 8.5, giving the best number in the market range with a half run of cushion against a shaky Liberatore start. Both li",
-    "bankroll_after": "958.25"
+    "bankroll_after": "1092.92"
   }
 ]
