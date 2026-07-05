@@ -3834,8 +3834,8 @@
     "units": "1",
     "stake_usd": "68.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-68.0",
     "reasoning_summary": "Clear SP quality gap that the near-pickem market underprices in the first half: Bradish carries a 3.53 career ERA over 450 IP with a 3.99 current xERA (.310 xwOBA), while Lodolo's 6.11 xERA and .374 xwOBA over 231 PA show badly degraded contact quali",
     "bankroll_after": "1230.25"
   },
