@@ -3902,5 +3902,21 @@
     "pnl": "-68.0",
     "reasoning_summary": "Strong 13+ mph wind blowing in at Wrigley is a major run-suppression signal that affects both offenses, and the total moved from 8 to 8.5, giving the best number in the market range with a half run of cushion against a shaky Liberatore start. Both li",
     "bankroll_after": "1352.19"
+  },
+  {
+    "date": "2026-07-06",
+    "game": "New York Yankees @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "New York Yankees",
+    "odds": "-111.0",
+    "line": "-106.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large SP mismatch defines the first five innings: Schlittler carries a 3.14 xERA / .277 xwOBA over a meaningful 414 PA sample (104 IP, career 2.44 ERA), while Jax sits at 5.37 xERA / .354 xwOBA over 248 PA as a converted reliever, so the contact-qual",
+    "bankroll_after": "1284.19"
   }
 ]
