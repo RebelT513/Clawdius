@@ -3934,5 +3934,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Peralta holds the real pitching edge despite the worse surface ERA: current xERA 3.77 (422 PA) vs Lopez's 4.61, with Lopez overperforming his contact quality (3.31 ERA vs 4.61 xERA) and carrying a career 3.90 vs Peralta's 3.70 over 1000+ IP. Lopez is",
     "bankroll_after": "1216.19"
+  },
+  {
+    "date": "2026-07-06",
+    "game": "Milwaukee Brewers @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Milwaukee Brewers",
+    "odds": "-111.0",
+    "line": "-115.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP edge to Drohan (3.33 xERA over 241 PA, three straight strong starts) over May, whose current-year xERA of 3.85 masks severe recent instability \u2014 11 ER over 2.2 IP across two of his last three starts, exactly the early-blowup profile that dec",
+    "bankroll_after": "1148.19"
   }
 ]
