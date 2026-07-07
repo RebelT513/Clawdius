@@ -3950,5 +3950,21 @@
     "pnl": "-68.0",
     "reasoning_summary": "Clear SP edge to Drohan (3.33 xERA over 241 PA, three straight strong starts) over May, whose current-year xERA of 3.85 masks severe recent instability \u2014 11 ER over 2.2 IP across two of his last three starts, exactly the early-blowup profile that dec",
     "bankroll_after": "1277.45"
+  },
+  {
+    "date": "2026-07-06",
+    "game": "Toronto Blue Jays @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Francisco Giants",
+    "odds": "-105.0",
+    "line": "-106.0",
+    "units": "1",
+    "stake_usd": "67.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market prices this near pick-em (SF -106 implied 51.5%), but the confirmed lineup gap is large: SF averages .788 OPS across nine spots versus Toronto's .676, with two sub-.600 OPS bats (Keys .571, Kirk .544) in Toronto's 5-6 holes. The pitching m",
+    "bankroll_after": "1210.45"
   }
 ]
