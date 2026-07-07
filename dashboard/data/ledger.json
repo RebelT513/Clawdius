@@ -3998,5 +3998,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Woo's underlying profile (career 3.40 ERA/0.99 WHIP over 495 IP, xERA 3.34, xwOBA .285) is clearly better than Meyer's (career 4.06/1.28, xERA 3.75 vs a luck-flattered 2.53 ERA, prior-year xERA 4.80). The full-game market moved sharply to Seattle (-1",
     "bankroll_after": "1337.09"
+  },
+  {
+    "date": "2026-07-07",
+    "game": "Kansas City Royals @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Kansas City Royals",
+    "odds": "124.0",
+    "line": "122.0",
+    "units": "1",
+    "stake_usd": "74.0",
+    "confidence_score": "49",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The home side is priced -143 while starting a converted reliever with a 6.01 xERA as an opener, backed by the most heavily taxed bullpen on the slate (three high-leverage arms with 2 appearances in 3 days). Kansas City has the structurally sounder pi",
+    "bankroll_after": "1263.09"
   }
 ]
