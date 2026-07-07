@@ -3966,5 +3966,21 @@
     "pnl": "64.38",
     "reasoning_summary": "The market prices this near pick-em (SF -106 implied 51.5%), but the confirmed lineup gap is large: SF averages .788 OPS across nine spots versus Toronto's .676, with two sub-.600 OPS bats (Keys .571, Kirk .544) in Toronto's 5-6 holes. The pitching m",
     "bankroll_after": "1485.09"
+  },
+  {
+    "date": "2026-07-07",
+    "game": "Boston Red Sox @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Boston Red Sox",
+    "odds": "-132.0",
+    "line": "-135.0",
+    "units": "1",
+    "stake_usd": "74.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a large, well-supported SP mismatch: Tolle carries a 3.19 xERA over 305 PA this season (74 IP, with a 3.87 career ERA over 90 IP backing it), while Schultz sits at 5.86 ERA / 5.49 xERA with a 5.4 BB/9 across his entire 43 IP career \u2014 a ~2.3-r",
+    "bankroll_after": "1411.09"
   }
 ]
