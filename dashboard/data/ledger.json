@@ -3962,9 +3962,9 @@
     "units": "1",
     "stake_usd": "67.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "64.38",
     "reasoning_summary": "The market prices this near pick-em (SF -106 implied 51.5%), but the confirmed lineup gap is large: SF averages .788 OPS across nine spots versus Toronto's .676, with two sub-.600 OPS bats (Keys .571, Kirk .544) in Toronto's 5-6 holes. The pitching m",
-    "bankroll_after": "1353.71"
+    "bankroll_after": "1485.09"
   }
 ]
