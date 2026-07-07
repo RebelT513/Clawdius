@@ -3946,8 +3946,8 @@
     "units": "1",
     "stake_usd": "68.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-68.0",
     "reasoning_summary": "Clear SP edge to Drohan (3.33 xERA over 241 PA, three straight strong starts) over May, whose current-year xERA of 3.85 masks severe recent instability \u2014 11 ER over 2.2 IP across two of his last three starts, exactly the early-blowup profile that dec",
     "bankroll_after": "1277.45"
   }
