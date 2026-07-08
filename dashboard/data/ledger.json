@@ -3994,8 +3994,8 @@
     "units": "1",
     "stake_usd": "74.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-74.0",
     "reasoning_summary": "Woo's underlying profile (career 3.40 ERA/0.99 WHIP over 495 IP, xERA 3.34, xwOBA .285) is clearly better than Meyer's (career 4.06/1.28, xERA 3.75 vs a luck-flattered 2.53 ERA, prior-year xERA 4.80). The full-game market moved sharply to Seattle (-1",
     "bankroll_after": "1337.09"
   },
