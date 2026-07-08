@@ -4030,5 +4030,21 @@
     "pnl": "-73.0",
     "reasoning_summary": "Toronto's starter Spencer Miles has not pitched in the majors since May 31 (over five weeks), his last outing was 3 IP / 6 ER / 3 BB, and his entire career is 54 IP \u2014 the market is pricing his 2.83 ERA / 3.29 xERA, but a layoff return means rust plus",
     "bankroll_after": "1486.06"
+  },
+  {
+    "date": "2026-07-08",
+    "game": "Heritage account credit (non-wager)",
+    "bet_type": "credit",
+    "market": "credit",
+    "selection": "cashback/rebate",
+    "odds": "0.0",
+    "line": "0.0",
+    "units": "0",
+    "stake_usd": "0.0",
+    "confidence_score": "0",
+    "result": "credit",
+    "pnl": "17.17",
+    "reasoning_summary": "Non-wager cash credit reconciled 2026-07-08. All 88 wagers since the 5/25 Heritage migration reconciled EXACTLY to Heritage's records; the $17.17 gap (Heritage $1503.23 vs computed $1486.06) is a non-wager credit (cashback/rebate, VIP-4). User confirmed in Heritage Account History.",
+    "bankroll_after": "1503.23"
   }
 ]
