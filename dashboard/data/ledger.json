@@ -4062,5 +4062,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear first-half starting-pitcher mismatch: Melton (career 2.41 ERA over 89 IP, xERA 3.08, xwOBA .274, and 0/1/1 ER across his last three starts) is genuinely good, while Springs is struggling and hittable (career xERA 4.30-4.62, and 6/3/6 ER in his ",
     "bankroll_after": "1428.23"
+  },
+  {
+    "date": "2026-07-08",
+    "game": "Kansas City Royals @ New York Mets",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-109.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "75.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters are pitching to ~4 innings per outing (Scott's last three: 4.0/4.1/4.2 IP; Cruz went 1.1 last time) and both are walk-prone (BB/9 4.6 and 5.1), so the game reaches the bullpens early. Both bullpens are heavily taxed with five relievers ",
+    "bankroll_after": "1353.23"
   }
 ]
