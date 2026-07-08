@@ -4014,5 +4014,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The home side is priced -143 while starting a converted reliever with a 6.01 xERA as an opener, backed by the most heavily taxed bullpen on the slate (three high-leverage arms with 2 appearances in 3 days). Kansas City has the structurally sounder pi",
     "bankroll_after": "1393.15"
+  },
+  {
+    "date": "2026-07-07",
+    "game": "Toronto Blue Jays @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Francisco Giants",
+    "odds": "102.0",
+    "line": "-107.0",
+    "units": "1",
+    "stake_usd": "73.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Toronto's starter Spencer Miles has not pitched in the majors since May 31 (over five weeks), his last outing was 3 IP / 6 ER / 3 BB, and his entire career is 54 IP \u2014 the market is pricing his 2.83 ERA / 3.29 xERA, but a layoff return means rust plus",
+    "bankroll_after": "1320.15"
   }
 ]
