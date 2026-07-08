@@ -3978,10 +3978,10 @@
     "units": "1",
     "stake_usd": "74.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "56.06",
     "reasoning_summary": "This is a large, well-supported SP mismatch: Tolle carries a 3.19 xERA over 305 PA this season (74 IP, with a 3.87 career ERA over 90 IP backing it), while Schultz sits at 5.86 ERA / 5.49 xERA with a 5.4 BB/9 across his entire 43 IP career \u2014 a ~2.3-r",
-    "bankroll_after": "1411.09"
+    "bankroll_after": "1541.15"
   },
   {
     "date": "2026-07-07",
@@ -3997,7 +3997,7 @@
     "result": "loss",
     "pnl": "-74.0",
     "reasoning_summary": "Woo's underlying profile (career 3.40 ERA/0.99 WHIP over 495 IP, xERA 3.34, xwOBA .285) is clearly better than Meyer's (career 4.06/1.28, xERA 3.75 vs a luck-flattered 2.53 ERA, prior-year xERA 4.80). The full-game market moved sharply to Seattle (-1",
-    "bankroll_after": "1337.09"
+    "bankroll_after": "1467.15"
   },
   {
     "date": "2026-07-07",
@@ -4013,6 +4013,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The home side is priced -143 while starting a converted reliever with a 6.01 xERA as an opener, backed by the most heavily taxed bullpen on the slate (three high-leverage arms with 2 appearances in 3 days). Kansas City has the structurally sounder pi",
-    "bankroll_after": "1263.09"
+    "bankroll_after": "1393.15"
   }
 ]
