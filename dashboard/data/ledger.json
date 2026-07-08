@@ -4078,5 +4078,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are pitching to ~4 innings per outing (Scott's last three: 4.0/4.1/4.2 IP; Cruz went 1.1 last time) and both are walk-prone (BB/9 4.6 and 5.1), so the game reaches the bullpens early. Both bullpens are heavily taxed with five relievers ",
     "bankroll_after": "1353.23"
+  },
+  {
+    "date": "2026-07-08",
+    "game": "Boston Red Sox @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Boston Red Sox",
+    "odds": "-107.0",
+    "line": "-104.0",
+    "units": "1",
+    "stake_usd": "75.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The first-5 is a pure SP matchup and Bennett is clearly the better arm: xERA 2.83 / xwOBA .263 with three strong recent starts, versus Martin's xERA 4.11 (career 3.98 over 352 IP, prior-year xERA 5.13) and a wobbly last outing (5 BB in 3.1 IP). Despi",
+    "bankroll_after": "1278.23"
   }
 ]
