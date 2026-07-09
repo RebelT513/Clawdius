@@ -4106,10 +4106,10 @@
     "units": "1",
     "stake_usd": "78.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "58.65",
     "reasoning_summary": "Clear starting-pitcher mismatch isolated to the first five innings. Peterson is genuinely struggling on a full current-season sample (6.75 ERA / 1.67 WHIP / 5.14 xERA over 77 IP) and specifically surrenders runs early \u2014 10 ER in 3.2 IP his last outin",
-    "bankroll_after": "1472.77"
+    "bankroll_after": "1609.42"
   },
   {
     "date": "2026-07-09",
@@ -4125,7 +4125,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Genuine starting-pitcher mismatch: Bryce Miller carries a career 3.74 ERA / 1.07 WHIP with a strong current-season xERA of 2.09 over a real 187-PA sample (xwOBA .226), while Janson Junk is a below-average arm (career 4.84 ERA, current xERA 4.00, xwOB",
-    "bankroll_after": "1394.77"
+    "bankroll_after": "1531.42"
   },
   {
     "date": "2026-07-09",
@@ -4141,7 +4141,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Henderson is the clear SP edge: career 2.23 ERA / 11.7 K/9 with a prior-year xERA of 3.69 improving to 2.98 this year and a 0.270 xwOBA \u2014 elite contact suppression and swing-and-miss versus Pallante, a career 4.20-ERA contact pitcher (6.3 career K/9)",
-    "bankroll_after": "1316.77"
+    "bankroll_after": "1453.42"
   },
   {
     "date": "2026-07-09",
@@ -4154,9 +4154,9 @@
     "units": "1",
     "stake_usd": "78.0",
     "confidence_score": "61",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-78.0",
     "reasoning_summary": "First five innings is a pure starter matchup, and it's a clear mismatch: Rasmussen is a reliably good arm (career 2.87 ERA / 3.17 xERA over 557 IP) while Blackburn's tidy 2.22 season ERA sits on just 44.2 IP over a career 4.73 ERA profile, plus irreg",
-    "bankroll_after": "1238.77"
+    "bankroll_after": "1375.42"
   }
 ]
