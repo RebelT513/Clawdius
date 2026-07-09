@@ -4074,8 +4074,8 @@
     "units": "1",
     "stake_usd": "75.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-75.0",
     "reasoning_summary": "Both starters are pitching to ~4 innings per outing (Scott's last three: 4.0/4.1/4.2 IP; Cruz went 1.1 last time) and both are walk-prone (BB/9 4.6 and 5.1), so the game reaches the bullpens early. Both bullpens are heavily taxed with five relievers ",
     "bankroll_after": "1480.68"
   },
