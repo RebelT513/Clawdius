@@ -4090,9 +4090,9 @@
     "units": "1",
     "stake_usd": "75.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "70.09",
     "reasoning_summary": "The first-5 is a pure SP matchup and Bennett is clearly the better arm: xERA 2.83 / xwOBA .263 with three strong recent starts, versus Martin's xERA 4.11 (career 3.98 over 352 IP, prior-year xERA 5.13) and a wobbly last outing (5 BB in 3.1 IP). Despi",
-    "bankroll_after": "1405.68"
+    "bankroll_after": "1550.77"
   }
 ]
