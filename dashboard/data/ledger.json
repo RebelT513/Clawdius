@@ -4126,5 +4126,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Genuine starting-pitcher mismatch: Bryce Miller carries a career 3.74 ERA / 1.07 WHIP with a strong current-season xERA of 2.09 over a real 187-PA sample (xwOBA .226), while Janson Junk is a below-average arm (career 4.84 ERA, current xERA 4.00, xwOB",
     "bankroll_after": "1394.77"
+  },
+  {
+    "date": "2026-07-09",
+    "game": "Milwaukee Brewers @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "-130.0",
+    "line": "-133.0",
+    "units": "1",
+    "stake_usd": "78.0",
+    "confidence_score": "59",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Henderson is the clear SP edge: career 2.23 ERA / 11.7 K/9 with a prior-year xERA of 3.69 improving to 2.98 this year and a 0.270 xwOBA \u2014 elite contact suppression and swing-and-miss versus Pallante, a career 4.20-ERA contact pitcher (6.3 career K/9)",
+    "bankroll_after": "1316.77"
   }
 ]
