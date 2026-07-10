@@ -4174,5 +4174,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Messick is the better starter tonight by every predictive metric \u2014 xERA 3.22 vs Alcantara's 3.78, 9.2 vs 6.7 K/9, and stronger current ERA/WHIP \u2014 yet Cleveland is available at even money on the road. The market leans Miami on home field and Alcantara",
     "bankroll_after": "1437.7"
+  },
+  {
+    "date": "2026-07-10",
+    "game": "Milwaukee Brewers @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-138.0",
+    "line": "-133.0",
+    "units": "1",
+    "stake_usd": "76.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clean first-5 SP mismatch backed by reliable career samples on both sides: Ashcraft (career 3.03 ERA, 3.17 xERA, .278 xwOBA, 2.5 BB/9 over 178 IP) is a genuinely above-average arm, while Sproat (career 5.06 ERA, 4.62 xERA, 4.0 BB/9 over 99 IP) is a b",
+    "bankroll_after": "1361.7"
   }
 ]
