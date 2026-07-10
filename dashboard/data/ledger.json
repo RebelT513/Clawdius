@@ -4190,5 +4190,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clean first-5 SP mismatch backed by reliable career samples on both sides: Ashcraft (career 3.03 ERA, 3.17 xERA, .278 xwOBA, 2.5 BB/9 over 178 IP) is a genuinely above-average arm, while Sproat (career 5.06 ERA, 4.62 xERA, 4.0 BB/9 over 99 IP) is a b",
     "bankroll_after": "1361.7"
+  },
+  {
+    "date": "2026-07-10",
+    "game": "Seattle Mariners @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Seattle Mariners",
+    "odds": "101.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "76.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Castillo is the materially better starter by true talent (career 3.62 ERA/1.19 WHIP, 9.5 K/9, xERA 4.56) while Martinez's 2.61 ERA is unsustainable against a 4.68 xERA and 5.5 K/9 \u2014 a regression candidate. Getting the superior pitcher's team at even ",
+    "bankroll_after": "1285.7"
   }
 ]
