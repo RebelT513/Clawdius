@@ -4158,5 +4158,21 @@
     "pnl": "-78.0",
     "reasoning_summary": "First five innings is a pure starter matchup, and it's a clear mismatch: Rasmussen is a reliably good arm (career 2.87 ERA / 3.17 xERA over 557 IP) while Blackburn's tidy 2.22 season ERA sits on just 44.2 IP over a career 4.73 ERA profile, plus irreg",
     "bankroll_after": "1513.7"
+  },
+  {
+    "date": "2026-07-10",
+    "game": "Cleveland Guardians @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "101.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "76.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Messick is the better starter tonight by every predictive metric \u2014 xERA 3.22 vs Alcantara's 3.78, 9.2 vs 6.7 K/9, and stronger current ERA/WHIP \u2014 yet Cleveland is available at even money on the road. The market leans Miami on home field and Alcantara",
+    "bankroll_after": "1437.7"
   }
 ]
