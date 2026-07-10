@@ -4238,5 +4238,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a large, reliable career-data SP mismatch: Sale (career 2.98 ERA / 1.05 WHIP over 2179 IP, prior-year xERA 2.84, elite K/9) versus Leahy (career 3.73 ERA but 1.45 WHIP this year, xwOBA .359, prior-year xERA 4.42 \u2014 a hittable back-end arm). Th",
     "bankroll_after": "1133.7"
+  },
+  {
+    "date": "2026-07-10",
+    "game": "Boston Red Sox @ New York Mets",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u7.5",
+    "odds": "-109.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "76.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two quality, reliable starters (Gray career 3.54 ERA/xERA 3.70 and in dominant recent form; McLean career 3.19/xERA 3.41) against a notably weak Mets lineup (.698 OPS, only Soto and Ewing dangerous, punchless bottom third) and an average Boston lineu",
+    "bankroll_after": "1057.7"
   }
 ]
