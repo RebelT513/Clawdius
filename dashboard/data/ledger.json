@@ -4222,5 +4222,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The cleanest edge is the starting-pitcher mismatch, best isolated in the 1H where the SP dominates and Houston's taxed bullpen (Santa, Javier) is irrelevant. Brown carries a career 3.48 ERA over 560 IP with a 3.41 xERA and .288 xwOBA \u2014 genuine contac",
     "bankroll_after": "1209.7"
+  },
+  {
+    "date": "2026-07-10",
+    "game": "Atlanta Braves @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Atlanta Braves",
+    "odds": "-172.0",
+    "line": "-163.0",
+    "units": "1",
+    "stake_usd": "76.0",
+    "confidence_score": "64",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a large, reliable career-data SP mismatch: Sale (career 2.98 ERA / 1.05 WHIP over 2179 IP, prior-year xERA 2.84, elite K/9) versus Leahy (career 3.73 ERA but 1.45 WHIP this year, xwOBA .359, prior-year xERA 4.42 \u2014 a hittable back-end arm). Th",
+    "bankroll_after": "1133.7"
   }
 ]
