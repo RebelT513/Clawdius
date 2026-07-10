@@ -4122,8 +4122,8 @@
     "units": "1",
     "stake_usd": "78.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-78.0",
     "reasoning_summary": "Genuine starting-pitcher mismatch: Bryce Miller carries a career 3.74 ERA / 1.07 WHIP with a strong current-season xERA of 2.09 over a real 187-PA sample (xwOBA .226), while Janson Junk is a below-average arm (career 4.84 ERA, current xERA 4.00, xwOB",
     "bankroll_after": "1531.42"
   },
