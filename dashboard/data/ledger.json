@@ -4138,10 +4138,10 @@
     "units": "1",
     "stake_usd": "78.0",
     "confidence_score": "59",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "60.28",
     "reasoning_summary": "Henderson is the clear SP edge: career 2.23 ERA / 11.7 K/9 with a prior-year xERA of 3.69 improving to 2.98 this year and a 0.270 xwOBA \u2014 elite contact suppression and swing-and-miss versus Pallante, a career 4.20-ERA contact pitcher (6.3 career K/9)",
-    "bankroll_after": "1453.42"
+    "bankroll_after": "1591.7"
   },
   {
     "date": "2026-07-09",
@@ -4157,6 +4157,6 @@
     "result": "loss",
     "pnl": "-78.0",
     "reasoning_summary": "First five innings is a pure starter matchup, and it's a clear mismatch: Rasmussen is a reliably good arm (career 2.87 ERA / 3.17 xERA over 557 IP) while Blackburn's tidy 2.22 season ERA sits on just 44.2 IP over a career 4.73 ERA profile, plus irreg",
-    "bankroll_after": "1375.42"
+    "bankroll_after": "1513.7"
   }
 ]
