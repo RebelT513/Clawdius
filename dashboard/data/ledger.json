@@ -4206,5 +4206,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Castillo is the materially better starter by true talent (career 3.62 ERA/1.19 WHIP, 9.5 K/9, xERA 4.56) while Martinez's 2.61 ERA is unsustainable against a 4.68 xERA and 5.5 K/9 \u2014 a regression candidate. Getting the superior pitcher's team at even ",
     "bankroll_after": "1285.7"
+  },
+  {
+    "date": "2026-07-10",
+    "game": "Houston Astros @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Houston Astros",
+    "odds": "-147.0",
+    "line": "-138.0",
+    "units": "1",
+    "stake_usd": "76.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The cleanest edge is the starting-pitcher mismatch, best isolated in the 1H where the SP dominates and Houston's taxed bullpen (Santa, Javier) is irrelevant. Brown carries a career 3.48 ERA over 560 IP with a 3.41 xERA and .288 xwOBA \u2014 genuine contac",
+    "bankroll_after": "1209.7"
   }
 ]
