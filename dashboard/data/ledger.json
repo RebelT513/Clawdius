@@ -4189,7 +4189,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Clean first-5 SP mismatch backed by reliable career samples on both sides: Ashcraft (career 3.03 ERA, 3.17 xERA, .278 xwOBA, 2.5 BB/9 over 178 IP) is a genuinely above-average arm, while Sproat (career 5.06 ERA, 4.62 xERA, 4.0 BB/9 over 99 IP) is a b",
-    "bankroll_after": "1513.7"
+    "bankroll_after": "1437.7"
   },
   {
     "date": "2026-07-10",
@@ -4205,7 +4205,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Castillo is the materially better starter by true talent (career 3.62 ERA/1.19 WHIP, 9.5 K/9, xERA 4.56) while Martinez's 2.61 ERA is unsustainable against a 4.68 xERA and 5.5 K/9 \u2014 a regression candidate. Getting the superior pitcher's team at even ",
-    "bankroll_after": "1437.7"
+    "bankroll_after": "1361.7"
   },
   {
     "date": "2026-07-10",
@@ -4218,10 +4218,10 @@
     "units": "1",
     "stake_usd": "76.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-76.0",
     "reasoning_summary": "The cleanest edge is the starting-pitcher mismatch, best isolated in the 1H where the SP dominates and Houston's taxed bullpen (Santa, Javier) is irrelevant. Brown carries a career 3.48 ERA over 560 IP with a 3.41 xERA and .288 xwOBA \u2014 genuine contac",
-    "bankroll_after": "1361.7"
+    "bankroll_after": "1285.7"
   },
   {
     "date": "2026-07-10",
@@ -4237,7 +4237,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is a large, reliable career-data SP mismatch: Sale (career 2.98 ERA / 1.05 WHIP over 2179 IP, prior-year xERA 2.84, elite K/9) versus Leahy (career 3.73 ERA but 1.45 WHIP this year, xwOBA .359, prior-year xERA 4.42 \u2014 a hittable back-end arm). Th",
-    "bankroll_after": "1285.7"
+    "bankroll_after": "1209.7"
   },
   {
     "date": "2026-07-10",
@@ -4253,6 +4253,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Two quality, reliable starters (Gray career 3.54 ERA/xERA 3.70 and in dominant recent form; McLean career 3.19/xERA 3.41) against a notably weak Mets lineup (.698 OPS, only Soto and Ewing dangerous, punchless bottom third) and an average Boston lineu",
-    "bankroll_after": "1209.7"
+    "bankroll_after": "1133.7"
   }
 ]
