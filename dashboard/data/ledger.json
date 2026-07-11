@@ -4269,7 +4269,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher edge for Seattle that the near-pickem 1H ML underprices. Gilbert is the more reliable arm on every axis \u2014 career 3.53 ERA/1.05 WHIP over 942 IP, current 3.19 ERA/0.95 WHIP, xERA 3.62 \u2014 versus Jax at 3.60 ERA but a 1.22 WHIP, 3.",
-    "bankroll_after": "1336.91"
+    "bankroll_after": "1336.93"
   },
   {
     "date": "2026-07-11",
@@ -4282,10 +4282,10 @@
     "units": "1",
     "stake_usd": "70.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "68.63",
     "reasoning_summary": "The first-5 innings isolate a matchup of two starters who both project to suppress runs on reliable career data \u2014 Perez (career 3.75 ERA, K/9 10+, prior-year xERA 3.23, elite recent form) and Bibee (career 3.69 ERA over 604 IP, prior-year xERA 3.64).",
-    "bankroll_after": "1266.91"
+    "bankroll_after": "1405.56"
   },
   {
     "date": "2026-07-11",
@@ -4301,7 +4301,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Lambert holds a clear current-season pitching edge over Rocker (3.54 xERA / .293 xwOBA vs 4.59 xERA / .330 xwOBA, roughly a full run of separation) on an adequate 80-IP sample. The market prices Houston as a +100 road dog on home-field weight alone, ",
-    "bankroll_after": "1196.91"
+    "bankroll_after": "1335.56"
   },
   {
     "date": "2026-07-11",
@@ -4317,7 +4317,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher edge for Atlanta: L\u00f3pez (career 3.89 ERA over 877 IP, 1 ER in each of his last three starts) is meaningfully better than Liberatore (career 4.78, 5.34 ERA, 1.53 WHIP, 5.49 xERA, .357 xwOBA \u2014 genuinely hittable). The 1H ML isola",
-    "bankroll_after": "1126.91"
+    "bankroll_after": "1265.56"
   },
   {
     "date": "2026-07-11",
@@ -4333,7 +4333,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher edge for Toronto backed by reliable data, not noise: Buehler's xERA is 4.46 this year (375 PA) and 5.41 prior year \u2014 a sustained ~1.5-season decline confirmed by two recent blowups (7 ER, 9 ER), so his 3.66 career ERA overstate",
-    "bankroll_after": "1056.91"
+    "bankroll_after": "1195.56"
   },
   {
     "date": "2026-07-11",
@@ -4346,9 +4346,9 @@
     "units": "1",
     "stake_usd": "70.0",
     "confidence_score": "58",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch: Drohan (3.49 xERA, .291 xwOBA, 1.24 WHIP, three straight strong starts) vs Chandler (4.28 xERA over 400 PA, 5.2 BB/9, 9 ER across his last two outings with collapsing command). The first-five market isolates this edge from bullpen/",
-    "bankroll_after": "986.9100000000001"
+    "bankroll_after": "1195.56"
   }
 ]
