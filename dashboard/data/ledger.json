@@ -4334,5 +4334,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher edge for Toronto backed by reliable data, not noise: Buehler's xERA is 4.46 this year (375 PA) and 5.41 prior year \u2014 a sustained ~1.5-season decline confirmed by two recent blowups (7 ER, 9 ER), so his 3.66 career ERA overstate",
     "bankroll_after": "1056.91"
+  },
+  {
+    "date": "2026-07-11",
+    "game": "Milwaukee Brewers @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Milwaukee Brewers",
+    "odds": "-134.0",
+    "line": "-127.0",
+    "units": "1",
+    "stake_usd": "70.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch: Drohan (3.49 xERA, .291 xwOBA, 1.24 WHIP, three straight strong starts) vs Chandler (4.28 xERA over 400 PA, 5.2 BB/9, 9 ER across his last two outings with collapsing command). The first-five market isolates this edge from bullpen/",
+    "bankroll_after": "986.9100000000001"
   }
 ]
