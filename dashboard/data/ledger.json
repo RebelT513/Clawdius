@@ -4250,8 +4250,8 @@
     "units": "1",
     "stake_usd": "76.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-76.0",
     "reasoning_summary": "Two quality, reliable starters (Gray career 3.54 ERA/xERA 3.70 and in dominant recent form; McLean career 3.19/xERA 3.41) against a notably weak Mets lineup (.698 OPS, only Soto and Ewing dangerous, punchless bottom third) and an average Boston lineu",
     "bankroll_after": "1286.73"
   }
