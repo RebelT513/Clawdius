@@ -4302,5 +4302,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Lambert holds a clear current-season pitching edge over Rocker (3.54 xERA / .293 xwOBA vs 4.59 xERA / .330 xwOBA, roughly a full run of separation) on an adequate 80-IP sample. The market prices Houston as a +100 road dog on home-field weight alone, ",
     "bankroll_after": "1196.91"
+  },
+  {
+    "date": "2026-07-11",
+    "game": "Atlanta Braves @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Atlanta Braves",
+    "odds": "-121.0",
+    "line": "-115.0",
+    "units": "1",
+    "stake_usd": "70.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear starting-pitcher edge for Atlanta: L\u00f3pez (career 3.89 ERA over 877 IP, 1 ER in each of his last three starts) is meaningfully better than Liberatore (career 4.78, 5.34 ERA, 1.53 WHIP, 5.49 xERA, .357 xwOBA \u2014 genuinely hittable). The 1H ML isola",
+    "bankroll_after": "1126.91"
   }
 ]
