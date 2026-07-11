@@ -4318,5 +4318,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher edge for Atlanta: L\u00f3pez (career 3.89 ERA over 877 IP, 1 ER in each of his last three starts) is meaningfully better than Liberatore (career 4.78, 5.34 ERA, 1.53 WHIP, 5.49 xERA, .357 xwOBA \u2014 genuinely hittable). The 1H ML isola",
     "bankroll_after": "1126.91"
+  },
+  {
+    "date": "2026-07-11",
+    "game": "Toronto Blue Jays @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Toronto Blue Jays",
+    "odds": "103.0",
+    "line": "-101.0",
+    "units": "1",
+    "stake_usd": "70.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear starting-pitcher edge for Toronto backed by reliable data, not noise: Buehler's xERA is 4.46 this year (375 PA) and 5.41 prior year \u2014 a sustained ~1.5-season decline confirmed by two recent blowups (7 ER, 9 ER), so his 3.66 career ERA overstate",
+    "bankroll_after": "1056.91"
   }
 ]
