@@ -4270,5 +4270,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher edge for Seattle that the near-pickem 1H ML underprices. Gilbert is the more reliable arm on every axis \u2014 career 3.53 ERA/1.05 WHIP over 942 IP, current 3.19 ERA/0.95 WHIP, xERA 3.62 \u2014 versus Jax at 3.60 ERA but a 1.22 WHIP, 3.",
     "bankroll_after": "1336.91"
+  },
+  {
+    "date": "2026-07-11",
+    "game": "Cleveland Guardians @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "1h_totals",
+    "selection": "u4",
+    "odds": "-102.0",
+    "line": "4.0",
+    "units": "1",
+    "stake_usd": "70.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The first-5 innings isolate a matchup of two starters who both project to suppress runs on reliable career data \u2014 Perez (career 3.75 ERA, K/9 10+, prior-year xERA 3.23, elite recent form) and Bibee (career 3.69 ERA over 604 IP, prior-year xERA 3.64).",
+    "bankroll_after": "1266.91"
   }
 ]
