@@ -4266,8 +4266,8 @@
     "units": "1",
     "stake_usd": "70.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-70.0",
     "reasoning_summary": "Clear starting-pitcher edge for Seattle that the near-pickem 1H ML underprices. Gilbert is the more reliable arm on every axis \u2014 career 3.53 ERA/1.05 WHIP over 942 IP, current 3.19 ERA/0.95 WHIP, xERA 3.62 \u2014 versus Jax at 3.60 ERA but a 1.22 WHIP, 3.",
     "bankroll_after": "1336.93"
   },
