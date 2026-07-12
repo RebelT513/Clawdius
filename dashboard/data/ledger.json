@@ -4398,5 +4398,21 @@
     "pnl": "-67.0",
     "reasoning_summary": "Clear SP mismatch by contact quality: Seymour's xERA is 3.21 (K/9 10.6, prior-year xERA 3.93, career 3.88) while Hancock's 3.23 ERA masks a 4.33 xERA (prior-year 5.51, career 4.22) \u2014 the ERA gap inverts on expected performance. The away lineup averag",
     "bankroll_after": "1286.16"
+  },
+  {
+    "date": "2026-07-12",
+    "game": "Toronto Blue Jays @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Toronto Blue Jays",
+    "odds": "-123.0",
+    "line": "-124.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, well-sampled SP gap: Gausman (career 3.84 ERA/2017 IP, current xERA 3.88) vs Marquez (xERA 5.62 current, 5.81 prior year, K/9 collapsed to 5.7 with BB/9 4.3, second start off a two-month layoff). Toronto's confirmed lineup (.751 OPS) clearly o",
+    "bankroll_after": "1218.15"
   }
 ]
