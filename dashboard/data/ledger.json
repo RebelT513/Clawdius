@@ -4366,5 +4366,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a pure SP-quality mismatch that the 1H market prices as a near pick-em. Cantillo holds a clear current-form edge over Phillips with meaningful mid-season samples behind it: xERA 4.07 vs 4.80, xwOBA .313 vs .337, K/9 9.0 vs 6.7, and 1 ER over ",
     "bankroll_after": "1272.08"
+  },
+  {
+    "date": "2026-07-12",
+    "game": "Athletics @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Athletics",
+    "odds": "-108.0",
+    "line": "-102.0",
+    "units": "1",
+    "stake_usd": "67.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch: Ginn brings 223 career IP (4.08 ERA), 98.2 IP this season, and a 4.04 xERA, while Schultz is a rookie with consistent bad indicators across his full 48 IP \u2014 6.00 ERA, 6.04 xERA, .372 xwOBA, 5.4 BB/9, and three straight poor starts.",
+    "bankroll_after": "1205.08"
   }
 ]
