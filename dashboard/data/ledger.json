@@ -4362,10 +4362,10 @@
     "units": "1",
     "stake_usd": "67.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "81.07",
     "reasoning_summary": "This is a pure SP-quality mismatch that the 1H market prices as a near pick-em. Cantillo holds a clear current-form edge over Phillips with meaningful mid-season samples behind it: xERA 4.07 vs 4.80, xwOBA .313 vs .337, K/9 9.0 vs 6.7, and 1 ER over ",
-    "bankroll_after": "1272.08"
+    "bankroll_after": "1420.16"
   },
   {
     "date": "2026-07-12",
@@ -4381,7 +4381,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch: Ginn brings 223 career IP (4.08 ERA), 98.2 IP this season, and a 4.04 xERA, while Schultz is a rookie with consistent bad indicators across his full 48 IP \u2014 6.00 ERA, 6.04 xERA, .372 xwOBA, 5.4 BB/9, and three straight poor starts.",
-    "bankroll_after": "1205.08"
+    "bankroll_after": "1353.16"
   },
   {
     "date": "2026-07-12",
@@ -4394,9 +4394,9 @@
     "units": "1",
     "stake_usd": "67.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-67.0",
     "reasoning_summary": "Clear SP mismatch by contact quality: Seymour's xERA is 3.21 (K/9 10.6, prior-year xERA 3.93, career 3.88) while Hancock's 3.23 ERA masks a 4.33 xERA (prior-year 5.51, career 4.22) \u2014 the ERA gap inverts on expected performance. The away lineup averag",
-    "bankroll_after": "1138.08"
+    "bankroll_after": "1286.16"
   }
 ]
