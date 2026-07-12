@@ -4382,5 +4382,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch: Ginn brings 223 career IP (4.08 ERA), 98.2 IP this season, and a 4.04 xERA, while Schultz is a rookie with consistent bad indicators across his full 48 IP \u2014 6.00 ERA, 6.04 xERA, .372 xwOBA, 5.4 BB/9, and three straight poor starts.",
     "bankroll_after": "1205.08"
+  },
+  {
+    "date": "2026-07-12",
+    "game": "Seattle Mariners @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Tampa Bay Rays",
+    "odds": "-145.0",
+    "line": "-145.0",
+    "units": "1",
+    "stake_usd": "67.0",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch by contact quality: Seymour's xERA is 3.21 (K/9 10.6, prior-year xERA 3.93, career 3.88) while Hancock's 3.23 ERA masks a 4.33 xERA (prior-year 5.51, career 4.22) \u2014 the ERA gap inverts on expected performance. The away lineup averag",
+    "bankroll_after": "1138.08"
   }
 ]
