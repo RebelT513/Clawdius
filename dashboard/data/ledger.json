@@ -4283,7 +4283,7 @@
     "stake_usd": "70.0",
     "confidence_score": "54",
     "result": "win",
-    "pnl": "68.63",
+    "pnl": "68.627",
     "reasoning_summary": "The first-5 innings isolate a matchup of two starters who both project to suppress runs on reliable career data \u2014 Perez (career 3.75 ERA, K/9 10+, prior-year xERA 3.23, elite recent form) and Bibee (career 3.69 ERA over 604 IP, prior-year xERA 3.64).",
     "bankroll_after": "1405.56"
   },
@@ -4299,7 +4299,7 @@
     "stake_usd": "70.0",
     "confidence_score": "52",
     "result": "win",
-    "pnl": "73.53",
+    "pnl": "73.534",
     "reasoning_summary": "Lambert holds a clear current-season pitching edge over Rocker (3.54 xERA / .293 xwOBA vs 4.59 xERA / .330 xwOBA, roughly a full run of separation) on an adequate 80-IP sample. The market prices Houston as a +100 road dog on home-field weight alone, ",
     "bankroll_after": "1479.09"
   },
