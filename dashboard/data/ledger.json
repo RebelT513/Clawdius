@@ -4350,5 +4350,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch: Drohan (3.49 xERA, .291 xwOBA, 1.24 WHIP, three straight strong starts) vs Chandler (4.28 xERA over 400 PA, 5.2 BB/9, 9 ER across his last two outings with collapsing command). The first-five market isolates this edge from bullpen/",
     "bankroll_after": "1339.09"
+  },
+  {
+    "date": "2026-07-12",
+    "game": "Cleveland Guardians @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Cleveland Guardians",
+    "odds": "121.0",
+    "line": "-103.0",
+    "units": "1",
+    "stake_usd": "67.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a pure SP-quality mismatch that the 1H market prices as a near pick-em. Cantillo holds a clear current-form edge over Phillips with meaningful mid-season samples behind it: xERA 4.07 vs 4.80, xwOBA .313 vs .337, K/9 9.0 vs 6.7, and 1 ER over ",
+    "bankroll_after": "1272.08"
   }
 ]
