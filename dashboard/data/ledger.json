@@ -4314,8 +4314,8 @@
     "units": "1",
     "stake_usd": "70.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-70.0",
     "reasoning_summary": "Clear starting-pitcher edge for Atlanta: L\u00f3pez (career 3.89 ERA over 877 IP, 1 ER in each of his last three starts) is meaningfully better than Liberatore (career 4.78, 5.34 ERA, 1.53 WHIP, 5.49 xERA, .357 xwOBA \u2014 genuinely hittable). The 1H ML isola",
     "bankroll_after": "1265.56"
   },
