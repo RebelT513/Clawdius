@@ -4478,5 +4478,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The board price of +118 on Chicago is dramatically off-market: consensus has moved from Toronto -134 at open to Chicago -116 now (a 30+ cent sharp move toward the White Sox), making the devigged market estimate ~51-52% for Chicago while +118 only req",
     "bankroll_after": "974.1500000000001"
+  },
+  {
+    "date": "2026-07-17",
+    "game": "Miami Marlins @ Milwaukee Brewers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "131.0",
+    "line": "131.0",
+    "units": "1",
+    "stake_usd": "61.0",
+    "confidence_score": "46",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The bettable +131 on Miami is meaningfully better than the +115 consensus, and the market has moved toward Miami all day (home side lengthened from -149 to -135). Devigged consensus puts Miami near 45%, and the analytical lean adds to that: Miami's c",
+    "bankroll_after": "913.15"
   }
 ]
