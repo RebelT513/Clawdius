@@ -4462,5 +4462,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Mid-season Statcast samples are now reliable and show a real SP gap: King (xERA 4.55, xwOBA .329, WHIP 1.15, two quality starts in last three) vs Lugo (xERA 5.48 for a second straight year, xwOBA .357, WHIP 1.43, last two starts 4.0 and 4.1 IP with 8",
     "bankroll_after": "1035.15"
+  },
+  {
+    "date": "2026-07-17",
+    "game": "Chicago White Sox @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "118.0",
+    "line": "118.0",
+    "units": "1",
+    "stake_usd": "61.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The board price of +118 on Chicago is dramatically off-market: consensus has moved from Toronto -134 at open to Chicago -116 now (a 30+ cent sharp move toward the White Sox), making the devigged market estimate ~51-52% for Chicago while +118 only req",
+    "bankroll_after": "974.1500000000001"
   }
 ]
