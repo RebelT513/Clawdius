@@ -4446,5 +4446,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The starting pitcher edge runs clearly toward Minnesota: Ober's underlying quality is stable and solid (career 4.11 ERA / 1.13 WHIP over 689 IP, xERA 4.33 tracking his prior-year 4.36, xwOBA .322), while Rea is having a genuinely poor underlying seas",
     "bankroll_after": "1096.15"
+  },
+  {
+    "date": "2026-07-17",
+    "game": "San Diego Padres @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "San Diego Padres",
+    "odds": "-112.0",
+    "line": "-112.0",
+    "units": "1",
+    "stake_usd": "61.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Mid-season Statcast samples are now reliable and show a real SP gap: King (xERA 4.55, xwOBA .329, WHIP 1.15, two quality starts in last three) vs Lugo (xERA 5.48 for a second straight year, xwOBA .357, WHIP 1.43, last two starts 4.0 and 4.1 IP with 8",
+    "bankroll_after": "1035.15"
   }
 ]
