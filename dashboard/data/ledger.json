@@ -4414,5 +4414,21 @@
     "pnl": "-68.0",
     "reasoning_summary": "Large, well-sampled SP gap: Gausman (career 3.84 ERA/2017 IP, current xERA 3.88) vs Marquez (xERA 5.62 current, 5.81 prior year, K/9 collapsed to 5.7 with BB/9 4.3, second start off a two-month layoff). Toronto's confirmed lineup (.751 OPS) clearly o",
     "bankroll_after": "1218.16"
+  },
+  {
+    "date": "2026-07-17",
+    "game": "Los Angeles Dodgers @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "New York Yankees",
+    "odds": "-114.0",
+    "line": "-114.0",
+    "units": "1",
+    "stake_usd": "61.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a large career-grade SP mismatch: Cole (career 3.20 ERA over 2000+ IP, current xERA 3.48, xwOBA .291, three solid recent starts) against Sasaki (career 5.06 ERA, 4.2 BB/9, current xERA 4.64 on a real 352-PA sample). The full-game price is nea",
+    "bankroll_after": "1157.15"
   }
 ]
