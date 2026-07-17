@@ -4430,5 +4430,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a large career-grade SP mismatch: Cole (career 3.20 ERA over 2000+ IP, current xERA 3.48, xwOBA .291, three solid recent starts) against Sasaki (career 5.06 ERA, 4.2 BB/9, current xERA 4.64 on a real 352-PA sample). The full-game price is nea",
     "bankroll_after": "1157.15"
+  },
+  {
+    "date": "2026-07-17",
+    "game": "Minnesota Twins @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "122.0",
+    "line": "122.0",
+    "units": "1",
+    "stake_usd": "61.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The starting pitcher edge runs clearly toward Minnesota: Ober's underlying quality is stable and solid (career 4.11 ERA / 1.13 WHIP over 689 IP, xERA 4.33 tracking his prior-year 4.36, xwOBA .322), while Rea is having a genuinely poor underlying seas",
+    "bankroll_after": "1096.15"
   }
 ]
