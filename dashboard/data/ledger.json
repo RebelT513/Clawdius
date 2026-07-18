@@ -4458,10 +4458,10 @@
     "units": "1",
     "stake_usd": "61.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "54.46",
     "reasoning_summary": "Mid-season Statcast samples are now reliable and show a real SP gap: King (xERA 4.55, xwOBA .329, WHIP 1.15, two quality starts in last three) vs Lugo (xERA 5.48 for a second straight year, xwOBA .357, WHIP 1.43, last two starts 4.0 and 4.1 IP with 8",
-    "bankroll_after": "1149.67"
+    "bankroll_after": "1265.13"
   },
   {
     "date": "2026-07-17",
@@ -4477,7 +4477,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The board price of +118 on Chicago is dramatically off-market: consensus has moved from Toronto -134 at open to Chicago -116 now (a 30+ cent sharp move toward the White Sox), making the devigged market estimate ~51-52% for Chicago while +118 only req",
-    "bankroll_after": "1088.67"
+    "bankroll_after": "1204.13"
   },
   {
     "date": "2026-07-17",
@@ -4493,7 +4493,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The bettable +131 on Miami is meaningfully better than the +115 consensus, and the market has moved toward Miami all day (home side lengthened from -149 to -135). Devigged consensus puts Miami near 45%, and the analytical lean adds to that: Miami's c",
-    "bankroll_after": "1027.67"
+    "bankroll_after": "1143.13"
   },
   {
     "date": "2026-07-17",
@@ -4509,6 +4509,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Lambert's breakout is supported by a real sample: 3.38 xERA / .287 xwOBA over 354 PA (86 IP) with three strong recent starts, while his ugly 5.46 career ERA is Coors-inflated and likely still anchoring his market price. Kremer's shiny 1.00 WHIP sits ",
-    "bankroll_after": "966.67"
+    "bankroll_after": "1082.13"
   }
 ]
