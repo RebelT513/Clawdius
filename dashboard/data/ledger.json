@@ -4510,5 +4510,21 @@
     "pnl": "-61.0",
     "reasoning_summary": "Lambert's breakout is supported by a real sample: 3.38 xERA / .287 xwOBA over 354 PA (86 IP) with three strong recent starts, while his ugly 5.46 career ERA is Coors-inflated and likely still anchoring his market price. Kremer's shiny 1.00 WHIP sits ",
     "bankroll_after": "1350.85"
+  },
+  {
+    "date": "2026-07-18",
+    "game": "Pittsburgh Pirates @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "108.0",
+    "line": "108.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Consensus prices this game dead even (-108/-109), but the bettable board offers the Pirates at +108 \u2014 a meaningfully off-market price worth roughly 4-6% EV even at a coin-flip probability. The pitcher matchup independently supports the away side: Jon",
+    "bankroll_after": "1282.83"
   }
 ]
