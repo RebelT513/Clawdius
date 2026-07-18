@@ -4574,5 +4574,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large career SP mismatch: May (career 4.01 ERA, 417 IP; current xERA 3.74 over 389 PA) vs Pfaadt (career 5.08 ERA, 508 IP; xERA 4.42), yet the 1H is priced nearly even at -107. The 1H isolates the starting-pitcher edge with no bullpen dilution, in a ",
     "bankroll_after": "1078.83"
+  },
+  {
+    "date": "2026-07-18",
+    "game": "Los Angeles Dodgers @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Dodgers",
+    "odds": "-109.0",
+    "line": "-109.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Sheehan's underlying profile is clearly better than Weathers': xERA 3.88 vs 4.39, xwOBA .306 vs .324, and prior-year xERA 3.00 vs 3.96, with Sheehan's 4.81 ERA masking strong recent run prevention (4 ER over his last 14.2 IP). Weathers' season ERA (4",
+    "bankroll_after": "1010.8299999999999"
   }
 ]
