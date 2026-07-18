@@ -4558,5 +4558,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters carry mediocre career profiles, but the expected-stats gap favors Canning: prior-year xERA 4.70 vs Dobnak's 5.73, and Dobnak's 1.86 ERA rests on just 9.2 IP with a 3.7 K/9 \u2014 an extreme-contact profile whose results small-sample luck is ",
     "bankroll_after": "1146.83"
+  },
+  {
+    "date": "2026-07-18",
+    "game": "St. Louis Cardinals @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "St. Louis Cardinals",
+    "odds": "-107.0",
+    "line": "-107.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large career SP mismatch: May (career 4.01 ERA, 417 IP; current xERA 3.74 over 389 PA) vs Pfaadt (career 5.08 ERA, 508 IP; xERA 4.42), yet the 1H is priced nearly even at -107. The 1H isolates the starting-pitcher edge with no bullpen dilution, in a ",
+    "bankroll_after": "1078.83"
   }
 ]
