@@ -4542,5 +4542,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting pitcher edge for Baltimore priced as a near pick'em: Rogers (career 3.92 ERA/610 IP, prior-year xERA 3.41, three straight strong starts of 1 ER or fewer) against Arrighetti (career 4.63, xERA 5.20 on top of a 5.44 prior year, 4.8 BB/9,",
     "bankroll_after": "1214.83"
+  },
+  {
+    "date": "2026-07-18",
+    "game": "San Diego Padres @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "San Diego Padres",
+    "odds": "109.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters carry mediocre career profiles, but the expected-stats gap favors Canning: prior-year xERA 4.70 vs Dobnak's 5.73, and Dobnak's 1.86 ERA rests on just 9.2 IP with a 3.7 K/9 \u2014 an extreme-contact profile whose results small-sample luck is ",
+    "bankroll_after": "1146.83"
   }
 ]
