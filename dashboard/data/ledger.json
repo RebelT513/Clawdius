@@ -4586,10 +4586,10 @@
     "units": "1",
     "stake_usd": "68.0",
     "confidence_score": "55",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Sheehan's underlying profile is clearly better than Weathers': xERA 3.88 vs 4.39, xwOBA .306 vs .324, and prior-year xERA 3.00 vs 3.96, with Sheehan's 4.81 ERA masking strong recent run prevention (4 ER over his last 14.2 IP). Weathers' season ERA (4",
-    "bankroll_after": "1152.83"
+    "bankroll_after": "1220.83"
   },
   {
     "date": "2026-07-18",
@@ -4602,9 +4602,9 @@
     "units": "1",
     "stake_usd": "68.0",
     "confidence_score": "47",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-68.0",
     "reasoning_summary": "Bradley has a clear current-season edge over Boyd on real samples: xERA 3.82 over 431 PA and 102.2 IP versus Boyd's 4.90 xERA, with Bradley in elite recent form (4 ER over his last 19 IP with 27 K). The matchup-level factors mostly favor the road sid",
-    "bankroll_after": "1084.83"
+    "bankroll_after": "1152.83"
   }
 ]
