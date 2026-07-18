@@ -4506,8 +4506,8 @@
     "units": "1",
     "stake_usd": "61.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-61.0",
     "reasoning_summary": "Lambert's breakout is supported by a real sample: 3.38 xERA / .287 xwOBA over 354 PA (86 IP) with three strong recent starts, while his ugly 5.46 career ERA is Coors-inflated and likely still anchoring his market price. Kremer's shiny 1.00 WHIP sits ",
     "bankroll_after": "1350.85"
   }
