@@ -4526,5 +4526,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Consensus prices this game dead even (-108/-109), but the bettable board offers the Pirates at +108 \u2014 a meaningfully off-market price worth roughly 4-6% EV even at a coin-flip probability. The pitcher matchup independently supports the away side: Jon",
     "bankroll_after": "1282.83"
+  },
+  {
+    "date": "2026-07-18",
+    "game": "Baltimore Orioles @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Baltimore Orioles",
+    "odds": "-111.0",
+    "line": "-111.0",
+    "units": "1",
+    "stake_usd": "68.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear starting pitcher edge for Baltimore priced as a near pick'em: Rogers (career 3.92 ERA/610 IP, prior-year xERA 3.41, three straight strong starts of 1 ER or fewer) against Arrighetti (career 4.63, xERA 5.20 on top of a 5.44 prior year, 4.8 BB/9,",
+    "bankroll_after": "1214.83"
   }
 ]
