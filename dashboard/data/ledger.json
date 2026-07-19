@@ -4606,5 +4606,21 @@
     "pnl": "-68.0",
     "reasoning_summary": "Bradley has a clear current-season edge over Boyd on real samples: xERA 3.82 over 431 PA and 102.2 IP versus Boyd's 4.90 xERA, with Bradley in elite recent form (4 ER over his last 19 IP with 27 K). The matchup-level factors mostly favor the road sid",
     "bankroll_after": "1282.09"
+  },
+  {
+    "date": "2026-07-19",
+    "game": "St. Louis Cardinals @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "105.0",
+    "line": "102.0",
+    "units": "1",
+    "stake_usd": "64.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market prices Arizona as the favorite largely on Rodriguez's 2.29 ERA, but his 5.10 xERA over a full 462 PA sample (with a .345 xwOBA and a 4.51 prior-year xERA) says he has been substantially outperforming his contact quality and is a strong reg",
+    "bankroll_after": "1218.07"
   }
 ]
