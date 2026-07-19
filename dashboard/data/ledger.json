@@ -4622,5 +4622,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market prices Arizona as the favorite largely on Rodriguez's 2.29 ERA, but his 5.10 xERA over a full 462 PA sample (with a .345 xwOBA and a 4.51 prior-year xERA) says he has been substantially outperforming his contact quality and is a strong reg",
     "bankroll_after": "1218.07"
+  },
+  {
+    "date": "2026-07-19",
+    "game": "Pittsburgh Pirates @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "101.0",
+    "line": "101.0",
+    "units": "1",
+    "stake_usd": "64.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Skenes carries a large reliability-weighted pitching edge over Cantillo (career 2.37 ERA / xERA 2.73 over 429 IP vs career 3.64 / xERA 3.90 with a 1.40 WHIP and 4.4 BB/9), and the lineup gap compounds it: Cleveland's confirmed lineup averages .642 OP",
+    "bankroll_after": "1154.07"
   }
 ]
