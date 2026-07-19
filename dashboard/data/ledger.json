@@ -4666,10 +4666,10 @@
     "units": "1",
     "stake_usd": "64.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "63.63",
     "reasoning_summary": "The bettable board posts this total at 8 (over -101) while a 9-book consensus sits a full run higher at 9, with the line having steamed upward from its opener \u2014 the market has moved decisively toward runs and the bettable number has not caught up. Ge",
-    "bankroll_after": "1026.09"
+    "bankroll_after": "1153.72"
   },
   {
     "date": "2026-07-19",
@@ -4685,7 +4685,7 @@
     "result": "loss",
     "pnl": "-64.0",
     "reasoning_summary": "Both starters have genuine career-data run-suppression profiles: McClanahan (career 2.99 ERA over 490 IP, three straight dominant starts) and Gray (career 3.53 over 2013 IP, 3.63 xERA, 2 ER total in last three starts), satisfying the both-pitchers re",
-    "bankroll_after": "962.09"
+    "bankroll_after": "1089.72"
   },
   {
     "date": "2026-07-19",
@@ -4701,6 +4701,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is an elite-SP suppression spot: Skenes (career 2.37 ERA, xERA 2.73, xwOBA .258) faces a Cleveland lineup averaging .642 OPS with three bats under .570 OPS, while Cantillo backs it up with strong recent form (3 ER over his last 15 IP, xERA 3.90)",
-    "bankroll_after": "898.09"
+    "bankroll_after": "1025.72"
   }
 ]
