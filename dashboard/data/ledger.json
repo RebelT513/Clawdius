@@ -4523,7 +4523,7 @@
     "stake_usd": "68.0",
     "confidence_score": "51",
     "result": "win",
-    "pnl": "73.98",
+    "pnl": "73.981",
     "reasoning_summary": "Consensus prices this game dead even (-108/-109), but the bettable board offers the Pirates at +108 \u2014 a meaningfully off-market price worth roughly 4-6% EV even at a coin-flip probability. The pitcher matchup independently supports the away side: Jon",
     "bankroll_after": "1424.83"
   },
@@ -4539,7 +4539,7 @@
     "stake_usd": "68.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "61.26",
+    "pnl": "61.261",
     "reasoning_summary": "Clear starting pitcher edge for Baltimore priced as a near pick'em: Rogers (career 3.92 ERA/610 IP, prior-year xERA 3.41, three straight strong starts of 1 ER or fewer) against Arrighetti (career 4.63, xERA 5.20 on top of a 5.44 prior year, 4.8 BB/9,",
     "bankroll_after": "1486.09"
   },
