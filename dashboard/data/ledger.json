@@ -4634,10 +4634,10 @@
     "units": "1",
     "stake_usd": "64.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "64.87",
     "reasoning_summary": "Skenes carries a large reliability-weighted pitching edge over Cantillo (career 2.37 ERA / xERA 2.73 over 429 IP vs career 3.64 / xERA 3.90 with a 1.40 WHIP and 4.4 BB/9), and the lineup gap compounds it: Cleveland's confirmed lineup averages .642 OP",
-    "bankroll_after": "1154.09"
+    "bankroll_after": "1282.96"
   },
   {
     "date": "2026-07-19",
@@ -4653,7 +4653,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Cameron holds a clear pitcher edge over M\u00e1rquez on every reliable layer: career (3.77 ERA/1.23 WHIP vs 4.69/1.34), current xERA (4.96 vs 5.70), and current peripherals (8.6 K/9 vs 6.0 K/9 with 4.3 BB/9 for M\u00e1rquez, whose .362 xwOBA marks him as genui",
-    "bankroll_after": "1090.09"
+    "bankroll_after": "1218.96"
   },
   {
     "date": "2026-07-19",
@@ -4669,7 +4669,7 @@
     "result": "win",
     "pnl": "63.63",
     "reasoning_summary": "The bettable board posts this total at 8 (over -101) while a 9-book consensus sits a full run higher at 9, with the line having steamed upward from its opener \u2014 the market has moved decisively toward runs and the bettable number has not caught up. Ge",
-    "bankroll_after": "1153.72"
+    "bankroll_after": "1282.59"
   },
   {
     "date": "2026-07-19",
@@ -4685,7 +4685,7 @@
     "result": "loss",
     "pnl": "-64.0",
     "reasoning_summary": "Both starters have genuine career-data run-suppression profiles: McClanahan (career 2.99 ERA over 490 IP, three straight dominant starts) and Gray (career 3.53 over 2013 IP, 3.63 xERA, 2 ER total in last three starts), satisfying the both-pitchers re",
-    "bankroll_after": "1089.72"
+    "bankroll_after": "1218.59"
   },
   {
     "date": "2026-07-19",
@@ -4698,9 +4698,9 @@
     "units": "1",
     "stake_usd": "64.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-64.0",
     "reasoning_summary": "This is an elite-SP suppression spot: Skenes (career 2.37 ERA, xERA 2.73, xwOBA .258) faces a Cleveland lineup averaging .642 OPS with three bats under .570 OPS, while Cantillo backs it up with strong recent form (3 ER over his last 15 IP, xERA 3.90)",
-    "bankroll_after": "1025.72"
+    "bankroll_after": "1154.59"
   }
 ]
