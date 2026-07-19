@@ -4638,5 +4638,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Skenes carries a large reliability-weighted pitching edge over Cantillo (career 2.37 ERA / xERA 2.73 over 429 IP vs career 3.64 / xERA 3.90 with a 1.40 WHIP and 4.4 BB/9), and the lineup gap compounds it: Cleveland's confirmed lineup averages .642 OP",
     "bankroll_after": "1154.07"
+  },
+  {
+    "date": "2026-07-19",
+    "game": "San Diego Padres @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Kansas City Royals",
+    "odds": "-113.0",
+    "line": "-113.0",
+    "units": "1",
+    "stake_usd": "64.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Cameron holds a clear pitcher edge over M\u00e1rquez on every reliable layer: career (3.77 ERA/1.23 WHIP vs 4.69/1.34), current xERA (4.96 vs 5.70), and current peripherals (8.6 K/9 vs 6.0 K/9 with 4.3 BB/9 for M\u00e1rquez, whose .362 xwOBA marks him as genui",
+    "bankroll_after": "1090.07"
   }
 ]
