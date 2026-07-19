@@ -4670,5 +4670,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The bettable board posts this total at 8 (over -101) while a 9-book consensus sits a full run higher at 9, with the line having steamed upward from its opener \u2014 the market has moved decisively toward runs and the bettable number has not caught up. Ge",
     "bankroll_after": "1026.07"
+  },
+  {
+    "date": "2026-07-19",
+    "game": "Tampa Bay Rays @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "1h_totals",
+    "selection": "u4.5",
+    "odds": "-132.0",
+    "line": "4.5",
+    "units": "1",
+    "stake_usd": "64.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters have genuine career-data run-suppression profiles: McClanahan (career 2.99 ERA over 490 IP, three straight dominant starts) and Gray (career 3.53 over 2013 IP, 3.63 xERA, 2 ER total in last three starts), satisfying the both-pitchers re",
+    "bankroll_after": "962.0699999999999"
   }
 ]
