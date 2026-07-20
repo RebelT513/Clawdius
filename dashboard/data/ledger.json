@@ -4702,5 +4702,21 @@
     "pnl": "-64.0",
     "reasoning_summary": "This is an elite-SP suppression spot: Skenes (career 2.37 ERA, xERA 2.73, xwOBA .258) faces a Cleveland lineup averaging .642 OPS with three bats under .570 OPS, while Cantillo backs it up with strong recent form (3 ER over his last 15 IP, xERA 3.90)",
     "bankroll_after": "1156.47"
+  },
+  {
+    "date": "2026-07-20",
+    "game": "Pittsburgh Pirates @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "102.0",
+    "line": "102.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Pittsburgh has the clear starting pitching edge: Ashcraft (xERA 3.31, career 3.20 ERA over 183 IP, 0.283 xwOBA) profiles a full run-plus better than Weathers (xERA 4.43, career 4.73 over 378 IP, 0.324 xwOBA), whose last three starts include a 1.2 IP ",
+    "bankroll_after": "1098.45"
   }
 ]
