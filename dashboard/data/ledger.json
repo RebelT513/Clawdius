@@ -4750,5 +4750,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The bettable away price of +131 is significantly better than the consensus +115, an off-market number worth roughly 6 cents of extra edge on its own. The pitching gap favors the home side but is narrower than surface ERA suggests: Sheehan's 3.91 xERA",
     "bankroll_after": "982.45"
+  },
+  {
+    "date": "2026-07-20",
+    "game": "San Francisco Giants @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u10",
+    "odds": "-103.0",
+    "line": "10.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The bettable total of 10 sits above the entire 6-book consensus range (9\u20139.5) after a full-run steam from the 10.5 open, so the under gets a half run of pure line value plus push protection at exactly 10 for near-flat juice. Devigging current consens",
+    "bankroll_after": "924.45"
   }
 ]
