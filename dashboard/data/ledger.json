@@ -4734,5 +4734,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market prices this near pick'em, but the underlying pitching quality favors the away starter: McDonald's 5.02 ERA masks a 3.91 current xERA (291 PA, real sample) and a 3.21 prior-year xERA, while Wacha sits at 4.16 xERA both this year and last \u2014 ",
     "bankroll_after": "1040.45"
+  },
+  {
+    "date": "2026-07-20",
+    "game": "Los Angeles Dodgers @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Dodgers",
+    "odds": "131.0",
+    "line": "131.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "46",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The bettable away price of +131 is significantly better than the consensus +115, an off-market number worth roughly 6 cents of extra edge on its own. The pitching gap favors the home side but is narrower than surface ERA suggests: Sheehan's 3.91 xERA",
+    "bankroll_after": "982.45"
   }
 ]
