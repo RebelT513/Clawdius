@@ -4766,5 +4766,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The bettable total of 10 sits above the entire 6-book consensus range (9\u20139.5) after a full-run steam from the 10.5 open, so the under gets a half run of pure line value plus push protection at exactly 10 for near-flat juice. Devigging current consens",
     "bankroll_after": "924.45"
+  },
+  {
+    "date": "2026-07-20",
+    "game": "Detroit Tigers @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "-101.0",
+    "line": "-101.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Flaherty holds a clear current-form edge: 2 ER over his last 16.2 IP with a 4.34 xERA, while Taillon returns from a six-week layoff with a 5.52 xERA over a real 287-PA sample and likely a capped pitch count, forcing the Cubs pen in early. Consensus p",
+    "bankroll_after": "866.45"
   }
 ]
