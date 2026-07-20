@@ -4618,8 +4618,8 @@
     "units": "1",
     "stake_usd": "64.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-64.0",
     "reasoning_summary": "The market prices Arizona as the favorite largely on Rodriguez's 2.29 ERA, but his 5.10 xERA over a full 462 PA sample (with a .345 xwOBA and a 4.51 prior-year xERA) says he has been substantially outperforming his contact quality and is a strong reg",
     "bankroll_after": "1218.09"
   },
