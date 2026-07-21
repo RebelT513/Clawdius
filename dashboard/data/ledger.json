@@ -4846,5 +4846,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Established SP edge: Bradish (career 3.50 ERA / 1.21 WHIP over 465 IP, prior-year xERA 3.09, two strong recent starts) faces a home starter with only 9 career IP who has not pitched past the 4th inning, forcing 5-6 innings from a bullpen with three t",
     "bankroll_after": "1088.6"
+  },
+  {
+    "date": "2026-07-21",
+    "game": "Minnesota Twins @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "133.0",
+    "line": "133.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "46",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The bettable away price (+133) is stranded at the opening number while the market has moved sharply toward Minnesota (home ML -148 open to -126 consensus, a 22-cent move), making this a clear off-market price: devigged consensus puts Minnesota near 4",
+    "bankroll_after": "974.5999999999999"
   }
 ]
