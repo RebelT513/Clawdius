@@ -4714,10 +4714,10 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-58.0",
     "reasoning_summary": "Pittsburgh has the clear starting pitching edge: Ashcraft (xERA 3.31, career 3.20 ERA over 183 IP, 0.283 xwOBA) profiles a full run-plus better than Weathers (xERA 4.43, career 4.73 over 378 IP, 0.324 xwOBA), whose last three starts include a 1.2 IP ",
-    "bankroll_after": "1098.45"
+    "bankroll_after": "1098.47"
   },
   {
     "date": "2026-07-20",
@@ -4733,7 +4733,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The market prices this near pick'em, but the underlying pitching quality favors the away starter: McDonald's 5.02 ERA masks a 3.91 current xERA (291 PA, real sample) and a 3.21 prior-year xERA, while Wacha sits at 4.16 xERA both this year and last \u2014 ",
-    "bankroll_after": "1040.45"
+    "bankroll_after": "1040.47"
   },
   {
     "date": "2026-07-20",
@@ -4749,7 +4749,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The bettable away price of +131 is significantly better than the consensus +115, an off-market number worth roughly 6 cents of extra edge on its own. The pitching gap favors the home side but is narrower than surface ERA suggests: Sheehan's 3.91 xERA",
-    "bankroll_after": "982.45"
+    "bankroll_after": "982.47"
   },
   {
     "date": "2026-07-20",
@@ -4765,7 +4765,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The bettable total of 10 sits above the entire 6-book consensus range (9\u20139.5) after a full-run steam from the 10.5 open, so the under gets a half run of pure line value plus push protection at exactly 10 for near-flat juice. Devigging current consens",
-    "bankroll_after": "924.45"
+    "bankroll_after": "924.47"
   },
   {
     "date": "2026-07-20",
@@ -4781,7 +4781,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Flaherty holds a clear current-form edge: 2 ER over his last 16.2 IP with a 4.34 xERA, while Taillon returns from a six-week layoff with a 5.52 xERA over a real 287-PA sample and likely a capped pitch count, forcing the Cubs pen in early. Consensus p",
-    "bankroll_after": "866.45"
+    "bankroll_after": "866.47"
   },
   {
     "date": "2026-07-20",
@@ -4797,6 +4797,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Blanco has a clear career-data edge over Junk (career 3.45 ERA / 3.19 prior-year xERA over 274 IP vs Junk's career 4.77 over 215 IP), and the actual bettable home ML at -119 is roughly 15 cents better than the consensus -134 \u2014 an off-market price imp",
-    "bankroll_after": "808.45"
+    "bankroll_after": "808.47"
   }
 ]
