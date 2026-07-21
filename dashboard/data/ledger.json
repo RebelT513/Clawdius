@@ -4862,5 +4862,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The bettable away price (+133) is stranded at the opening number while the market has moved sharply toward Minnesota (home ML -148 open to -126 consensus, a 22-cent move), making this a clear off-market price: devigged consensus puts Minnesota near 4",
     "bankroll_after": "974.5999999999999"
+  },
+  {
+    "date": "2026-07-21",
+    "game": "Los Angeles Dodgers @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-102.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is an off-market line, not a scoring thesis: the consensus total steamed from 8.5 at open to 10 now (no book in the 7-book set is below 9.5), while the bettable board still shows 9 with the over at -102. A 1.5-run steam is sharp, likely environm",
+    "bankroll_after": "917.6"
   }
 ]
