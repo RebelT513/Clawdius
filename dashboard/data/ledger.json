@@ -4842,9 +4842,9 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "53",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Established SP edge: Bradish (career 3.50 ERA / 1.21 WHIP over 465 IP, prior-year xERA 3.09, two strong recent starts) faces a home starter with only 9 career IP who has not pitched past the 4th inning, forcing 5-6 innings from a bullpen with three t",
-    "bankroll_after": "974.5999999999999"
+    "bankroll_after": "1088.6"
   }
 ]
