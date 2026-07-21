@@ -4778,10 +4778,10 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "57.75",
     "reasoning_summary": "Flaherty holds a clear current-form edge: 2 ER over his last 16.2 IP with a 4.34 xERA, while Taillon returns from a six-week layoff with a 5.52 xERA over a real 287-PA sample and likely a capped pitch count, forcing the Cubs pen in early. Consensus p",
-    "bankroll_after": "981.12"
+    "bankroll_after": "1096.87"
   },
   {
     "date": "2026-07-20",
@@ -4797,6 +4797,6 @@
     "result": "win",
     "pnl": "48.76",
     "reasoning_summary": "Blanco has a clear career-data edge over Junk (career 3.45 ERA / 3.19 prior-year xERA over 274 IP vs Junk's career 4.77 over 215 IP), and the actual bettable home ML at -119 is roughly 15 cents better than the consensus -134 \u2014 an off-market price imp",
-    "bankroll_after": "1029.88"
+    "bankroll_after": "1145.63"
   }
 ]
