@@ -4798,5 +4798,21 @@
     "pnl": "48.756",
     "reasoning_summary": "Blanco has a clear career-data edge over Junk (career 3.45 ERA / 3.19 prior-year xERA over 274 IP vs Junk's career 4.77 over 215 IP), and the actual bettable home ML at -119 is roughly 15 cents better than the consensus -134 \u2014 an off-market price imp",
     "bankroll_after": "1145.63"
+  },
+  {
+    "date": "2026-07-21",
+    "game": "Miami Marlins @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "101.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters project hittable and short: Imai carries a 5.11 xERA with a 5.7 BB/9 and has failed to reach 4 innings in two of his last three starts, while Phillips' 3.48 ERA masks a 4.87 xERA (nearly 1.4 runs of positive luck) with a 4.2 BB/9 and si",
+    "bankroll_after": "1088.6"
   }
 ]
