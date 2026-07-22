@@ -4858,8 +4858,8 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "46",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-57.0",
     "reasoning_summary": "The bettable away price (+133) is stranded at the opening number while the market has moved sharply toward Minnesota (home ML -148 open to -126 consensus, a 22-cent move), making this a clear off-market price: devigged consensus puts Minnesota near 4",
     "bankroll_after": "974.63"
   },
