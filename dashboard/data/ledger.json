@@ -4874,8 +4874,8 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-57.0",
     "reasoning_summary": "This is an off-market line, not a scoring thesis: the consensus total steamed from 8.5 at open to 10 now (no book in the 7-book set is below 9.5), while the bettable board still shows 9 with the over at -102. A 1.5-run steam is sharp, likely environm",
     "bankroll_after": "917.63"
   },
