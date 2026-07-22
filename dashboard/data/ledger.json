@@ -4826,8 +4826,8 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-57.0",
     "reasoning_summary": "Clear SP mismatch across every reliability tier: away starter has a 3.43 career ERA over 1188 IP with a 4.22 current xERA (3.79 prior year), versus the home starter's 4.39 career ERA, 5.35 current xERA, and 6.45 season ERA with escalating walk proble",
     "bankroll_after": "1031.63"
   },
