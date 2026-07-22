@@ -4942,5 +4942,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Toronto is using Fisher as an opener (last three outings 1.0/1.1/1.0 IP), pushing the game onto a bullpen that is taxed \u2014 Corbin threw 48 pitches yesterday, plus Fluharty and Fisher both worked twice. Jax is a legitimate starter (career 4.04 ERA over",
     "bankroll_after": "731.6"
+  },
+  {
+    "date": "2026-07-22",
+    "game": "Miami Marlins @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "SP matchup is roughly even \u2014 Alcantara is the more proven arm, and Lambert's poor career line is offset by a genuine current-year xERA of 3.29 over a meaningful 379-PA sample. The edge is offensive: Miami's balanced .802-OPS lineup outclasses Houston",
+    "bankroll_after": "688.6"
   }
 ]
