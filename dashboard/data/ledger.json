@@ -4910,5 +4910,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Ober is the clearly better starter on reliable data: career 4.11 ERA / 1.13 WHIP over 694 IP, xERA 4.28, xwOBA .319, and two solid recent starts including 5 IP/1 ER against this same Cleveland club on 7/09. Cecconi is a below-average arm (career 4.92",
     "bankroll_after": "817.6"
+  },
+  {
+    "date": "2026-07-22",
+    "game": "Detroit Tigers @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Detroit Tigers",
+    "odds": "104.0",
+    "line": "104.0",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The first five innings are a pure starter matchup, and there is a real quality gap: Montero (3.22 ERA, 3.49 xERA, .290 xwOBA, 0.98 WHIP over 100 reliable IP) is meaningfully better than Rea (4.74 ERA, 5.46 xERA, .355 xwOBA), yet the road side is pric",
+    "bankroll_after": "774.6"
   }
 ]
