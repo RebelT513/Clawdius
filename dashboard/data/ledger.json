@@ -4894,5 +4894,21 @@
     "pnl": "-57.0",
     "reasoning_summary": "Buehler is in severe decline with a full-season sample confirming it (5.36 ERA over 89 IP, 20 ER in his last 11 IP with command loss), while Lopez is in strong form (3.50 ERA, 6 ER over his last 15 IP) \u2014 career numbers converge but current-year data ",
     "bankroll_after": "860.63"
+  },
+  {
+    "date": "2026-07-22",
+    "game": "Minnesota Twins @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "110.0",
+    "line": "108.0",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Ober is the clearly better starter on reliable data: career 4.11 ERA / 1.13 WHIP over 694 IP, xERA 4.28, xwOBA .319, and two solid recent starts including 5 IP/1 ER against this same Cleveland club on 7/09. Cecconi is a below-average arm (career 4.92",
+    "bankroll_after": "817.6"
   }
 ]
