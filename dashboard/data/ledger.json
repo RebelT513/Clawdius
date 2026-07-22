@@ -4926,5 +4926,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The first five innings are a pure starter matchup, and there is a real quality gap: Montero (3.22 ERA, 3.49 xERA, .290 xwOBA, 0.98 WHIP over 100 reliable IP) is meaningfully better than Rea (4.74 ERA, 5.46 xERA, .355 xwOBA), yet the road side is pric",
     "bankroll_after": "774.6"
+  },
+  {
+    "date": "2026-07-22",
+    "game": "Tampa Bay Rays @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Tampa Bay Rays",
+    "odds": "-105.0",
+    "line": "-105.0",
+    "units": "1",
+    "stake_usd": "43.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Toronto is using Fisher as an opener (last three outings 1.0/1.1/1.0 IP), pushing the game onto a bullpen that is taxed \u2014 Corbin threw 48 pitches yesterday, plus Fluharty and Fisher both worked twice. Jax is a legitimate starter (career 4.04 ERA over",
+    "bankroll_after": "731.6"
   }
 ]
