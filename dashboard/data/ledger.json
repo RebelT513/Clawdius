@@ -4813,7 +4813,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters project hittable and short: Imai carries a 5.11 xERA with a 5.7 BB/9 and has failed to reach 4 innings in two of his last three starts, while Phillips' 3.48 ERA masks a 4.87 xERA (nearly 1.4 runs of positive luck) with a 4.2 BB/9 and si",
-    "bankroll_after": "1088.6"
+    "bankroll_after": "1088.63"
   },
   {
     "date": "2026-07-21",
@@ -4829,7 +4829,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch across every reliability tier: away starter has a 3.43 career ERA over 1188 IP with a 4.22 current xERA (3.79 prior year), versus the home starter's 4.39 career ERA, 5.35 current xERA, and 6.45 season ERA with escalating walk proble",
-    "bankroll_after": "1031.6"
+    "bankroll_after": "1031.63"
   },
   {
     "date": "2026-07-21",
@@ -4845,7 +4845,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Established SP edge: Bradish (career 3.50 ERA / 1.21 WHIP over 465 IP, prior-year xERA 3.09, two strong recent starts) faces a home starter with only 9 career IP who has not pitched past the 4th inning, forcing 5-6 innings from a bullpen with three t",
-    "bankroll_after": "1088.6"
+    "bankroll_after": "1031.63"
   },
   {
     "date": "2026-07-21",
@@ -4861,7 +4861,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The bettable away price (+133) is stranded at the opening number while the market has moved sharply toward Minnesota (home ML -148 open to -126 consensus, a 22-cent move), making this a clear off-market price: devigged consensus puts Minnesota near 4",
-    "bankroll_after": "974.5999999999999"
+    "bankroll_after": "974.63"
   },
   {
     "date": "2026-07-21",
@@ -4877,7 +4877,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is an off-market line, not a scoring thesis: the consensus total steamed from 8.5 at open to 10 now (no book in the 7-book set is below 9.5), while the bettable board still shows 9 with the over at -102. A 1.5-run steam is sharp, likely environm",
-    "bankroll_after": "917.6"
+    "bankroll_after": "917.63"
   },
   {
     "date": "2026-07-21",
@@ -4890,9 +4890,9 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-57.0",
     "reasoning_summary": "Buehler is in severe decline with a full-season sample confirming it (5.36 ERA over 89 IP, 20 ER in his last 11 IP with command loss), while Lopez is in strong form (3.50 ERA, 6 ER over his last 15 IP) \u2014 career numbers converge but current-year data ",
-    "bankroll_after": "860.6"
+    "bankroll_after": "860.63"
   }
 ]
