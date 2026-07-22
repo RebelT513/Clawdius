@@ -4810,8 +4810,8 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-57.0",
     "reasoning_summary": "Both starters project hittable and short: Imai carries a 5.11 xERA with a 5.7 BB/9 and has failed to reach 4 innings in two of his last three starts, while Phillips' 3.48 ERA masks a 4.87 xERA (nearly 1.4 runs of positive luck) with a 4.2 BB/9 and si",
     "bankroll_after": "1088.63"
   },
