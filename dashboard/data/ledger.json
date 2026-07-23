@@ -4954,8 +4954,8 @@
     "units": "1",
     "stake_usd": "43.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-43.0",
     "reasoning_summary": "SP matchup is roughly even \u2014 Alcantara is the more proven arm, and Lambert's poor career line is offset by a genuine current-year xERA of 3.29 over a meaningful 379-PA sample. The edge is offensive: Miami's balanced .802-OPS lineup outclasses Houston",
     "bankroll_after": "951.26"
   }
