@@ -4958,5 +4958,21 @@
     "pnl": "-43.0",
     "reasoning_summary": "SP matchup is roughly even \u2014 Alcantara is the more proven arm, and Lambert's poor career line is offset by a genuine current-year xERA of 3.29 over a meaningful 379-PA sample. The edge is offensive: Miami's balanced .802-OPS lineup outclasses Houston",
     "bankroll_after": "951.26"
+  },
+  {
+    "date": "2026-07-23",
+    "game": "Minnesota Twins @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "126.0",
+    "line": "126.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Minnesota carries the clearly stronger lineup (.761 OPS vs Cleveland's .693, with Buxton/Jeffers at .900+ against a Cleveland order whose 7-8-9 all sit under .675), and Bradley's xERA (3.91) actually edges Williams' (4.37) despite Williams' louder K ",
+    "bankroll_after": "903.23"
   }
 ]
