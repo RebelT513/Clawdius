@@ -4990,5 +4990,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large career SP gap: Rodriguez is an established veteran (career 4.06 ERA, 1421 IP) against Palmquist, a genuinely bad starter (career 8.87 ERA, 1.95 WHIP, 5.5 BB/9, prior-year xERA 6.27) who cannot escape the early innings (last three starts: 1.2, 3",
     "bankroll_after": "960.75"
+  },
+  {
+    "date": "2026-07-24",
+    "game": "Toronto Blue Jays @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Toronto Blue Jays",
+    "odds": "-102.0",
+    "line": "-102.0",
+    "units": "1",
+    "stake_usd": "51.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear starting-pitcher edge to Toronto in the first five: Yesavage carries a 3.69 career ERA / 3.34 prior-year xERA / .284 xwOBA versus Sandoval, who owns a 1.71 WHIP this year, a walk-prone 3.9 career BB/9, and only 9.1 rusty IP back off the shelf. ",
+    "bankroll_after": "909.75"
   }
 ]
