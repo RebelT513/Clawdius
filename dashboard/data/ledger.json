@@ -4974,5 +4974,21 @@
     "pnl": "60.524",
     "reasoning_summary": "Minnesota carries the clearly stronger lineup (.761 OPS vs Cleveland's .693, with Buxton/Jeffers at .900+ against a Cleveland order whose 7-8-9 all sit under .675), and Bradley's xERA (3.91) actually edges Williams' (4.37) despite Williams' louder K ",
     "bankroll_after": "1011.78"
+  },
+  {
+    "date": "2026-07-24",
+    "game": "Arizona Diamondbacks @ Washington Nationals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Arizona Diamondbacks",
+    "odds": "-123.0",
+    "line": "-123.0",
+    "units": "1",
+    "stake_usd": "51.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large career SP gap: Rodriguez is an established veteran (career 4.06 ERA, 1421 IP) against Palmquist, a genuinely bad starter (career 8.87 ERA, 1.95 WHIP, 5.5 BB/9, prior-year xERA 6.27) who cannot escape the early innings (last three starts: 1.2, 3",
+    "bankroll_after": "960.75"
   }
 ]
