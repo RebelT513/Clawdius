@@ -5054,5 +5054,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The starters are near-equivalent below-average arms (Paredes: 5.0 K/9, 5.23 xERA over 34 IP; Basso: 5.34 xERA this year but 4.04 career ERA and 4.16 prior-year xERA), so neither side gets a meaningful SP edge and both project short outings. The diffe",
     "bankroll_after": "816.75"
+  },
+  {
+    "date": "2026-07-25",
+    "game": "Seattle Mariners @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Seattle Mariners",
+    "odds": "-106.0",
+    "line": "-109.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Three fundamentals converge on Seattle: Woo holds a clear SP edge over Eovaldi (xERA 3.45 vs 4.01, xwOBA .289 vs .310, career WHIP 1.00 vs 1.25) with better recent form (Eovaldi lasted only 4 IP with 4 ER last out). Texas fields a notably weak lineup",
+    "bankroll_after": "768.75"
   }
 ]
