@@ -5038,5 +5038,21 @@
     "pnl": "0.0",
     "reasoning_summary": "V\u00e1squez (6.77 xERA over 386 PA, .389 xwOBA, two of last three starts under 3.2 IP) faces a confirmed .780-OPS lineup, and the bullpen behind him has five taxed relievers covering the likely 4-5 post-starter innings \u2014 the home side alone projects near",
     "bankroll_after": "864.75"
+  },
+  {
+    "date": "2026-07-25",
+    "game": "Athletics @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Athletics",
+    "odds": "128.0",
+    "line": "130.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The starters are near-equivalent below-average arms (Paredes: 5.0 K/9, 5.23 xERA over 34 IP; Basso: 5.34 xERA this year but 4.04 career ERA and 4.16 prior-year xERA), so neither side gets a meaningful SP edge and both project short outings. The diffe",
+    "bankroll_after": "816.75"
   }
 ]
