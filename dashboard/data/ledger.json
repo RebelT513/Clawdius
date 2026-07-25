@@ -5018,10 +5018,10 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-48.0",
     "reasoning_summary": "Large SP mismatch: Perez (career 3.65 ERA, 1.10 WHIP, 10.2 K/9; current xERA 4.04 with 19 IP / 2 ER over his last three starts) vs Vasquez, whose 87 IP this season carry a 6.77 xERA / .389 xwOBA (prior-year xERA 5.37, so this is confirmation not smal",
-    "bankroll_after": "912.75"
+    "bankroll_after": "912.78"
   },
   {
     "date": "2026-07-25",
@@ -5034,10 +5034,10 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "45.24",
     "reasoning_summary": "V\u00e1squez (6.77 xERA over 386 PA, .389 xwOBA, two of last three starts under 3.2 IP) faces a confirmed .780-OPS lineup, and the bullpen behind him has five taxed relievers covering the likely 4-5 post-starter innings \u2014 the home side alone projects near",
-    "bankroll_after": "864.75"
+    "bankroll_after": "958.02"
   },
   {
     "date": "2026-07-25",
@@ -5053,7 +5053,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The starters are near-equivalent below-average arms (Paredes: 5.0 K/9, 5.23 xERA over 34 IP; Basso: 5.34 xERA this year but 4.04 career ERA and 4.16 prior-year xERA), so neither side gets a meaningful SP edge and both project short outings. The diffe",
-    "bankroll_after": "816.75"
+    "bankroll_after": "910.02"
   },
   {
     "date": "2026-07-25",
@@ -5069,6 +5069,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Three fundamentals converge on Seattle: Woo holds a clear SP edge over Eovaldi (xERA 3.45 vs 4.01, xwOBA .289 vs .310, career WHIP 1.00 vs 1.25) with better recent form (Eovaldi lasted only 4 IP with 4 ER last out). Texas fields a notably weak lineup",
-    "bankroll_after": "768.75"
+    "bankroll_after": "862.02"
   }
 ]
