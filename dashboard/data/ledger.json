@@ -5006,5 +5006,21 @@
     "pnl": "-51.0",
     "reasoning_summary": "Clear starting-pitcher edge to Toronto in the first five: Yesavage carries a 3.69 career ERA / 3.34 prior-year xERA / .284 xwOBA versus Sandoval, who owns a 1.71 WHIP this year, a walk-prone 3.9 career BB/9, and only 9.1 rusty IP back off the shelf. ",
     "bankroll_after": "960.78"
+  },
+  {
+    "date": "2026-07-25",
+    "game": "San Diego Padres @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "-140.0",
+    "line": "-140.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large SP mismatch: Perez (career 3.65 ERA, 1.10 WHIP, 10.2 K/9; current xERA 4.04 with 19 IP / 2 ER over his last three starts) vs Vasquez, whose 87 IP this season carry a 6.77 xERA / .389 xwOBA (prior-year xERA 5.37, so this is confirmation not smal",
+    "bankroll_after": "912.75"
   }
 ]
