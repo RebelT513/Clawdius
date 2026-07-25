@@ -5022,5 +5022,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large SP mismatch: Perez (career 3.65 ERA, 1.10 WHIP, 10.2 K/9; current xERA 4.04 with 19 IP / 2 ER over his last three starts) vs Vasquez, whose 87 IP this season carry a 6.77 xERA / .389 xwOBA (prior-year xERA 5.37, so this is confirmation not smal",
     "bankroll_after": "912.75"
+  },
+  {
+    "date": "2026-07-25",
+    "game": "San Diego Padres @ Miami Marlins",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8",
+    "odds": "-107.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "V\u00e1squez (6.77 xERA over 386 PA, .389 xwOBA, two of last three starts under 3.2 IP) faces a confirmed .780-OPS lineup, and the bullpen behind him has five taxed relievers covering the likely 4-5 post-starter innings \u2014 the home side alone projects near",
+    "bankroll_after": "864.75"
   }
 ]
