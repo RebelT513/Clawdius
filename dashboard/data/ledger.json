@@ -5086,5 +5086,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The expected-metrics gap favors the road dog: Abbott carries the better career profile (3.52 ERA over 524 IP), a far better prior-year xERA (3.56 vs 4.42), and a better current xERA (4.58 vs 5.23 on 400+ PA samples). Leahy's 3.59 ERA against a 5.23 x",
     "bankroll_after": "864.99"
+  },
+  {
+    "date": "2026-07-26",
+    "game": "Athletics @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o10",
+    "odds": "-107.0",
+    "line": "10.0",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Extreme heat (103F) at Target Field materially boosts carry, and both starters project hittable on real samples: Springs xERA 4.79 over 450 PA this year (career 4.05 fading), Prielipp xERA 4.26 with a modest 66 IP track record. Lineups clear the offe",
+    "bankroll_after": "819.99"
   }
 ]
