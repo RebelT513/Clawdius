@@ -5070,5 +5070,21 @@
     "pnl": "-48.0",
     "reasoning_summary": "Three fundamentals converge on Seattle: Woo holds a clear SP edge over Eovaldi (xERA 3.45 vs 4.01, xwOBA .289 vs .310, career WHIP 1.00 vs 1.25) with better recent form (Eovaldi lasted only 4 IP with 4 ER last out). Texas fields a notably weak lineup",
     "bankroll_after": "910.02"
+  },
+  {
+    "date": "2026-07-26",
+    "game": "Cincinnati Reds @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cincinnati Reds",
+    "odds": "114.0",
+    "line": "114.0",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The expected-metrics gap favors the road dog: Abbott carries the better career profile (3.52 ERA over 524 IP), a far better prior-year xERA (3.56 vs 4.42), and a better current xERA (4.58 vs 5.23 on 400+ PA samples). Leahy's 3.59 ERA against a 5.23 x",
+    "bankroll_after": "864.99"
   }
 ]
