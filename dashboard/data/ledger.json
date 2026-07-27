@@ -5118,5 +5118,21 @@
     "pnl": "-45.0",
     "reasoning_summary": "Both starters are significant regression candidates by contact quality: Leahy's xERA is 5.26 against a 3.59 ERA (prior-year xERA 4.42 confirms the profile) and Abbott's is 4.60 against 3.89, so the run environment is stronger than surface stats and r",
     "bankroll_after": "958.38"
+  },
+  {
+    "date": "2026-07-27",
+    "game": "Houston Astros @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Los Angeles Angels",
+    "odds": "-113.0",
+    "line": "-110.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a genuine SP mismatch concentrated in the first five innings: Urena carries a 3.28 xERA over a meaningful 378-PA sample with three straight run-suppressing starts (1 ER, 0 ER, 1 ER), while Imai sits at 4.89 xERA / .339 xwOBA with 5.6 BB/9 and",
+    "bankroll_after": "910.35"
   }
 ]
