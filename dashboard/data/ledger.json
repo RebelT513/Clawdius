@@ -5134,5 +5134,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a genuine SP mismatch concentrated in the first five innings: Urena carries a 3.28 xERA over a meaningful 378-PA sample with three straight run-suppressing starts (1 ER, 0 ER, 1 ER), while Imai sits at 4.89 xERA / .339 xwOBA with 5.6 BB/9 and",
     "bankroll_after": "910.35"
+  },
+  {
+    "date": "2026-07-27",
+    "game": "New York Yankees @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Yankees",
+    "odds": "-138.0",
+    "line": "-138.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "61",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a large, reliable SP mismatch: Fried carries a 3.03 career ERA over 1146 IP and a 2.48 xERA / .246 xwOBA this season (256 PA), while Schultz's 6.04 ERA is fully confirmed by a 6.03 xERA / .371 xwOBA over 253 PA \u2014 no luck component to regress.",
+    "bankroll_after": "862.35"
   }
 ]
