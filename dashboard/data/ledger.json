@@ -5162,10 +5162,10 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "44.44",
     "reasoning_summary": "Both starters are genuinely hittable on meaningful current-season samples (Peterson xERA 5.23 over 89 IP, Liberatore xERA 5.26 over 99 IP \u2014 nearly identical, both well below average), so neither side projects to suppress runs. The environment compoun",
-    "bankroll_after": "987.85"
+    "bankroll_after": "1080.29"
   },
   {
     "date": "2026-07-27",
@@ -5178,9 +5178,9 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "50",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "58.27",
     "reasoning_summary": "The pitching and bullpen fundamentals favor the home dog. Mahle's career profile (4.19 ERA, 4.24 xERA over 818 IP, matching prior-year xERA) is meaningfully better than Sproat's (5.03 career ERA, 4.83 xERA, 4.5 BB/9), and Sproat hasn't completed 5 in",
-    "bankroll_after": "939.85"
+    "bankroll_after": "1138.56"
   }
 ]
