@@ -5130,10 +5130,10 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "42.48",
     "reasoning_summary": "This is a genuine SP mismatch concentrated in the first five innings: Urena carries a 3.28 xERA over a meaningful 378-PA sample with three straight run-suppressing starts (1 ER, 0 ER, 1 ER), while Imai sits at 4.89 xERA / .339 xwOBA with 5.6 BB/9 and",
-    "bankroll_after": "910.35"
+    "bankroll_after": "1000.86"
   },
   {
     "date": "2026-07-27",
@@ -5146,10 +5146,10 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "61",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "34.99",
     "reasoning_summary": "This is a large, reliable SP mismatch: Fried carries a 3.03 career ERA over 1146 IP and a 2.48 xERA / .246 xwOBA this season (256 PA), while Schultz's 6.04 ERA is fully confirmed by a 6.03 xERA / .371 xwOBA over 253 PA \u2014 no luck component to regress.",
-    "bankroll_after": "862.35"
+    "bankroll_after": "1035.85"
   },
   {
     "date": "2026-07-27",
@@ -5165,7 +5165,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters are genuinely hittable on meaningful current-season samples (Peterson xERA 5.23 over 89 IP, Liberatore xERA 5.26 over 99 IP \u2014 nearly identical, both well below average), so neither side projects to suppress runs. The environment compoun",
-    "bankroll_after": "814.35"
+    "bankroll_after": "987.85"
   },
   {
     "date": "2026-07-27",
@@ -5181,6 +5181,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The pitching and bullpen fundamentals favor the home dog. Mahle's career profile (4.19 ERA, 4.24 xERA over 818 IP, matching prior-year xERA) is meaningfully better than Sproat's (5.03 career ERA, 4.83 xERA, 4.5 BB/9), and Sproat hasn't completed 5 in",
-    "bankroll_after": "766.35"
+    "bankroll_after": "939.85"
   }
 ]
