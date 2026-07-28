@@ -5182,5 +5182,21 @@
     "pnl": "58.266",
     "reasoning_summary": "The pitching and bullpen fundamentals favor the home dog. Mahle's career profile (4.19 ERA, 4.24 xERA over 818 IP, matching prior-year xERA) is meaningfully better than Sproat's (5.03 career ERA, 4.83 xERA, 4.5 BB/9), and Sproat hasn't completed 5 in",
     "bankroll_after": "1138.56"
+  },
+  {
+    "date": "2026-07-28",
+    "game": "New York Yankees @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "New York Yankees",
+    "odds": "-142.0",
+    "line": "-142.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "62",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a genuine large-gap SP mismatch, the cleanest 1H ML profile: Cole (career 3.20 ERA over 2016 IP, current xERA 3.50, dominant recent form \u2014 19 IP, 8 ER, 25 K, 2 BB over last three) against Kay (career 4.85 ERA, current xERA 5.30 over 444 PA, 1",
+    "bankroll_after": "1081.52"
   }
 ]
