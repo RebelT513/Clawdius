@@ -5226,8 +5226,8 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-57.0",
     "reasoning_summary": "Both starters clear the career-data bar for a 1H under: Henderson (career 2.54 ERA, 0.96 WHIP, current xERA 2.88, elite 11 K/9 vs 1.6 BB/9) covers the full first five himself given his consistent 5-IP outings, and Roupp (267 career IP at 3.81, curren",
     "bankroll_after": "1178.91"
   }
