@@ -5194,10 +5194,10 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "40.14",
     "reasoning_summary": "This is a genuine large-gap SP mismatch, the cleanest 1H ML profile: Cole (career 3.20 ERA over 2016 IP, current xERA 3.50, dominant recent form \u2014 19 IP, 8 ER, 25 K, 2 BB over last three) against Kay (career 4.85 ERA, current xERA 5.30 over 444 PA, 1",
-    "bankroll_after": "1081.52"
+    "bankroll_after": "1178.7"
   },
   {
     "date": "2026-07-28",
@@ -5213,7 +5213,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters carry large-sample current-year xERAs near 5.5 (Rea 5.59, McGreevy 5.48 on 450+ PA each), signaling loud contact allowed on both sides; McGreevy's 3.07 ERA vs 5.48 xERA is a major overperformance gap for a 5.8 K/9 contact pitcher, and h",
-    "bankroll_after": "1024.52"
+    "bankroll_after": "1121.7"
   },
   {
     "date": "2026-07-28",
@@ -5229,6 +5229,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters clear the career-data bar for a 1H under: Henderson (career 2.54 ERA, 0.96 WHIP, current xERA 2.88, elite 11 K/9 vs 1.6 BB/9) covers the full first five himself given his consistent 5-IP outings, and Roupp (267 career IP at 3.81, curren",
-    "bankroll_after": "967.52"
+    "bankroll_after": "1064.7"
   }
 ]
