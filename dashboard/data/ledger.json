@@ -5230,5 +5230,21 @@
     "pnl": "-57.0",
     "reasoning_summary": "Both starters clear the career-data bar for a 1H under: Henderson (career 2.54 ERA, 0.96 WHIP, current xERA 2.88, elite 11 K/9 vs 1.6 BB/9) covers the full first five himself given his consistent 5-IP outings, and Roupp (267 career IP at 3.81, curren",
     "bankroll_after": "1178.91"
+  },
+  {
+    "date": "2026-07-29",
+    "game": "Houston Astros @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Houston Astros",
+    "odds": "-129.0",
+    "line": "-129.0",
+    "units": "1",
+    "stake_usd": "59.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Grayson Rodriguez is in a legitimately bad stretch with a meaningful sample behind it: 7.82 current xERA over 186 PA (39 IP, past the reliability threshold), .411 xwOBA, 11 ER over his last 8 innings, against a below-average career baseline (4.73 ERA",
+    "bankroll_after": "1119.87"
   }
 ]
