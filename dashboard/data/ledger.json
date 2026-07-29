@@ -5214,5 +5214,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters carry large-sample current-year xERAs near 5.5 (Rea 5.59, McGreevy 5.48 on 450+ PA each), signaling loud contact allowed on both sides; McGreevy's 3.07 ERA vs 5.48 xERA is a major overperformance gap for a 5.8 K/9 contact pitcher, and h",
     "bankroll_after": "1024.52"
+  },
+  {
+    "date": "2026-07-28",
+    "game": "Milwaukee Brewers @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "1h_totals",
+    "selection": "u3.5",
+    "odds": "101.0",
+    "line": "3.5",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters clear the career-data bar for a 1H under: Henderson (career 2.54 ERA, 0.96 WHIP, current xERA 2.88, elite 11 K/9 vs 1.6 BB/9) covers the full first five himself given his consistent 5-IP outings, and Roupp (267 career IP at 3.81, curren",
+    "bankroll_after": "967.52"
   }
 ]
