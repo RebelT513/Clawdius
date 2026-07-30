@@ -5246,5 +5246,21 @@
     "pnl": "45.966",
     "reasoning_summary": "Grayson Rodriguez is in a legitimately bad stretch with a meaningful sample behind it: 7.82 current xERA over 186 PA (39 IP, past the reliability threshold), .411 xwOBA, 11 ER over his last 8 innings, against a below-average career baseline (4.73 ERA",
     "bankroll_after": "1224.88"
+  },
+  {
+    "date": "2026-07-30",
+    "game": "New York Yankees @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "-111.0",
+    "line": "-114.0",
+    "units": "1",
+    "stake_usd": "61.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Burke over Weathers is a genuine SP mismatch at a near pick'em price: Burke's current-season xERA (3.44 over 482 PA) and xwOBA (.288) are far better than Weathers' (4.50, .326), and his last three starts (19.2 IP, 3 ER, 24 K) confirm the form. The Ya",
+    "bankroll_after": "1163.84"
   }
 ]
