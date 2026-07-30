@@ -5258,10 +5258,10 @@
     "units": "1",
     "stake_usd": "61.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "55.08",
     "reasoning_summary": "Burke over Weathers is a genuine SP mismatch at a near pick'em price: Burke's current-season xERA (3.44 over 482 PA) and xwOBA (.288) are far better than Weathers' (4.50, .326), and his last three starts (19.2 IP, 3 ER, 24 K) confirm the form. The Ya",
-    "bankroll_after": "1163.84"
+    "bankroll_after": "1279.96"
   },
   {
     "date": "2026-07-30",
@@ -5277,6 +5277,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP quality gap toward Seattle: Woo (career 3.47 ERA/1.02 WHIP over 511 IP, xERA 3.52, 1.9 BB/9) profiles roughly 0.8 runs better than Sasaki (career 4.64 ERA, xERA 4.35 over 399 PA, 3.5 BB/9), whose strong recent starts don't outweigh his seaso",
-    "bankroll_after": "1102.84"
+    "bankroll_after": "1218.96"
   }
 ]
