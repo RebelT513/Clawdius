@@ -5278,5 +5278,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear SP quality gap toward Seattle: Woo (career 3.47 ERA/1.02 WHIP over 511 IP, xERA 3.52, 1.9 BB/9) profiles roughly 0.8 runs better than Sasaki (career 4.64 ERA, xERA 4.35 over 399 PA, 3.5 BB/9), whose strong recent starts don't outweigh his seaso",
     "bankroll_after": "1218.96"
+  },
+  {
+    "date": "2026-07-30",
+    "game": "Pittsburgh Pirates @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-114.0",
+    "line": "-114.0",
+    "units": "1",
+    "stake_usd": "64.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a genuine SP mismatch backed by meaningful mid-season samples, not early-season noise: Lowder has a 5.61 xERA and .359 xwOBA over 353 PA (with two of his last three starts allowing 6+ ER), while Ramirez sits at 3.81 xERA and .302 xwOBA over 2",
+    "bankroll_after": "1154.92"
   }
 ]
