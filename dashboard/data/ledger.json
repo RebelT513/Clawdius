@@ -5310,5 +5310,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Market prices this as a pick'em, but the SP gap favors the road team meaningfully: Wacha (career 3.87 ERA over 1759 IP, 4.25 xERA, .318 xwOBA, strong last two starts) against Sugano, whose 4.69 ERA hides a 7.27 xERA and .400 xwOBA allowed over 405 PA",
     "bankroll_after": "1096.91"
+  },
+  {
+    "date": "2026-07-31",
+    "game": "Pittsburgh Pirates @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-120.0",
+    "line": "-120.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Skenes (career 2.43 ERA, current xERA 2.82 on 490 PA) is a large, reliable-data upgrade over Greene, who has only 21.2 IP this season with a 4.68 xERA and 6 ER in his last start \u2014 his elite prior-year xERA (3.02) is why the market keeps this close, b",
+    "bankroll_after": "1038.91"
   }
 ]
