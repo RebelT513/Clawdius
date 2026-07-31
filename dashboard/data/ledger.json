@@ -5326,5 +5326,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Skenes (career 2.43 ERA, current xERA 2.82 on 490 PA) is a large, reliable-data upgrade over Greene, who has only 21.2 IP this season with a 4.68 xERA and 6 ER in his last start \u2014 his elite prior-year xERA (3.02) is why the market keeps this close, b",
     "bankroll_after": "1038.91"
+  },
+  {
+    "date": "2026-07-31",
+    "game": "Chicago White Sox @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "100.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The pitching matchup is far closer than surface ERAs suggest: the home starter's 2.45 ERA sits against a 4.34 xERA (4.04 prior year, 5.1 K/9), a contact profile due for run-scoring regression, while the road starter's 4.71 xERA makes him plainly hitt",
+    "bankroll_after": "980.9100000000001"
   }
 ]
