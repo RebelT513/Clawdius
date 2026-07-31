@@ -5274,8 +5274,8 @@
     "units": "1",
     "stake_usd": "61.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-61.0",
     "reasoning_summary": "Clear SP quality gap toward Seattle: Woo (career 3.47 ERA/1.02 WHIP over 511 IP, xERA 3.52, 1.9 BB/9) profiles roughly 0.8 runs better than Sasaki (career 4.64 ERA, xERA 4.35 over 399 PA, 3.5 BB/9), whose strong recent starts don't outweigh his seaso",
     "bankroll_after": "1218.96"
   },
