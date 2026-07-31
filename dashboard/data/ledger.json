@@ -5294,5 +5294,21 @@
     "pnl": "-64.0",
     "reasoning_summary": "This is a genuine SP mismatch backed by meaningful mid-season samples, not early-season noise: Lowder has a 5.61 xERA and .359 xwOBA over 353 PA (with two of his last three starts allowing 6+ ER), while Ramirez sits at 3.81 xERA and .302 xwOBA over 2",
     "bankroll_after": "1154.96"
+  },
+  {
+    "date": "2026-07-31",
+    "game": "Kansas City Royals @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Kansas City Royals",
+    "odds": "-105.0",
+    "line": "-105.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Market prices this as a pick'em, but the SP gap favors the road team meaningfully: Wacha (career 3.87 ERA over 1759 IP, 4.25 xERA, .318 xwOBA, strong last two starts) against Sugano, whose 4.69 ERA hides a 7.27 xERA and .400 xwOBA allowed over 405 PA",
+    "bankroll_after": "1096.91"
   }
 ]
