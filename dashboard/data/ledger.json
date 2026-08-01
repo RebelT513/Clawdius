@@ -5306,8 +5306,8 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-58.0",
     "reasoning_summary": "Market prices this as a pick'em, but the SP gap favors the road team meaningfully: Wacha (career 3.87 ERA over 1759 IP, 4.25 xERA, .318 xwOBA, strong last two starts) against Sugano, whose 4.69 ERA hides a 7.27 xERA and .400 xwOBA allowed over 405 PA",
     "bankroll_after": "1096.96"
   },
