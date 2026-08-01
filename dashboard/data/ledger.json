@@ -5358,5 +5358,21 @@
     "pnl": "60.928",
     "reasoning_summary": "Senga's career 3.73 ERA is not the pitcher taking the mound tonight: 8.85 ERA and 6.6 BB/9 across 40.2 IP in 2026, a 5.42 xERA over 194 PA, three straight poor starts, and a 5-week layoff since June 23 (rust plus a short leash into middle relief). Ju",
     "bankroll_after": "1041.89"
+  },
+  {
+    "date": "2026-08-01",
+    "game": "Miami Marlins @ New York Mets",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "100.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters project as hittable despite surface numbers: Thornton's 2.43 ERA sits on just 29 career IP with a 4.55 xERA (.328 xwOBA), a classic small-sample overperformance facing the stronger lineup tonight, while Phillips carries a 4.71 xERA and ",
+    "bankroll_after": "989.8399999999999"
   }
 ]
