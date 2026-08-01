@@ -5374,5 +5374,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters project as hittable despite surface numbers: Thornton's 2.43 ERA sits on just 29 career IP with a 4.55 xERA (.328 xwOBA), a classic small-sample overperformance facing the stronger lineup tonight, while Phillips carries a 4.71 xERA and ",
     "bankroll_after": "989.8399999999999"
+  },
+  {
+    "date": "2026-08-01",
+    "game": "New York Yankees @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "New York Yankees",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The first-5 is a pure SP matchup and this is a large, reliable gap: Fried carries a 3.05 career ERA over 1149 IP and a 2.51 current xERA, while Peterson sits at a 5.13 xERA / 5.80 ERA with a 4.34 career baseline. A 21 mph wind blowing in suppresses t",
+    "bankroll_after": "937.84"
   }
 ]
