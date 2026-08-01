@@ -5406,5 +5406,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Coors Field with clear 75-degree weather and two well-below-average starters: home SP carries a 5.85 xERA with 17 ER over his last 11.2 IP, and the road SP a 4.83 xERA with 5.2 BB/9, which altitude punishes. Both confirmed lineups are above league av",
     "bankroll_after": "885.84"
+  },
+  {
+    "date": "2026-08-01",
+    "game": "San Francisco Giants @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Francisco Giants",
+    "odds": "130.0",
+    "line": "130.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Market prices San Diego at 59% largely on Buehler's name, but current data favors the road side: Mahle is the better pitcher right now (xERA 4.16 vs 4.43, prior-year xERA 4.24 vs Buehler's 5.41, and three strong recent starts including 6 shutout inni",
+    "bankroll_after": "833.84"
   }
 ]
