@@ -5370,10 +5370,10 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-52.0",
     "reasoning_summary": "Both starters project as hittable despite surface numbers: Thornton's 2.43 ERA sits on just 29 career IP with a 4.55 xERA (.328 xwOBA), a classic small-sample overperformance facing the stronger lineup tonight, while Phillips carries a 4.71 xERA and ",
-    "bankroll_after": "989.8399999999999"
+    "bankroll_after": "989.89"
   },
   {
     "date": "2026-08-01",
@@ -5389,7 +5389,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The first-5 is a pure SP matchup and this is a large, reliable gap: Fried carries a 3.05 career ERA over 1149 IP and a 2.51 current xERA, while Peterson sits at a 5.13 xERA / 5.80 ERA with a 4.34 career baseline. A 21 mph wind blowing in suppresses t",
-    "bankroll_after": "937.84"
+    "bankroll_after": "937.89"
   },
   {
     "date": "2026-08-01",
@@ -5405,7 +5405,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Coors Field with clear 75-degree weather and two well-below-average starters: home SP carries a 5.85 xERA with 17 ER over his last 11.2 IP, and the road SP a 4.83 xERA with 5.2 BB/9, which altitude punishes. Both confirmed lineups are above league av",
-    "bankroll_after": "885.84"
+    "bankroll_after": "885.89"
   },
   {
     "date": "2026-08-01",
@@ -5421,7 +5421,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Market prices San Diego at 59% largely on Buehler's name, but current data favors the road side: Mahle is the better pitcher right now (xERA 4.16 vs 4.43, prior-year xERA 4.24 vs Buehler's 5.41, and three strong recent starts including 6 shutout inni",
-    "bankroll_after": "833.84"
+    "bankroll_after": "833.89"
   },
   {
     "date": "2026-08-01",
@@ -5437,6 +5437,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters project hittable by current-season data: Valdez is in a clear down year (4.53 ERA, 1.38 WHIP, K/9 down to 7.3 from a career 8.6, 4.28 xERA), and Perkins is a career 5.64 ERA pitcher facing a confirmed Detroit lineup averaging ~.758 OPS ",
-    "bankroll_after": "781.84"
+    "bankroll_after": "781.89"
   }
 ]
