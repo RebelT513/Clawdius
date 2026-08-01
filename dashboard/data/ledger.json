@@ -5309,7 +5309,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Market prices this as a pick'em, but the SP gap favors the road team meaningfully: Wacha (career 3.87 ERA over 1759 IP, 4.25 xERA, .318 xwOBA, strong last two starts) against Sugano, whose 4.69 ERA hides a 7.27 xERA and .400 xwOBA allowed over 405 PA",
-    "bankroll_after": "1096.91"
+    "bankroll_after": "1096.96"
   },
   {
     "date": "2026-07-31",
@@ -5322,10 +5322,10 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-58.0",
     "reasoning_summary": "Skenes (career 2.43 ERA, current xERA 2.82 on 490 PA) is a large, reliable-data upgrade over Greene, who has only 21.2 IP this season with a 4.68 xERA and 6 ER in his last start \u2014 his elite prior-year xERA (3.02) is why the market keeps this close, b",
-    "bankroll_after": "1038.91"
+    "bankroll_after": "1038.96"
   },
   {
     "date": "2026-07-31",
@@ -5341,7 +5341,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The pitching matchup is far closer than surface ERAs suggest: the home starter's 2.45 ERA sits against a 4.34 xERA (4.04 prior year, 5.1 K/9), a contact profile due for run-scoring regression, while the road starter's 4.71 xERA makes him plainly hitt",
-    "bankroll_after": "980.9100000000001"
+    "bankroll_after": "980.96"
   },
   {
     "date": "2026-07-31",
@@ -5357,6 +5357,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Senga's career 3.73 ERA is not the pitcher taking the mound tonight: 8.85 ERA and 6.6 BB/9 across 40.2 IP in 2026, a 5.42 xERA over 194 PA, three straight poor starts, and a 5-week layoff since June 23 (rust plus a short leash into middle relief). Ju",
-    "bankroll_after": "922.91"
+    "bankroll_after": "922.96"
   }
 ]
