@@ -5338,8 +5338,8 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-58.0",
     "reasoning_summary": "The pitching matchup is far closer than surface ERAs suggest: the home starter's 2.45 ERA sits against a 4.34 xERA (4.04 prior year, 5.1 K/9), a contact profile due for run-scoring regression, while the road starter's 4.71 xERA makes him plainly hitt",
     "bankroll_after": "980.96"
   },
@@ -5354,9 +5354,9 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "60.93",
     "reasoning_summary": "Senga's career 3.73 ERA is not the pitcher taking the mound tonight: 8.85 ERA and 6.6 BB/9 across 40.2 IP in 2026, a 5.42 xERA over 194 PA, three straight poor starts, and a 5-week layoff since June 23 (rust plus a short leash into middle relief). Ju",
-    "bankroll_after": "922.96"
+    "bankroll_after": "1041.89"
   }
 ]
