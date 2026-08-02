@@ -5454,5 +5454,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a large, reliable-sample SP mismatch: the away starter carries a career 3.19 ERA / 3.28 xERA / .282 xwOBA over 2000+ IP against a home starter at 4.45 career ERA with a 5.52 current xERA and .357 xwOBA \u2014 the gap is in true contact quality, no",
     "bankroll_after": "981.8199999999999"
+  },
+  {
+    "date": "2026-08-02",
+    "game": "San Francisco Giants @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Francisco Giants",
+    "odds": "128.0",
+    "line": "126.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market is pricing this off surface ERAs (King 3.38 vs Roupp 4.12), but the full-season contact-quality data inverts that edge: Roupp's 3.48 xERA / .290 xwOBA (475 PA) versus King's 4.58 xERA / .329 xwOBA (515 PA), with King's K/9 down from a 9.7 ",
+    "bankroll_after": "929.82"
   }
 ]
