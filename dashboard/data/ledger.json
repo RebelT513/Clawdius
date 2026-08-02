@@ -5438,5 +5438,21 @@
     "pnl": "50.335",
     "reasoning_summary": "Both starters project hittable by current-season data: Valdez is in a clear down year (4.53 ERA, 1.38 WHIP, K/9 down to 7.3 from a career 8.6, 4.28 xERA), and Perkins is a career 5.64 ERA pitcher facing a confirmed Detroit lineup averaging ~.758 OPS ",
     "bankroll_after": "1033.87"
+  },
+  {
+    "date": "2026-08-02",
+    "game": "New York Yankees @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "New York Yankees",
+    "odds": "-135.0",
+    "line": "-135.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "61",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a large, reliable-sample SP mismatch: the away starter carries a career 3.19 ERA / 3.28 xERA / .282 xwOBA over 2000+ IP against a home starter at 4.45 career ERA with a 5.52 current xERA and .357 xwOBA \u2014 the gap is in true contact quality, no",
+    "bankroll_after": "981.8199999999999"
   }
 ]
