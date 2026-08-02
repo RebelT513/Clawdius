@@ -5418,8 +5418,8 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-52.0",
     "reasoning_summary": "Market prices San Diego at 59% largely on Buehler's name, but current data favors the road side: Mahle is the better pitcher right now (xERA 4.16 vs 4.43, prior-year xERA 4.24 vs Buehler's 5.41, and three strong recent starts including 6 shutout inni",
     "bankroll_after": "983.53"
   },
