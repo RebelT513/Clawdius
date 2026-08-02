@@ -5470,5 +5470,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market is pricing this off surface ERAs (King 3.38 vs Roupp 4.12), but the full-season contact-quality data inverts that edge: Roupp's 3.48 xERA / .290 xwOBA (475 PA) versus King's 4.58 xERA / .329 xwOBA (515 PA), with King's K/9 down from a 9.7 ",
     "bankroll_after": "929.82"
+  },
+  {
+    "date": "2026-08-02",
+    "game": "Miami Marlins @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "-115.0",
+    "line": "-115.0",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Enormous starting pitching mismatch: Alcantara is an in-form workhorse (career 3.67 ERA over 1226 IP, current xERA 3.77, 7 shutout innings last start) while Stock is a career 4.90 ERA reliever with 2.2 IP this season, a 13.5 BB/9, and a prior-year xE",
+    "bankroll_after": "877.82"
   }
 ]
