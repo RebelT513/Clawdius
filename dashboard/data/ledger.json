@@ -5514,8 +5514,8 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-52.0",
     "reasoning_summary": "Both starters carry poor contact-quality profiles on large samples \u2014 Lugo's xERA is 5.38 over 523 PA (5.16 prior year) despite shiny recent run-prevention, and Freeland sits at 5.63 xERA with 13 ER allowed over his last 17.1 IP \u2014 and Coors at altitud",
     "bankroll_after": "1066.31"
   },
