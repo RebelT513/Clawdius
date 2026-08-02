@@ -5450,10 +5450,10 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "61",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "38.52",
     "reasoning_summary": "This is a large, reliable-sample SP mismatch: the away starter carries a career 3.19 ERA / 3.28 xERA / .282 xwOBA over 2000+ IP against a home starter at 4.45 career ERA with a 5.52 current xERA and .357 xwOBA \u2014 the gap is in true contact quality, no",
-    "bankroll_after": "981.8199999999999"
+    "bankroll_after": "1072.39"
   },
   {
     "date": "2026-08-02",
@@ -5469,7 +5469,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The market is pricing this off surface ERAs (King 3.38 vs Roupp 4.12), but the full-season contact-quality data inverts that edge: Roupp's 3.48 xERA / .290 xwOBA (475 PA) versus King's 4.58 xERA / .329 xwOBA (515 PA), with King's K/9 down from a 9.7 ",
-    "bankroll_after": "929.82"
+    "bankroll_after": "1020.39"
   },
   {
     "date": "2026-08-02",
@@ -5485,7 +5485,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Enormous starting pitching mismatch: Alcantara is an in-form workhorse (career 3.67 ERA over 1226 IP, current xERA 3.77, 7 shutout innings last start) while Stock is a career 4.90 ERA reliever with 2.2 IP this season, a 13.5 BB/9, and a prior-year xE",
-    "bankroll_after": "877.82"
+    "bankroll_after": "968.39"
   },
   {
     "date": "2026-08-02",
@@ -5501,7 +5501,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Strong 15 mph wind blowing in at Wrigley is a mandatory physical run-suppressor, and the matchup pairing amplifies it: the elite starter (career 3.19 ERA, 3.28 xERA, 2 ER over his last 13 IP) faces the strong lineup, while the weak starter (5.52 xERA",
-    "bankroll_after": "825.82"
+    "bankroll_after": "916.39"
   },
   {
     "date": "2026-08-02",
@@ -5517,7 +5517,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters carry poor contact-quality profiles on large samples \u2014 Lugo's xERA is 5.38 over 523 PA (5.16 prior year) despite shiny recent run-prevention, and Freeland sits at 5.63 xERA with 13 ER allowed over his last 17.1 IP \u2014 and Coors at altitud",
-    "bankroll_after": "773.82"
+    "bankroll_after": "864.39"
   },
   {
     "date": "2026-08-02",
@@ -5533,6 +5533,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds a moderate SP edge on large current-season samples: Montero's 3.48 xERA over 443 PA with elite control (1.9 BB/9, 1.02 WHIP) against rookie Jump's 4.07 xERA with 3.6 BB/9 and high volatility. The decisive full-game factor is bullpen sta",
-    "bankroll_after": "721.82"
+    "bankroll_after": "812.39"
   }
 ]
