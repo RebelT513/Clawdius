@@ -5498,10 +5498,10 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "52.63",
     "reasoning_summary": "Strong 15 mph wind blowing in at Wrigley is a mandatory physical run-suppressor, and the matchup pairing amplifies it: the elite starter (career 3.19 ERA, 3.28 xERA, 2 ER over his last 13 IP) faces the strong lineup, while the weak starter (5.52 xERA",
-    "bankroll_after": "1013.68"
+    "bankroll_after": "1118.31"
   },
   {
     "date": "2026-08-02",
@@ -5517,7 +5517,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters carry poor contact-quality profiles on large samples \u2014 Lugo's xERA is 5.38 over 523 PA (5.16 prior year) despite shiny recent run-prevention, and Freeland sits at 5.63 xERA with 13 ER allowed over his last 17.1 IP \u2014 and Coors at altitud",
-    "bankroll_after": "961.68"
+    "bankroll_after": "1066.31"
   },
   {
     "date": "2026-08-02",
@@ -5533,6 +5533,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds a moderate SP edge on large current-season samples: Montero's 3.48 xERA over 443 PA with elite control (1.9 BB/9, 1.02 WHIP) against rookie Jump's 4.07 xERA with 3.6 BB/9 and high volatility. The decisive full-game factor is bullpen sta",
-    "bankroll_after": "909.68"
+    "bankroll_after": "1014.31"
   }
 ]
