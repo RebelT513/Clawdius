@@ -5534,5 +5534,21 @@
     "pnl": "47.37",
     "reasoning_summary": "Detroit holds a moderate SP edge on large current-season samples: Montero's 3.48 xERA over 443 PA with elite control (1.9 BB/9, 1.02 WHIP) against rookie Jump's 4.07 xERA with 3.6 BB/9 and high volatility. The decisive full-game factor is bullpen sta",
     "bankroll_after": "1165.69"
+  },
+  {
+    "date": "2026-08-03",
+    "game": "St. Louis Cardinals @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "New York Yankees -1.5",
+    "odds": "100.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large SP mismatch: home starter carries a 2.89 xERA over 538 PA with elite recent form, while the away starter's 3.57 ERA hides a 5.66 xERA, .361 xwOBA, and a 1.2 IP/7 ER last start \u2014 a contact pitcher due for regression. My win probability (~68%) of",
+    "bankroll_after": "1107.64"
   }
 ]
