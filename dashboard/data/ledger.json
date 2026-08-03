@@ -5550,5 +5550,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large SP mismatch: home starter carries a 2.89 xERA over 538 PA with elite recent form, while the away starter's 3.57 ERA hides a 5.66 xERA, .361 xwOBA, and a 1.2 IP/7 ER last start \u2014 a contact pitcher due for regression. My win probability (~68%) of",
     "bankroll_after": "1107.64"
+  },
+  {
+    "date": "2026-08-03",
+    "game": "Toronto Blue Jays @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Toronto Blue Jays",
+    "odds": "114.0",
+    "line": "114.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "50",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Houston's pitching situation is structurally compromised tonight: Javier has thrown only 21.1 IP all season with a 3-week layoff since his last start (3 IP on 7/12), meaning a short leash in front of a bullpen with SIX relievers taxed from the last 3",
+    "bankroll_after": "1049.64"
   }
 ]
