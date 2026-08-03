@@ -5566,5 +5566,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Houston's pitching situation is structurally compromised tonight: Javier has thrown only 21.1 IP all season with a 3-week layoff since his last start (3 IP on 7/12), meaning a short leash in front of a bullpen with SIX relievers taxed from the last 3",
     "bankroll_after": "1049.64"
+  },
+  {
+    "date": "2026-08-03",
+    "game": "San Francisco Giants @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Francisco Giants",
+    "odds": "114.0",
+    "line": "114.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Logan Webb holds a clear starting-pitcher edge over Cal Quantrill: career 3.44 ERA over 1181 IP vs 4.31, current xERA 3.93 vs 4.48, and Quantrill's prior-year 5.77 xERA suggests his 3.84 ERA this season flatters his true contact quality (xwOBA .326 v",
+    "bankroll_after": "991.6400000000001"
   }
 ]
