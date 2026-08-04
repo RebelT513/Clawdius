@@ -5614,5 +5614,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Clear starting pitcher edge to Toronto: Yesavage carries a 3.33 xERA over 379 PA this season (91.2 IP, consistent with his 3.66 career ERA) while Wesneski has thrown just 5.2 IP all season and is effectively returning cold \u2014 his career 4.03 ERA is th",
     "bankroll_after": "1116.43"
+  },
+  {
+    "date": "2026-08-04",
+    "game": "San Diego Padres @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Arizona Diamondbacks",
+    "odds": "-116.0",
+    "line": "-116.0",
+    "units": "1",
+    "stake_usd": "62.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a true-talent pitching and bullpen mismatch in Arizona's favor. Vasquez carries a 6.49 xERA (414 PA, prior year 5.37 \u2014 chronic contact-quality problems, not a blip) and hasn't completed 4 innings in any of his last three starts, which forces ",
+    "bankroll_after": "1054.37"
   }
 ]
