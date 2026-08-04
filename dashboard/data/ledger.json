@@ -5563,7 +5563,7 @@
     "stake_usd": "58.0",
     "confidence_score": "50",
     "result": "win",
-    "pnl": "66.37",
+    "pnl": "66.368",
     "reasoning_summary": "Houston's pitching situation is structurally compromised tonight: Javier has thrown only 21.1 IP all season with a 3-week layoff since his last start (3 IP on 7/12), meaning a short leash in front of a bullpen with SIX relievers taxed from the last 3",
     "bankroll_after": "1174.06"
   },
@@ -5579,7 +5579,7 @@
     "stake_usd": "58.0",
     "confidence_score": "52",
     "result": "win",
-    "pnl": "66.37",
+    "pnl": "66.368",
     "reasoning_summary": "Logan Webb holds a clear starting-pitcher edge over Cal Quantrill: career 3.44 ERA over 1181 IP vs 4.31, current xERA 3.93 vs 4.48, and Quantrill's prior-year 5.77 xERA suggests his 3.84 ERA this season flatters his true contact quality (xwOBA .326 v",
     "bankroll_after": "1240.43"
   },
@@ -5597,7 +5597,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Real SP mismatch by best current estimators: Ginn xERA 3.96 (prior yr 3.74, xwOBA .308) vs Singer 4.96 (xwOBA .341) \u2014 a full run of contact-quality gap with both past 100 IP, while Singer's 4.35 ERA overstates his form. The 1H isolates this edge and ",
-    "bankroll_after": "1178.38"
+    "bankroll_after": "1178.43"
   },
   {
     "date": "2026-08-04",
@@ -5613,6 +5613,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting pitcher edge to Toronto: Yesavage carries a 3.33 xERA over 379 PA this season (91.2 IP, consistent with his 3.66 career ERA) while Wesneski has thrown just 5.2 IP all season and is effectively returning cold \u2014 his career 4.03 ERA is th",
-    "bankroll_after": "1116.38"
+    "bankroll_after": "1116.43"
   }
 ]
