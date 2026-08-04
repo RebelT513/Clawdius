@@ -5578,9 +5578,9 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "66.37",
     "reasoning_summary": "Logan Webb holds a clear starting-pitcher edge over Cal Quantrill: career 3.44 ERA over 1181 IP vs 4.31, current xERA 3.93 vs 4.48, and Quantrill's prior-year 5.77 xERA suggests his 3.84 ERA this season flatters his true contact quality (xwOBA .326 v",
-    "bankroll_after": "1116.06"
+    "bankroll_after": "1240.43"
   }
 ]
