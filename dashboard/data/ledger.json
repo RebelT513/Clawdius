@@ -5630,5 +5630,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a true-talent pitching and bullpen mismatch in Arizona's favor. Vasquez carries a 6.49 xERA (414 PA, prior year 5.37 \u2014 chronic contact-quality problems, not a blip) and hasn't completed 4 innings in any of his last three starts, which forces ",
     "bankroll_after": "1054.37"
+  },
+  {
+    "date": "2026-08-04",
+    "game": "Detroit Tigers @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Detroit Tigers",
+    "odds": "103.0",
+    "line": "105.0",
+    "units": "1",
+    "stake_usd": "62.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP quality gap: Melton's contact-quality profile is legitimately strong (xERA 3.26, xwOBA .281, career 2.16 ERA, 7 IP / 0 ER last out), while Hancock's 3.26 ERA masks mediocre underlying quality (xERA 4.16, career 4.19 ERA over 273 IP, prior-ye",
+    "bankroll_after": "992.3699999999999"
   }
 ]
