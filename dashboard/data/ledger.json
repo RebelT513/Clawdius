@@ -5646,5 +5646,21 @@
     "pnl": "63.86",
     "reasoning_summary": "Clear SP quality gap: Melton's contact-quality profile is legitimately strong (xERA 3.26, xwOBA .281, career 2.16 ERA, 7 IP / 0 ER last out), while Hancock's 3.26 ERA masks mediocre underlying quality (xERA 4.16, career 4.19 ERA over 273 IP, prior-ye",
     "bankroll_after": "1180.29"
+  },
+  {
+    "date": "2026-08-05",
+    "game": "Athletics @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Athletics",
+    "odds": "110.0",
+    "line": "110.0",
+    "units": "1",
+    "stake_usd": "59.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a genuine SP mismatch hidden by surface ERAs: Jacob Lopez's 5.79 ERA masks a 3.69 xERA over a real sample (326 PA, 70 IP) that matches his prior-year 3.64, and his last three starts (3 ER in 14.2 IP) confirm the underlying quality, while Rhet",
+    "bankroll_after": "1121.23"
   }
 ]
