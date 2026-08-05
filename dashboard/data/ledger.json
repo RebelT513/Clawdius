@@ -5594,10 +5594,10 @@
     "units": "1",
     "stake_usd": "62.0",
     "confidence_score": "52",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Real SP mismatch by best current estimators: Ginn xERA 3.96 (prior yr 3.74, xwOBA .308) vs Singer 4.96 (xwOBA .341) \u2014 a full run of contact-quality gap with both past 100 IP, while Singer's 4.35 ERA overstates his form. The 1H isolates this edge and ",
-    "bankroll_after": "1178.43"
+    "bankroll_after": "1240.43"
   },
   {
     "date": "2026-08-04",
@@ -5613,7 +5613,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting pitcher edge to Toronto: Yesavage carries a 3.33 xERA over 379 PA this season (91.2 IP, consistent with his 3.66 career ERA) while Wesneski has thrown just 5.2 IP all season and is effectively returning cold \u2014 his career 4.03 ERA is th",
-    "bankroll_after": "1116.43"
+    "bankroll_after": "1178.43"
   },
   {
     "date": "2026-08-04",
@@ -5629,7 +5629,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is a true-talent pitching and bullpen mismatch in Arizona's favor. Vasquez carries a 6.49 xERA (414 PA, prior year 5.37 \u2014 chronic contact-quality problems, not a blip) and hasn't completed 4 innings in any of his last three starts, which forces ",
-    "bankroll_after": "1054.37"
+    "bankroll_after": "1116.43"
   },
   {
     "date": "2026-08-04",
@@ -5645,6 +5645,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP quality gap: Melton's contact-quality profile is legitimately strong (xERA 3.26, xwOBA .281, career 2.16 ERA, 7 IP / 0 ER last out), while Hancock's 3.26 ERA masks mediocre underlying quality (xERA 4.16, career 4.19 ERA over 273 IP, prior-ye",
-    "bankroll_after": "992.3699999999999"
+    "bankroll_after": "1054.43"
   }
 ]
