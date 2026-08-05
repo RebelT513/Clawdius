@@ -5610,8 +5610,8 @@
     "units": "1",
     "stake_usd": "62.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-62.0",
     "reasoning_summary": "Clear starting pitcher edge to Toronto: Yesavage carries a 3.33 xERA over 379 PA this season (91.2 IP, consistent with his 3.66 career ERA) while Wesneski has thrown just 5.2 IP all season and is effectively returning cold \u2014 his career 4.03 ERA is th",
     "bankroll_after": "1178.43"
   },
