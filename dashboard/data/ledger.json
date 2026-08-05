@@ -5642,9 +5642,9 @@
     "units": "1",
     "stake_usd": "62.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "63.86",
     "reasoning_summary": "Clear SP quality gap: Melton's contact-quality profile is legitimately strong (xERA 3.26, xwOBA .281, career 2.16 ERA, 7 IP / 0 ER last out), while Hancock's 3.26 ERA masks mediocre underlying quality (xERA 4.16, career 4.19 ERA over 273 IP, prior-ye",
-    "bankroll_after": "1054.43"
+    "bankroll_after": "1180.29"
   }
 ]
