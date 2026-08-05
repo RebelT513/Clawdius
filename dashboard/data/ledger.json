@@ -5726,5 +5726,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Pallante is the better starter by a meaningful margin \u2014 3.72 xERA over 496 PA vs Warren's 4.46, with stronger recent form (0.30 ER/start over his last three) and better command, and both have 100+ IP so current-year data is reliable. The home lineup'",
     "bankroll_after": "891.23"
+  },
+  {
+    "date": "2026-08-05",
+    "game": "Pittsburgh Pirates @ Milwaukee Brewers",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Pittsburgh Pirates",
+    "odds": "104.0",
+    "line": "104.0",
+    "units": "1",
+    "stake_usd": "53.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a large career-grade SP mismatch: Skenes (career 2.51 ERA / 0.99 WHIP over 445 IP, 2.93 current xERA) against Harrison (career 3.98 ERA / 1.24 WHIP), and Harrison hasn't started since July 8 \u2014 a near month-long layoff that implies rust and a ",
+    "bankroll_after": "838.23"
   }
 ]
