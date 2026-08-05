@@ -5661,7 +5661,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is a genuine SP mismatch hidden by surface ERAs: Jacob Lopez's 5.79 ERA masks a 3.69 xERA over a real sample (326 PA, 70 IP) that matches his prior-year 3.64, and his last three starts (3 ER in 14.2 IP) confirm the underlying quality, while Rhet",
-    "bankroll_after": "1121.23"
+    "bankroll_after": "1121.29"
   },
   {
     "date": "2026-08-05",
@@ -5677,7 +5677,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is a genuine SP mismatch concentrated in the first five innings: Mize has an elite, well-sampled season (2.70 ERA, 0.99 WHIP, 3.07 xERA over 86.2 IP, backed by a 3.66 prior-year xERA) while Bratt has only 20 career IP with a 1.84 WHIP, 6.5 BB/9,",
-    "bankroll_after": "1062.23"
+    "bankroll_after": "1062.29"
   },
   {
     "date": "2026-08-05",
@@ -5690,10 +5690,10 @@
     "units": "1",
     "stake_usd": "59.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-59.0",
     "reasoning_summary": "Fundamentals project roughly 9 runs: Imanaga (career 3.39 ERA/1.03 WHIP, 2 ER total over his last three starts) faces a Dodgers lineup in an 11 mph wind-in Wrigley environment, the strongest run-suppression setup this park offers, and Lauer is servic",
-    "bankroll_after": "1003.23"
+    "bankroll_after": "1003.29"
   },
   {
     "date": "2026-08-05",
@@ -5709,6 +5709,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters project as highly hittable by contact-quality metrics: Sugano's 7.22 xERA (.399 xwOBA) is among the worst marks a qualified starter can post, and Martinez's 2.77 ERA masks a 4.58 xERA with only 5.0 K/9 \u2014 a low-strikeout regression candi",
-    "bankroll_after": "944.23"
+    "bankroll_after": "944.29"
   }
 ]
