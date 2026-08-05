@@ -5626,8 +5626,8 @@
     "units": "1",
     "stake_usd": "62.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-62.0",
     "reasoning_summary": "This is a true-talent pitching and bullpen mismatch in Arizona's favor. Vasquez carries a 6.49 xERA (414 PA, prior year 5.37 \u2014 chronic contact-quality problems, not a blip) and hasn't completed 4 innings in any of his last three starts, which forces ",
     "bankroll_after": "1116.43"
   },
