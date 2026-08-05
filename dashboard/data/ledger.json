@@ -5694,5 +5694,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Fundamentals project roughly 9 runs: Imanaga (career 3.39 ERA/1.03 WHIP, 2 ER total over his last three starts) faces a Dodgers lineup in an 11 mph wind-in Wrigley environment, the strongest run-suppression setup this park offers, and Lauer is servic",
     "bankroll_after": "1003.23"
+  },
+  {
+    "date": "2026-08-05",
+    "game": "Tampa Bay Rays @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o11",
+    "odds": "-108.0",
+    "line": "11.0",
+    "units": "1",
+    "stake_usd": "59.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters project as highly hittable by contact-quality metrics: Sugano's 7.22 xERA (.399 xwOBA) is among the worst marks a qualified starter can post, and Martinez's 2.77 ERA masks a 4.58 xERA with only 5.0 K/9 \u2014 a low-strikeout regression candi",
+    "bankroll_after": "944.23"
   }
 ]
