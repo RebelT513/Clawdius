@@ -5706,8 +5706,8 @@
     "units": "1",
     "stake_usd": "59.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-59.0",
     "reasoning_summary": "Both starters project as highly hittable by contact-quality metrics: Sugano's 7.22 xERA (.399 xwOBA) is among the worst marks a qualified starter can post, and Martinez's 2.77 ERA masks a 4.58 xERA with only 5.0 K/9 \u2014 a low-strikeout regression candi",
     "bankroll_after": "944.29"
   }
