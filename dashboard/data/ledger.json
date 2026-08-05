@@ -5710,5 +5710,21 @@
     "pnl": "-59.0",
     "reasoning_summary": "Both starters project as highly hittable by contact-quality metrics: Sugano's 7.22 xERA (.399 xwOBA) is among the worst marks a qualified starter can post, and Martinez's 2.77 ERA masks a 4.58 xERA with only 5.0 K/9 \u2014 a low-strikeout regression candi",
     "bankroll_after": "944.29"
+  },
+  {
+    "date": "2026-08-05",
+    "game": "St. Louis Cardinals @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "136.0",
+    "line": "136.0",
+    "units": "1",
+    "stake_usd": "53.0",
+    "confidence_score": "45",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Pallante is the better starter by a meaningful margin \u2014 3.72 xERA over 496 PA vs Warren's 4.46, with stronger recent form (0.30 ER/start over his last three) and better command, and both have 100+ IP so current-year data is reliable. The home lineup'",
+    "bankroll_after": "891.23"
   }
 ]
