@@ -5754,10 +5754,10 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "43",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-48.0",
     "reasoning_summary": "The market is pricing Abbott's surface line (3.91 ERA), but his 122-IP expected stats say decline: 4.70 xERA over 528 PA, K/9 down from 8.0 career to 7.0, BB/9 up from 3.3 to 4.3, and 9 walks across his last two starts. Barnett's contact-quality prof",
-    "bankroll_after": "915.25"
+    "bankroll_after": "915.3"
   },
   {
     "date": "2026-08-06",
@@ -5773,7 +5773,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The market is pricing Baltimore at 65% largely on Young's 3.31 surface ERA, but his xERA (4.30, matching his 4.27 prior year and 4.36 career) says he's a roughly league-average starter due regression, while Johnson's xERA of 5.30 makes him bad but no",
-    "bankroll_after": "867.25"
+    "bankroll_after": "867.3"
   },
   {
     "date": "2026-08-06",
@@ -5789,6 +5789,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Ashcraft holds a real SP edge over May on reliable samples (xERA 3.38 vs 3.90, xwOBA .286 vs .306, career 3.52 vs 3.99), and Milwaukee's bullpen is heavily taxed with four relievers at 2+ appearances in three days including their high-leverage arms, ",
-    "bankroll_after": "819.25"
+    "bankroll_after": "819.3"
   }
 ]
