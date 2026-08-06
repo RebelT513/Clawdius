@@ -5786,8 +5786,8 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "50",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-48.0",
     "reasoning_summary": "Ashcraft holds a real SP edge over May on reliable samples (xERA 3.38 vs 3.90, xwOBA .286 vs .306, career 3.52 vs 3.99), and Milwaukee's bullpen is heavily taxed with four relievers at 2+ appearances in three days including their high-leverage arms, ",
     "bankroll_after": "948.69"
   }
