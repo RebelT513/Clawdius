@@ -5742,5 +5742,21 @@
     "pnl": "-53.0",
     "reasoning_summary": "This is a large career-grade SP mismatch: Skenes (career 2.51 ERA / 0.99 WHIP over 445 IP, 2.93 current xERA) against Harrison (career 3.98 ERA / 1.24 WHIP), and Harrison hasn't started since July 8 \u2014 a near month-long layoff that implies rust and a ",
     "bankroll_after": "963.3"
+  },
+  {
+    "date": "2026-08-06",
+    "game": "Athletics @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Athletics",
+    "odds": "143.0",
+    "line": "143.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "43",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market is pricing Abbott's surface line (3.91 ERA), but his 122-IP expected stats say decline: 4.70 xERA over 528 PA, K/9 down from 8.0 career to 7.0, BB/9 up from 3.3 to 4.3, and 9 walks across his last two starts. Barnett's contact-quality prof",
+    "bankroll_after": "915.25"
   }
 ]
