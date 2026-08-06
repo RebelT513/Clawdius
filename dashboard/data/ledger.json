@@ -5674,8 +5674,8 @@
     "units": "1",
     "stake_usd": "59.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-59.0",
     "reasoning_summary": "This is a genuine SP mismatch concentrated in the first five innings: Mize has an elite, well-sampled season (2.70 ERA, 0.99 WHIP, 3.07 xERA over 86.2 IP, backed by a 3.66 prior-year xERA) while Bratt has only 20 career IP with a 1.84 WHIP, 6.5 BB/9,",
     "bankroll_after": "1062.29"
   },
