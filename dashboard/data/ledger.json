@@ -5738,8 +5738,8 @@
     "units": "1",
     "stake_usd": "53.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-53.0",
     "reasoning_summary": "This is a large career-grade SP mismatch: Skenes (career 2.51 ERA / 0.99 WHIP over 445 IP, 2.93 current xERA) against Harrison (career 3.98 ERA / 1.24 WHIP), and Harrison hasn't started since July 8 \u2014 a near month-long layoff that implies rust and a ",
     "bankroll_after": "838.29"
   }
