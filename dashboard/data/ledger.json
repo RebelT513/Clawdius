@@ -5774,5 +5774,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market is pricing Baltimore at 65% largely on Young's 3.31 surface ERA, but his xERA (4.30, matching his 4.27 prior year and 4.36 career) says he's a roughly league-average starter due regression, while Johnson's xERA of 5.30 makes him bad but no",
     "bankroll_after": "867.25"
+  },
+  {
+    "date": "2026-08-06",
+    "game": "Pittsburgh Pirates @ Milwaukee Brewers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "111.0",
+    "line": "111.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "50",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Ashcraft holds a real SP edge over May on reliable samples (xERA 3.38 vs 3.90, xwOBA .286 vs .306, career 3.52 vs 3.99), and Milwaukee's bullpen is heavily taxed with four relievers at 2+ appearances in three days including their high-leverage arms, ",
+    "bankroll_after": "819.25"
   }
 ]
