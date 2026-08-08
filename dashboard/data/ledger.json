@@ -5822,5 +5822,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The home favorite is overpriced at an implied 68.8%. Perkins' 6.72 ERA badly overstates his true talent \u2014 his 4.01 xERA (332 PA) and 3.64 prior-year xERA indicate quality contact suppression, and he held this same Boston lineup to 2 ER on 7/27. Tolle",
     "bankroll_after": "854.63"
+  },
+  {
+    "date": "2026-08-07",
+    "game": "Houston Astros @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Houston Astros",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Market prices this dead even, but Houston holds the deeper edges: a .757-OPS all-RHB lineup with full platoon advantage against a lefty whose 4.42 xERA and sharply declined K rate say his 3.08 ERA is overperformance, plus a fresh high-end bullpen aga",
+    "bankroll_after": "807.63"
   }
 ]
