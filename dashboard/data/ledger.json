@@ -5818,8 +5818,8 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "40",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-47.0",
     "reasoning_summary": "The home favorite is overpriced at an implied 68.8%. Perkins' 6.72 ERA badly overstates his true talent \u2014 his 4.01 xERA (332 PA) and 3.64 prior-year xERA indicate quality contact suppression, and he held this same Boston lineup to 2 ER on 7/27. Tolle",
     "bankroll_after": "934.79"
   },
