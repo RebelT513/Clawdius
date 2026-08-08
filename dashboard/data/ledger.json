@@ -5886,5 +5886,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The underlying pitching metrics favor the road side: Lambert's 3.35 xERA and .285 xwOBA over a real sample (449 PA, 108 IP) confirm his 3.06 ERA is earned, while King's 4.54 xERA and .328 xwOBA (second straight year of xERA well above results, K/9 do",
     "bankroll_after": "947.85"
+  },
+  {
+    "date": "2026-08-08",
+    "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Arizona Diamondbacks +1.5",
+    "odds": "101.0",
+    "line": "1.5",
+    "units": "1",
+    "stake_usd": "52.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Yamamoto (career 2.70 ERA, 3.11 xERA, three dominant recent starts) has a real SP edge, but Pfaadt is legitimately improved this year (3.82 xERA over 78.2 IP, 2 ER total across his last three starts), so this profiles as a low-scoring, close game in ",
+    "bankroll_after": "895.8"
   }
 ]
