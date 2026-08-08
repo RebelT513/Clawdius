@@ -5834,9 +5834,9 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "46.79",
     "reasoning_summary": "Market prices this dead even, but Houston holds the deeper edges: a .757-OPS all-RHB lineup with full platoon advantage against a lefty whose 4.42 xERA and sharply declined K rate say his 3.08 ERA is overperformance, plus a fresh high-end bullpen aga",
-    "bankroll_after": "887.79"
+    "bankroll_after": "981.58"
   }
 ]
