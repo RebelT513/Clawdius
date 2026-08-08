@@ -5803,7 +5803,7 @@
     "stake_usd": "47.0",
     "confidence_score": "62",
     "result": "win",
-    "pnl": "33.1",
+    "pnl": "33.098",
     "reasoning_summary": "This is a large, career-data-backed SP mismatch: Messick (2.60 career ERA over 169 IP, 3.09 xERA, .274 xwOBA, three straight 1-ER starts) vs Schultz (5.82 career ERA, 5.66 xERA, .361 xwOBA, failed to finish 4 innings in two of his last three). A run-",
     "bankroll_after": "981.79"
   },
@@ -5835,7 +5835,7 @@
     "stake_usd": "47.0",
     "confidence_score": "53",
     "result": "win",
-    "pnl": "46.79",
+    "pnl": "46.794",
     "reasoning_summary": "Market prices this dead even, but Houston holds the deeper edges: a .757-OPS all-RHB lineup with full platoon advantage against a lefty whose 4.42 xERA and sharply declined K rate say his 3.08 ERA is overperformance, plus a fresh high-end bullpen aga",
     "bankroll_after": "981.58"
   }
