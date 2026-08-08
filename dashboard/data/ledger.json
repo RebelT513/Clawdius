@@ -5838,5 +5838,21 @@
     "pnl": "46.794",
     "reasoning_summary": "Market prices this dead even, but Houston holds the deeper edges: a .757-OPS all-RHB lineup with full platoon advantage against a lefty whose 4.42 xERA and sharply declined K rate say his 3.08 ERA is overperformance, plus a fresh high-end bullpen aga",
     "bankroll_after": "981.58"
+  },
+  {
+    "date": "2026-08-08",
+    "game": "Atlanta Braves @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Yankees",
+    "odds": "131.0",
+    "line": "131.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The SP edge for Atlanta is real but modest \u2014 Sale (xERA 3.04, career 2.96) over Cole (xERA 3.40, career 3.19) is a gap between two aces, not a mismatch, and posted lineup quality is essentially even (.754 vs .747 avg OPS). Atlanta's bullpen is severe",
+    "bankroll_after": "932.53"
   }
 ]
