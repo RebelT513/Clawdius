@@ -5870,5 +5870,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a stark fundamentals mismatch priced like a coin flip. The home starter is an established mid-rotation arm (110 IP this season, 4.10 xERA on 487 PA, 3.66 prior-year xERA) while the visitor sends a 36-year-old journeyman with a career 4.71 ERA",
     "bankroll_after": "883.53"
+  },
+  {
+    "date": "2026-08-08",
+    "game": "Houston Astros @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Houston Astros",
+    "odds": "107.0",
+    "line": "107.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The underlying pitching metrics favor the road side: Lambert's 3.35 xERA and .285 xwOBA over a real sample (449 PA, 108 IP) confirm his 3.06 ERA is earned, while King's 4.54 xERA and .328 xwOBA (second straight year of xERA well above results, K/9 do",
+    "bankroll_after": "834.53"
   }
 ]
