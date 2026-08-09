@@ -5962,8 +5962,8 @@
     "units": "1",
     "stake_usd": "55.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-55.0",
     "reasoning_summary": "Both starters are significant regression candidates: Rodriguez's 2.71 ERA comes with a 4.86 xERA, a 6.1 K/9 contact-heavy profile, and a 4.05 career ERA, while Wrobleski's 3.31 ERA masks a 4.51 xERA and he has allowed 12 ER over his last 10.1 IP. Tru",
     "bankroll_after": "995.75"
   },
