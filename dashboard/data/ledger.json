@@ -5851,7 +5851,7 @@
     "stake_usd": "49.0",
     "confidence_score": "47",
     "result": "win",
-    "pnl": "64.27",
+    "pnl": "64.269",
     "reasoning_summary": "The SP edge for Atlanta is real but modest \u2014 Sale (xERA 3.04, career 2.96) over Cole (xERA 3.40, career 3.19) is a gap between two aces, not a mismatch, and posted lineup quality is essentially even (.754 vs .747 avg OPS). Atlanta's bullpen is severe",
     "bankroll_after": "1045.85"
   },
@@ -5867,7 +5867,7 @@
     "stake_usd": "49.0",
     "confidence_score": "59",
     "result": "win",
-    "pnl": "41.92",
+    "pnl": "41.923",
     "reasoning_summary": "This is a stark fundamentals mismatch priced like a coin flip. The home starter is an established mid-rotation arm (110 IP this season, 4.10 xERA on 487 PA, 3.66 prior-year xERA) while the visitor sends a 36-year-old journeyman with a career 4.71 ERA",
     "bankroll_after": "1087.77"
   },
@@ -5899,7 +5899,7 @@
     "stake_usd": "52.0",
     "confidence_score": "54",
     "result": "win",
-    "pnl": "52.63",
+    "pnl": "52.635",
     "reasoning_summary": "Yamamoto (career 2.70 ERA, 3.11 xERA, three dominant recent starts) has a real SP edge, but Pfaadt is legitimately improved this year (3.82 xERA over 78.2 IP, 2 ER total across his last three starts), so this profiles as a low-scoring, close game in ",
     "bankroll_after": "1091.4"
   }
