@@ -5966,5 +5966,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are significant regression candidates: Rodriguez's 2.71 ERA comes with a 4.86 xERA, a 6.1 K/9 contact-heavy profile, and a 4.05 career ERA, while Wrobleski's 3.31 ERA masks a 4.51 xERA and he has allowed 12 ER over his last 10.1 IP. Tru",
     "bankroll_after": "871.35"
+  },
+  {
+    "date": "2026-08-09",
+    "game": "Cincinnati Reds @ Washington Nationals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cincinnati Reds",
+    "odds": "101.0",
+    "line": "101.0",
+    "units": "1",
+    "stake_usd": "55.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Washington's starter has thrown 2.1 innings since July 1 (one abbreviated start, likely first game back from a layoff), so his workload is capped and 5+ innings will fall to a bullpen whose three most-used arms (Beeter, Kranick, Cruz) all pitched yes",
+    "bankroll_after": "816.35"
   }
 ]
