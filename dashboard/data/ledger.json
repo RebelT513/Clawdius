@@ -5918,5 +5918,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters project below average on reliable samples: Singer's current xERA is 4.95 over 503 PA (regressing from last year's 4.27) and Lord is a 4.18 career ERA arm whose lone listed start since July 1 (2.1 IP) points to a layoff and a capped pitc",
     "bankroll_after": "1036.35"
+  },
+  {
+    "date": "2026-08-09",
+    "game": "New York Mets @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Mets",
+    "odds": "126.0",
+    "line": "126.0",
+    "units": "1",
+    "stake_usd": "55.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The SP edge favors Pittsburgh early (Jones xERA 3.32 vs Manaea 4.63), but Jones is on a limited workload (56 IP season, only 4 IP last start) while four Pirates relievers are taxed from the last three days; the Mets bullpen is nearly fully rested wit",
+    "bankroll_after": "981.3499999999999"
   }
 ]
