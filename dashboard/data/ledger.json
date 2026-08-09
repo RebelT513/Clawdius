@@ -5882,8 +5882,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "The underlying pitching metrics favor the road side: Lambert's 3.35 xERA and .285 xwOBA over a real sample (449 PA, 108 IP) confirm his 3.06 ERA is earned, while King's 4.54 xERA and .328 xwOBA (second straight year of xERA well above results, K/9 do",
     "bankroll_after": "1038.77"
   },
