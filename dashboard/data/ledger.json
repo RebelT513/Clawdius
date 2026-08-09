@@ -5898,9 +5898,9 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "52.63",
     "reasoning_summary": "Yamamoto (career 2.70 ERA, 3.11 xERA, three dominant recent starts) has a real SP edge, but Pfaadt is legitimately improved this year (3.82 xERA over 78.2 IP, 2 ER total across his last three starts), so this profiles as a low-scoring, close game in ",
-    "bankroll_after": "986.77"
+    "bankroll_after": "1091.4"
   }
 ]
