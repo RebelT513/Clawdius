@@ -5994,9 +5994,9 @@
     "units": "1",
     "stake_usd": "55.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "53.24",
     "reasoning_summary": "Extreme run environment: 105\u00b0F with a 14 mph wind blowing out (+10.6 mph to CF) is one of the strongest scoring boosts in baseball, and both starters are regression candidates despite surface ERAs \u2014 Dobnak's 1.16 ERA sits on a 4.86 xERA with a 4.3 K/",
-    "bankroll_after": "885.75"
+    "bankroll_after": "993.99"
   }
 ]
