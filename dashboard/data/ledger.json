@@ -5931,7 +5931,7 @@
     "stake_usd": "55.0",
     "confidence_score": "47",
     "result": "win",
-    "pnl": "69.35",
+    "pnl": "69.351",
     "reasoning_summary": "The SP edge favors Pittsburgh early (Jones xERA 3.32 vs Manaea 4.63), but Jones is on a limited workload (56 IP season, only 4 IP last start) while four Pirates relievers are taxed from the last three days; the Mets bullpen is nearly fully rested wit",
     "bankroll_after": "1105.75"
   },
@@ -5995,7 +5995,7 @@
     "stake_usd": "55.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "53.24",
+    "pnl": "53.239",
     "reasoning_summary": "Extreme run environment: 105\u00b0F with a 14 mph wind blowing out (+10.6 mph to CF) is one of the strongest scoring boosts in baseball, and both starters are regression candidates despite surface ERAs \u2014 Dobnak's 1.16 ERA sits on a 4.86 xERA with a 4.3 K/",
     "bankroll_after": "993.99"
   }
