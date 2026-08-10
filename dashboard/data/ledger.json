@@ -6014,5 +6014,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Real SP mismatch: Rogers (3.76 xERA on 484 PA, 3.41 prior year, strong recent form) vs Kremer (4.57 xERA, 4.36 career ERA, shelled in 2 of last 3 starts). Minnesota's bullpen is heavily taxed with six relievers at 2+ appearances in 3 days while Balti",
     "bankroll_after": "943.94"
+  },
+  {
+    "date": "2026-08-10",
+    "game": "Tampa Bay Rays @ Athletics",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Athletics",
+    "odds": "139.0",
+    "line": "134.0",
+    "units": "1",
+    "stake_usd": "50.0",
+    "confidence_score": "46",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Market prices the away side at ~59% devigged on Peralta's reputation, but current-year xERA (Lopez 3.52 on 345 PA, second straight year ~3.5-3.6) versus Peralta (3.95, declining K rate, two 7-ER starts in his last three) makes the SP matchup a wash o",
+    "bankroll_after": "893.94"
   }
 ]
