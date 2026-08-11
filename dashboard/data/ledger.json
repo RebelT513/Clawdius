@@ -6026,8 +6026,8 @@
     "units": "1",
     "stake_usd": "50.0",
     "confidence_score": "46",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-50.0",
     "reasoning_summary": "Market prices the away side at ~59% devigged on Peralta's reputation, but current-year xERA (Lopez 3.52 on 345 PA, second straight year ~3.5-3.6) versus Peralta (3.95, declining K rate, two 7-ER starts in his last three) makes the SP matchup a wash o",
     "bankroll_after": "893.99"
   },
