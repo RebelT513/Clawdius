@@ -6013,7 +6013,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Real SP mismatch: Rogers (3.76 xERA on 484 PA, 3.41 prior year, strong recent form) vs Kremer (4.57 xERA, 4.36 career ERA, shelled in 2 of last 3 starts). Minnesota's bullpen is heavily taxed with six relievers at 2+ appearances in 3 days while Balti",
-    "bankroll_after": "943.94"
+    "bankroll_after": "943.99"
   },
   {
     "date": "2026-08-10",
@@ -6029,7 +6029,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Market prices the away side at ~59% devigged on Peralta's reputation, but current-year xERA (Lopez 3.52 on 345 PA, second straight year ~3.5-3.6) versus Peralta (3.95, declining K rate, two 7-ER starts in his last three) makes the SP matchup a wash o",
-    "bankroll_after": "893.94"
+    "bankroll_after": "893.99"
   },
   {
     "date": "2026-08-10",
@@ -6042,10 +6042,10 @@
     "units": "1",
     "stake_usd": "50.0",
     "confidence_score": "46",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "65.11",
     "reasoning_summary": "Christian Scott has the better underlying profile than Bryce Elder (xERA 3.78 vs 3.92, 11.1 vs 7.4 K/9), whose 1-ER recent run is contact-driven and sits well above his 561-IP career baseline (4.38 ERA, 4.73 prior-year xERA). Atlanta's bullpen is hea",
-    "bankroll_after": "843.94"
+    "bankroll_after": "959.1"
   },
   {
     "date": "2026-08-10",
@@ -6061,6 +6061,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The home starter has not pitched in a game since June 19, when he exited after 1 inning \u2014 this is his first start off a ~7-week layoff, meaning a probable pitch limit and 4+ innings from a bullpen whose top arms (two relievers on back-to-back days, a",
-    "bankroll_after": "793.94"
+    "bankroll_after": "909.1"
   }
 ]
