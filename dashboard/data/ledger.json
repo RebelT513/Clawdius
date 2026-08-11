@@ -6046,5 +6046,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Christian Scott has the better underlying profile than Bryce Elder (xERA 3.78 vs 3.92, 11.1 vs 7.4 K/9), whose 1-ER recent run is contact-driven and sits well above his 561-IP career baseline (4.38 ERA, 4.73 prior-year xERA). Atlanta's bullpen is hea",
     "bankroll_after": "843.94"
+  },
+  {
+    "date": "2026-08-10",
+    "game": "Colorado Rockies @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Colorado Rockies",
+    "odds": "186.0",
+    "line": "145.0",
+    "units": "1",
+    "stake_usd": "50.0",
+    "confidence_score": "44",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The home starter has not pitched in a game since June 19, when he exited after 1 inning \u2014 this is his first start off a ~7-week layoff, meaning a probable pitch limit and 4+ innings from a bullpen whose top arms (two relievers on back-to-back days, a",
+    "bankroll_after": "793.94"
   }
 ]
