@@ -6010,8 +6010,8 @@
     "units": "1",
     "stake_usd": "50.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-50.0",
     "reasoning_summary": "Real SP mismatch: Rogers (3.76 xERA on 484 PA, 3.41 prior year, strong recent form) vs Kremer (4.57 xERA, 4.36 career ERA, shelled in 2 of last 3 starts). Minnesota's bullpen is heavily taxed with six relievers at 2+ appearances in 3 days while Balti",
     "bankroll_after": "943.99"
   },
