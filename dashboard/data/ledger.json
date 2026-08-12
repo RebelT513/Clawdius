@@ -6170,9 +6170,9 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "40.89",
     "reasoning_summary": "Both starters project poorly on current-season expected stats with real samples: Kelly's 6.97 xERA and .393 xwOBA over 519 PA say his 4.88 ERA is heavily flattered (K/9 down 7.9\u21926.0, BB/9 up vs career, corroborating genuine decline), and Feltner's 5.",
-    "bankroll_after": "796.62"
+    "bankroll_after": "884.51"
   }
 ]
