@@ -6138,8 +6138,8 @@
     "units": "1",
     "stake_usd": "44.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-44.0",
     "reasoning_summary": "The teams are statistical twins (58-62 vs 59-62, both -34 run differential), so this prices as a pure pick'em plus home field \u2014 but the pitching splits are not even. Baz holds a clear SP edge over Matthews (xERA 4.14 vs 4.78, career 4.09 vs 5.63) and",
     "bankroll_after": "887.62"
   },
@@ -6173,6 +6173,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters project poorly on current-season expected stats with real samples: Kelly's 6.97 xERA and .393 xwOBA over 519 PA say his 4.88 ERA is heavily flattered (K/9 down 7.9\u21926.0, BB/9 up vs career, corroborating genuine decline), and Feltner's 5.",
-    "bankroll_after": "796.58"
+    "bankroll_after": "796.62"
   }
 ]
