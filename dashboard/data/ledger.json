@@ -6107,7 +6107,7 @@
     "stake_usd": "45.0",
     "confidence_score": "44",
     "result": "win",
-    "pnl": "66.69",
+    "pnl": "66.692",
     "reasoning_summary": "By season fundamentals these are near-equal clubs: run differentials +1 vs -9, runs scored/allowed almost identical (534/533 vs 520/529), and bullpens effectively even (4.43 vs 4.35 ERA), with the Cardinals at home. The SP gap is real but narrower th",
     "bankroll_after": "885.79"
   },
@@ -6122,9 +6122,9 @@
     "units": "1",
     "stake_usd": "43.0",
     "confidence_score": "55",
-    "result": "win",
-    "pnl": "45.83",
+    "result": "push",
+    "pnl": "0.0",
     "reasoning_summary": "Snell is elite by career profile but has thrown 3 total innings this season and hasn't started since early May, so this is a short-leash return start that hands 5+ innings to a bullpen with five relievers at 2+ appearances in the last 3 days. Kansas ",
-    "bankroll_after": "931.62"
+    "bankroll_after": "885.79"
   }
 ]
