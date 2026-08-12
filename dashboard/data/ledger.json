@@ -6122,10 +6122,10 @@
     "units": "1",
     "stake_usd": "43.0",
     "confidence_score": "55",
-    "result": "push",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "45.83",
     "reasoning_summary": "Snell is elite by career profile but has thrown 3 total innings this season and hasn't started since early May, so this is a short-leash return start that hands 5+ innings to a bullpen with five relievers at 2+ appearances in the last 3 days. Kansas ",
-    "bankroll_after": "885.79"
+    "bankroll_after": "931.62"
   },
   {
     "date": "2026-08-12",
@@ -6141,7 +6141,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The teams are statistical twins (58-62 vs 59-62, both -34 run differential), so this prices as a pure pick'em plus home field \u2014 but the pitching splits are not even. Baz holds a clear SP edge over Matthews (xERA 4.14 vs 4.78, career 4.09 vs 5.63) and",
-    "bankroll_after": "841.75"
+    "bankroll_after": "887.62"
   },
   {
     "date": "2026-08-12",
@@ -6157,6 +6157,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Large and reliable SP mismatch: Quantrill is a 900-IP veteran in good form (3.56 ERA, 4.44 xERA) while Klassen carries a 14.5 BB/9 and 7.80 xERA and projects for a short outing, forcing a heavily taxed Angels bullpen (five relievers with 2+ appearanc",
-    "bankroll_after": "797.75"
+    "bankroll_after": "843.62"
   }
 ]
