@@ -6122,9 +6122,9 @@
     "units": "1",
     "stake_usd": "43.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "45.83",
     "reasoning_summary": "Snell is elite by career profile but has thrown 3 total innings this season and hasn't started since early May, so this is a short-leash return start that hands 5+ innings to a bullpen with five relievers at 2+ appearances in the last 3 days. Kansas ",
-    "bankroll_after": "842.79"
+    "bankroll_after": "931.62"
   }
 ]
