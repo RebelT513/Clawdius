@@ -6158,5 +6158,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large and reliable SP mismatch: Quantrill is a 900-IP veteran in good form (3.56 ERA, 4.44 xERA) while Klassen carries a 14.5 BB/9 and 7.80 xERA and projects for a short outing, forcing a heavily taxed Angels bullpen (five relievers with 2+ appearanc",
     "bankroll_after": "843.62"
+  },
+  {
+    "date": "2026-08-12",
+    "game": "Colorado Rockies @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-115.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters project poorly on current-season expected stats with real samples: Kelly's 6.97 xERA and .393 xwOBA over 519 PA say his 4.88 ERA is heavily flattered (K/9 down 7.9\u21926.0, BB/9 up vs career, corroborating genuine decline), and Feltner's 5.",
+    "bankroll_after": "796.58"
   }
 ]
