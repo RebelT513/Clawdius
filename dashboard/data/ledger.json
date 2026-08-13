@@ -6190,5 +6190,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market makes Cleveland a road favorite on the strength of the starting pitcher gap, but that gap is modest \u2014 Messick's 3.08 xERA vs Montero's 3.52, worth roughly a quarter run over five innings \u2014 while the season-level gap runs the other way and ",
     "bankroll_after": "840.46"
+  },
+  {
+    "date": "2026-08-13",
+    "game": "Milwaukee Brewers @ Los Angeles Dodgers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "127.0",
+    "line": "127.0",
+    "units": "1",
+    "stake_usd": "44.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "These are the same team on season quality \u2014 Milwaukee 74-47/+130, Los Angeles 73-48/+142, runs scored within 14 \u2014 so the honest starting point is a coin flip plus home field, roughly 53-54% for the home side, not the 57% the price devigs to. The pitc",
+    "bankroll_after": "796.46"
   }
 ]
