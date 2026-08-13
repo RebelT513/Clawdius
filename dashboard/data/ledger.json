@@ -6154,8 +6154,8 @@
     "units": "1",
     "stake_usd": "44.0",
     "confidence_score": "60",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-44.0",
     "reasoning_summary": "Large and reliable SP mismatch: Quantrill is a 900-IP veteran in good form (3.56 ERA, 4.44 xERA) while Klassen carries a 14.5 BB/9 and 7.80 xERA and projects for a short outing, forcing a heavily taxed Angels bullpen (five relievers with 2+ appearanc",
     "bankroll_after": "843.62"
   },
