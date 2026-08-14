@@ -6222,5 +6222,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit is priced at an implied 59.7% behind a starter with 5 IP all season: Jackson Jobe's most reliable large-sample indicator is a 4.90 prior-year xERA with a career 4.5 BB/9 over just 58 IP, and his short post-layoff leash hands 4+ innings to a b",
     "bankroll_after": "940.87"
+  },
+  {
+    "date": "2026-08-14",
+    "game": "Washington Nationals @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Washington Nationals",
+    "odds": "107.0",
+    "line": "104.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The road team holds both the starting pitching and team-quality edge yet gets plus money. Alvarez (career 3.40 ERA over 92 IP, prior-year 2.87 xERA, three solid recent starts) is a clear tier above Stock (career 5.40 ERA/1.70 WHIP, 8 IP this season w",
+    "bankroll_after": "891.87"
   }
 ]
