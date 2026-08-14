@@ -6254,5 +6254,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Two near-equal elite teams by season quality: Milwaukee has the better record (.615 vs .598), a comparable run differential (+131 vs +141), and the meaningfully better bullpen (3.51 vs 4.03 ERA) with the home team's top three relievers all at 2 appea",
     "bankroll_after": "842.92"
+  },
+  {
+    "date": "2026-08-14",
+    "game": "Miami Marlins @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "-101.0",
+    "line": "102.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The starting pitcher matchup is near-even on rates (Burns xERA 3.20 edges Alcantara's 3.65), but Alcantara carries a large length advantage \u2014 he's working 6-7 innings while Burns has averaged ~5.1 over his last three \u2014 which shifts more of the game o",
+    "bankroll_after": "793.88"
   }
 ]
