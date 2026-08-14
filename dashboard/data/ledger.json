@@ -6206,5 +6206,21 @@
     "pnl": "55.89",
     "reasoning_summary": "These are the same team on season quality \u2014 Milwaukee 74-47/+130, Los Angeles 73-48/+142, runs scored within 14 \u2014 so the honest starting point is a coin flip plus home field, roughly 53-54% for the home side, not the 57% the price devigs to. The pitc",
     "bankroll_after": "989.92"
+  },
+  {
+    "date": "2026-08-14",
+    "game": "Chicago White Sox @ Detroit Tigers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "132.0",
+    "line": "133.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "46",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit is priced at an implied 59.7% behind a starter with 5 IP all season: Jackson Jobe's most reliable large-sample indicator is a 4.90 prior-year xERA with a career 4.5 BB/9 over just 58 IP, and his short post-layoff leash hands 4+ innings to a b",
+    "bankroll_after": "940.87"
   }
 ]
