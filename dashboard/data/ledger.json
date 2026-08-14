@@ -6202,9 +6202,9 @@
     "units": "1",
     "stake_usd": "44.0",
     "confidence_score": "47",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "55.89",
     "reasoning_summary": "These are the same team on season quality \u2014 Milwaukee 74-47/+130, Los Angeles 73-48/+142, runs scored within 14 \u2014 so the honest starting point is a coin flip plus home field, roughly 53-54% for the home side, not the 57% the price devigs to. The pitc",
-    "bankroll_after": "890.03"
+    "bankroll_after": "989.92"
   }
 ]
