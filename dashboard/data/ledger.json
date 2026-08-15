@@ -6234,8 +6234,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "The road team holds both the starting pitching and team-quality edge yet gets plus money. Alvarez (career 3.40 ERA over 92 IP, prior-year 2.87 xERA, three solid recent starts) is a clear tier above Stock (career 5.40 ERA/1.70 WHIP, 8 IP this season w",
     "bankroll_after": "1005.65"
   },
