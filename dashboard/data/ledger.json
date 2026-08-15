@@ -6270,5 +6270,21 @@
     "pnl": "-49.0",
     "reasoning_summary": "The starting pitcher matchup is near-even on rates (Burns xERA 3.20 edges Alcantara's 3.65), but Alcantara carries a large length advantage \u2014 he's working 6-7 innings while Burns has averaged ~5.1 over his last three \u2014 which shifts more of the game o",
     "bankroll_after": "907.65"
+  },
+  {
+    "date": "2026-08-15",
+    "game": "Miami Marlins @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Miami is the meaningfully better club by full-season quality: +10 run differential vs Cincinnati's -76 (a .509 vs .429 pythag gap), and a clearly better bullpen (3.95/1.25 vs 4.48/1.42) with three Reds relievers taxed (Burke, Garcia, Moll at 2 appear",
+    "bankroll_after": "862.61"
   }
 ]
