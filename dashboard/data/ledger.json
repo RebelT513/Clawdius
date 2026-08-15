@@ -6250,8 +6250,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "42",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "Two near-equal elite teams by season quality: Milwaukee has the better record (.615 vs .598), a comparable run differential (+131 vs +141), and the meaningfully better bullpen (3.51 vs 4.03 ERA) with the home team's top three relievers all at 2 appea",
     "bankroll_after": "956.65"
   },
