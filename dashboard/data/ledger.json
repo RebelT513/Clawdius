@@ -6286,5 +6286,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Miami is the meaningfully better club by full-season quality: +10 run differential vs Cincinnati's -76 (a .509 vs .429 pythag gap), and a clearly better bullpen (3.95/1.25 vs 4.48/1.42) with three Reds relievers taxed (Burke, Garcia, Moll at 2 appear",
     "bankroll_after": "862.61"
+  },
+  {
+    "date": "2026-08-15",
+    "game": "Milwaukee Brewers @ Los Angeles Dodgers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "-126.0",
+    "line": "-126.0",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "59",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "These are two near-identical teams by record and run differential, but tonight's pitching matchup is heavily one-sided: Misiorowski is elite by both results and contact quality (1.93 xERA, .216 xwOBA over 503 PA, career 2.62 ERA), while Wrobleski's 3",
+    "bankroll_after": "817.61"
   }
 ]
