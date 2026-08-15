@@ -6266,9 +6266,9 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "The starting pitcher matchup is near-even on rates (Burns xERA 3.20 edges Alcantara's 3.65), but Alcantara carries a large length advantage \u2014 he's working 6-7 innings while Burns has averaged ~5.1 over his last three \u2014 which shifts more of the game o",
-    "bankroll_after": "793.88"
+    "bankroll_after": "793.92"
   }
 ]
