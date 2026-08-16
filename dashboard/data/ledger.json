@@ -6366,5 +6366,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Mize holds a clear current-season pitching edge over Bibee (xERA 3.39 vs 4.29, xwOBA .286 vs .319, both on large 380+ PA samples, so current-year Statcast is meaningful; Bibee's decline from his 3.64 prior-year xERA looks real). San Diego also brings",
     "bankroll_after": "792.05"
+  },
+  {
+    "date": "2026-08-16",
+    "game": "Miami Marlins @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "-121.0",
+    "line": "-120.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large SP mismatch: Perez (3.65 xERA, 116 IP, 7 shutout innings last out) vs Lodolo, whose 6.18 xERA and .374 xwOBA over 297 PA is a genuinely poor contact-quality profile, compounded by a month-long layoff and a 4 IP / 4 ER return start. Every platoo",
+    "bankroll_after": "743.05"
   }
 ]
