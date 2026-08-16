@@ -6334,5 +6334,21 @@
     "pnl": "0.0",
     "reasoning_summary": "These are near-mirror-image teams by full-season quality (76-48/+132 run diff for Milwaukee vs 74-50/+140 for the home side), yet the road team is priced at only 39.4% implied. The SP matchup is close to even with a slight lean to Henderson on curren",
     "bankroll_after": "890.05"
+  },
+  {
+    "date": "2026-08-16",
+    "game": "New York Yankees @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Yankees",
+    "odds": "110.0",
+    "line": "108.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The Yankees are the substantially better club \u2014 +84 run differential vs -56 (a ~1.1 run/game gap), a 3.09 bullpen ERA vs 3.78 for the innings after the starters leave, and the stronger confirmed lineup today (.728 vs .691 OPS with one Toronto bat unk",
+    "bankroll_after": "841.05"
   }
 ]
