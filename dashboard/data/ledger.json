@@ -6330,10 +6330,10 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "45",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "77.55",
     "reasoning_summary": "These are near-mirror-image teams by full-season quality (76-48/+132 run diff for Milwaukee vs 74-50/+140 for the home side), yet the road team is priced at only 39.4% implied. The SP matchup is close to even with a slight lean to Henderson on curren",
-    "bankroll_after": "890.09"
+    "bankroll_after": "1016.64"
   },
   {
     "date": "2026-08-16",
@@ -6349,7 +6349,7 @@
     "result": "win",
     "pnl": "53.77",
     "reasoning_summary": "The Yankees are the substantially better club \u2014 +84 run differential vs -56 (a ~1.1 run/game gap), a 3.09 bullpen ERA vs 3.78 for the innings after the starters leave, and the stronger confirmed lineup today (.728 vs .691 OPS with one Toronto bat unk",
-    "bankroll_after": "943.86"
+    "bankroll_after": "1070.41"
   },
   {
     "date": "2026-08-16",
@@ -6365,7 +6365,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Mize holds a clear current-season pitching edge over Bibee (xERA 3.39 vs 4.29, xwOBA .286 vs .319, both on large 380+ PA samples, so current-year Statcast is meaningful; Bibee's decline from his 3.64 prior-year xERA looks real). San Diego also brings",
-    "bankroll_after": "894.86"
+    "bankroll_after": "1021.41"
   },
   {
     "date": "2026-08-16",
@@ -6381,7 +6381,7 @@
     "result": "win",
     "pnl": "40.48",
     "reasoning_summary": "Large SP mismatch: Perez (3.65 xERA, 116 IP, 7 shutout innings last out) vs Lodolo, whose 6.18 xERA and .374 xwOBA over 297 PA is a genuinely poor contact-quality profile, compounded by a month-long layoff and a 4 IP / 4 ER return start. Every platoo",
-    "bankroll_after": "935.34"
+    "bankroll_after": "1061.89"
   },
   {
     "date": "2026-08-16",
@@ -6397,6 +6397,6 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "The pitching edge is with the home side: Kremer carries a 4.23 xERA (3.82 prior year, career 4.33 over 719 IP) against Painter's 4.91 xERA and 6.27 ERA in his 80-IP rookie season, roughly a 0.4-run gap over the starters' innings. Today's confirmed li",
-    "bankroll_after": "886.34"
+    "bankroll_after": "1012.89"
   }
 ]
