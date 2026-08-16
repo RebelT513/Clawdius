@@ -6394,8 +6394,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "The pitching edge is with the home side: Kremer carries a 4.23 xERA (3.82 prior year, career 4.33 over 719 IP) against Painter's 4.91 xERA and 6.27 ERA in his 80-IP rookie season, roughly a 0.4-run gap over the starters' innings. Today's confirmed li",
     "bankroll_after": "886.34"
   }
