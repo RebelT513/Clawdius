@@ -6350,5 +6350,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The Yankees are the substantially better club \u2014 +84 run differential vs -56 (a ~1.1 run/game gap), a 3.09 bullpen ERA vs 3.78 for the innings after the starters leave, and the stronger confirmed lineup today (.728 vs .691 OPS with one Toronto bat unk",
     "bankroll_after": "841.05"
+  },
+  {
+    "date": "2026-08-16",
+    "game": "San Diego Padres @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Diego Padres",
+    "odds": "-109.0",
+    "line": "-110.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Mize holds a clear current-season pitching edge over Bibee (xERA 3.39 vs 4.29, xwOBA .286 vs .319, both on large 380+ PA samples, so current-year Statcast is meaningful; Bibee's decline from his 3.64 prior-year xERA looks real). San Diego also brings",
+    "bankroll_after": "792.05"
   }
 ]
