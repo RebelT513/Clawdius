@@ -6302,5 +6302,21 @@
     "pnl": "35.64",
     "reasoning_summary": "These are two near-identical teams by record and run differential, but tonight's pitching matchup is heavily one-sided: Misiorowski is elite by both results and contact quality (1.93 xERA, .216 xwOBA over 503 PA, career 2.62 ERA), while Wrobleski's 3",
     "bankroll_after": "988.09"
+  },
+  {
+    "date": "2026-08-16",
+    "game": "Washington Nationals @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Washington Nationals",
+    "odds": "150.0",
+    "line": "151.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "43",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The price implies 63% for a Mets team that is 55-69 with a -43 run differential and the weaker offense in this matchup by a wide margin (4.19 runs/game scored vs Washington's 5.34, a 62-run diff gap), while Washington is actually the better season-lo",
+    "bankroll_after": "939.05"
   }
 ]
