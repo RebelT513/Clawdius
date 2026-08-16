@@ -6382,5 +6382,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large SP mismatch: Perez (3.65 xERA, 116 IP, 7 shutout innings last out) vs Lodolo, whose 6.18 xERA and .374 xwOBA over 297 PA is a genuinely poor contact-quality profile, compounded by a month-long layoff and a 4 IP / 4 ER return start. Every platoo",
     "bankroll_after": "743.05"
+  },
+  {
+    "date": "2026-08-16",
+    "game": "Philadelphia Phillies @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The pitching edge is with the home side: Kremer carries a 4.23 xERA (3.82 prior year, career 4.33 over 719 IP) against Painter's 4.91 xERA and 6.27 ERA in his 80-IP rookie season, roughly a 0.4-run gap over the starters' innings. Today's confirmed li",
+    "bankroll_after": "694.05"
   }
 ]
