@@ -6398,5 +6398,21 @@
     "pnl": "-49.0",
     "reasoning_summary": "The pitching edge is with the home side: Kremer carries a 4.23 xERA (3.82 prior year, career 4.33 over 719 IP) against Painter's 4.91 xERA and 6.27 ERA in his 80-IP rookie season, roughly a 0.4-run gap over the starters' innings. Today's confirmed li",
     "bankroll_after": "1106.93"
+  },
+  {
+    "date": "2026-08-17",
+    "game": "Detroit Tigers @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "-117.0",
+    "line": "-118.0",
+    "units": "1",
+    "stake_usd": "55.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Valdez (career 3.46 ERA over 1213 IP, two of his last three starts at 7 IP with 2 ER or fewer) faces Mlodzinski, whose 3.79 ERA masks a 5.15 xERA and whose last two starts were 2.1 IP/4 ER and 3.0 IP/5 ER \u2014 he is not stretched out, making this effect",
+    "bankroll_after": "1051.9"
   }
 ]
