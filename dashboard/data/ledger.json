@@ -6430,5 +6430,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Home SP is a clear quality edge (career 3.07 ERA, 3.62 xERA, 10.5 K/9) and while the road SP is hittable (4.35 xERA), the run environment strongly favors suppression: 50F and clear is unusually cold with minimal wind, both bullpens are better than le",
     "bankroll_after": "996.9000000000001"
+  },
+  {
+    "date": "2026-08-17",
+    "game": "St. Louis Cardinals @ Cincinnati Reds",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "-118.0",
+    "line": "-115.0",
+    "units": "1",
+    "stake_usd": "55.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Pallante holds a large expected-performance edge over Lowder (xERA 3.84 vs 5.22, xwOBA .303 vs .348) with strong recent form, and the surrounding context all points the same way: Cardinals field a .775 OPS lineup against Cincinnati's .625 unit featur",
+    "bankroll_after": "941.9"
   }
 ]
