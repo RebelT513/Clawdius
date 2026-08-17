@@ -6331,7 +6331,7 @@
     "stake_usd": "49.0",
     "confidence_score": "45",
     "result": "win",
-    "pnl": "77.55",
+    "pnl": "77.555",
     "reasoning_summary": "These are near-mirror-image teams by full-season quality (76-48/+132 run diff for Milwaukee vs 74-50/+140 for the home side), yet the road team is priced at only 39.4% implied. The SP matchup is close to even with a slight lean to Henderson on curren",
     "bankroll_after": "1016.64"
   },
@@ -6363,7 +6363,7 @@
     "stake_usd": "49.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "45.04",
+    "pnl": "45.037",
     "reasoning_summary": "Mize holds a clear current-season pitching edge over Bibee (xERA 3.39 vs 4.29, xwOBA .286 vs .319, both on large 380+ PA samples, so current-year Statcast is meaningful; Bibee's decline from his 3.64 prior-year xERA looks real). San Diego also brings",
     "bankroll_after": "1115.45"
   },
@@ -6379,7 +6379,7 @@
     "stake_usd": "49.0",
     "confidence_score": "58",
     "result": "win",
-    "pnl": "40.48",
+    "pnl": "40.482",
     "reasoning_summary": "Large SP mismatch: Perez (3.65 xERA, 116 IP, 7 shutout innings last out) vs Lodolo, whose 6.18 xERA and .374 xwOBA over 297 PA is a genuinely poor contact-quality profile, compounded by a month-long layoff and a 4 IP / 4 ER return start. Every platoo",
     "bankroll_after": "1155.93"
   },
