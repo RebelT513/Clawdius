@@ -6410,10 +6410,10 @@
     "units": "1",
     "stake_usd": "55.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "47.06",
     "reasoning_summary": "Valdez (career 3.46 ERA over 1213 IP, two of his last three starts at 7 IP with 2 ER or fewer) faces Mlodzinski, whose 3.79 ERA masks a 5.15 xERA and whose last two starts were 2.1 IP/4 ER and 3.0 IP/5 ER \u2014 he is not stretched out, making this effect",
-    "bankroll_after": "1051.93"
+    "bankroll_after": "1153.99"
   },
   {
     "date": "2026-08-17",
@@ -6429,7 +6429,7 @@
     "result": "win",
     "pnl": "53.24",
     "reasoning_summary": "Home SP is a clear quality edge (career 3.07 ERA, 3.62 xERA, 10.5 K/9) and while the road SP is hittable (4.35 xERA), the run environment strongly favors suppression: 50F and clear is unusually cold with minimal wind, both bullpens are better than le",
-    "bankroll_after": "1105.17"
+    "bankroll_after": "1207.23"
   },
   {
     "date": "2026-08-17",
@@ -6445,6 +6445,6 @@
     "result": "loss",
     "pnl": "-55.0",
     "reasoning_summary": "Pallante holds a large expected-performance edge over Lowder (xERA 3.84 vs 5.22, xwOBA .303 vs .348) with strong recent form, and the surrounding context all points the same way: Cardinals field a .775 OPS lineup against Cincinnati's .625 unit featur",
-    "bankroll_after": "1050.17"
+    "bankroll_after": "1152.23"
   }
 ]
