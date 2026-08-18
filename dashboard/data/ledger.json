@@ -6446,5 +6446,21 @@
     "pnl": "-55.0",
     "reasoning_summary": "Pallante holds a large expected-performance edge over Lowder (xERA 3.84 vs 5.22, xwOBA .303 vs .348) with strong recent form, and the surrounding context all points the same way: Cardinals field a .775 OPS lineup against Cincinnati's .625 unit featur",
     "bankroll_after": "1152.23"
+  },
+  {
+    "date": "2026-08-18",
+    "game": "Detroit Tigers @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "127.0",
+    "line": "127.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The SP gap is smaller than the -140/+127 price implies: Ashcraft (3.34 xERA, 574 PA) vs Montero (3.50 xERA, 515 PA) are near-equals by current-year contact quality on full-season samples, and the price looks inflated by Ashcraft's recent 9-inning com",
+    "bankroll_after": "1094.19"
   }
 ]
