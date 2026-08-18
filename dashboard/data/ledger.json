@@ -6478,5 +6478,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Atlanta holds edges in every phase: run differential (+115 vs -46) implies roughly a 63% neutral-site log5 win probability, still ~59-60% after home-field adjustment for Minnesota. Today's starters widen it \u2014 Mahle (xERA 3.92, career 4.14 over 841 IP",
     "bankroll_after": "1036.19"
+  },
+  {
+    "date": "2026-08-18",
+    "game": "Chicago White Sox @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9.5",
+    "odds": "103.0",
+    "line": "9.5",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Strong tailwind out at Wrigley (+11.8 mph to CF, MANDATORY over-lean signal) meets two above-average lineups (.747/.773 avg OPS, real power in Murakami/Crow-Armstrong/Suzuki), and the pitching structure compounds it: the away side is an opener/bullpe",
+    "bankroll_after": "978.19"
   }
 ]
