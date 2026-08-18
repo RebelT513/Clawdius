@@ -6462,5 +6462,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The SP gap is smaller than the -140/+127 price implies: Ashcraft (3.34 xERA, 574 PA) vs Montero (3.50 xERA, 515 PA) are near-equals by current-year contact quality on full-season samples, and the price looks inflated by Ashcraft's recent 9-inning com",
     "bankroll_after": "1094.19"
+  },
+  {
+    "date": "2026-08-18",
+    "game": "Atlanta Braves @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Atlanta Braves",
+    "odds": "-122.0",
+    "line": "-122.0",
+    "units": "1",
+    "stake_usd": "58.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Atlanta holds edges in every phase: run differential (+115 vs -46) implies roughly a 63% neutral-site log5 win probability, still ~59-60% after home-field adjustment for Minnesota. Today's starters widen it \u2014 Mahle (xERA 3.92, career 4.14 over 841 IP",
+    "bankroll_after": "1036.19"
   }
 ]
