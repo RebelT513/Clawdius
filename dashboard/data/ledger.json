@@ -6490,8 +6490,8 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-58.0",
     "reasoning_summary": "Strong tailwind out at Wrigley (+11.8 mph to CF, MANDATORY over-lean signal) meets two above-average lineups (.747/.773 avg OPS, real power in Murakami/Crow-Armstrong/Suzuki), and the pitching structure compounds it: the away side is an opener/bullpe",
     "bankroll_after": "978.23"
   }
