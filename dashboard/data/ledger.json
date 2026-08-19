@@ -6526,5 +6526,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Cavalli holds a clear, well-sampled pitching edge over Rocker: xERA 3.95 vs 4.63, career 3.84 vs 4.88, and diverging recent form (8 IP/0 ER with 10 K last out vs Rocker's 9 ER over his last 8 IP with control trouble). Season context reinforces the vi",
     "bankroll_after": "880.19"
+  },
+  {
+    "date": "2026-08-19",
+    "game": "Los Angeles Angels @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Angels",
+    "odds": "139.0",
+    "line": "139.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "44",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Ure\u00f1a is a legitimately good starter with a real sample (107 IP, 2.67 ERA, 3.30 xERA, .282 xwOBA), while Houston counters with Ethan Pecko making what appears to be his MLB debut (0 IP, no confirmed stats) \u2014 debut starters carry high variance and a b",
+    "bankroll_after": "831.19"
   }
 ]
