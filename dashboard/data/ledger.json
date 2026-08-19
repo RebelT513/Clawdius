@@ -6474,8 +6474,8 @@
     "units": "1",
     "stake_usd": "58.0",
     "confidence_score": "58",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-58.0",
     "reasoning_summary": "Atlanta holds edges in every phase: run differential (+115 vs -46) implies roughly a 63% neutral-site log5 win probability, still ~59-60% after home-field adjustment for Minnesota. Today's starters widen it \u2014 Mahle (xERA 3.92, career 4.14 over 841 IP",
     "bankroll_after": "1036.23"
   },
