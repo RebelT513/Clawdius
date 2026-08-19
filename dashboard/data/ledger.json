@@ -6494,5 +6494,21 @@
     "pnl": "-58.0",
     "reasoning_summary": "Strong tailwind out at Wrigley (+11.8 mph to CF, MANDATORY over-lean signal) meets two above-average lineups (.747/.773 avg OPS, real power in Murakami/Crow-Armstrong/Suzuki), and the pitching structure compounds it: the away side is an opener/bullpe",
     "bankroll_after": "978.23"
+  },
+  {
+    "date": "2026-08-19",
+    "game": "Miami Marlins @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "113.0",
+    "line": "113.0",
+    "units": "1",
+    "stake_usd": "49.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The fundamentals point the wrong way from the price: Alcantara (3.62 xERA on 702 PA, 20 IP/1 ER over his last three, deep-innings workhorse) has a clear edge over Nola (4.26 xERA this year, 4.13 prior year, 1.45 WHIP, working 5-6 innings), and Miami ",
+    "bankroll_after": "929.19"
   }
 ]
