@@ -6538,8 +6538,8 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "44",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "Ure\u00f1a is a legitimately good starter with a real sample (107 IP, 2.67 ERA, 3.30 xERA, .282 xwOBA), while Houston counters with Ethan Pecko making what appears to be his MLB debut (0 IP, no confirmed stats) \u2014 debut starters carry high variance and a b",
     "bankroll_after": "940.17"
   }
