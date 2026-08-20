@@ -6506,10 +6506,10 @@
     "units": "1",
     "stake_usd": "49.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-49.0",
     "reasoning_summary": "The fundamentals point the wrong way from the price: Alcantara (3.62 xERA on 702 PA, 20 IP/1 ER over his last three, deep-innings workhorse) has a clear edge over Nola (4.26 xERA this year, 4.13 prior year, 1.45 WHIP, working 5-6 innings), and Miami ",
-    "bankroll_after": "929.19"
+    "bankroll_after": "929.23"
   },
   {
     "date": "2026-08-19",
@@ -6525,7 +6525,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Cavalli holds a clear, well-sampled pitching edge over Rocker: xERA 3.95 vs 4.63, career 3.84 vs 4.88, and diverging recent form (8 IP/0 ER with 10 K last out vs Rocker's 9 ER over his last 8 IP with control trouble). Season context reinforces the vi",
-    "bankroll_after": "880.19"
+    "bankroll_after": "880.23"
   },
   {
     "date": "2026-08-19",
@@ -6541,6 +6541,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Ure\u00f1a is a legitimately good starter with a real sample (107 IP, 2.67 ERA, 3.30 xERA, .282 xwOBA), while Houston counters with Ethan Pecko making what appears to be his MLB debut (0 IP, no confirmed stats) \u2014 debut starters carry high variance and a b",
-    "bankroll_after": "831.19"
+    "bankroll_after": "831.23"
   }
 ]
