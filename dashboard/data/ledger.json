@@ -6557,7 +6557,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The market prices Texas at 62% on deGrom's pedigree, but he has averaged under 4 IP over his last three starts (2.0, 5.0, 3.1), which shifts roughly half the game onto a 4.37-ERA bullpen against a Nationals offense scoring 5.3 runs per game. Washingt",
-    "bankroll_after": "893.13"
+    "bankroll_after": "893.17"
   },
   {
     "date": "2026-08-20",
@@ -6570,9 +6570,9 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "55",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Neither starter projects to suppress runs: Dobnak's 1.73 ERA is a luck artifact (4.57 xERA, 5.73 prior-year xERA, career 4.15, 5.4 K/9), and Jump's 4.26 xERA with 4.3 BB/9 faces an all-righty KC lineup holding the platoon advantage on every bat. Behi",
-    "bankroll_after": "846.13"
+    "bankroll_after": "893.17"
   }
 ]
