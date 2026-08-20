@@ -6542,5 +6542,21 @@
     "pnl": "-49.0",
     "reasoning_summary": "Ure\u00f1a is a legitimately good starter with a real sample (107 IP, 2.67 ERA, 3.30 xERA, .282 xwOBA), while Houston counters with Ethan Pecko making what appears to be his MLB debut (0 IP, no confirmed stats) \u2014 debut starters carry high variance and a b",
     "bankroll_after": "940.17"
+  },
+  {
+    "date": "2026-08-20",
+    "game": "Washington Nationals @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Washington Nationals",
+    "odds": "147.0",
+    "line": "145.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "45",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market prices Texas at 62% on deGrom's pedigree, but he has averaged under 4 IP over his last three starts (2.0, 5.0, 3.1), which shifts roughly half the game onto a 4.37-ERA bullpen against a Nationals offense scoring 5.3 runs per game. Washingt",
+    "bankroll_after": "893.13"
   }
 ]
