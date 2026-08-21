@@ -6574,5 +6574,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Neither starter projects to suppress runs: Dobnak's 1.73 ERA is a luck artifact (4.57 xERA, 5.73 prior-year xERA, career 4.15, 5.4 K/9), and Jump's 4.26 xERA with 4.3 BB/9 faces an all-righty KC lineup holding the platoon advantage on every bat. Behi",
     "bankroll_after": "893.17"
+  },
+  {
+    "date": "2026-08-21",
+    "game": "Tampa Bay Rays @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Tampa Bay Rays",
+    "odds": "115.0",
+    "line": "115.0",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market has priced this as a substantial home-favorite spot for a 61-67 team with a -36 run differential hosting a 76-51 team at +45, and the pitching gap doesn't justify it. Pythag/log5 puts Tampa Bay around 57% on a neutral field, roughly 53% af",
+    "bankroll_after": "848.13"
   }
 ]
