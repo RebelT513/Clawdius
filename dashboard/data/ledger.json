@@ -6554,8 +6554,8 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "45",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-47.0",
     "reasoning_summary": "The market prices Texas at 62% on deGrom's pedigree, but he has averaged under 4 IP over his last three starts (2.0, 5.0, 3.1), which shifts roughly half the game onto a 4.37-ERA bullpen against a Nationals offense scoring 5.3 runs per game. Washingt",
     "bankroll_after": "893.17"
   },
