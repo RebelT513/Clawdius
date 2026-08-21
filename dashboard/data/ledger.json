@@ -6622,5 +6622,21 @@
     "pnl": "0.0",
     "reasoning_summary": "A 74-54, +100 run-differential team is priced at a coin flip against a 60-68, -46 team, and the gap the market is bridging rests almost entirely on today's starters and home field. The SP edge to Hancock is real but smaller than his 3.30 ERA suggests",
     "bankroll_after": "758.13"
+  },
+  {
+    "date": "2026-08-21",
+    "game": "Detroit Tigers @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "-114.0",
+    "line": "-114.0",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit holds edges in all three phases that decide a full game: Melton's xERA (3.06, 329 PA) beats Cameron's (4.17) by over a run despite Cameron's recent shutout, the season run differentials are 182 runs apart (+82 vs -100, the largest-sample team",
+    "bankroll_after": "713.13"
   }
 ]
