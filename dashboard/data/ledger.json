@@ -6590,5 +6590,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market has priced this as a substantial home-favorite spot for a 61-67 team with a -36 run differential hosting a 76-51 team at +45, and the pitching gap doesn't justify it. Pythag/log5 puts Tampa Bay around 57% on a neutral field, roughly 53% af",
     "bankroll_after": "848.13"
+  },
+  {
+    "date": "2026-08-21",
+    "game": "Los Angeles Angels @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Angels",
+    "odds": "128.0",
+    "line": "126.0",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detmers is meaningfully the better starter with fully reliable samples (143 IP): xERA 3.32 vs Gore's 3.86, WHIP 1.06 vs 1.26, xwOBA .283 vs .304, and he held this same Rangers lineup to 1 ER over 6 IP eleven days ago. The bullpens are effectively ide",
+    "bankroll_after": "803.13"
   }
 ]
