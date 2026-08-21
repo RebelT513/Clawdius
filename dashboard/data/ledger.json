@@ -6638,5 +6638,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds edges in all three phases that decide a full game: Melton's xERA (3.06, 329 PA) beats Cameron's (4.17) by over a run despite Cameron's recent shutout, the season run differentials are 182 runs apart (+82 vs -100, the largest-sample team",
     "bankroll_after": "713.13"
+  },
+  {
+    "date": "2026-08-21",
+    "game": "Cleveland Guardians @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o10.5",
+    "odds": "-108.0",
+    "line": "10.5",
+    "units": "1",
+    "stake_usd": "45.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Coors game where the home starter (career 6.46 ERA, 4.85 xERA, low-K contact profile) is making his first start in six weeks, meaning rust plus a short pitch count that hands the game early to a 4.81 ERA bullpen; the away starter is legitimately good",
+    "bankroll_after": "668.13"
   }
 ]
