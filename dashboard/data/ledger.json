@@ -6602,8 +6602,8 @@
     "units": "1",
     "stake_usd": "45.0",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-45.0",
     "reasoning_summary": "Detmers is meaningfully the better starter with fully reliable samples (143 IP): xERA 3.32 vs Gore's 3.86, WHIP 1.06 vs 1.26, xwOBA .283 vs .304, and he held this same Rangers lineup to 1 ER over 6 IP eleven days ago. The bullpens are effectively ide",
     "bankroll_after": "803.17"
   },
