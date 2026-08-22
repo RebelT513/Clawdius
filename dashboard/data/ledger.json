@@ -6586,10 +6586,10 @@
     "units": "1",
     "stake_usd": "45.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-45.0",
     "reasoning_summary": "The market has priced this as a substantial home-favorite spot for a 61-67 team with a -36 run differential hosting a 76-51 team at +45, and the pitching gap doesn't justify it. Pythag/log5 puts Tampa Bay around 57% on a neutral field, roughly 53% af",
-    "bankroll_after": "848.13"
+    "bankroll_after": "848.17"
   },
   {
     "date": "2026-08-21",
@@ -6605,7 +6605,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Detmers is meaningfully the better starter with fully reliable samples (143 IP): xERA 3.32 vs Gore's 3.86, WHIP 1.06 vs 1.26, xwOBA .283 vs .304, and he held this same Rangers lineup to 1 ER over 6 IP eleven days ago. The bullpens are effectively ide",
-    "bankroll_after": "803.13"
+    "bankroll_after": "803.17"
   },
   {
     "date": "2026-08-21",
@@ -6621,7 +6621,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "A 74-54, +100 run-differential team is priced at a coin flip against a 60-68, -46 team, and the gap the market is bridging rests almost entirely on today's starters and home field. The SP edge to Hancock is real but smaller than his 3.30 ERA suggests",
-    "bankroll_after": "758.13"
+    "bankroll_after": "758.17"
   },
   {
     "date": "2026-08-21",
@@ -6637,7 +6637,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds edges in all three phases that decide a full game: Melton's xERA (3.06, 329 PA) beats Cameron's (4.17) by over a run despite Cameron's recent shutout, the season run differentials are 182 runs apart (+82 vs -100, the largest-sample team",
-    "bankroll_after": "713.13"
+    "bankroll_after": "713.17"
   },
   {
     "date": "2026-08-21",
@@ -6653,6 +6653,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Coors game where the home starter (career 6.46 ERA, 4.85 xERA, low-K contact profile) is making his first start in six weeks, meaning rust plus a short pitch count that hands the game early to a 4.81 ERA bullpen; the away starter is legitimately good",
-    "bankroll_after": "668.13"
+    "bankroll_after": "668.17"
   }
 ]
