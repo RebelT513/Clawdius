@@ -6634,8 +6634,8 @@
     "units": "1",
     "stake_usd": "45.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-45.0",
     "reasoning_summary": "Detroit holds edges in all three phases that decide a full game: Melton's xERA (3.06, 329 PA) beats Cameron's (4.17) by over a run despite Cameron's recent shutout, the season run differentials are 182 runs apart (+82 vs -100, the largest-sample team",
     "bankroll_after": "713.17"
   },
