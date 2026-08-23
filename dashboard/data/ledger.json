@@ -6718,5 +6718,21 @@
     "pnl": "0.0",
     "reasoning_summary": "A 74-56 team with a +98 run differential is priced at a coin flip against a 62-68 team at -44, and the pitching matchup doesn't justify it: Imanaga (career 3.43 ERA, 1.03 WHIP over 461 IP) profiles at least as well as Miller (career 3.95, prior-year ",
     "bankroll_after": "572.13"
+  },
+  {
+    "date": "2026-08-23",
+    "game": "Detroit Tigers @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "-108.0",
+    "line": "-110.0",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit is the substantially better club (+77 run differential vs -95, a ~170-run gap; pythag ~.571 vs .421) yet is priced at only -110, implying 52.4%. The matchup specifics compound the season-quality gap: Lynch's 2.83 surface ERA masks a 4.34 care",
+    "bankroll_after": "542.13"
   }
 ]
