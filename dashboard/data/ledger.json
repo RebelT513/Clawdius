@@ -6666,8 +6666,8 @@
     "units": "1",
     "stake_usd": "33.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-33.0",
     "reasoning_summary": "The market prices this near pick'em, but the underlying quality gap is wide: Detroit is +79 run differential with a 3.80 ERA bullpen versus Kansas City at -97 with a 5.21 ERA bullpen that is also heavily taxed (four relievers with 2+ appearances in t",
     "bankroll_after": "635.17"
   },
