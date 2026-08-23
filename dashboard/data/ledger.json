@@ -6734,5 +6734,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit is the substantially better club (+77 run differential vs -95, a ~170-run gap; pythag ~.571 vs .421) yet is priced at only -110, implying 52.4%. The matchup specifics compound the season-quality gap: Lynch's 2.83 surface ERA masks a 4.34 care",
     "bankroll_after": "542.13"
+  },
+  {
+    "date": "2026-08-23",
+    "game": "Cleveland Guardians @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o11",
+    "odds": "101.0",
+    "line": "11.0",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Sugano's 7.05 xERA and .395 xwOBA over 498 PA is an extreme contact-quality red flag for a 5.2 K/9 contact pitcher at Coors in 85-degree heat, while Griffin's 3.18 ERA masks a 4.17 xERA whose regression risk is amplified by altitude. Cleveland's .734",
+    "bankroll_after": "512.13"
   }
 ]
