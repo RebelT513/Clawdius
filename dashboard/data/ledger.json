@@ -6669,7 +6669,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The market prices this near pick'em, but the underlying quality gap is wide: Detroit is +79 run differential with a 3.80 ERA bullpen versus Kansas City at -97 with a 5.21 ERA bullpen that is also heavily taxed (four relievers with 2+ appearances in t",
-    "bankroll_after": "635.13"
+    "bankroll_after": "635.17"
   },
   {
     "date": "2026-08-22",
@@ -6685,7 +6685,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The Cubs are a substantially better team (74-55, +99 run differential) than the Mariners (61-68, -45), yet are priced as underdogs at +104 \u2014 a record-based prior puts Chicago near 56% even after home-field adjustment. Seattle is starting a debuting p",
-    "bankroll_after": "602.13"
+    "bankroll_after": "602.17"
   },
   {
     "date": "2026-08-22",
@@ -6698,9 +6698,9 @@
     "units": "1",
     "stake_usd": "33.0",
     "confidence_score": "42",
-    "result": "pending",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "The 1H price (-220/+174) treats this as a big SP mismatch, but the underlying pitching data says it is near-even: Lopez carries a 3.44 xERA over 396 PA (3.64 prior year) with three straight strong starts (18 IP, 6 ER, 20 K), while Brown is declining ",
-    "bankroll_after": "569.13"
+    "bankroll_after": "602.17"
   }
 ]
