@@ -6746,8 +6746,8 @@
     "units": "1",
     "stake_usd": "30.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-30.0",
     "reasoning_summary": "Sugano's 7.05 xERA and .395 xwOBA over 498 PA is an extreme contact-quality red flag for a 5.2 K/9 contact pitcher at Coors in 85-degree heat, while Griffin's 3.18 ERA masks a 4.17 xERA whose regression risk is amplified by altitude. Cleveland's .734",
     "bankroll_after": "512.17"
   }
