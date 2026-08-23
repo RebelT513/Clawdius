@@ -6682,8 +6682,8 @@
     "units": "1",
     "stake_usd": "33.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-33.0",
     "reasoning_summary": "The Cubs are a substantially better team (74-55, +99 run differential) than the Mariners (61-68, -45), yet are priced as underdogs at +104 \u2014 a record-based prior puts Chicago near 56% even after home-field adjustment. Seattle is starting a debuting p",
     "bankroll_after": "602.17"
   },
