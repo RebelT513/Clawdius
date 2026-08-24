@@ -6766,5 +6766,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are in poor current form: Kelly's 7.23 xERA / .399 xwOBA over 565 PA is a large-sample collapse (12 ER in his last 9 IP), and Gausman has allowed 9 ER over his last two starts (9 IP combined), so both project hittable tonight. A strong ",
     "bankroll_after": "541.45"
+  },
+  {
+    "date": "2026-08-24",
+    "game": "Colorado Rockies @ Washington Nationals",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Washington Nationals -1.5",
+    "odds": "111.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, reliable SP mismatch: Cavalli (3.83 xERA on 600 PA, career 3.73, 10+ K/9, 0 ER in two of his last three starts) vs Feltner (5.57 xERA on 408 PA, career 5.36 over 431 IP, 7 ER last out), backed by a big team-quality gap (+10 vs -136 run diff). ",
+    "bankroll_after": "512.45"
   }
 ]
