@@ -6814,5 +6814,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Glasnow has not pitched since May 6 (a 1-inning exit), so this is his first start back from a ~3.5-month layoff \u2014 his elite 2.72 ERA/0.83 WHIP rate stats overstate what a rust-limited, pitch-capped outing delivers, and his last full start before the ",
     "bankroll_after": "573.08"
+  },
+  {
+    "date": "2026-08-25",
+    "game": "Philadelphia Phillies @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Philadelphia Phillies",
+    "odds": "102.0",
+    "line": "102.0",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Philadelphia is the substantially better team (73-59, +20 run diff vs 63-69, -54; pythag .517 vs .451) yet is priced as a plus-money underdog at 48.3% devigged. The SP matchup is near-even by xERA (Nola 4.17 vs Kirby 4.00) with recent form favoring N",
+    "bankroll_after": "543.08"
   }
 ]
