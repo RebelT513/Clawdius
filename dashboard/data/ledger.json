@@ -6762,8 +6762,8 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-29.0",
     "reasoning_summary": "Both starters are in poor current form: Kelly's 7.23 xERA / .399 xwOBA over 565 PA is a large-sample collapse (12 ER in his last 9 IP), and Gausman has allowed 9 ER over his last two starts (9 IP combined), so both project hittable tonight. A strong ",
     "bankroll_after": "541.49"
   },
