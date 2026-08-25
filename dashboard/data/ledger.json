@@ -6794,9 +6794,9 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "29.39",
     "reasoning_summary": "Ashcraft (career 3.37 ERA/219 IP, xERA 3.36, xwOBA .285, dominant recent form) holds a ~1.2-run xERA edge over Ray, whose 3.20 ERA masks a 4.59 xERA, .329 xwOBA, and 4.5 BB/9. The all-RHB Pirates lineup (.772 avg OPS) has a full platoon advantage aga",
-    "bankroll_after": "544.73"
+    "bankroll_after": "603.12"
   }
 ]
