@@ -6782,5 +6782,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large, reliable SP mismatch: Cavalli (3.83 xERA on 600 PA, career 3.73, 10+ K/9, 0 ER in two of his last three starts) vs Feltner (5.57 xERA on 408 PA, career 5.36 over 431 IP, 7 ER last out), backed by a big team-quality gap (+10 vs -136 run diff). ",
     "bankroll_after": "512.45"
+  },
+  {
+    "date": "2026-08-24",
+    "game": "Pittsburgh Pirates @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "101.0",
+    "line": "-102.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Ashcraft (career 3.37 ERA/219 IP, xERA 3.36, xwOBA .285, dominant recent form) holds a ~1.2-run xERA edge over Ray, whose 3.20 ERA masks a 4.59 xERA, .329 xwOBA, and 4.5 BB/9. The all-RHB Pirates lineup (.772 avg OPS) has a full platoon advantage aga",
+    "bankroll_after": "483.45000000000005"
   }
 ]
