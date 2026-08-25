@@ -6798,5 +6798,21 @@
     "pnl": "29.392",
     "reasoning_summary": "Ashcraft (career 3.37 ERA/219 IP, xERA 3.36, xwOBA .285, dominant recent form) holds a ~1.2-run xERA edge over Ray, whose 3.20 ERA masks a 4.59 xERA, .329 xwOBA, and 4.5 BB/9. The all-RHB Pirates lineup (.772 avg OPS) has a full platoon advantage aga",
     "bankroll_after": "603.12"
+  },
+  {
+    "date": "2026-08-25",
+    "game": "Los Angeles Dodgers @ Atlanta Braves",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Atlanta Braves",
+    "odds": "136.0",
+    "line": "136.0",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Glasnow has not pitched since May 6 (a 1-inning exit), so this is his first start back from a ~3.5-month layoff \u2014 his elite 2.72 ERA/0.83 WHIP rate stats overstate what a rust-limited, pitch-capped outing delivers, and his last full start before the ",
+    "bankroll_after": "573.08"
   }
 ]
