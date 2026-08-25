@@ -6830,5 +6830,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Philadelphia is the substantially better team (73-59, +20 run diff vs 63-69, -54; pythag .517 vs .451) yet is priced as a plus-money underdog at 48.3% devigged. The SP matchup is near-even by xERA (Nola 4.17 vs Kirby 4.00) with recent form favoring N",
     "bankroll_after": "543.08"
+  },
+  {
+    "date": "2026-08-25",
+    "game": "Milwaukee Brewers @ New York Mets",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o7.5",
+    "odds": "-101.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "30.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Thornton's 3.04 ERA masks a 4.85 xERA and .337 xwOBA over 200 PA with only 6.4 K/9 \u2014 a clear regression profile facing a confirmed .758-OPS Brewers lineup that is all right-handed against the lefty, while the Mets' .705 lineup provides moderate suppo",
+    "bankroll_after": "513.08"
   }
 ]
