@@ -6858,10 +6858,10 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-29.0",
     "reasoning_summary": "Detroit has the clear starting pitching edge today: Melton's xERA 3.22 (355 PA) aligns with his career 2.06/1.01 profile, while Peralta's 4.11 xERA over 601 PA marks real decline from his 3.43 prior year, corroborated by recent results. The Tigers' 6",
-    "bankroll_after": "554.85"
+    "bankroll_after": "554.88"
   },
   {
     "date": "2026-08-26",
@@ -6877,7 +6877,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The first five innings concentrate the real edge in this game: Webb (3.83 xERA over 141 IP, career 3.42 across 1200+ IP) against Lodolo, whose 75-IP current sample is legitimately bad (6.49 xERA, .382 xwOBA, 1.52 WHIP, K/9 collapsed from career 9.6 t",
-    "bankroll_after": "525.85"
+    "bankroll_after": "525.88"
   },
   {
     "date": "2026-08-26",
@@ -6893,7 +6893,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Both starters are large-sample xERA overperformers (Rodriguez 2.61 ERA vs 4.59 xERA over 635 PA with declining strikeouts; Boyd 4.15 vs 5.01), so true pitching talent tonight is roughly 4.6-5.0 on both sides despite the sparkling surface ERAs. Both l",
-    "bankroll_after": "496.85"
+    "bankroll_after": "496.88"
   },
   {
     "date": "2026-08-26",
@@ -6909,6 +6909,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The expected-quality gap at starter runs opposite the price: Chandler carries a 4.08 xERA (.312 xwOBA) while V\u00e1squez sits at 5.71 xERA (.362 xwOBA) with a 5.6 K/9 \u2014 his 4.19 ERA and recent low-strikeout scoreless starts are contact-luck overperforman",
-    "bankroll_after": "467.85"
+    "bankroll_after": "467.88"
   }
 ]
