@@ -6890,8 +6890,8 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-29.0",
     "reasoning_summary": "Both starters are large-sample xERA overperformers (Rodriguez 2.61 ERA vs 4.59 xERA over 635 PA with declining strikeouts; Boyd 4.15 vs 5.01), so true pitching talent tonight is roughly 4.6-5.0 on both sides despite the sparkling surface ERAs. Both l",
     "bankroll_after": "549.65"
   },
