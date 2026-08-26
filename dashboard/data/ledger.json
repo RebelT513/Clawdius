@@ -6878,5 +6878,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The first five innings concentrate the real edge in this game: Webb (3.83 xERA over 141 IP, career 3.42 across 1200+ IP) against Lodolo, whose 75-IP current sample is legitimately bad (6.49 xERA, .382 xwOBA, 1.52 WHIP, K/9 collapsed from career 9.6 t",
     "bankroll_after": "525.85"
+  },
+  {
+    "date": "2026-08-26",
+    "game": "Chicago Cubs @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-102.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters are large-sample xERA overperformers (Rodriguez 2.61 ERA vs 4.59 xERA over 635 PA with declining strikeouts; Boyd 4.15 vs 5.01), so true pitching talent tonight is roughly 4.6-5.0 on both sides despite the sparkling surface ERAs. Both l",
+    "bankroll_after": "496.85"
   }
 ]
