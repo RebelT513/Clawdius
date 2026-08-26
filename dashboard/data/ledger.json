@@ -6862,5 +6862,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit has the clear starting pitching edge today: Melton's xERA 3.22 (355 PA) aligns with his career 2.06/1.01 profile, while Peralta's 4.11 xERA over 601 PA marks real decline from his 3.43 prior year, corroborated by recent results. The Tigers' 6",
     "bankroll_after": "554.85"
+  },
+  {
+    "date": "2026-08-26",
+    "game": "Cincinnati Reds @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "San Francisco Giants",
+    "odds": "-122.0",
+    "line": "-122.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "58",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The first five innings concentrate the real edge in this game: Webb (3.83 xERA over 141 IP, career 3.42 across 1200+ IP) against Lodolo, whose 75-IP current sample is legitimately bad (6.49 xERA, .382 xwOBA, 1.52 WHIP, K/9 collapsed from career 9.6 t",
+    "bankroll_after": "525.85"
   }
 ]
