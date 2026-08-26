@@ -6894,5 +6894,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters are large-sample xERA overperformers (Rodriguez 2.61 ERA vs 4.59 xERA over 635 PA with declining strikeouts; Boyd 4.15 vs 5.01), so true pitching talent tonight is roughly 4.6-5.0 on both sides despite the sparkling surface ERAs. Both l",
     "bankroll_after": "496.85"
+  },
+  {
+    "date": "2026-08-26",
+    "game": "Pittsburgh Pirates @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "121.0",
+    "line": "121.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The expected-quality gap at starter runs opposite the price: Chandler carries a 4.08 xERA (.312 xwOBA) while V\u00e1squez sits at 5.71 xERA (.362 xwOBA) with a 5.6 K/9 \u2014 his 4.19 ERA and recent low-strikeout scoreless starts are contact-luck overperforman",
+    "bankroll_after": "467.85"
   }
 ]
