@@ -6846,5 +6846,21 @@
     "pnl": "-30.0",
     "reasoning_summary": "Thornton's 3.04 ERA masks a 4.85 xERA and .337 xwOBA over 200 PA with only 6.4 K/9 \u2014 a clear regression profile facing a confirmed .758-OPS Brewers lineup that is all right-handed against the lefty, while the Mets' .705 lineup provides moderate suppo",
     "bankroll_after": "583.88"
+  },
+  {
+    "date": "2026-08-26",
+    "game": "Tampa Bay Rays @ Detroit Tigers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "-114.0",
+    "line": "-114.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit has the clear starting pitching edge today: Melton's xERA 3.22 (355 PA) aligns with his career 2.06/1.01 profile, while Peralta's 4.11 xERA over 601 PA marks real decline from his 3.43 prior year, corroborated by recent results. The Tigers' 6",
+    "bankroll_after": "554.85"
   }
 ]
