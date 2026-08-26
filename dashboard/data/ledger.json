@@ -6810,10 +6810,10 @@
     "units": "1",
     "stake_usd": "30.0",
     "confidence_score": "47",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "40.76",
     "reasoning_summary": "Glasnow has not pitched since May 6 (a 1-inning exit), so this is his first start back from a ~3.5-month layoff \u2014 his elite 2.72 ERA/0.83 WHIP rate stats overstate what a rust-limited, pitch-capped outing delivers, and his last full start before the ",
-    "bankroll_after": "573.08"
+    "bankroll_after": "643.88"
   },
   {
     "date": "2026-08-25",
@@ -6829,7 +6829,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Philadelphia is the substantially better team (73-59, +20 run diff vs 63-69, -54; pythag .517 vs .451) yet is priced as a plus-money underdog at 48.3% devigged. The SP matchup is near-even by xERA (Nola 4.17 vs Kirby 4.00) with recent form favoring N",
-    "bankroll_after": "543.08"
+    "bankroll_after": "613.88"
   },
   {
     "date": "2026-08-25",
@@ -6842,9 +6842,9 @@
     "units": "1",
     "stake_usd": "30.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-30.0",
     "reasoning_summary": "Thornton's 3.04 ERA masks a 4.85 xERA and .337 xwOBA over 200 PA with only 6.4 K/9 \u2014 a clear regression profile facing a confirmed .758-OPS Brewers lineup that is all right-handed against the lefty, while the Mets' .705 lineup provides moderate suppo",
-    "bankroll_after": "513.08"
+    "bankroll_after": "583.88"
   }
 ]
