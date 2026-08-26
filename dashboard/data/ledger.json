@@ -6826,8 +6826,8 @@
     "units": "1",
     "stake_usd": "30.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-30.0",
     "reasoning_summary": "Philadelphia is the substantially better team (73-59, +20 run diff vs 63-69, -54; pythag .517 vs .451) yet is priced as a plus-money underdog at 48.3% devigged. The SP matchup is near-even by xERA (Nola 4.17 vs Kirby 4.00) with recent form favoring N",
     "bankroll_after": "613.88"
   },
