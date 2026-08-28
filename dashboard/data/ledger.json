@@ -6942,5 +6942,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is close to a maximal SP mismatch: Eury P\u00e9rez (career 3.49 ERA/1.10 WHIP over 314 IP, xERA 3.67, 1 ER across his last 18 IP including a start at Washington) against Jackson Kent, whose 8.03 ERA, 2.11 WHIP, and 8.0 BB/9 are corroborated by a 6.09",
     "bankroll_after": "468.62"
+  },
+  {
+    "date": "2026-08-28",
+    "game": "Houston Astros @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Mets",
+    "odds": "112.0",
+    "line": "112.0",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The record gap (.500 vs .448) overstates the quality gap: run differentials are nearly identical (-44 vs -52, ~0.06 runs/game apart), making these effectively equal teams, and an equal-team home game is roughly a 53-54% proposition before specifics. ",
+    "bankroll_after": "442.62"
   }
 ]
