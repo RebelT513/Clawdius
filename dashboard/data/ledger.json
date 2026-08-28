@@ -6958,5 +6958,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The record gap (.500 vs .448) overstates the quality gap: run differentials are nearly identical (-44 vs -52, ~0.06 runs/game apart), making these effectively equal teams, and an equal-team home game is roughly a 53-54% proposition before specifics. ",
     "bankroll_after": "442.62"
+  },
+  {
+    "date": "2026-08-28",
+    "game": "San Diego Padres @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "San Diego Padres",
+    "odds": "116.0",
+    "line": "116.0",
+    "units": "1",
+    "stake_usd": "26.0",
+    "confidence_score": "49",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market is pricing Tampa Bay on record and McClanahan's reputation, but the underlying form runs the other way: Mize's 3.49 xERA (421 PA, backed by a 3.66 prior year) is well ahead of McClanahan's 4.14 xERA with declining K/9 (8.3 vs 9.8 career) a",
+    "bankroll_after": "416.62"
   }
 ]
