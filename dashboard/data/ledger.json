@@ -6922,10 +6922,10 @@
     "units": "1",
     "stake_usd": "26.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "26.08",
     "reasoning_summary": "Both starters are below-average by true-talent metrics \u2014 Peterson (xERA 4.87, season 5.17) and Lowder (xERA 5.14, xwOBA .346) \u2014 in a wind-sensitive park with a moderate 6.8 mph tailwind out to CF at 78\u00b0F. Season run rates support a high-scoring envir",
-    "bankroll_after": "494.62"
+    "bankroll_after": "546.73"
   },
   {
     "date": "2026-08-28",
@@ -6941,7 +6941,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is close to a maximal SP mismatch: Eury P\u00e9rez (career 3.49 ERA/1.10 WHIP over 314 IP, xERA 3.67, 1 ER across his last 18 IP including a start at Washington) against Jackson Kent, whose 8.03 ERA, 2.11 WHIP, and 8.0 BB/9 are corroborated by a 6.09",
-    "bankroll_after": "468.62"
+    "bankroll_after": "520.73"
   },
   {
     "date": "2026-08-28",
@@ -6957,7 +6957,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The record gap (.500 vs .448) overstates the quality gap: run differentials are nearly identical (-44 vs -52, ~0.06 runs/game apart), making these effectively equal teams, and an equal-team home game is roughly a 53-54% proposition before specifics. ",
-    "bankroll_after": "442.62"
+    "bankroll_after": "494.73"
   },
   {
     "date": "2026-08-28",
@@ -6973,6 +6973,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The market is pricing Tampa Bay on record and McClanahan's reputation, but the underlying form runs the other way: Mize's 3.49 xERA (421 PA, backed by a 3.66 prior year) is well ahead of McClanahan's 4.14 xERA with declining K/9 (8.3 vs 9.8 career) a",
-    "bankroll_after": "416.62"
+    "bankroll_after": "468.73"
   }
 ]
