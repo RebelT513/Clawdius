@@ -6974,5 +6974,21 @@
     "pnl": "-26.0",
     "reasoning_summary": "The market is pricing Tampa Bay on record and McClanahan's reputation, but the underlying form runs the other way: Mize's 3.49 xERA (421 PA, backed by a 3.66 prior year) is well ahead of McClanahan's 4.14 xERA with declining K/9 (8.3 vs 9.8 career) a",
     "bankroll_after": "468.73"
+  },
+  {
+    "date": "2026-08-29",
+    "game": "Chicago White Sox @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "108.0",
+    "line": "108.0",
+    "units": "1",
+    "stake_usd": "23.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The White Sox are the meaningfully better team this season (71-63, +47 run diff vs 64-71, -59) yet are priced as underdogs at +108 largely on home field and Ober's career pedigree. The starting pitcher matchup is effectively even by current-year cont",
+    "bankroll_after": "445.7"
   }
 ]
