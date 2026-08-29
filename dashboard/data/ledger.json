@@ -6986,10 +6986,10 @@
     "units": "1",
     "stake_usd": "23.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "24.81",
     "reasoning_summary": "The White Sox are the meaningfully better team this season (71-63, +47 run diff vs 64-71, -59) yet are priced as underdogs at +108 largely on home field and Ober's career pedigree. The starting pitcher matchup is effectively even by current-year cont",
-    "bankroll_after": "445.73"
+    "bankroll_after": "493.54"
   },
   {
     "date": "2026-08-29",
@@ -7005,7 +7005,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Pittsburgh profiles as the better team by full-season run differential (+21 vs -10) yet is priced as a 47.4% underdog largely on home field and Leahy's surface ERA. Leahy's 3.13 ERA sits on a 4.84 xERA over 531 PA \u2014 a large-sample overperformance fla",
-    "bankroll_after": "422.73"
+    "bankroll_after": "470.54"
   },
   {
     "date": "2026-08-29",
@@ -7021,7 +7021,7 @@
     "result": "win",
     "pnl": "22.3",
     "reasoning_summary": "Boston has the better starter tonight by expected metrics (3.29 xERA, 1.9 BB/9, stretched to 7 IP) while Rod\u00f3n is in a post-injury build-up capped near 4 innings with a 4.00 xERA and 5.0 BB/9, pushing ~5 innings onto the more taxed of two otherwise c",
-    "bankroll_after": "445.03"
+    "bankroll_after": "492.84"
   },
   {
     "date": "2026-08-29",
@@ -7037,6 +7037,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The home side has a real multi-factor edge: current-year SP quality favors Gausman (3.86 xERA over 633 PA vs Abbott's 4.68 with a BB/9 spike to 4.2 \u2014 both samples large enough to trust at 145+ IP), and the platoon layout compounds it, with nine right",
-    "bankroll_after": "422.03"
+    "bankroll_after": "469.84"
   }
 ]
