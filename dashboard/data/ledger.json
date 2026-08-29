@@ -6990,5 +6990,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The White Sox are the meaningfully better team this season (71-63, +47 run diff vs 64-71, -59) yet are priced as underdogs at +108 largely on home field and Ober's career pedigree. The starting pitcher matchup is effectively even by current-year cont",
     "bankroll_after": "445.7"
+  },
+  {
+    "date": "2026-08-29",
+    "game": "Pittsburgh Pirates @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Pittsburgh Pirates",
+    "odds": "111.0",
+    "line": "111.0",
+    "units": "1",
+    "stake_usd": "23.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Pittsburgh profiles as the better team by full-season run differential (+21 vs -10) yet is priced as a 47.4% underdog largely on home field and Leahy's surface ERA. Leahy's 3.13 ERA sits on a 4.84 xERA over 531 PA \u2014 a large-sample overperformance fla",
+    "bankroll_after": "422.7"
   }
 ]
