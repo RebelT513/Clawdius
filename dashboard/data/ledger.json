@@ -6938,8 +6938,8 @@
     "units": "1",
     "stake_usd": "26.0",
     "confidence_score": "63",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-26.0",
     "reasoning_summary": "This is close to a maximal SP mismatch: Eury P\u00e9rez (career 3.49 ERA/1.10 WHIP over 314 IP, xERA 3.67, 1 ER across his last 18 IP including a start at Washington) against Jackson Kent, whose 8.03 ERA, 2.11 WHIP, and 8.0 BB/9 are corroborated by a 6.09",
     "bankroll_after": "520.73"
   },
