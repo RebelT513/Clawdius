@@ -7006,5 +7006,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Pittsburgh profiles as the better team by full-season run differential (+21 vs -10) yet is priced as a 47.4% underdog largely on home field and Leahy's surface ERA. Leahy's 3.13 ERA sits on a 4.84 xERA over 531 PA \u2014 a large-sample overperformance fla",
     "bankroll_after": "422.7"
+  },
+  {
+    "date": "2026-08-29",
+    "game": "Boston Red Sox @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Boston Red Sox",
+    "odds": "-103.0",
+    "line": "-103.0",
+    "units": "1",
+    "stake_usd": "23.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Boston has the better starter tonight by expected metrics (3.29 xERA, 1.9 BB/9, stretched to 7 IP) while Rod\u00f3n is in a post-injury build-up capped near 4 innings with a 4.00 xERA and 5.0 BB/9, pushing ~5 innings onto the more taxed of two otherwise c",
+    "bankroll_after": "399.7"
   }
 ]
