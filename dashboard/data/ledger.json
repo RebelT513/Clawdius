@@ -7022,5 +7022,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Boston has the better starter tonight by expected metrics (3.29 xERA, 1.9 BB/9, stretched to 7 IP) while Rod\u00f3n is in a post-injury build-up capped near 4 innings with a 4.00 xERA and 5.0 BB/9, pushing ~5 innings onto the more taxed of two otherwise c",
     "bankroll_after": "399.7"
+  },
+  {
+    "date": "2026-08-29",
+    "game": "Cincinnati Reds @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Chicago Cubs -1.5",
+    "odds": "100.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "23.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The home side has a real multi-factor edge: current-year SP quality favors Gausman (3.86 xERA over 633 PA vs Abbott's 4.68 with a BB/9 spike to 4.2 \u2014 both samples large enough to trust at 145+ IP), and the platoon layout compounds it, with nine right",
+    "bankroll_after": "376.7"
   }
 ]
