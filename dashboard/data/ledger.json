@@ -7038,5 +7038,21 @@
     "pnl": "23.073",
     "reasoning_summary": "The home side has a real multi-factor edge: current-year SP quality favors Gausman (3.86 xERA over 633 PA vs Abbott's 4.68 with a BB/9 spike to 4.2 \u2014 both samples large enough to trust at 145+ IP), and the platoon layout compounds it, with nine right",
     "bankroll_after": "564.37"
+  },
+  {
+    "date": "2026-08-30",
+    "game": "Miami Marlins @ Washington Nationals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "-103.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "28.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters project hittable by the reliable metrics (Junk 4.19 xERA, contact-heavy 6.2 K/9; Alvarez 4.58 current xERA with 4.0 BB/9, prior-year form not holding). Washington's offense is high-volume (718 runs, ~5.2/game) and their 4.88 ERA bullpen",
+    "bankroll_after": "536.33"
   }
 ]
