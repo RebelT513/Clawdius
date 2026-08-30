@@ -7054,5 +7054,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters project hittable by the reliable metrics (Junk 4.19 xERA, contact-heavy 6.2 K/9; Alvarez 4.58 current xERA with 4.0 BB/9, prior-year form not holding). Washington's offense is high-volume (718 runs, ~5.2/game) and their 4.88 ERA bullpen",
     "bankroll_after": "536.33"
+  },
+  {
+    "date": "2026-08-30",
+    "game": "Cincinnati Reds @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "103.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "28.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "A 16.8 mph tailwind out to center at Wrigley in 80-degree heat is one of the strongest physical over-environments in baseball, and the board is offering over 9 at plus money \u2014 pricing that suggests the wind is not fully baked in, since strong-out Wri",
+    "bankroll_after": "508.33000000000004"
   }
 ]
