@@ -7070,5 +7070,21 @@
     "pnl": "0.0",
     "reasoning_summary": "A 16.8 mph tailwind out to center at Wrigley in 80-degree heat is one of the strongest physical over-environments in baseball, and the board is offering over 9 at plus money \u2014 pricing that suggests the wind is not fully baked in, since strong-out Wri",
     "bankroll_after": "508.33000000000004"
+  },
+  {
+    "date": "2026-08-30",
+    "game": "Chicago White Sox @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "104.0",
+    "line": "104.0",
+    "units": "1",
+    "stake_usd": "28.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The season-quality gap strongly favors Chicago: 72-63 with a +48 run differential versus Minnesota at 64-72 and -60, a ~110-run spread that home field only partly offsets, yet the better team is plus-money. The pitching picture doesn't rescue the Twi",
+    "bankroll_after": "480.33"
   }
 ]
