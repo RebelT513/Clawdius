@@ -7098,9 +7098,9 @@
     "units": "1",
     "stake_usd": "28.0",
     "confidence_score": "59",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "22.05",
     "reasoning_summary": "Large, reliable SP mismatch: Ashcraft (3.41 xERA, .287 xwOBA, career 3.32 over 225 IP, 23 IP / 3 ER across his last three starts) vs Liberatore (4.94 xERA, career 4.86, 8 ER in his last outing), and Ashcraft's recent 8-9 IP outings mean he alone cove",
-    "bankroll_after": "452.37"
+    "bankroll_after": "502.42"
   }
 ]
