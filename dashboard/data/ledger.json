@@ -7086,5 +7086,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The season-quality gap strongly favors Chicago: 72-63 with a +48 run differential versus Minnesota at 64-72 and -60, a ~110-run spread that home field only partly offsets, yet the better team is plus-money. The pitching picture doesn't rescue the Twi",
     "bankroll_after": "480.33"
+  },
+  {
+    "date": "2026-08-30",
+    "game": "Pittsburgh Pirates @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-127.0",
+    "line": "-127.0",
+    "units": "1",
+    "stake_usd": "28.0",
+    "confidence_score": "59",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, reliable SP mismatch: Ashcraft (3.41 xERA, .287 xwOBA, career 3.32 over 225 IP, 23 IP / 3 ER across his last three starts) vs Liberatore (4.94 xERA, career 4.86, 8 ER in his last outing), and Ashcraft's recent 8-9 IP outings mean he alone cove",
+    "bankroll_after": "452.33"
   }
 ]
