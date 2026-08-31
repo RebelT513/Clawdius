@@ -7118,5 +7118,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Dion holds a large quality edge over Gusto by best-available data: xERA 3.14 vs 4.49, xwOBA .276 vs .326, 10.8 K/9 vs 7.5, and his 34 IP is past the ~30 IP threshold where current-year xERA becomes meaningful. Gusto's shiny recent line (0 ER in two o",
     "bankroll_after": "531.23"
+  },
+  {
+    "date": "2026-08-31",
+    "game": "Milwaukee Brewers @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "28.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Milwaukee gets even money despite being the better team on season fundamentals (85-52 vs 77-60, +177 vs +127 run differential, 3.25 vs 3.90 bullpen ERA) and holding the starting pitcher edge: Harrison's xERA 3.24 / xwOBA .280 with an 11.1 K/9 over a ",
+    "bankroll_after": "503.23"
   }
 ]
