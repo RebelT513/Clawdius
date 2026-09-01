@@ -7182,5 +7182,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The Brewers are the meaningfully better team (.616 vs .565, +163 vs +141 run differential, 3.36 vs 3.93 bullpen ERA) yet are priced as +110 underdogs, implying only 47.6%. The SP matchup is near-even with a slight Milwaukee lean: Gasser's current xER",
     "bankroll_after": "477.51"
+  },
+  {
+    "date": "2026-09-01",
+    "game": "Toronto Blue Jays @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Toronto Blue Jays",
+    "odds": "158.0",
+    "line": "158.0",
+    "units": "1",
+    "stake_usd": "27.0",
+    "confidence_score": "43",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two essentially equal teams (.493 vs .504, identical bullpen ERAs, near-equal runs scored) are priced as a 62% home favorite, which overstates Cleveland's edge. Gavin Williams is league-average by xERA (4.00, .309 xwOBA) and erratic lately (5 ER in 1",
+    "bankroll_after": "450.51"
   }
 ]
