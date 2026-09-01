@@ -7166,5 +7166,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Miami is the meaningfully better club (+12 run differential vs -83, ~.510 vs ~.435 pythag) yet is priced at even money because the market appears to be crediting the home starter's 1.92 ERA, which his 4.56 xERA, 5.73 prior-year xERA, and 4.07 career ",
     "bankroll_after": "504.51"
+  },
+  {
+    "date": "2026-09-01",
+    "game": "Milwaukee Brewers @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "110.0",
+    "line": "110.0",
+    "units": "1",
+    "stake_usd": "27.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The Brewers are the meaningfully better team (.616 vs .565, +163 vs +141 run differential, 3.36 vs 3.93 bullpen ERA) yet are priced as +110 underdogs, implying only 47.6%. The SP matchup is near-even with a slight Milwaukee lean: Gasser's current xER",
+    "bankroll_after": "477.51"
   }
 ]
