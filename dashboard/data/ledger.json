@@ -7146,9 +7146,9 @@
     "units": "1",
     "stake_usd": "28.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "28.28",
     "reasoning_summary": "The first-5 is a genuine SP mismatch in the Angels' favor: Ure\u00f1a carries a 3.43 xERA over 500 PA (116 IP), while Rodr\u00edguez profiles poorly even after regressing his 23-IP sample \u2014 5.45 xERA, 1.52 WHIP, and a near-1:1 K/BB (6.3 K/9 vs 5.1 BB/9) all po",
-    "bankroll_after": "475.28"
+    "bankroll_after": "531.56"
   }
 ]
