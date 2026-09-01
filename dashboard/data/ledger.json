@@ -7130,8 +7130,8 @@
     "units": "1",
     "stake_usd": "28.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-28.0",
     "reasoning_summary": "Milwaukee gets even money despite being the better team on season fundamentals (85-52 vs 77-60, +177 vs +127 run differential, 3.25 vs 3.90 bullpen ERA) and holding the starting pitcher edge: Harrison's xERA 3.24 / xwOBA .280 with an 11.1 K/9 over a ",
     "bankroll_after": "503.28"
   },
