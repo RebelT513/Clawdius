@@ -7198,5 +7198,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Two essentially equal teams (.493 vs .504, identical bullpen ERAs, near-equal runs scored) are priced as a 62% home favorite, which overstates Cleveland's edge. Gavin Williams is league-average by xERA (4.00, .309 xwOBA) and erratic lately (5 ER in 1",
     "bankroll_after": "450.51"
+  },
+  {
+    "date": "2026-09-01",
+    "game": "Seattle Mariners @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Seattle Mariners",
+    "odds": "-111.0",
+    "line": "-111.0",
+    "units": "1",
+    "stake_usd": "27.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is close to the largest starting-pitcher gap a board can offer: Bryan Woo brings 538 career IP at a 3.51 ERA / 1.01 WHIP with a 3.67 xERA this year, while Boston counters with Jedixson Paez, who has 3 career MLB innings, zero strikeouts, 9.0 BB/",
+    "bankroll_after": "423.51"
   }
 ]
