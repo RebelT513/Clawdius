@@ -7150,5 +7150,21 @@
     "pnl": "28.28",
     "reasoning_summary": "The first-5 is a genuine SP mismatch in the Angels' favor: Ure\u00f1a carries a 3.43 xERA over 500 PA (116 IP), while Rodr\u00edguez profiles poorly even after regressing his 23-IP sample \u2014 5.45 xERA, 1.52 WHIP, and a near-1:1 K/BB (6.3 K/9 vs 5.1 BB/9) all po",
     "bankroll_after": "531.56"
+  },
+  {
+    "date": "2026-09-01",
+    "game": "Miami Marlins @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "104.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "27.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Miami is the meaningfully better club (+12 run differential vs -83, ~.510 vs ~.435 pythag) yet is priced at even money because the market appears to be crediting the home starter's 1.92 ERA, which his 4.56 xERA, 5.73 prior-year xERA, and 4.07 career ",
+    "bankroll_after": "504.51"
   }
 ]
