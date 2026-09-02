@@ -7165,7 +7165,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Miami is the meaningfully better club (+12 run differential vs -83, ~.510 vs ~.435 pythag) yet is priced at even money because the market appears to be crediting the home starter's 1.92 ERA, which his 4.56 xERA, 5.73 prior-year xERA, and 4.07 career ",
-    "bankroll_after": "504.51"
+    "bankroll_after": "504.56"
   },
   {
     "date": "2026-09-01",
@@ -7181,7 +7181,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The Brewers are the meaningfully better team (.616 vs .565, +163 vs +141 run differential, 3.36 vs 3.93 bullpen ERA) yet are priced as +110 underdogs, implying only 47.6%. The SP matchup is near-even with a slight Milwaukee lean: Gasser's current xER",
-    "bankroll_after": "477.51"
+    "bankroll_after": "477.56"
   },
   {
     "date": "2026-09-01",
@@ -7197,7 +7197,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Two essentially equal teams (.493 vs .504, identical bullpen ERAs, near-equal runs scored) are priced as a 62% home favorite, which overstates Cleveland's edge. Gavin Williams is league-average by xERA (4.00, .309 xwOBA) and erratic lately (5 ER in 1",
-    "bankroll_after": "450.51"
+    "bankroll_after": "450.56"
   },
   {
     "date": "2026-09-01",
@@ -7210,9 +7210,9 @@
     "units": "1",
     "stake_usd": "27.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "24.32",
     "reasoning_summary": "This is close to the largest starting-pitcher gap a board can offer: Bryan Woo brings 538 career IP at a 3.51 ERA / 1.01 WHIP with a 3.67 xERA this year, while Boston counters with Jedixson Paez, who has 3 career MLB innings, zero strikeouts, 9.0 BB/",
-    "bankroll_after": "423.51"
+    "bankroll_after": "474.88"
   }
 ]
