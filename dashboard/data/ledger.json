@@ -7226,10 +7226,10 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "62",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-29.0",
     "reasoning_summary": "This is a large, reliably-documented SP mismatch: Mize carries a 3.50 xERA over 446 PA (3.66 prior year) with strong command, while Williamson has a 6.81 xERA and 6.4 BB/9 in limited work, a 4.69 career ERA, and hasn't made a major-league start since",
-    "bankroll_after": "557.58"
+    "bankroll_after": "557.62"
   },
   {
     "date": "2026-09-02",
@@ -7245,7 +7245,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "This is a genuine SP mismatch pointing at the underdog: Lopez carries a 3.40 xERA over a large 441-PA sample (3.64 prior year, 8.7 K/9) and has allowed 4 ER total across his last three starts, while Bradford is outperforming his contact quality badly",
-    "bankroll_after": "528.58"
+    "bankroll_after": "528.62"
   },
   {
     "date": "2026-09-02",
@@ -7261,7 +7261,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Detroit profiles as the better team by the larger-sample measures despite the worse record: +42 run differential vs Minnesota's -33 (pythag ~.535 vs ~.475) and a clearly better bullpen (4.03 vs 4.78 ERA). Today's SP matchup adds to it \u2014 Anderson's 3.",
-    "bankroll_after": "499.58000000000004"
+    "bankroll_after": "499.62"
   },
   {
     "date": "2026-09-02",
@@ -7277,6 +7277,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Miami is clearly the better club (+15 run differential vs -86, ~0.7 runs/game gap) yet is priced essentially even at -104 because of home field and Cameron's recent form. The SP matchup is close to neutral: Perez holds the better arsenal and expected",
-    "bankroll_after": "470.58"
+    "bankroll_after": "470.62"
   }
 ]
