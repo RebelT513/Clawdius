@@ -7194,8 +7194,8 @@
     "units": "1",
     "stake_usd": "27.0",
     "confidence_score": "43",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-27.0",
     "reasoning_summary": "Two essentially equal teams (.493 vs .504, identical bullpen ERAs, near-equal runs scored) are priced as a 62% home favorite, which overstates Cleveland's edge. Gavin Williams is league-average by xERA (4.00, .309 xwOBA) and erratic lately (5 ER in 1",
     "bankroll_after": "450.56"
   },
