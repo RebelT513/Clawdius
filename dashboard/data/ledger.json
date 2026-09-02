@@ -7246,5 +7246,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a genuine SP mismatch pointing at the underdog: Lopez carries a 3.40 xERA over a large 441-PA sample (3.64 prior year, 8.7 K/9) and has allowed 4 ER total across his last three starts, while Bradford is outperforming his contact quality badly",
     "bankroll_after": "528.58"
+  },
+  {
+    "date": "2026-09-02",
+    "game": "Detroit Tigers @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "101.0",
+    "line": "101.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit profiles as the better team by the larger-sample measures despite the worse record: +42 run differential vs Minnesota's -33 (pythag ~.535 vs ~.475) and a clearly better bullpen (4.03 vs 4.78 ERA). Today's SP matchup adds to it \u2014 Anderson's 3.",
+    "bankroll_after": "499.58000000000004"
   }
 ]
