@@ -7230,5 +7230,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a large, reliably-documented SP mismatch: Mize carries a 3.50 xERA over 446 PA (3.66 prior year) with strong command, while Williamson has a 6.81 xERA and 6.4 BB/9 in limited work, a 4.69 career ERA, and hasn't made a major-league start since",
     "bankroll_after": "557.58"
+  },
+  {
+    "date": "2026-09-02",
+    "game": "Athletics @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Athletics",
+    "odds": "120.0",
+    "line": "120.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a genuine SP mismatch pointing at the underdog: Lopez carries a 3.40 xERA over a large 441-PA sample (3.64 prior year, 8.7 K/9) and has allowed 4 ER total across his last three starts, while Bradford is outperforming his contact quality badly",
+    "bankroll_after": "528.58"
   }
 ]
