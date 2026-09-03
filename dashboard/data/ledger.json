@@ -7293,7 +7293,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Milwaukee has a clear starting pitcher edge: Henderson (2.48 ERA, 0.83 WHIP, 2.73 xERA on 286 PA, career 2.30 over 101 IP, three straight 1-ER starts) profiles well ahead of Gausman, whose 4.52 ERA is backed by a 3.92 xERA \u2014 real decline, not bad luc",
-    "bankroll_after": "617.13"
+    "bankroll_after": "617.17"
   },
   {
     "date": "2026-09-03",
@@ -7306,10 +7306,10 @@
     "units": "1",
     "stake_usd": "33.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-33.0",
     "reasoning_summary": "Cleveland holds the better and more reliable starter: Bibee's career 3.68 ERA/1.17 WHIP with 2.5 BB/9 and three straight 6-inning starts of 3 ER or fewer, versus Soriano whose 3.45 ERA masks a 4.48 xERA and 4.0 BB/9 walk problem. Cleveland also field",
-    "bankroll_after": "584.13"
+    "bankroll_after": "584.17"
   },
   {
     "date": "2026-09-03",
@@ -7325,6 +7325,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "A 14 mph wind blowing straight in at Wrigley (-13.4 mph to CF) is one of the strongest run-suppression environments in baseball, and it pairs with a genuine SP quality edge on the under: Henderson is elite by both career (2.30 ERA, 101 IP) and curren",
-    "bankroll_after": "551.13"
+    "bankroll_after": "551.17"
   }
 ]
