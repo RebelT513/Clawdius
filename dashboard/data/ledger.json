@@ -7274,9 +7274,9 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "28.36",
     "reasoning_summary": "Miami is clearly the better club (+15 run differential vs -86, ~0.7 runs/game gap) yet is priced essentially even at -104 because of home field and Cameron's recent form. The SP matchup is close to neutral: Perez holds the better arsenal and expected",
-    "bankroll_after": "534.42"
+    "bankroll_after": "591.78"
   }
 ]
