@@ -7259,7 +7259,7 @@
     "stake_usd": "29.0",
     "confidence_score": "53",
     "result": "win",
-    "pnl": "29.39",
+    "pnl": "29.392",
     "reasoning_summary": "Detroit profiles as the better team by the larger-sample measures despite the worse record: +42 run differential vs Minnesota's -33 (pythag ~.535 vs ~.475) and a clearly better bullpen (4.03 vs 4.78 ERA). Today's SP matchup adds to it \u2014 Anderson's 3.",
     "bankroll_after": "621.81"
   },
@@ -7275,7 +7275,7 @@
     "stake_usd": "29.0",
     "confidence_score": "54",
     "result": "win",
-    "pnl": "28.36",
+    "pnl": "28.364",
     "reasoning_summary": "Miami is clearly the better club (+15 run differential vs -86, ~0.7 runs/game gap) yet is priced essentially even at -104 because of home field and Cameron's recent form. The SP matchup is close to neutral: Perez holds the better arsenal and expected",
     "bankroll_after": "650.17"
   }
