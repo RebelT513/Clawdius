@@ -7278,5 +7278,21 @@
     "pnl": "28.364",
     "reasoning_summary": "Miami is clearly the better club (+15 run differential vs -86, ~0.7 runs/game gap) yet is priced essentially even at -104 because of home field and Cameron's recent form. The SP matchup is close to neutral: Perez holds the better arsenal and expected",
     "bankroll_after": "650.17"
+  },
+  {
+    "date": "2026-09-03",
+    "game": "Milwaukee Brewers @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "-108.0",
+    "line": "-108.0",
+    "units": "1",
+    "stake_usd": "33.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Milwaukee has a clear starting pitcher edge: Henderson (2.48 ERA, 0.83 WHIP, 2.73 xERA on 286 PA, career 2.30 over 101 IP, three straight 1-ER starts) profiles well ahead of Gausman, whose 4.52 ERA is backed by a 3.92 xERA \u2014 real decline, not bad luc",
+    "bankroll_after": "617.13"
   }
 ]
