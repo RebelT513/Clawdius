@@ -7342,5 +7342,21 @@
     "pnl": "-31.0",
     "reasoning_summary": "Miami rates as the better side on every predictive fundamental: Alcantara over Wacha on xERA (3.63 vs 3.98) and career ERA (3.62 vs 3.83), a ~107-run season run-differential gap (+18 vs -89), and a full run of bullpen quality (4.00 vs 5.09 ERA) that ",
     "bankroll_after": "582.14"
+  },
+  {
+    "date": "2026-09-04",
+    "game": "Detroit Tigers @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "119.0",
+    "line": "119.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit's +47 run differential (610/563) against Cleveland's -11 (566/577) makes the Tigers the stronger club by full-season quality despite the worse record, yet they're priced as a 45.7% underdog. The SP matchup compounds it: Montero carries a 3.42",
+    "bankroll_after": "553.1"
   }
 ]
