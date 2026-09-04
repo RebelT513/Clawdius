@@ -7290,8 +7290,8 @@
     "units": "1",
     "stake_usd": "33.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-33.0",
     "reasoning_summary": "Milwaukee has a clear starting pitcher edge: Henderson (2.48 ERA, 0.83 WHIP, 2.73 xERA on 286 PA, career 2.30 over 101 IP, three straight 1-ER starts) profiles well ahead of Gausman, whose 4.52 ERA is backed by a 3.92 xERA \u2014 real decline, not bad luc",
     "bankroll_after": "617.17"
   },
@@ -7322,10 +7322,10 @@
     "units": "1",
     "stake_usd": "33.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "28.97",
     "reasoning_summary": "A 14 mph wind blowing straight in at Wrigley (-13.4 mph to CF) is one of the strongest run-suppression environments in baseball, and it pairs with a genuine SP quality edge on the under: Henderson is elite by both career (2.30 ERA, 101 IP) and curren",
-    "bankroll_after": "551.17"
+    "bankroll_after": "613.14"
   },
   {
     "date": "2026-09-03",
@@ -7341,6 +7341,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Miami rates as the better side on every predictive fundamental: Alcantara over Wacha on xERA (3.63 vs 3.98) and career ERA (3.62 vs 3.83), a ~107-run season run-differential gap (+18 vs -89), and a full run of bullpen quality (4.00 vs 5.09 ERA) that ",
-    "bankroll_after": "520.13"
+    "bankroll_after": "582.14"
   }
 ]
