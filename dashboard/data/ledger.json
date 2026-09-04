@@ -7354,10 +7354,10 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-29.0",
     "reasoning_summary": "Detroit's +47 run differential (610/563) against Cleveland's -11 (566/577) makes the Tigers the stronger club by full-season quality despite the worse record, yet they're priced as a 45.7% underdog. The SP matchup compounds it: Montero carries a 3.42",
-    "bankroll_after": "553.1"
+    "bankroll_after": "553.14"
   },
   {
     "date": "2026-09-04",
@@ -7373,6 +7373,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Run differential (+118 vs +36) and pythagorean records make Atlanta roughly a .570 neutral-field favorite over Philadelphia; even after full home-field credit the visitors project around 53%. The SP matchup adds slightly to that: Sale (xERA 2.99, car",
-    "bankroll_after": "524.1"
+    "bankroll_after": "524.14"
   }
 ]
