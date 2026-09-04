@@ -7338,8 +7338,8 @@
     "units": "1",
     "stake_usd": "31.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-31.0",
     "reasoning_summary": "Miami rates as the better side on every predictive fundamental: Alcantara over Wacha on xERA (3.63 vs 3.98) and career ERA (3.62 vs 3.83), a ~107-run season run-differential gap (+18 vs -89), and a full run of bullpen quality (4.00 vs 5.09 ERA) that ",
     "bankroll_after": "582.14"
   }
