@@ -7422,5 +7422,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a genuine SP mismatch on large in-season samples: Bradley (3.92 xERA, 10.4 K/9 over 154 IP, 7 IP/1 ER last out) projects roughly a full run better than Kay (4.92 xERA, 7.4 K/9, consecutive 4.2 IP outings with 4-5 ER), with recent form divergi",
     "bankroll_after": "495.23"
+  },
+  {
+    "date": "2026-09-05",
+    "game": "Arizona Diamondbacks @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Arizona Diamondbacks",
+    "odds": "-103.0",
+    "line": "-107.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Clear SP mismatch at a near pick'em price: Pfaadt is an established starter having a genuinely improved year (3.76 xERA over 455 PA, 111 IP) while Pecko has only 13 career IP with a 7.29 xERA, 0.400 xwOBA, and 6.2 BB/9, averaging barely 4+ innings pe",
+    "bankroll_after": "466.23"
   }
 ]
