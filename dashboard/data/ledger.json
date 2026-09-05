@@ -7390,5 +7390,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market prices this as a pure pick'em, but the team-quality gap is large: Tampa Bay is 84-57 with a +46 run differential versus Texas at 70-72 and -43, and the Rays' bullpen (4.09 ERA) outclasses the Rangers' (4.46). The SP matchup is roughly even",
     "bankroll_after": "553.23"
+  },
+  {
+    "date": "2026-09-05",
+    "game": "Toronto Blue Jays @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Toronto Blue Jays",
+    "odds": "-103.0",
+    "line": "-103.0",
+    "units": "1",
+    "stake_usd": "29.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Toronto holds three stacked advantages the near-pickem price doesn't reflect: a ~1.00 xERA gap at starter (Scherzer 4.21 vs Lugo 5.16, with Lugo's identical prior-year xERA confirming real decline over a 662-PA sample), a large bullpen gap (3.76 vs 5",
+    "bankroll_after": "524.23"
   }
 ]
