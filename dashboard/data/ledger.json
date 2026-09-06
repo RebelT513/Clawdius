@@ -7470,5 +7470,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The away starter's 3.13 ERA masks a 4.79 xERA (545 PA) and he has been stretched only 3-5 IP in recent outings, meaning 4-6 innings fall to a 4.56 ERA bullpen whose three most-used arms all worked twice in the last three days; the home starter is a c",
     "bankroll_after": "622.68"
+  },
+  {
+    "date": "2026-09-06",
+    "game": "Washington Nationals @ Los Angeles Dodgers",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o8.5",
+    "odds": "-101.0",
+    "line": "8.5",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters have expected-stat regression profiles (xERA 4.36 and 4.66, well above their surface ERAs), the home starter is returning from a three-week layoff with 14 ER over his last 13.2 IP, and the away starter's 4.1 BB/9 faces a patient, elite ",
+    "bankroll_after": "587.68"
   }
 ]
