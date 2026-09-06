@@ -7486,5 +7486,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Both starters have expected-stat regression profiles (xERA 4.36 and 4.66, well above their surface ERAs), the home starter is returning from a three-week layoff with 14 ER over his last 13.2 IP, and the away starter's 4.1 BB/9 faces a patient, elite ",
     "bankroll_after": "587.68"
+  },
+  {
+    "date": "2026-09-06",
+    "game": "New York Yankees @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Yankees",
+    "odds": "-109.0",
+    "line": "-109.0",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The Yankees are the substantially better team (+118 run differential vs +7, 643 runs scored vs 598, 3.06 vs 3.44 bullpen ERA) with the better starting pitcher by expected metrics: Cole's 3.40 xERA and .286 xwOBA against King's 4.36 xERA (662 PA, and ",
+    "bankroll_after": "552.68"
   }
 ]
