@@ -7434,9 +7434,9 @@
     "units": "1",
     "stake_usd": "29.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "28.11",
     "reasoning_summary": "Clear SP mismatch at a near pick'em price: Pfaadt is an established starter having a genuinely improved year (3.76 xERA over 455 PA, 111 IP) while Pecko has only 13 career IP with a 7.29 xERA, 0.400 xwOBA, and 6.2 BB/9, averaging barely 4+ innings pe",
-    "bankroll_after": "635.61"
+    "bankroll_after": "692.72"
   }
 ]
