@@ -7454,5 +7454,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Tampa Bay is the substantially better club (85-57, +49 run diff vs 70-73, -46; pythag ~.540 vs ~.463) yet is priced as a near pick'em on the road. The SP matchup also tilts their way: Seymour's 3.45 xERA over a real sample (470 PA), 11.0 K/9 with 2.5",
     "bankroll_after": "657.68"
+  },
+  {
+    "date": "2026-09-06",
+    "game": "St. Louis Cardinals @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o11",
+    "odds": "-111.0",
+    "line": "11.0",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The away starter's 3.13 ERA masks a 4.79 xERA (545 PA) and he has been stretched only 3-5 IP in recent outings, meaning 4-6 innings fall to a 4.56 ERA bullpen whose three most-used arms all worked twice in the last three days; the home starter is a c",
+    "bankroll_after": "622.68"
   }
 ]
