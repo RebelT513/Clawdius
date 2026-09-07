@@ -7502,5 +7502,21 @@
     "pnl": "-35.0",
     "reasoning_summary": "The Yankees are the substantially better team (+118 run differential vs +7, 643 runs scored vs 598, 3.06 vs 3.44 bullpen ERA) with the better starting pitcher by expected metrics: Cole's 3.40 xERA and .286 xwOBA against King's 4.36 xERA (662 PA, and ",
     "bankroll_after": "688.78"
+  },
+  {
+    "date": "2026-09-07",
+    "game": "Washington Nationals @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Washington Nationals",
+    "odds": "168.0",
+    "line": "168.0",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "41",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The teams are far closer than the price implies: run differentials are essentially identical (+9 vs +8), meaning the Nationals' .462 record understates their true quality while the Padres' .524 slightly overstates theirs. Pivetta has thrown only 16 I",
+    "bankroll_after": "654.74"
   }
 ]
