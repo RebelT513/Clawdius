@@ -7518,5 +7518,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The teams are far closer than the price implies: run differentials are essentially identical (+9 vs +8), meaning the Nationals' .462 record understates their true quality while the Padres' .524 slightly overstates theirs. Pivetta has thrown only 16 I",
     "bankroll_after": "654.74"
+  },
+  {
+    "date": "2026-09-07",
+    "game": "St. Louis Cardinals @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "St. Louis Cardinals",
+    "odds": "116.0",
+    "line": "116.0",
+    "units": "1",
+    "stake_usd": "34.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market prices the Giants at 56% largely on Webb's career profile, but the team-quality gap runs the other way: St. Louis is 72-72 with a -9 run differential versus San Francisco at .410 and -75, and today's lineup gap is stark (.771 avg OPS with ",
+    "bankroll_after": "620.74"
   }
 ]
