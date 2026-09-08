@@ -7534,5 +7534,21 @@
     "pnl": "-34.0",
     "reasoning_summary": "The market prices the Giants at 56% largely on Webb's career profile, but the team-quality gap runs the other way: St. Louis is 72-72 with a -9 run differential versus San Francisco at .410 and -75, and today's lineup gap is stark (.771 avg OPS with ",
     "bankroll_after": "620.78"
+  },
+  {
+    "date": "2026-09-08",
+    "game": "Cleveland Guardians @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "114.0",
+    "line": "114.0",
+    "units": "1",
+    "stake_usd": "31.0",
+    "confidence_score": "50",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The road dog has the better pitcher by the reliable metrics: Bibee's career 3.73 ERA over 664 IP and prior-year 3.64 xERA clearly beat Young's career 4.25 ERA / 1.38 WHIP, and Young's 3.42 season ERA is outrunning his 4.32 xERA \u2014 he profiles as a reg",
+    "bankroll_after": "589.74"
   }
 ]
