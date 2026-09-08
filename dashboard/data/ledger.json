@@ -7566,5 +7566,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large, reliably-sampled SP mismatch favoring the away side: Detmers at a 3.25 xERA over 651 PA with three straight starts of 1 ER or fewer, against Sandoval at a 5.29 xERA with a 1.73 WHIP and 4.6 BB/9 who hasn't finished six innings in a month. The ",
     "bankroll_after": "558.74"
+  },
+  {
+    "date": "2026-09-08",
+    "game": "Tampa Bay Rays @ Atlanta Braves",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Tampa Bay Rays",
+    "odds": "-113.0",
+    "line": "-113.0",
+    "units": "1",
+    "stake_usd": "31.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, reliable SP mismatch: Peralta is an established arm (career 3.77 ERA/1.17 WHIP over 1078 IP, 3.89 xERA on 643 PA this year \u2014 his 4.96 ERA is running well above contact quality) and is in dominant recent form (1 ER over his last 12 IP), while S",
+    "bankroll_after": "527.74"
   }
 ]
