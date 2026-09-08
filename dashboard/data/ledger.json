@@ -7550,5 +7550,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The road dog has the better pitcher by the reliable metrics: Bibee's career 3.73 ERA over 664 IP and prior-year 3.64 xERA clearly beat Young's career 4.25 ERA / 1.38 WHIP, and Young's 3.42 season ERA is outrunning his 4.32 xERA \u2014 he profiles as a reg",
     "bankroll_after": "589.74"
+  },
+  {
+    "date": "2026-09-08",
+    "game": "Los Angeles Angels @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Los Angeles Angels",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "31.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large, reliably-sampled SP mismatch favoring the away side: Detmers at a 3.25 xERA over 651 PA with three straight starts of 1 ER or fewer, against Sandoval at a 5.29 xERA with a 1.73 WHIP and 4.6 BB/9 who hasn't finished six innings in a month. The ",
+    "bankroll_after": "558.74"
   }
 ]
