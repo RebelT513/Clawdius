@@ -7530,8 +7530,8 @@
     "units": "1",
     "stake_usd": "34.0",
     "confidence_score": "51",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-34.0",
     "reasoning_summary": "The market prices the Giants at 56% largely on Webb's career profile, but the team-quality gap runs the other way: St. Louis is 72-72 with a -9 run differential versus San Francisco at .410 and -75, and today's lineup gap is stark (.771 avg OPS with ",
     "bankroll_after": "620.78"
   }
