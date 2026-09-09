@@ -7630,5 +7630,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market's case for the home favorite rests on Kade Anderson's 3.15 xERA over just 63 PA \u2014 a 15 IP rookie with no career baseline, a 4.2 BB/9, and three mediocre starts, which is below every reliability threshold. The season-long fundamentals favor",
     "bankroll_after": "606.65"
+  },
+  {
+    "date": "2026-09-09",
+    "game": "Los Angeles Angels @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Boston Red Sox -1.5",
+    "odds": "-105.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "36.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Bennett (3.22 xERA, 1.02 WHIP, 1.6 BB/9) vs Johnson (5.29 xERA, 4.4 BB/9, whose 0-1-1 ER recent run is luck per contact quality) is a large SP mismatch, compounded by the Angels' .580 OPS lineup with four sub-.620 bats and a -75 run diff vs Boston's ",
+    "bankroll_after": "570.65"
   }
 ]
