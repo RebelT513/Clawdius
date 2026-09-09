@@ -7578,9 +7578,9 @@
     "units": "1",
     "stake_usd": "31.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "27.43",
     "reasoning_summary": "Large, reliable SP mismatch: Peralta is an established arm (career 3.77 ERA/1.17 WHIP over 1078 IP, 3.89 xERA on 643 PA this year \u2014 his 4.96 ERA is running well above contact quality) and is in dominant recent form (1 ER over his last 12 IP), while S",
-    "bankroll_after": "589.78"
+    "bankroll_after": "648.21"
   }
 ]
