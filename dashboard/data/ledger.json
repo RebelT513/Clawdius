@@ -7582,5 +7582,21 @@
     "pnl": "27.434",
     "reasoning_summary": "Large, reliable SP mismatch: Peralta is an established arm (career 3.77 ERA/1.17 WHIP over 1078 IP, 3.89 xERA on 643 PA this year \u2014 his 4.96 ERA is running well above contact quality) and is in dominant recent form (1 ER over his last 12 IP), while S",
     "bankroll_after": "714.68"
+  },
+  {
+    "date": "2026-09-09",
+    "game": "Cleveland Guardians @ Baltimore Orioles",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o9",
+    "odds": "104.0",
+    "line": "9.0",
+    "units": "1",
+    "stake_usd": "36.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The SP matchup is softer than surface ERAs suggest: Griffin's 3.26 ERA masks a 4.26 xERA (full-run contact-quality gap the market likely prices off the ERA), and Baz sits at 4.03 xERA \u2014 effectively two league-average-expected starters, not a pitching",
+    "bankroll_after": "678.65"
   }
 ]
