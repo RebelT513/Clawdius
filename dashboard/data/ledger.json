@@ -7547,7 +7547,7 @@
     "stake_usd": "31.0",
     "confidence_score": "50",
     "result": "win",
-    "pnl": "35.47",
+    "pnl": "35.473",
     "reasoning_summary": "The road dog has the better pitcher by the reliable metrics: Bibee's career 3.73 ERA over 664 IP and prior-year 3.64 xERA clearly beat Young's career 4.25 ERA / 1.38 WHIP, and Young's 3.42 season ERA is outrunning his 4.32 xERA \u2014 he profiles as a reg",
     "bankroll_after": "656.25"
   },
@@ -7579,7 +7579,7 @@
     "stake_usd": "31.0",
     "confidence_score": "56",
     "result": "win",
-    "pnl": "27.43",
+    "pnl": "27.434",
     "reasoning_summary": "Large, reliable SP mismatch: Peralta is an established arm (career 3.77 ERA/1.17 WHIP over 1078 IP, 3.89 xERA on 643 PA this year \u2014 his 4.96 ERA is running well above contact quality) and is in dominant recent form (1 ER over his last 12 IP), while S",
     "bankroll_after": "714.68"
   }
