@@ -7658,9 +7658,9 @@
     "units": "1",
     "stake_usd": "36.0",
     "confidence_score": "50",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-36.0",
     "reasoning_summary": "Texas is the better team by full-season fundamentals (run differential -40 vs -75, Pythagorean ~.468 vs ~.439) and has the better starter today: deGrom (xERA 3.55, xwOBA .292, elite career profile, strong last two starts) over Gilbert (xERA 3.74). Bu",
-    "bankroll_after": "691.98"
+    "bankroll_after": "692.01"
   }
 ]
