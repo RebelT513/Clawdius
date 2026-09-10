@@ -7595,7 +7595,7 @@
     "stake_usd": "36.0",
     "confidence_score": "52",
     "result": "win",
-    "pnl": "37.43",
+    "pnl": "37.431",
     "reasoning_summary": "The SP matchup is softer than surface ERAs suggest: Griffin's 3.26 ERA masks a 4.26 xERA (full-run contact-quality gap the market likely prices off the ERA), and Baz sits at 4.03 xERA \u2014 effectively two league-average-expected starters, not a pitching",
     "bankroll_after": "752.11"
   },
@@ -7611,7 +7611,7 @@
     "stake_usd": "36.0",
     "confidence_score": "46",
     "result": "win",
-    "pnl": "47.9",
+    "pnl": "47.897",
     "reasoning_summary": "These are near-equal teams by full-season quality (run diffs +32 vs +43, ~0.08 runs/game apart), which supports a home-side probability around 54%, not the 57% devigged / 59.5% implied the current price demands. The starter matchup tilts toward Pitts",
     "bankroll_after": "800.01"
   },
