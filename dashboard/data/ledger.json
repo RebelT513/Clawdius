@@ -7642,8 +7642,8 @@
     "units": "1",
     "stake_usd": "36.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-36.0",
     "reasoning_summary": "Bennett (3.22 xERA, 1.02 WHIP, 1.6 BB/9) vs Johnson (5.29 xERA, 4.4 BB/9, whose 0-1-1 ER recent run is luck per contact quality) is a large SP mismatch, compounded by the Angels' .580 OPS lineup with four sub-.620 bats and a -75 run diff vs Boston's ",
     "bankroll_after": "644.11"
   }
