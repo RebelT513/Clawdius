@@ -7694,5 +7694,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Messick has a clear, career-backed SP edge over Bradley (xERA 3.04 vs 3.92, career 2.57 over 206 IP vs 4.59 over 544 IP), and it extends past the fifth inning: Cleveland's bullpen (3.61 ERA) is far better than Minnesota's (4.79), so the full-game ML ",
     "bankroll_after": "621.98"
+  },
+  {
+    "date": "2026-09-11",
+    "game": "Chicago White Sox @ St. Louis Cardinals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o7.5",
+    "odds": "-114.0",
+    "line": "7.5",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Both starters are below-average lefties with near-identical ~4.9 xERAs on large samples, and both are trending worse \u2014 Kay has allowed 14 ER over his last 13.2 IP and Liberatore 16 ER over his last 14 IP, meaning both bullpens likely cover 4+ innings",
+    "bankroll_after": "586.98"
   }
 ]
