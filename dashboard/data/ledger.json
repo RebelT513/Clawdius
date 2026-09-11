@@ -7678,5 +7678,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds a broad fundamentals edge: Valdez (career 3.47 ERA, 1238 IP) against a 13-career-IP rookie whose 5.99 xERA and 1.61 WHIP flag his 3.95 ERA as luck, plus a +55 vs -154 run differential gap and a 3.89 vs 4.85 bullpen ERA gap with two Colo",
     "bankroll_after": "656.98"
+  },
+  {
+    "date": "2026-09-11",
+    "game": "Cleveland Guardians @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Cleveland Guardians",
+    "odds": "-114.0",
+    "line": "-114.0",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Messick has a clear, career-backed SP edge over Bradley (xERA 3.04 vs 3.92, career 2.57 over 206 IP vs 4.59 over 544 IP), and it extends past the fifth inning: Cleveland's bullpen (3.61 ERA) is far better than Minnesota's (4.79), so the full-game ML ",
+    "bankroll_after": "621.98"
   }
 ]
