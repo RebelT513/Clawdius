@@ -7662,5 +7662,21 @@
     "pnl": "-36.0",
     "reasoning_summary": "Texas is the better team by full-season fundamentals (run differential -40 vs -75, Pythagorean ~.468 vs ~.439) and has the better starter today: deGrom (xERA 3.55, xwOBA .292, elite career profile, strong last two starts) over Gilbert (xERA 3.74). Bu",
     "bankroll_after": "692.01"
+  },
+  {
+    "date": "2026-09-11",
+    "game": "Colorado Rockies @ Detroit Tigers",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Detroit Tigers -1.5",
+    "odds": "121.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "35.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit holds a broad fundamentals edge: Valdez (career 3.47 ERA, 1238 IP) against a 13-career-IP rookie whose 5.99 xERA and 1.61 WHIP flag his 3.95 ERA as luck, plus a +55 vs -154 run differential gap and a 3.89 vs 4.85 bullpen ERA gap with two Colo",
+    "bankroll_after": "656.98"
   }
 ]
