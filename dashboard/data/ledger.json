@@ -7738,8 +7738,8 @@
     "units": "1",
     "stake_usd": "40.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-40.0",
     "reasoning_summary": "Maximal run-suppression environment: 60F, overcast, 3 mph wind at the most pitcher-friendly park in the league. The away starter is an established arm (career 3.18 ERA over 662 IP) riding 19 consecutive scoreless innings, the home rookie lefty has sh",
     "bankroll_after": "715.88"
   }
