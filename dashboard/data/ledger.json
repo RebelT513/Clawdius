@@ -7726,5 +7726,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Large career-backed SP mismatch: Skenes (3.25 xERA, 2.57 career ERA over 475 IP) against Holmes, whose 2.83 ERA masks a 4.07 xERA, a 4.33 prior-year xERA, and a career mark inflated by relief work. The first five innings isolate that gap while excisi",
     "bankroll_after": "755.85"
+  },
+  {
+    "date": "2026-09-12",
+    "game": "San Diego Padres @ San Francisco Giants",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u8",
+    "odds": "-116.0",
+    "line": "8.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Maximal run-suppression environment: 60F, overcast, 3 mph wind at the most pitcher-friendly park in the league. The away starter is an established arm (career 3.18 ERA over 662 IP) riding 19 consecutive scoreless innings, the home rookie lefty has sh",
+    "bankroll_after": "715.85"
   }
 ]
