@@ -7710,5 +7710,21 @@
     "pnl": "30.721",
     "reasoning_summary": "Both starters are below-average lefties with near-identical ~4.9 xERAs on large samples, and both are trending worse \u2014 Kay has allowed 14 ER over his last 13.2 IP and Liberatore 16 ER over his last 14 IP, meaning both bullpens likely cover 4+ innings",
     "bankroll_after": "795.88"
+  },
+  {
+    "date": "2026-09-12",
+    "game": "Pittsburgh Pirates @ Chicago Cubs",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Pittsburgh Pirates",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "40.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Large career-backed SP mismatch: Skenes (3.25 xERA, 2.57 career ERA over 475 IP) against Holmes, whose 2.83 ERA masks a 4.07 xERA, a 4.33 prior-year xERA, and a career mark inflated by relief work. The first five innings isolate that gap while excisi",
+    "bankroll_after": "755.85"
   }
 ]
