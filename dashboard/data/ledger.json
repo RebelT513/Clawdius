@@ -7675,7 +7675,7 @@
     "stake_usd": "35.0",
     "confidence_score": "48",
     "result": "win",
-    "pnl": "42.39",
+    "pnl": "42.388",
     "reasoning_summary": "Detroit holds a broad fundamentals edge: Valdez (career 3.47 ERA, 1238 IP) against a 13-career-IP rookie whose 5.99 xERA and 1.61 WHIP flag his 3.95 ERA as luck, plus a +55 vs -154 run differential gap and a 3.89 vs 4.85 bullpen ERA gap with two Colo",
     "bankroll_after": "734.4"
   },
@@ -7691,7 +7691,7 @@
     "stake_usd": "35.0",
     "confidence_score": "56",
     "result": "win",
-    "pnl": "30.76",
+    "pnl": "30.762",
     "reasoning_summary": "Messick has a clear, career-backed SP edge over Bradley (xERA 3.04 vs 3.92, career 2.57 over 206 IP vs 4.59 over 544 IP), and it extends past the fifth inning: Cleveland's bullpen (3.61 ERA) is far better than Minnesota's (4.79), so the full-game ML ",
     "bankroll_after": "765.16"
   },
@@ -7707,7 +7707,7 @@
     "stake_usd": "35.0",
     "confidence_score": "57",
     "result": "win",
-    "pnl": "30.72",
+    "pnl": "30.721",
     "reasoning_summary": "Both starters are below-average lefties with near-identical ~4.9 xERAs on large samples, and both are trending worse \u2014 Kay has allowed 14 ER over his last 13.2 IP and Liberatore 16 ER over his last 14 IP, meaning both bullpens likely cover 4+ innings",
     "bankroll_after": "795.88"
   }
