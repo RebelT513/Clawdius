@@ -7742,5 +7742,21 @@
     "pnl": "-40.0",
     "reasoning_summary": "Maximal run-suppression environment: 60F, overcast, 3 mph wind at the most pitcher-friendly park in the league. The away starter is an established arm (career 3.18 ERA over 662 IP) riding 19 consecutive scoreless innings, the home rookie lefty has sh",
     "bankroll_after": "715.88"
+  },
+  {
+    "date": "2026-09-14",
+    "game": "Detroit Tigers @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "117.0",
+    "line": "117.0",
+    "units": "1",
+    "stake_usd": "36.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit is the better team by full-season fundamentals despite the worse record: +70 run differential vs Toronto's -31 (pythag roughly .555 vs .475), and the market is pricing them as a 46% dog. The SP matchup also leans Detroit \u2014 Melton's xERA 3.69 ",
+    "bankroll_after": "679.85"
   }
 ]
