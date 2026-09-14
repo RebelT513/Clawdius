@@ -7758,5 +7758,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit is the better team by full-season fundamentals despite the worse record: +70 run differential vs Toronto's -31 (pythag roughly .555 vs .475), and the market is pricing them as a 46% dog. The SP matchup also leans Detroit \u2014 Melton's xERA 3.69 ",
     "bankroll_after": "679.85"
+  },
+  {
+    "date": "2026-09-14",
+    "game": "Seattle Mariners @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Angels",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "36.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detmers has a genuine, large-sample SP edge: 3.19 xERA over 672 PA and 168 IP with elite recent form (19 IP, 2 ER, 19 K over last three starts) against a 21-IP rookie whose current-year numbers are below the reliability threshold and whose best prior",
+    "bankroll_after": "643.85"
   }
 ]
