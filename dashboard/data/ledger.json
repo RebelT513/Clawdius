@@ -7770,10 +7770,10 @@
     "units": "1",
     "stake_usd": "36.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "36.16",
     "reasoning_summary": "Detmers has a genuine, large-sample SP edge: 3.19 xERA over 672 PA and 168 IP with elite recent form (19 IP, 2 ER, 19 K over last three starts) against a 21-IP rookie whose current-year numbers are below the reliability threshold and whose best prior",
-    "bankroll_after": "722.09"
+    "bankroll_after": "794.25"
   },
   {
     "date": "2026-09-14",
@@ -7789,6 +7789,6 @@
     "result": "win",
     "pnl": "33.94",
     "reasoning_summary": "Both starters project as below-average run suppressors: Peterson carries a 5.28 ERA / 1.58 WHIP with a 5.01 xERA over 599 PA and hasn't completed 5 innings in two of his last three starts, while Lopez is returning from a long layoff (76.1 IP, 4.2 IP ",
-    "bankroll_after": "756.03"
+    "bankroll_after": "828.19"
   }
 ]
