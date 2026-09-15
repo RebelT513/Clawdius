@@ -7806,5 +7806,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit's +71 run differential against Toronto's -32 marks the Tigers as the substantially better team underneath the records, yet they are priced as a +117 underdog (46.1% implied). Toronto's listed starter has thrown only three appearances since la",
     "bankroll_after": "787.16"
+  },
+  {
+    "date": "2026-09-15",
+    "game": "Baltimore Orioles @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Baltimore Orioles",
+    "odds": "114.0",
+    "line": "114.0",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "50",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "These are near-identical teams by full-season quality (run diff -34 vs -35, bullpen ERAs 3.91 vs 3.81), so the price should reduce to home field plus tonight's starters \u2014 yet the home side is priced at 55.8% implied. The SP edge runs the other way: B",
+    "bankroll_after": "746.16"
   }
 ]
