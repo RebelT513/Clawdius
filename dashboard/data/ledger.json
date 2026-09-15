@@ -7790,5 +7790,21 @@
     "pnl": "33.939",
     "reasoning_summary": "Both starters project as below-average run suppressors: Peterson carries a 5.28 ERA / 1.58 WHIP with a 5.01 xERA over 599 PA and hasn't completed 5 innings in two of his last three starts, while Lopez is returning from a long layoff (76.1 IP, 4.2 IP ",
     "bankroll_after": "828.19"
+  },
+  {
+    "date": "2026-09-15",
+    "game": "Detroit Tigers @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "121.0",
+    "line": "117.0",
+    "units": "1",
+    "stake_usd": "41.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit's +71 run differential against Toronto's -32 marks the Tigers as the substantially better team underneath the records, yet they are priced as a +117 underdog (46.1% implied). Toronto's listed starter has thrown only three appearances since la",
+    "bankroll_after": "787.16"
   }
 ]
