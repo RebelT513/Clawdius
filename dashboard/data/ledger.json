@@ -7854,5 +7854,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit is the better underlying team masked by its record: +80 run differential vs Toronto's -41 (Pythag ~.560 vs ~.470), yet it is priced as a ~47% underdog. Detroit also has the starting pitcher edge \u2014 Montero's 3.56 xERA over 147 IP against Scher",
     "bankroll_after": "917.25"
+  },
+  {
+    "date": "2026-09-16",
+    "game": "Baltimore Orioles @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Baltimore Orioles",
+    "odds": "125.0",
+    "line": "125.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "These are near-identical clubs by full-season quality (run diff -32 vs -37, bullpen ERA 3.86 vs 3.82), and the SP matchup is effectively neutral by current expected quality: Bassitt's 5.10 xERA over 412 PA vs Stock's 5.07 over 147 PA. Bassitt is the ",
+    "bankroll_after": "869.25"
   }
 ]
