@@ -7838,5 +7838,21 @@
     "pnl": "40.401",
     "reasoning_summary": "Fried (2.57 xERA, 0.99 WHIP) over Ober (4.56 xERA, career 4.11) is a real SP edge, but the largest structural gap is innings 6-9: a fresh 3.13-ERA bullpen behind a +130 run-diff club versus a 4.94-ERA pen with six relievers taxed after yesterday, fac",
     "bankroll_after": "965.28"
+  },
+  {
+    "date": "2026-09-16",
+    "game": "Detroit Tigers @ Toronto Blue Jays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "109.0",
+    "line": "109.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit is the better underlying team masked by its record: +80 run differential vs Toronto's -41 (Pythag ~.560 vs ~.470), yet it is priced as a ~47% underdog. Detroit also has the starting pitcher edge \u2014 Montero's 3.56 xERA over 147 IP against Scher",
+    "bankroll_after": "917.25"
   }
 ]
