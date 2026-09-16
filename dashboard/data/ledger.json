@@ -7886,5 +7886,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Boston holds every fundamental lever in this matchup yet is priced at a coin flip: a +86 run differential versus -42 (a ~128-run team-quality gap), the better starter today (Bennett xERA 3.51, WHIP 1.07, BB/9 1.6 versus Gore's 4.02 xERA, 1.39 career ",
     "bankroll_after": "821.25"
+  },
+  {
+    "date": "2026-09-16",
+    "game": "Miami Marlins @ Arizona Diamondbacks",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Miami Marlins",
+    "odds": "116.0",
+    "line": "116.0",
+    "units": "1",
+    "stake_usd": "48.0",
+    "confidence_score": "50",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "These are near-identical teams by full-season quality (run differentials +7 vs +1, equivalent taxed bullpens), yet the home side is priced at 56% implied largely on home field and the veteran starter's name. Kelly's current-season underlying metrics ",
+    "bankroll_after": "773.25"
   }
 ]
