@@ -7818,10 +7818,10 @@
     "units": "1",
     "stake_usd": "41.0",
     "confidence_score": "50",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "46.92",
     "reasoning_summary": "These are near-identical teams by full-season quality (run diff -34 vs -35, bullpen ERAs 3.91 vs 3.81), so the price should reduce to home field plus tonight's starters \u2014 yet the home side is priced at 55.8% implied. The SP edge runs the other way: B",
-    "bankroll_after": "836.96"
+    "bankroll_after": "924.88"
   },
   {
     "date": "2026-09-15",
@@ -7837,6 +7837,6 @@
     "result": "win",
     "pnl": "40.4",
     "reasoning_summary": "Fried (2.57 xERA, 0.99 WHIP) over Ober (4.56 xERA, career 4.11) is a real SP edge, but the largest structural gap is innings 6-9: a fresh 3.13-ERA bullpen behind a +130 run-diff club versus a 4.94-ERA pen with six relievers taxed after yesterday, fac",
-    "bankroll_after": "877.36"
+    "bankroll_after": "965.28"
   }
 ]
