@@ -7866,10 +7866,10 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "47",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "These are near-identical clubs by full-season quality (run diff -32 vs -37, bullpen ERA 3.86 vs 3.82), and the SP matchup is effectively neutral by current expected quality: Bassitt's 5.10 xERA over 412 PA vs Stock's 5.07 over 147 PA. Bassitt is the ",
-    "bankroll_after": "869.28"
+    "bankroll_after": "965.28"
   },
   {
     "date": "2026-09-16",
@@ -7885,7 +7885,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Boston holds every fundamental lever in this matchup yet is priced at a coin flip: a +86 run differential versus -42 (a ~128-run team-quality gap), the better starter today (Bennett xERA 3.51, WHIP 1.07, BB/9 1.6 versus Gore's 4.02 xERA, 1.39 career ",
-    "bankroll_after": "821.28"
+    "bankroll_after": "917.28"
   },
   {
     "date": "2026-09-16",
@@ -7901,6 +7901,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "These are near-identical teams by full-season quality (run differentials +7 vs +1, equivalent taxed bullpens), yet the home side is priced at 56% implied largely on home field and the veteran starter's name. Kelly's current-season underlying metrics ",
-    "bankroll_after": "773.28"
+    "bankroll_after": "869.28"
   }
 ]
