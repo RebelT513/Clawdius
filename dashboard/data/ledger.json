@@ -7898,9 +7898,9 @@
     "units": "1",
     "stake_usd": "48.0",
     "confidence_score": "50",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "55.83",
     "reasoning_summary": "These are near-identical teams by full-season quality (run differentials +7 vs +1, equivalent taxed bullpens), yet the home side is priced at 56% implied largely on home field and the veteran starter's name. Kelly's current-season underlying metrics ",
-    "bankroll_after": "821.28"
+    "bankroll_after": "925.11"
   }
 ]
