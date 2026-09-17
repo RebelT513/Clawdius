@@ -7902,5 +7902,21 @@
     "pnl": "55.828",
     "reasoning_summary": "These are near-identical teams by full-season quality (run differentials +7 vs +1, equivalent taxed bullpens), yet the home side is priced at 56% implied largely on home field and the veteran starter's name. Kelly's current-season underlying metrics ",
     "bankroll_after": "925.11"
+  },
+  {
+    "date": "2026-09-17",
+    "game": "Philadelphia Phillies @ New York Mets",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Philadelphia Phillies",
+    "odds": "120.0",
+    "line": "120.0",
+    "units": "1",
+    "stake_usd": "46.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Philadelphia is the substantially better team over the full season (84-68, +31 run differential vs 69-83, -43), and log5/pythagorean baselines with home-field give the Mets only ~46-49% before pitching. McLean over Nola is a real but modest edge (xER",
+    "bankroll_after": "879.07"
   }
 ]
