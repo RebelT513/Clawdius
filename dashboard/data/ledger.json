@@ -7934,5 +7934,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The underlying team-quality gap favors the road side: Detroit's +76 run differential (683/607) implies a ~.559 team versus Chicago's +34 (~.524), and the market is pricing the records (72-80 vs 77-75) rather than the larger-sample quality signal. The",
     "bankroll_after": "833.07"
+  },
+  {
+    "date": "2026-09-17",
+    "game": "Minnesota Twins @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Angels",
+    "odds": "113.0",
+    "line": "113.0",
+    "units": "1",
+    "stake_usd": "46.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The teams are near-equal by full-season quality (run differential -78 vs -73, Pythag ~.44 both), yet the home side is priced at only 46.9% implied. The home starter has the better expected-stats profile (3.40 xERA, .286 xwOBA over 137 IP vs 3.98 xERA",
+    "bankroll_after": "787.07"
   }
 ]
