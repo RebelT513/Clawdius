@@ -7930,8 +7930,8 @@
     "units": "1",
     "stake_usd": "46.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-46.0",
     "reasoning_summary": "The underlying team-quality gap favors the road side: Detroit's +76 run differential (683/607) implies a ~.559 team versus Chicago's +34 (~.524), and the market is pricing the records (72-80 vs 77-75) rather than the larger-sample quality signal. The",
     "bankroll_after": "934.34"
   },
