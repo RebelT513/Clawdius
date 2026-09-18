@@ -7982,5 +7982,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The SP matchup is roughly neutral \u2014 Lambert's current-season xERA (3.69 over 617 PA) is actually a tick better than Mahle's 4.04, though Mahle's 873 IP career track and dominant recent form (2 ER over last 19.2 IP) make him the safer profile while La",
     "bankroll_after": "893.5"
+  },
+  {
+    "date": "2026-09-18",
+    "game": "Minnesota Twins @ Los Angeles Angels",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Angels",
+    "odds": "109.0",
+    "line": "109.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The teams are effectively equal by season run differential (-77 vs -74) despite the record gap, so the home side starts near 54% before matchup specifics. Minnesota's SP edge is real but moderate (Prielipp xERA 4.10 vs Rodriguez 5.52, with Rodriguez'",
+    "bankroll_after": "846.5"
   }
 ]
