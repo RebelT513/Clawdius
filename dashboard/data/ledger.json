@@ -7914,10 +7914,10 @@
     "units": "1",
     "stake_usd": "46.0",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "55.23",
     "reasoning_summary": "Philadelphia is the substantially better team over the full season (84-68, +31 run differential vs 69-83, -43), and log5/pythagorean baselines with home-field give the Mets only ~46-49% before pitching. McLean over Nola is a real but modest edge (xER",
-    "bankroll_after": "879.07"
+    "bankroll_after": "980.34"
   },
   {
     "date": "2026-09-17",
@@ -7933,7 +7933,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The underlying team-quality gap favors the road side: Detroit's +76 run differential (683/607) implies a ~.559 team versus Chicago's +34 (~.524), and the market is pricing the records (72-80 vs 77-75) rather than the larger-sample quality signal. The",
-    "bankroll_after": "833.07"
+    "bankroll_after": "934.34"
   },
   {
     "date": "2026-09-17",
@@ -7949,7 +7949,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The teams are near-equal by full-season quality (run differential -78 vs -73, Pythag ~.44 both), yet the home side is priced at only 46.9% implied. The home starter has the better expected-stats profile (3.40 xERA, .286 xwOBA over 137 IP vs 3.98 xERA",
-    "bankroll_after": "787.07"
+    "bankroll_after": "888.34"
   },
   {
     "date": "2026-09-17",
@@ -7962,9 +7962,9 @@
     "units": "1",
     "stake_usd": "46.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-46.0",
     "reasoning_summary": "Combined team scoring/allowance rates project roughly 8.6 runs after a Citi Field park adjustment, and a 79-degree night with a 9.6 mph tailwind to center adds carry in a moderate wind-out setup. Neither starter profiles as a suppressor at full-game ",
-    "bankroll_after": "741.07"
+    "bankroll_after": "842.34"
   }
 ]
