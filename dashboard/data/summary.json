@@ -1,7 +1,7 @@
 {
-  "bankroll_current": 940.5,
+  "bankroll_current": 940.51,
   "bankroll_start": 500.98,
-  "total_pnl": 439.52,
+  "total_pnl": 439.53,
   "pnl_correction": 0.0,
   "total_bets": 482,
   "wins": 246,
@@ -1996,12 +1996,12 @@
     },
     {
       "date": "2026-09-17",
-      "bankroll_after": 986.54
+      "bankroll_after": 986.55
     },
     {
       "date": "2026-09-17",
-      "bankroll_after": 940.54
+      "bankroll_after": 940.55
     }
   ],
-  "last_updated": "2026-09-18 6:14 AM CDT"
+  "last_updated": "2026-09-18 6:30 AM CDT"
 }
