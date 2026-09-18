@@ -7915,7 +7915,7 @@
     "stake_usd": "46.0",
     "confidence_score": "48",
     "result": "win",
-    "pnl": "55.23",
+    "pnl": "55.233",
     "reasoning_summary": "Philadelphia is the substantially better team over the full season (84-68, +31 run differential vs 69-83, -43), and log5/pythagorean baselines with home-field give the Mets only ~46-49% before pitching. McLean over Nola is a real but modest edge (xER",
     "bankroll_after": "980.34"
   },
@@ -7947,9 +7947,9 @@
     "stake_usd": "46.0",
     "confidence_score": "53",
     "result": "win",
-    "pnl": "52.2",
+    "pnl": "52.205",
     "reasoning_summary": "The teams are near-equal by full-season quality (run differential -78 vs -73, Pythag ~.44 both), yet the home side is priced at only 46.9% implied. The home starter has the better expected-stats profile (3.40 xERA, .286 xwOBA over 137 IP vs 3.98 xERA",
-    "bankroll_after": "986.54"
+    "bankroll_after": "986.55"
   },
   {
     "date": "2026-09-17",
@@ -7965,7 +7965,7 @@
     "result": "loss",
     "pnl": "-46.0",
     "reasoning_summary": "Combined team scoring/allowance rates project roughly 8.6 runs after a Citi Field park adjustment, and a 79-degree night with a 9.6 mph tailwind to center adds carry in a moderate wind-out setup. Neither starter profiles as a suppressor at full-game ",
-    "bankroll_after": "940.54"
+    "bankroll_after": "940.55"
   },
   {
     "date": "2026-09-18",
@@ -7981,7 +7981,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The SP matchup is roughly neutral \u2014 Lambert's current-season xERA (3.69 over 617 PA) is actually a tick better than Mahle's 4.04, though Mahle's 873 IP career track and dominant recent form (2 ER over last 19.2 IP) make him the safer profile while La",
-    "bankroll_after": "893.5"
+    "bankroll_after": "893.55"
   },
   {
     "date": "2026-09-18",
@@ -7997,6 +7997,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The teams are effectively equal by season run differential (-77 vs -74) despite the record gap, so the home side starts near 54% before matchup specifics. Minnesota's SP edge is real but moderate (Prielipp xERA 4.10 vs Rodriguez 5.52, with Rodriguez'",
-    "bankroll_after": "846.5"
+    "bankroll_after": "846.55"
   }
 ]
