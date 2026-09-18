@@ -7946,10 +7946,10 @@
     "units": "1",
     "stake_usd": "46.0",
     "confidence_score": "53",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "52.2",
     "reasoning_summary": "The teams are near-equal by full-season quality (run differential -78 vs -73, Pythag ~.44 both), yet the home side is priced at only 46.9% implied. The home starter has the better expected-stats profile (3.40 xERA, .286 xwOBA over 137 IP vs 3.98 xERA",
-    "bankroll_after": "888.34"
+    "bankroll_after": "986.54"
   },
   {
     "date": "2026-09-17",
@@ -7965,6 +7965,6 @@
     "result": "loss",
     "pnl": "-46.0",
     "reasoning_summary": "Combined team scoring/allowance rates project roughly 8.6 runs after a Citi Field park adjustment, and a 79-degree night with a 9.6 mph tailwind to center adds carry in a moderate wind-out setup. Neither starter profiles as a suppressor at full-game ",
-    "bankroll_after": "842.34"
+    "bankroll_after": "940.54"
   }
 ]
