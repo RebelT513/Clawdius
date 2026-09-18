@@ -7998,5 +7998,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The teams are effectively equal by season run differential (-77 vs -74) despite the record gap, so the home side starts near 54% before matchup specifics. Minnesota's SP edge is real but moderate (Prielipp xERA 4.10 vs Rodriguez 5.52, with Rodriguez'",
     "bankroll_after": "846.55"
+  },
+  {
+    "date": "2026-09-18",
+    "game": "Detroit Tigers @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "113.0",
+    "line": "113.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit's underlying season quality is meaningfully better than the market price implies: +74 run differential (Pythag ~.557) versus Chicago's +36 (~.526), and run differential outweighs the raw records where they disagree. The SP matchup is effectiv",
+    "bankroll_after": "799.51"
   }
 ]
