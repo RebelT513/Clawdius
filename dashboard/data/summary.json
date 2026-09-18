@@ -1,14 +1,14 @@
 {
-  "bankroll_current": 888.3,
+  "bankroll_current": 940.5,
   "bankroll_start": 500.98,
-  "total_pnl": 387.32,
+  "total_pnl": 439.52,
   "pnl_correction": 0.0,
-  "total_bets": 481,
-  "wins": 245,
+  "total_bets": 482,
+  "wins": 246,
   "losses": 219,
   "pushes": 17,
-  "win_rate": 0.5094,
-  "roi": 0.0194,
+  "win_rate": 0.5104,
+  "roi": 0.022,
   "bankroll_history": [
     {
       "date": "2026-03-27",
@@ -1996,8 +1996,12 @@
     },
     {
       "date": "2026-09-17",
-      "bankroll_after": 842.34
+      "bankroll_after": 986.54
+    },
+    {
+      "date": "2026-09-17",
+      "bankroll_after": 940.54
     }
   ],
-  "last_updated": "2026-09-17 9:30 PM CDT"
+  "last_updated": "2026-09-18 12:00 AM CDT"
 }
