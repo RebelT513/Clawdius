@@ -7966,5 +7966,21 @@
     "pnl": "-46.0",
     "reasoning_summary": "Combined team scoring/allowance rates project roughly 8.6 runs after a Citi Field park adjustment, and a 79-degree night with a 9.6 mph tailwind to center adds carry in a moderate wind-out setup. Neither starter profiles as a suppressor at full-game ",
     "bankroll_after": "940.54"
+  },
+  {
+    "date": "2026-09-18",
+    "game": "Atlanta Braves @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Atlanta Braves",
+    "odds": "-115.0",
+    "line": "-115.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The SP matchup is roughly neutral \u2014 Lambert's current-season xERA (3.69 over 617 PA) is actually a tick better than Mahle's 4.04, though Mahle's 873 IP career track and dominant recent form (2 ER over last 19.2 IP) make him the safer profile while La",
+    "bankroll_after": "893.5"
   }
 ]
