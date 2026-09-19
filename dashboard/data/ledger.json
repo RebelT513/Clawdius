@@ -8042,10 +8042,10 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-47.0",
     "reasoning_summary": "Detroit profiles as the better team by full-season run differential (+77 vs +33, pythag ~.558 vs ~.523) yet is priced as a 45% implied underdog at +122. The home SP holds the better season xERA (3.82 vs 4.46), but his last three starts are erratic (1",
-    "bankroll_after": "893.79"
+    "bankroll_after": "893.83"
   },
   {
     "date": "2026-09-19",
@@ -8061,7 +8061,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Two near-identical teams (77-77/-33 vs 76-78/-43) yet the road side is priced as a 54.5% favorite, leaving the home team at plus money in what fundamentals say is a coin flip with home advantage. Quantrill's current-season xERA (3.90 over 439 PA) mod",
-    "bankroll_after": "846.79"
+    "bankroll_after": "846.83"
   },
   {
     "date": "2026-09-19",
@@ -8077,7 +8077,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The market prices Atlanta at just 49% implied despite a large full-season quality gap: 90-64 with +115 run differential versus a .500 team at -54, plus a meaningfully better bullpen (3.41 vs 4.10 ERA) with Houston's pen the more taxed unit (three rel",
-    "bankroll_after": "799.79"
+    "bankroll_after": "799.83"
   },
   {
     "date": "2026-09-19",
@@ -8093,6 +8093,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Detmers is the clearly better pitcher right now on a large in-season sample (174 IP, 3.23 xERA that beats his prior year, three dominant September starts) while Ryan is coming off a month-long absence with back-to-back 4-inning outings and just 1 K i",
-    "bankroll_after": "752.79"
+    "bankroll_after": "752.83"
   }
 ]
