@@ -8030,5 +8030,21 @@
     "pnl": "-47.0",
     "reasoning_summary": "A .556 team with a +34 run differential is priced as an underdog (+110, 47.6% implied) against a .451 team with a -46 differential, and the confirmed Phillies lineup is the full A-squad (.742 OPS vs .720). The visible justification is today's pitchin",
     "bankroll_after": "940.83"
+  },
+  {
+    "date": "2026-09-19",
+    "game": "Detroit Tigers @ Chicago White Sox",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Detroit Tigers",
+    "odds": "122.0",
+    "line": "122.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Detroit profiles as the better team by full-season run differential (+77 vs +33, pythag ~.558 vs ~.523) yet is priced as a 45% implied underdog at +122. The home SP holds the better season xERA (3.82 vs 4.46), but his last three starts are erratic (1",
+    "bankroll_after": "893.79"
   }
 ]
