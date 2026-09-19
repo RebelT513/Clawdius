@@ -7978,10 +7978,10 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "40.94",
     "reasoning_summary": "The SP matchup is roughly neutral \u2014 Lambert's current-season xERA (3.69 over 617 PA) is actually a tick better than Mahle's 4.04, though Mahle's 873 IP career track and dominant recent form (2 ER over last 19.2 IP) make him the safer profile while La",
-    "bankroll_after": "893.55"
+    "bankroll_after": "981.49"
   },
   {
     "date": "2026-09-18",
@@ -7997,7 +7997,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The teams are effectively equal by season run differential (-77 vs -74) despite the record gap, so the home side starts near 54% before matchup specifics. Minnesota's SP edge is real but moderate (Prielipp xERA 4.10 vs Rodriguez 5.52, with Rodriguez'",
-    "bankroll_after": "846.55"
+    "bankroll_after": "934.49"
   },
   {
     "date": "2026-09-18",
@@ -8010,10 +8010,10 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "53.34",
     "reasoning_summary": "Detroit's underlying season quality is meaningfully better than the market price implies: +74 run differential (Pythag ~.557) versus Chicago's +36 (~.526), and run differential outweighs the raw records where they disagree. The SP matchup is effectiv",
-    "bankroll_after": "799.55"
+    "bankroll_after": "987.83"
   },
   {
     "date": "2026-09-18",
@@ -8029,6 +8029,6 @@
     "result": "loss",
     "pnl": "-47.0",
     "reasoning_summary": "A .556 team with a +34 run differential is priced as an underdog (+110, 47.6% implied) against a .451 team with a -46 differential, and the confirmed Phillies lineup is the full A-squad (.742 OPS vs .720). The visible justification is today's pitchin",
-    "bankroll_after": "752.55"
+    "bankroll_after": "940.83"
   }
 ]
