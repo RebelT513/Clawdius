@@ -8062,5 +8062,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Two near-identical teams (77-77/-33 vs 76-78/-43) yet the road side is priced as a 54.5% favorite, leaving the home team at plus money in what fundamentals say is a coin flip with home advantage. Quantrill's current-season xERA (3.90 over 439 PA) mod",
     "bankroll_after": "846.79"
+  },
+  {
+    "date": "2026-09-19",
+    "game": "Atlanta Braves @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Atlanta Braves",
+    "odds": "104.0",
+    "line": "104.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market prices Atlanta at just 49% implied despite a large full-season quality gap: 90-64 with +115 run differential versus a .500 team at -54, plus a meaningfully better bullpen (3.41 vs 4.10 ERA) with Houston's pen the more taxed unit (three rel",
+    "bankroll_after": "799.79"
   }
 ]
