@@ -8046,5 +8046,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Detroit profiles as the better team by full-season run differential (+77 vs +33, pythag ~.558 vs ~.523) yet is priced as a 45% implied underdog at +122. The home SP holds the better season xERA (3.82 vs 4.46), but his last three starts are erratic (1",
     "bankroll_after": "893.79"
+  },
+  {
+    "date": "2026-09-19",
+    "game": "Toronto Blue Jays @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Texas Rangers",
+    "odds": "109.0",
+    "line": "109.0",
+    "units": "1",
+    "stake_usd": "47.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two near-identical teams (77-77/-33 vs 76-78/-43) yet the road side is priced as a 54.5% favorite, leaving the home team at plus money in what fundamentals say is a coin flip with home advantage. Quantrill's current-season xERA (3.90 over 439 PA) mod",
+    "bankroll_after": "846.79"
   }
 ]
