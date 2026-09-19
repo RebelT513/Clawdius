@@ -7994,8 +7994,8 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "51",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-47.0",
     "reasoning_summary": "The teams are effectively equal by season run differential (-77 vs -74) despite the record gap, so the home side starts near 54% before matchup specifics. Minnesota's SP edge is real but moderate (Prielipp xERA 4.10 vs Rodriguez 5.52, with Rodriguez'",
     "bankroll_after": "934.49"
   },
