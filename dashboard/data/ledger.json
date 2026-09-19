@@ -8013,7 +8013,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Detroit's underlying season quality is meaningfully better than the market price implies: +74 run differential (Pythag ~.557) versus Chicago's +36 (~.526), and run differential outweighs the raw records where they disagree. The SP matchup is effectiv",
-    "bankroll_after": "799.51"
+    "bankroll_after": "799.55"
   },
   {
     "date": "2026-09-18",
@@ -8026,9 +8026,9 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-47.0",
     "reasoning_summary": "A .556 team with a +34 run differential is priced as an underdog (+110, 47.6% implied) against a .451 team with a -46 differential, and the confirmed Phillies lineup is the full A-squad (.742 OPS vs .720). The visible justification is today's pitchin",
-    "bankroll_after": "752.51"
+    "bankroll_after": "752.55"
   }
 ]
