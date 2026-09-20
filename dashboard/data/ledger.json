@@ -8090,9 +8090,9 @@
     "units": "1",
     "stake_usd": "47.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "44.37",
     "reasoning_summary": "Detmers is the clearly better pitcher right now on a large in-season sample (174 IP, 3.23 xERA that beats his prior year, three dominant September starts) while Ryan is coming off a month-long absence with back-to-back 4-inning outings and just 1 K i",
-    "bankroll_after": "946.89"
+    "bankroll_after": "1038.26"
   }
 ]
