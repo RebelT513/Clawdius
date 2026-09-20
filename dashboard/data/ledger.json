@@ -8106,8 +8106,8 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-52.0",
     "reasoning_summary": "The road side is the substantially better team (+141 run differential vs -5, .578 vs .523, elite 3.09 bullpen ERA vs 3.91) yet is priced near pickem because the home starter carries ace-level career numbers. Those career numbers overstate his current",
     "bankroll_after": "986.26"
   },
