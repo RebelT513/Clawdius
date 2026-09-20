@@ -8138,9 +8138,9 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "42",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "80.67",
     "reasoning_summary": "Two near-equal teams by full-season quality (.490 vs .503, run diff -47 vs -29) with the home side priced at 63.2% implied. The home SP edge is real but covers only 5-6 innings based on his recent workloads; the away starter's elite rates (2.65 ERA, ",
-    "bankroll_after": "1004.42"
+    "bankroll_after": "1137.09"
   }
 ]
