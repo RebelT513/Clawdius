@@ -8109,7 +8109,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The road side is the substantially better team (+141 run differential vs -5, .578 vs .523, elite 3.09 bullpen ERA vs 3.91) yet is priced near pickem because the home starter carries ace-level career numbers. Those career numbers overstate his current",
-    "bankroll_after": "986.22"
+    "bankroll_after": "986.26"
   },
   {
     "date": "2026-09-20",
@@ -8122,10 +8122,10 @@
     "units": "1",
     "stake_usd": "52.0",
     "confidence_score": "47",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "70.16",
     "reasoning_summary": "The price is built almost entirely on the SP gap (Brown xERA 3.30 vs Perez 4.58), but the team-quality gap runs hard the other way: Atlanta is +118 run diff with a 3.40 ERA bullpen vs Houston at -57 with a 4.15 pen, a pythag matchup of roughly 59/41 ",
-    "bankroll_after": "934.22"
+    "bankroll_after": "1056.42"
   },
   {
     "date": "2026-09-20",
@@ -8141,6 +8141,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Two near-equal teams by full-season quality (.490 vs .503, run diff -47 vs -29) with the home side priced at 63.2% implied. The home SP edge is real but covers only 5-6 innings based on his recent workloads; the away starter's elite rates (2.65 ERA, ",
-    "bankroll_after": "882.22"
+    "bankroll_after": "1004.42"
   }
 ]
