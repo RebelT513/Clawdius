@@ -8123,7 +8123,7 @@
     "stake_usd": "52.0",
     "confidence_score": "47",
     "result": "win",
-    "pnl": "70.16",
+    "pnl": "70.164",
     "reasoning_summary": "The price is built almost entirely on the SP gap (Brown xERA 3.30 vs Perez 4.58), but the team-quality gap runs hard the other way: Atlanta is +118 run diff with a 3.40 ERA bullpen vs Houston at -57 with a 4.15 pen, a pythag matchup of roughly 59/41 ",
     "bankroll_after": "1056.42"
   },
@@ -8139,7 +8139,7 @@
     "stake_usd": "52.0",
     "confidence_score": "42",
     "result": "win",
-    "pnl": "80.67",
+    "pnl": "80.667",
     "reasoning_summary": "Two near-equal teams by full-season quality (.490 vs .503, run diff -47 vs -29) with the home side priced at 63.2% implied. The home SP edge is real but covers only 5-6 innings based on his recent workloads; the away starter's elite rates (2.65 ERA, ",
     "bankroll_after": "1137.09"
   }
