@@ -8190,5 +8190,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Every run-suppression factor aligns here on fundamentals: two elite left-handed starters with large, reliable samples (Messick career 2.60 ERA/218 IP, xERA 3.11 on 711 PA; Tolle 143 IP this year, xERA 2.66, both in dominant recent form), backed by th",
     "bankroll_after": "966.05"
+  },
+  {
+    "date": "2026-09-22",
+    "game": "New York Mets @ Texas Rangers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Mets",
+    "odds": "127.0",
+    "line": "123.0",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "48",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two near-equal teams by full-season quality (run diff -41 vs -34) are priced with the home side at ~57% devig, which overstates the gap. The home starter's season contact-quality edge is real but blunted by three straight collapsed starts (11 IP, 12 ",
+    "bankroll_after": "909.05"
   }
 ]
