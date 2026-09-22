@@ -8142,5 +8142,21 @@
     "pnl": "80.667",
     "reasoning_summary": "Two near-equal teams by full-season quality (.490 vs .503, run diff -47 vs -29) with the home side priced at 63.2% implied. The home SP edge is real but covers only 5-6 innings based on his recent workloads; the away starter's elite rates (2.65 ERA, ",
     "bankroll_after": "1137.09"
+  },
+  {
+    "date": "2026-09-22",
+    "game": "Tampa Bay Rays @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "u6.5",
+    "odds": "102.0",
+    "line": "6.5",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "54",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Two elite starters with deep career samples (2.85 career ERA / 626 IP and 3.00 / 1185 IP) both in peak form, combining for 1 ER per start across their last six outings. A 20 mph wind blowing in with 62F overcast conditions compounds the run suppressi",
+    "bankroll_after": "1080.05"
   }
 ]
