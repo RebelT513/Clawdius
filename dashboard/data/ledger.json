@@ -8158,5 +8158,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Two elite starters with deep career samples (2.85 career ERA / 626 IP and 3.00 / 1185 IP) both in peak form, combining for 1 ER per start across their last six outings. A 20 mph wind blowing in with 62F overcast conditions compounds the run suppressi",
     "bankroll_after": "1080.05"
+  },
+  {
+    "date": "2026-09-22",
+    "game": "Washington Nationals @ Detroit Tigers",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Detroit Tigers -1.5",
+    "odds": "135.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "57.0",
+    "confidence_score": "47",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The SP gap is large and built on reliable samples: Anderson has a 3.81 xERA over 435 PA and 102 IP this year with strong recent form, while Kent carries a 5.37 xERA, 1.76 WHIP, and 6.4 BB/9 across his entire 32-IP career. The full-game picture compou",
+    "bankroll_after": "1023.05"
   }
 ]
