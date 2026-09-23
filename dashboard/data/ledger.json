@@ -8154,8 +8154,8 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-57.0",
     "reasoning_summary": "Two elite starters with deep career samples (2.85 career ERA / 626 IP and 3.00 / 1185 IP) both in peak form, combining for 1 ER per start across their last six outings. A 20 mph wind blowing in with 62F overcast conditions compounds the run suppressi",
     "bankroll_after": "1080.09"
   },
