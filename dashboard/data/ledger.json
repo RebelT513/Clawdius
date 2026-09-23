@@ -8170,10 +8170,10 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "47",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "The SP gap is large and built on reliable samples: Anderson has a 3.81 xERA over 435 PA and 102 IP this year with strong recent form, while Kent carries a 5.37 xERA, 1.76 WHIP, and 6.4 BB/9 across his entire 32-IP career. The full-game picture compou",
-    "bankroll_after": "1023.05"
+    "bankroll_after": "1137.05"
   },
   {
     "date": "2026-09-22",
@@ -8189,7 +8189,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Every run-suppression factor aligns here on fundamentals: two elite left-handed starters with large, reliable samples (Messick career 2.60 ERA/218 IP, xERA 3.11 on 711 PA; Tolle 143 IP this year, xERA 2.66, both in dominant recent form), backed by th",
-    "bankroll_after": "966.05"
+    "bankroll_after": "1080.05"
   },
   {
     "date": "2026-09-22",
@@ -8205,6 +8205,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Two near-equal teams by full-season quality (run diff -41 vs -34) are priced with the home side at ~57% devig, which overstates the gap. The home starter's season contact-quality edge is real but blunted by three straight collapsed starts (11 IP, 12 ",
-    "bankroll_after": "909.05"
+    "bankroll_after": "1023.05"
   }
 ]
