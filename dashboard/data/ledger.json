@@ -8187,7 +8187,7 @@
     "stake_usd": "57.0",
     "confidence_score": "55",
     "result": "win",
-    "pnl": "59.79",
+    "pnl": "59.791",
     "reasoning_summary": "Every run-suppression factor aligns here on fundamentals: two elite left-handed starters with large, reliable samples (Messick career 2.60 ERA/218 IP, xERA 3.11 on 711 PA; Tolle 143 IP this year, xERA 2.66, both in dominant recent form), backed by th",
     "bankroll_after": "1139.88"
   },
@@ -8203,7 +8203,7 @@
     "stake_usd": "57.0",
     "confidence_score": "48",
     "result": "win",
-    "pnl": "72.41",
+    "pnl": "72.409",
     "reasoning_summary": "Two near-equal teams by full-season quality (run diff -41 vs -34) are priced with the home side at ~57% devig, which overstates the gap. The home starter's season contact-quality edge is real but blunted by three straight collapsed starts (11 IP, 12 ",
     "bankroll_after": "1212.29"
   }
