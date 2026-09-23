@@ -8202,9 +8202,9 @@
     "units": "1",
     "stake_usd": "57.0",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "72.41",
     "reasoning_summary": "Two near-equal teams by full-season quality (run diff -41 vs -34) are priced with the home side at ~57% devig, which overstates the gap. The home starter's season contact-quality edge is real but blunted by three straight collapsed starts (11 IP, 12 ",
-    "bankroll_after": "1082.88"
+    "bankroll_after": "1212.29"
   }
 ]
