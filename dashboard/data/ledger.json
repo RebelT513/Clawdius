@@ -8266,10 +8266,10 @@
     "units": "1",
     "stake_usd": "67.0",
     "confidence_score": "56",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "61.48",
     "reasoning_summary": "The total of 10 is low for Coors because the market is crediting the away starter's 2.89 surface ERA, but his 4.29 xERA over 761 PA (prior-year 4.51, career 4.03 over 1488 IP) says he is a ~4.3 true-talent pitcher whose regression is already arriving",
-    "bankroll_after": "1265.62"
+    "bankroll_after": "1394.1"
   },
   {
     "date": "2026-09-24",
@@ -8285,7 +8285,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Milwaukee is the substantially better team (99-59, +203 run diff vs 87-71, +28) and holds the starting pitcher edge by expected metrics \u2014 Drohan's 3.83 xERA over a full 510-PA sample beats Painter's 4.50 xERA and 5.59 ERA \u2014 plus a clearly better and ",
-    "bankroll_after": "1198.58"
+    "bankroll_after": "1327.1"
   },
   {
     "date": "2026-09-24",
@@ -8301,6 +8301,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Large late-season SP mismatch: Singer carries a 5.72 xERA over 707 PA and has allowed 21 ER in his last 12.1 IP, while Mahle has a 3.89 xERA and 2 ER over his last 19 IP. The Reds' confirmed lineup averages .661 OPS with three bats under .630, and th",
-    "bankroll_after": "1131.58"
+    "bankroll_after": "1260.1"
   }
 ]
