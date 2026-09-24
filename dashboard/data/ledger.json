@@ -8254,5 +8254,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a large, career-grade SP mismatch concentrated in the first five innings: Skenes (career 2.63 ERA/1.01 WHIP over 488 IP, current xERA 3.27) against Leahy, whose 3.65 surface ERA masks a 4.88 xERA and who hasn't completed 3 innings cleanly in ",
     "bankroll_after": "1265.58"
+  },
+  {
+    "date": "2026-09-24",
+    "game": "Arizona Diamondbacks @ Colorado Rockies",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o10",
+    "odds": "-109.0",
+    "line": "10.0",
+    "units": "1",
+    "stake_usd": "67.0",
+    "confidence_score": "56",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The total of 10 is low for Coors because the market is crediting the away starter's 2.89 surface ERA, but his 4.29 xERA over 761 PA (prior-year 4.51, career 4.03 over 1488 IP) says he is a ~4.3 true-talent pitcher whose regression is already arriving",
+    "bankroll_after": "1198.58"
   }
 ]
