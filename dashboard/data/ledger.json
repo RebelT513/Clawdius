@@ -8270,5 +8270,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The total of 10 is low for Coors because the market is crediting the away starter's 2.89 surface ERA, but his 4.29 xERA over 761 PA (prior-year 4.51, career 4.03 over 1488 IP) says he is a ~4.3 true-talent pitcher whose regression is already arriving",
     "bankroll_after": "1265.62"
+  },
+  {
+    "date": "2026-09-24",
+    "game": "Milwaukee Brewers @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "120.0",
+    "line": "120.0",
+    "units": "1",
+    "stake_usd": "67.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Milwaukee is the substantially better team (99-59, +203 run diff vs 87-71, +28) and holds the starting pitcher edge by expected metrics \u2014 Drohan's 3.83 xERA over a full 510-PA sample beats Painter's 4.50 xERA and 5.59 ERA \u2014 plus a clearly better and ",
+    "bankroll_after": "1198.58"
   }
 ]
