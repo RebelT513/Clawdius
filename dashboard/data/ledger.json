@@ -8238,5 +8238,21 @@
     "pnl": "61.193",
     "reasoning_summary": "A 12+ mph headwind in with 57\u00b0F overcast air at Fenway is a strong physical suppressor, and it compounds rather than conflicts with the fundamentals: Gray (3.84 xERA, 16 ER-free-to-3-ER innings streak of strong form) faces a Cleveland lineup with a .",
     "bankroll_after": "1332.62"
+  },
+  {
+    "date": "2026-09-24",
+    "game": "St. Louis Cardinals @ Pittsburgh Pirates",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Pittsburgh Pirates",
+    "odds": "-162.0",
+    "line": "-162.0",
+    "units": "1",
+    "stake_usd": "67.0",
+    "confidence_score": "64",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "This is a large, career-grade SP mismatch concentrated in the first five innings: Skenes (career 2.63 ERA/1.01 WHIP over 488 IP, current xERA 3.27) against Leahy, whose 3.65 surface ERA masks a 4.88 xERA and who hasn't completed 3 innings cleanly in ",
+    "bankroll_after": "1265.58"
   }
 ]
