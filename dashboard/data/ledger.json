@@ -8334,5 +8334,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is one of the largest SP mismatches on the board: Rogers has a full season at 165 IP with a 3.54 xERA and dominant recent form (1 ER over 8 IP and 1 ER over 7.1 IP in two of his last three), while the home side starts a 7-career-IP arm with a 9.",
     "bankroll_after": "1267.51"
+  },
+  {
+    "date": "2026-09-25",
+    "game": "Tampa Bay Rays @ Philadelphia Phillies",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Tampa Bay Rays",
+    "odds": "153.0",
+    "line": "153.0",
+    "units": "1",
+    "stake_usd": "70.0",
+    "confidence_score": "45",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The market is pricing this off surface ERAs (2.93 vs 4.56), but the underlying gap is far smaller: Peralta's 3.83 xERA and 3.73 career ERA over 1094 IP say he's a good pitcher whose season ERA overstates the damage, and he has allowed 2 ER total acro",
+    "bankroll_after": "1197.51"
   }
 ]
