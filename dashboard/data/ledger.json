@@ -8350,5 +8350,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The market is pricing this off surface ERAs (2.93 vs 4.56), but the underlying gap is far smaller: Peralta's 3.83 xERA and 3.73 career ERA over 1094 IP say he's a good pitcher whose season ERA overstates the damage, and he has allowed 2 ER total acro",
     "bankroll_after": "1197.51"
+  },
+  {
+    "date": "2026-09-25",
+    "game": "Cleveland Guardians @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "totals",
+    "selection": "o7",
+    "odds": "-116.0",
+    "line": "7.0",
+    "units": "1",
+    "stake_usd": "70.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Fundamentals project roughly 7.8-8.2 total runs: both starters are solid but not elite run suppressors (xERA 3.75 and 4.06), both lineups are league-average (.718/.729 OPS, both above the .700 floor for overs), and the home bullpen is both poor (5.00",
+    "bankroll_after": "1127.51"
   }
 ]
