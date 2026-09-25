@@ -8302,5 +8302,21 @@
     "pnl": "-67.0",
     "reasoning_summary": "Large late-season SP mismatch: Singer carries a 5.72 xERA over 707 PA and has allowed 21 ER in his last 12.1 IP, while Mahle has a 3.89 xERA and 2 ER over his last 19 IP. The Reds' confirmed lineup averages .661 OPS with three bats under .630, and th",
     "bankroll_after": "1407.55"
+  },
+  {
+    "date": "2026-09-25",
+    "game": "Chicago Cubs @ Boston Red Sox",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Boston Red Sox",
+    "odds": "101.0",
+    "line": "101.0",
+    "units": "1",
+    "stake_usd": "70.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Near-even career SP matchup (Bello 4.16 vs Peterson 4.28) with Bello at home and sharp since returning. The away side's advantage is almost entirely offense (5.29 R/G), which 25 mph wind-in, rain, and 53F at a suppressed park specifically blunt, whil",
+    "bankroll_after": "1337.51"
   }
 ]
