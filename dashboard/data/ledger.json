@@ -8298,8 +8298,8 @@
     "units": "1",
     "stake_usd": "67.0",
     "confidence_score": "54",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-67.0",
     "reasoning_summary": "Large late-season SP mismatch: Singer carries a 5.72 xERA over 707 PA and has allowed 21 ER in his last 12.1 IP, while Mahle has a 3.89 xERA and 2 ER over his last 19 IP. The Reds' confirmed lineup averages .661 OPS with three bats under .630, and th",
     "bankroll_after": "1407.55"
   }
