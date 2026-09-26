@@ -8378,10 +8378,10 @@
     "units": "1",
     "stake_usd": "82.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "78.1",
     "reasoning_summary": "This is a large effective-SP mismatch in the innings that decide the 1H market. Verlander has thrown 3.2 IP all season (last outing March 30: 3.2 IP, 5 ER, .474 xwOBA) \u2014 a 43-year-old returning from a six-month layoff is not his 3.33 career ERA today",
-    "bankroll_after": "1564.08"
+    "bankroll_after": "1724.22"
   },
   {
     "date": "2026-09-26",
@@ -8397,7 +8397,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Season fundamentals say these teams are near-equal: run differentials -89 vs -66, identical runs scored (648 vs 649), and statistically identical bullpens (4.44 vs 4.47 ERA), which supports a home fair price around 57-59% after home field and a modes",
-    "bankroll_after": "1482.08"
+    "bankroll_after": "1642.22"
   },
   {
     "date": "2026-09-26",
@@ -8413,7 +8413,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The 24-cent move toward Washington is driven by Connelly Early's activation, but his last start was June 30 \u2014 a near three-month layoff that means rust and a capped pitch count, so his career 3.24 ERA overstates what he delivers today (his 2026 xERA ",
-    "bankroll_after": "1400.08"
+    "bankroll_after": "1560.22"
   },
   {
     "date": "2026-09-26",
@@ -8429,6 +8429,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The away starter has not pitched since August 7 \u2014 a ~7-week layoff that implies rust and a limited pitch count, exposing a taxed bullpen (five relievers with 2+ appearances in the last 3 days, 4.45 season ERA) for the bulk of the game. The home start",
-    "bankroll_after": "1318.08"
+    "bankroll_after": "1478.22"
   }
 ]
