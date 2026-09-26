@@ -8398,5 +8398,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Season fundamentals say these teams are near-equal: run differentials -89 vs -66, identical runs scored (648 vs 649), and statistically identical bullpens (4.44 vs 4.47 ERA), which supports a home fair price around 57-59% after home field and a modes",
     "bankroll_after": "1482.08"
+  },
+  {
+    "date": "2026-09-26",
+    "game": "New York Mets @ Washington Nationals",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "New York Mets",
+    "odds": "-103.0",
+    "line": "-103.0",
+    "units": "1",
+    "stake_usd": "82.0",
+    "confidence_score": "55",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The 24-cent move toward Washington is driven by Connelly Early's activation, but his last start was June 30 \u2014 a near three-month layoff that means rust and a capped pitch count, so his career 3.24 ERA overstates what he delivers today (his 2026 xERA ",
+    "bankroll_after": "1400.08"
   }
 ]
