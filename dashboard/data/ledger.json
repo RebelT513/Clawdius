@@ -8382,5 +8382,21 @@
     "pnl": "0.0",
     "reasoning_summary": "This is a large effective-SP mismatch in the innings that decide the 1H market. Verlander has thrown 3.2 IP all season (last outing March 30: 3.2 IP, 5 ER, .474 xwOBA) \u2014 a 43-year-old returning from a six-month layoff is not his 3.33 career ERA today",
     "bankroll_after": "1564.08"
+  },
+  {
+    "date": "2026-09-26",
+    "game": "Los Angeles Angels @ Seattle Mariners",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Los Angeles Angels",
+    "odds": "166.0",
+    "line": "166.0",
+    "units": "1",
+    "stake_usd": "82.0",
+    "confidence_score": "42",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Season fundamentals say these teams are near-equal: run differentials -89 vs -66, identical runs scored (648 vs 649), and statistically identical bullpens (4.44 vs 4.47 ERA), which supports a home fair price around 57-59% after home field and a modes",
+    "bankroll_after": "1482.08"
   }
 ]
