@@ -8315,7 +8315,7 @@
     "stake_usd": "70.0",
     "confidence_score": "53",
     "result": "win",
-    "pnl": "70.95",
+    "pnl": "70.947",
     "reasoning_summary": "Near-even career SP matchup (Bello 4.16 vs Peterson 4.28) with Bello at home and sharp since returning. The away side's advantage is almost entirely offense (5.29 R/G), which 25 mph wind-in, rain, and 53F at a suppressed park specifically blunt, whil",
     "bankroll_after": "1478.5"
   },
@@ -8330,7 +8330,7 @@
     "units": "1",
     "stake_usd": "70.0",
     "confidence_score": "53",
-    "result": "void",
+    "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "This is one of the largest SP mismatches on the board: Rogers has a full season at 165 IP with a 3.54 xERA and dominant recent form (1 ER over 8 IP and 1 ER over 7.1 IP in two of his last three), while the home side starts a 7-career-IP arm with a 9.",
     "bankroll_after": "1478.5"
@@ -8347,7 +8347,7 @@
     "stake_usd": "70.0",
     "confidence_score": "45",
     "result": "win",
-    "pnl": "107.27",
+    "pnl": "107.271",
     "reasoning_summary": "The market is pricing this off surface ERAs (2.93 vs 4.56), but the underlying gap is far smaller: Peralta's 3.83 xERA and 3.73 career ERA over 1094 IP say he's a good pitcher whose season ERA overstates the damage, and he has allowed 2 ER total acro",
     "bankroll_after": "1585.77"
   },
