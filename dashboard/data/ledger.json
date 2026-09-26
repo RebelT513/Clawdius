@@ -8346,10 +8346,10 @@
     "units": "1",
     "stake_usd": "70.0",
     "confidence_score": "45",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "107.27",
     "reasoning_summary": "The market is pricing this off surface ERAs (2.93 vs 4.56), but the underlying gap is far smaller: Peralta's 3.83 xERA and 3.73 career ERA over 1094 IP say he's a good pitcher whose season ERA overstates the damage, and he has allowed 2 ER total acro",
-    "bankroll_after": "1338.5"
+    "bankroll_after": "1515.77"
   },
   {
     "date": "2026-09-25",
@@ -8365,6 +8365,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Fundamentals project roughly 7.8-8.2 total runs: both starters are solid but not elite run suppressors (xERA 3.75 and 4.06), both lineups are league-average (.718/.729 OPS, both above the .700 floor for overs), and the home bullpen is both poor (5.00",
-    "bankroll_after": "1268.5"
+    "bankroll_after": "1445.77"
   }
 ]
