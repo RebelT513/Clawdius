@@ -8430,5 +8430,21 @@
     "pnl": "-82.0",
     "reasoning_summary": "The away starter has not pitched since August 7 \u2014 a ~7-week layoff that implies rust and a limited pitch count, exposing a taxed bullpen (five relievers with 2+ appearances in the last 3 days, 4.45 season ERA) for the bulk of the game. The home start",
     "bankroll_after": "1639.7"
+  },
+  {
+    "date": "2026-09-27",
+    "game": "Baltimore Orioles @ New York Yankees",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Baltimore Orioles",
+    "odds": "106.0",
+    "line": "106.0",
+    "units": "1",
+    "stake_usd": "82.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The 1H is a pure SP matchup and it tilts to Baltimore: Baz is a proven mid-rotation arm (career 4.19 ERA over 465 IP, xERA 4.27) while the home starter is a 26-IP rookie whose 5.40 ERA, 5.4 BB/9, and 5.58 xERA all agree he leaks baserunners \u2014 likely ",
+    "bankroll_after": "1557.67"
   }
 ]
