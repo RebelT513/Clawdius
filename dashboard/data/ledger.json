@@ -8462,5 +8462,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The starting pitcher gap is one of the largest on the board and is backed by real samples: Messick carries a 2.58 career ERA over 223 IP with a 3.08 xERA and .272 xwOBA, while Lynch is a 4.48 career ERA / 4.57 xERA arm coming off a 9-ER start. The sh",
     "bankroll_after": "1475.67"
+  },
+  {
+    "date": "2026-09-27",
+    "game": "Arizona Diamondbacks @ San Diego Padres",
+    "bet_type": "pregame",
+    "market": "spreads",
+    "selection": "Arizona Diamondbacks -1.5",
+    "odds": "108.0",
+    "line": "-1.5",
+    "units": "1",
+    "stake_usd": "82.0",
+    "confidence_score": "51",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Soroka holds a large, persistent quality edge over V\u00e1squez \u2014 xERA gap of roughly 1.5 runs both this year (4.09 vs 5.62) and last (3.53 vs 5.37), with V\u00e1squez's 5.7 K/9 contact profile facing a confirmed .748-OPS Arizona lineup. San Diego counters wit",
+    "bankroll_after": "1393.67"
   }
 ]
