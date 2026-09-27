@@ -8446,5 +8446,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The 1H is a pure SP matchup and it tilts to Baltimore: Baz is a proven mid-rotation arm (career 4.19 ERA over 465 IP, xERA 4.27) while the home starter is a 26-IP rookie whose 5.40 ERA, 5.4 BB/9, and 5.58 xERA all agree he leaks baserunners \u2014 likely ",
     "bankroll_after": "1557.67"
+  },
+  {
+    "date": "2026-09-27",
+    "game": "Cleveland Guardians @ Kansas City Royals",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Cleveland Guardians",
+    "odds": "-113.0",
+    "line": "-113.0",
+    "units": "1",
+    "stake_usd": "82.0",
+    "confidence_score": "57",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The starting pitcher gap is one of the largest on the board and is backed by real samples: Messick carries a 2.58 career ERA over 223 IP with a 3.08 xERA and .272 xwOBA, while Lynch is a 4.48 career ERA / 4.57 xERA arm coming off a 9-ER start. The sh",
+    "bankroll_after": "1475.67"
   }
 ]
