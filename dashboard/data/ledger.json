@@ -8478,5 +8478,21 @@
     "pnl": "0.0",
     "reasoning_summary": "Soroka holds a large, persistent quality edge over V\u00e1squez \u2014 xERA gap of roughly 1.5 runs both this year (4.09 vs 5.62) and last (3.53 vs 5.37), with V\u00e1squez's 5.7 K/9 contact profile facing a confirmed .748-OPS Arizona lineup. San Diego counters wit",
     "bankroll_after": "1393.67"
+  },
+  {
+    "date": "2026-09-27",
+    "game": "Texas Rangers @ Minnesota Twins",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Minnesota Twins",
+    "odds": "100.0",
+    "line": "100.0",
+    "units": "1",
+    "stake_usd": "82.0",
+    "confidence_score": "53",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Near-even SP matchup by the reliable measures (Gore career 4.29 ERA / 4.09 xERA vs Kremer career 4.34 / prior-year 3.88 xERA), but the situational factors all tilt home: Gore is at 170 IP with three straight short, walk-heavy outings (4-5 IP, 8 ER ov",
+    "bankroll_after": "1311.67"
   }
 ]
