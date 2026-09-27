@@ -8442,10 +8442,10 @@
     "units": "1",
     "stake_usd": "82.0",
     "confidence_score": "53",
-    "result": "pending",
+    "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "The 1H is a pure SP matchup and it tilts to Baltimore: Baz is a proven mid-rotation arm (career 4.19 ERA over 465 IP, xERA 4.27) while the home starter is a 26-IP rookie whose 5.40 ERA, 5.4 BB/9, and 5.58 xERA all agree he leaks baserunners \u2014 likely ",
-    "bankroll_after": "1557.67"
+    "bankroll_after": "1639.7"
   },
   {
     "date": "2026-09-27",
@@ -8458,10 +8458,10 @@
     "units": "1",
     "stake_usd": "82.0",
     "confidence_score": "57",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-82.0",
     "reasoning_summary": "The starting pitcher gap is one of the largest on the board and is backed by real samples: Messick carries a 2.58 career ERA over 223 IP with a 3.08 xERA and .272 xwOBA, while Lynch is a 4.48 career ERA / 4.57 xERA arm coming off a 9-ER start. The sh",
-    "bankroll_after": "1475.67"
+    "bankroll_after": "1557.7"
   },
   {
     "date": "2026-09-27",
@@ -8477,7 +8477,7 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Soroka holds a large, persistent quality edge over V\u00e1squez \u2014 xERA gap of roughly 1.5 runs both this year (4.09 vs 5.62) and last (3.53 vs 5.37), with V\u00e1squez's 5.7 K/9 contact profile facing a confirmed .748-OPS Arizona lineup. San Diego counters wit",
-    "bankroll_after": "1393.67"
+    "bankroll_after": "1475.7"
   },
   {
     "date": "2026-09-27",
@@ -8493,6 +8493,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "Near-even SP matchup by the reliable measures (Gore career 4.29 ERA / 4.09 xERA vs Kremer career 4.34 / prior-year 3.88 xERA), but the situational factors all tilt home: Gore is at 170 IP with three straight short, walk-heavy outings (4-5 IP, 8 ER ov",
-    "bankroll_after": "1311.67"
+    "bankroll_after": "1393.7"
   }
 ]
