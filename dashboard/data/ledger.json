@@ -8394,8 +8394,8 @@
     "units": "1",
     "stake_usd": "82.0",
     "confidence_score": "42",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-82.0",
     "reasoning_summary": "Season fundamentals say these teams are near-equal: run differentials -89 vs -66, identical runs scored (648 vs 649), and statistically identical bullpens (4.44 vs 4.47 ERA), which supports a home fair price around 57-59% after home field and a modes",
     "bankroll_after": "1642.22"
   },
