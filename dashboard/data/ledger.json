@@ -8426,8 +8426,8 @@
     "units": "1",
     "stake_usd": "82.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-82.0",
     "reasoning_summary": "The away starter has not pitched since August 7 \u2014 a ~7-week layoff that implies rust and a limited pitch count, exposing a taxed bullpen (five relievers with 2+ appearances in the last 3 days, 4.45 season ERA) for the bulk of the game. The home start",
     "bankroll_after": "1639.71"
   }
