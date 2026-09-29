@@ -8510,5 +8510,21 @@
     "pnl": "0.0",
     "reasoning_summary": "The 1H is a pure SP matchup and this one is even-to-slightly-Phillies: Luzardo (2.83 xERA, 179 IP, 22.2 IP/1 ER last three starts including 9 IP 0 ER against this exact Atlanta lineup on 9/07) profiles at least as well as Sale (2.97 xERA, 5 ER over h",
     "bankroll_after": "1558.07"
+  },
+  {
+    "date": "2026-09-29",
+    "game": "Chicago White Sox @ Houston Astros",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "108.0",
+    "line": "108.0",
+    "units": "1",
+    "stake_usd": "78.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The road team is the substantially better full-season club (+56 run differential vs -32, superior bullpen 3.70 vs 4.08 ERA) yet is priced as an underdog at +108; pythagorean baselines put them near 52% even after home-field adjustment vs 48.1% implie",
+    "bankroll_after": "1480.04"
   }
 ]
