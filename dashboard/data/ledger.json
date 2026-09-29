@@ -8494,5 +8494,21 @@
     "pnl": "82.371",
     "reasoning_summary": "Near-even SP matchup by the reliable measures (Gore career 4.29 ERA / 4.09 xERA vs Kremer career 4.34 / prior-year 3.88 xERA), but the situational factors all tilt home: Gore is at 170 IP with three straight short, walk-heavy outings (4-5 IP, 8 ER ov",
     "bankroll_after": "1558.07"
+  },
+  {
+    "date": "2026-09-29",
+    "game": "Philadelphia Phillies @ Atlanta Braves",
+    "bet_type": "pregame",
+    "market": "1h_ml",
+    "selection": "Philadelphia Phillies",
+    "odds": "153.0",
+    "line": "153.0",
+    "units": "1",
+    "stake_usd": "78.0",
+    "confidence_score": "44",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "The 1H is a pure SP matchup and this one is even-to-slightly-Phillies: Luzardo (2.83 xERA, 179 IP, 22.2 IP/1 ER last three starts including 9 IP 0 ER against this exact Atlanta lineup on 9/07) profiles at least as well as Sale (2.97 xERA, 5 ER over h",
+    "bankroll_after": "1480.04"
   }
 ]
