@@ -8522,9 +8522,9 @@
     "units": "1",
     "stake_usd": "78.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "84.13",
     "reasoning_summary": "The road team is the substantially better full-season club (+56 run differential vs -32, superior bullpen 3.70 vs 4.08 ERA) yet is priced as an underdog at +108; pythagorean baselines put them near 52% even after home-field adjustment vs 48.1% implie",
-    "bankroll_after": "1480.04"
+    "bankroll_after": "1642.2"
   }
 ]
