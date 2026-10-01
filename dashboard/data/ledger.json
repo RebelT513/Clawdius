@@ -8538,10 +8538,10 @@
     "units": "1",
     "stake_usd": "82.0",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "106.78",
     "reasoning_summary": "Full-season fundamentals favor the road side more than the price does: Chicago finished with a +56 run differential (~.537 pythagorean) and a 3.70 bullpen ERA versus Houston's -32 (-.479 pythagorean) and 4.08 pen with four relievers taxed. Brown over",
-    "bankroll_after": "1560.17"
+    "bankroll_after": "1748.98"
   },
   {
     "date": "2026-09-30",
@@ -8557,6 +8557,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The Cubs profile as the better club by the largest-sample signal available: +147 run differential (850/703) vs +41 for the Padres, a Pythagorean gap of roughly .594 vs .529 that implies the Cubs are near a coin flip even on the road, yet they are pri",
-    "bankroll_after": "1478.17"
+    "bankroll_after": "1666.98"
   }
 ]
