@@ -8554,8 +8554,8 @@
     "units": "1",
     "stake_usd": "82.0",
     "confidence_score": "51",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-82.0",
     "reasoning_summary": "The Cubs profile as the better club by the largest-sample signal available: +147 run differential (850/703) vs +41 for the Padres, a Pythagorean gap of roughly .594 vs .529 that implies the Cubs are near a coin flip even on the road, yet they are pri",
     "bankroll_after": "1666.98"
   }
