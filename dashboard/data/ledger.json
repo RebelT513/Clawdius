@@ -8570,9 +8570,9 @@
     "units": "1",
     "stake_usd": "83.0",
     "confidence_score": "55",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "76.97",
     "reasoning_summary": "A 94-68 home team with a +116 run differential is priced near pick'em against an 88-74 team at +15, and the fundamentals justify a bigger gap than the price implies: Atlanta's bullpen (3.44 ERA) is a full run better than Philadelphia's (4.43) in a ga",
-    "bankroll_after": "1583.95"
+    "bankroll_after": "1743.95"
   }
 ]
