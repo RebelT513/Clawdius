@@ -8574,5 +8574,21 @@
     "pnl": "76.969",
     "reasoning_summary": "A 94-68 home team with a +116 run differential is priced near pick'em against an 88-74 team at +15, and the fundamentals justify a bigger gap than the price implies: Atlanta's bullpen (3.44 ERA) is a full run better than Philadelphia's (4.43) in a ga",
     "bankroll_after": "1743.95"
+  },
+  {
+    "date": "2026-10-04",
+    "game": "San Diego Padres @ Milwaukee Brewers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "-129.0",
+    "line": "-129.0",
+    "units": "1",
+    "stake_usd": "87.0",
+    "confidence_score": "60",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Milwaukee is the materially better club (103-59, +214 run diff vs +41) at home with the better starter: Henderson's contact-quality profile (2.74 xERA, .257 xwOBA, 0.84 WHIP) sits far above King, whose 4.42 xERA and K/9 decline from 9.5 career to 7.7",
+    "bankroll_after": "1656.92"
   }
 ]
