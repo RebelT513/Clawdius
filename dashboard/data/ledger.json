@@ -8590,5 +8590,21 @@
     "pnl": "67.231",
     "reasoning_summary": "Milwaukee is the materially better club (103-59, +214 run diff vs +41) at home with the better starter: Henderson's contact-quality profile (2.74 xERA, .257 xwOBA, 0.84 WHIP) sits far above King, whose 4.42 xERA and K/9 decline from 9.5 career to 7.7",
     "bankroll_after": "1811.18"
+  },
+  {
+    "date": "2026-10-05",
+    "game": "Chicago White Sox @ Cleveland Guardians",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Chicago White Sox",
+    "odds": "134.0",
+    "line": "134.0",
+    "units": "1",
+    "stake_usd": "91.0",
+    "confidence_score": "45",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Williams over Kay is a real SP edge (career 3.62 vs 4.85, xERA 3.84 vs 5.05), but -148 overprices it: the White Sox carry the much stronger season profile (+56 run differential vs +11, 776 runs scored vs 678), their confirmed lineup is the better uni",
+    "bankroll_after": "1720.15"
   }
 ]
