@@ -8602,10 +8602,10 @@
     "units": "1",
     "stake_usd": "91.0",
     "confidence_score": "45",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "win",
+    "pnl": "121.93",
     "reasoning_summary": "Williams over Kay is a real SP edge (career 3.62 vs 4.85, xERA 3.84 vs 5.05), but -148 overprices it: the White Sox carry the much stronger season profile (+56 run differential vs +11, 776 runs scored vs 678), their confirmed lineup is the better uni",
-    "bankroll_after": "1720.15"
+    "bankroll_after": "1933.11"
   },
   {
     "date": "2026-10-05",
@@ -8621,6 +8621,6 @@
     "result": "pending",
     "pnl": "0.0",
     "reasoning_summary": "The starting pitcher gap is real and current: Schlittler's 2.85 xERA / 0.262 xwOBA on a full season (backed by a 2.23 career ERA over 266 IP) versus Peralta's down year (3.84 xERA, 4.42 ERA), compounded by an extreme platoon alignment \u2014 8 of 9 Yankee",
-    "bankroll_after": "1629.15"
+    "bankroll_after": "1842.11"
   }
 ]
