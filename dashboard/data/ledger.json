@@ -8634,9 +8634,9 @@
     "units": "1",
     "stake_usd": "92.0",
     "confidence_score": "52",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-92.0",
     "reasoning_summary": "Milwaukee is a 103-win team with a +214 run differential and the better bullpen, priced as a +117 road underdog. The Padres' SP edge is real but overstated: Pivetta's 2.86 ERA covers only 34.2 IP with a 4.43 career ERA, his recent starts top out near",
-    "bankroll_after": "1750.08"
+    "bankroll_after": "1750.11"
   }
 ]
