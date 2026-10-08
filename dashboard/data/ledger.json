@@ -8650,9 +8650,9 @@
     "units": "1",
     "stake_usd": "88.0",
     "confidence_score": "55",
-    "result": "win",
-    "pnl": "85.94",
+    "result": "loss",
+    "pnl": "-88.0",
     "reasoning_summary": "Milwaukee is the substantially better club over the full season (103-59 vs 91-71, +214 vs +41 run differential, 832/618 runs vs 722/681), yet is priced as a near pick'em underdog at -102. Log5 off pythagorean quality puts a neutral-site Brewers win p",
-    "bankroll_after": "1836.05"
+    "bankroll_after": "1662.11"
   }
 ]
