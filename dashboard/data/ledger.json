@@ -8643,16 +8643,16 @@
     "date": "2026-10-07",
     "game": "Milwaukee Brewers @ San Diego Padres",
     "bet_type": "pregame",
-    "market": "h2h",
-    "selection": "Milwaukee Brewers",
+    "market": "totals",
+    "selection": "o7.5",
     "odds": "-102.0",
-    "line": "-102.0",
+    "line": "7.5",
     "units": "1",
     "stake_usd": "88.0",
     "confidence_score": "55",
     "result": "loss",
     "pnl": "-88.0",
-    "reasoning_summary": "Milwaukee is the substantially better club over the full season (103-59 vs 91-71, +214 vs +41 run differential, 832/618 runs vs 722/681), yet is priced as a near pick'em underdog at -102. Log5 off pythagorean quality puts a neutral-site Brewers win p",
+    "reasoning_summary": "EXECUTOR FAULT 2026-10-07: evaluator selected h2h Milwaukee Brewers -102, but a failed Heritage column restore left the ML column showing Game Total and the executor clicked 'o7.5-112'. No market check existed on the h2h path, so $88 was placed on Game/Total/Over 7.5 -102 (Heritage ticket G12976501, LOST). Final 3-1 = 4 runs: the Over lost; the intended Brewers ML would have won +85.94. Record corrected to what Heritage actually holds. Guards added in commit for 2026-10-08. Original evaluator reasoning follows. | Milwaukee is the substantially better club over the full season (103-59 vs 91-71, +214 vs +41 run differential, 832/618 runs vs 722/681), yet is priced as a near pick'em underdog at -102. Log5 off pythagorean quality puts a neutral-site Brewers win p",
     "bankroll_after": "1662.11"
   }
 ]
