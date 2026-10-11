@@ -8666,9 +8666,9 @@
     "units": "1",
     "stake_usd": "83.0",
     "confidence_score": "48",
-    "result": "pending",
-    "pnl": "0.0",
+    "result": "loss",
+    "pnl": "-83.0",
     "reasoning_summary": "The starting pitchers are effectively even \u2014 Burke (xERA 3.78, career 3.59) and Williams (xERA 3.84, career 3.62) are near-identical by expected contact quality, with Burke in better recent form. Beneath that even SP matchup, the White Sox are the st",
-    "bankroll_after": "1579.08"
+    "bankroll_after": "1579.11"
   }
 ]
