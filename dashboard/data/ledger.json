@@ -8670,5 +8670,21 @@
     "pnl": "-83.0",
     "reasoning_summary": "The starting pitchers are effectively even \u2014 Burke (xERA 3.78, career 3.59) and Williams (xERA 3.84, career 3.62) are near-identical by expected contact quality, with Burke in better recent form. Beneath that even SP matchup, the White Sox are the st",
     "bankroll_after": "1579.11"
+  },
+  {
+    "date": "2026-10-12",
+    "game": "Los Angeles Dodgers @ Milwaukee Brewers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "120.0",
+    "line": "116.0",
+    "units": "1",
+    "stake_usd": "79.0",
+    "confidence_score": "49",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Season-long fundamentals say these teams are equals or better for the home side: Milwaukee has the better record (103-59 vs 100-62), the better run differential (+214 vs +201), the better bullpen (3.40 ERA vs 3.74), and home field, yet is priced at o",
+    "bankroll_after": "1500.08"
   }
 ]
