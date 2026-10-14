@@ -8686,5 +8686,21 @@
     "pnl": "94.856",
     "reasoning_summary": "Season-long fundamentals say these teams are equals or better for the home side: Milwaukee has the better record (103-59 vs 100-62), the better run differential (+214 vs +201), the better bullpen (3.40 ERA vs 3.74), and home field, yet is priced at o",
     "bankroll_after": "1673.97"
+  },
+  {
+    "date": "2026-10-14",
+    "game": "Milwaukee Brewers @ Los Angeles Dodgers",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "152.0",
+    "line": "152.0",
+    "units": "1",
+    "stake_usd": "84.0",
+    "confidence_score": "43",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Milwaukee was the better team over the full season (103-59 vs 100-62, +214 vs +201 run differential, 3.40 vs 3.74 bullpen ERA) yet is priced at only 39.7% implied. Snell's per-inning dominance (2.17 xERA) is real, but he has not completed five inning",
+    "bankroll_after": "1589.94"
   }
 ]
