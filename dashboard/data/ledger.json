@@ -8718,5 +8718,21 @@
     "pnl": "83.333",
     "reasoning_summary": "The first five innings set up as a run-suppression matchup on both sides: Peralta (career 3.71 ERA, xERA 3.84, 1100 IP) threw six scoreless against this exact Cleveland lineup six days ago and is in dominant form (1 ER over his last 16 IP), while Cle",
     "bankroll_after": "1885.23"
+  },
+  {
+    "date": "2026-10-26",
+    "game": "Milwaukee Brewers @ Tampa Bay Rays",
+    "bet_type": "pregame",
+    "market": "h2h",
+    "selection": "Milwaukee Brewers",
+    "odds": "104.0",
+    "line": "104.0",
+    "units": "1",
+    "stake_usd": "94.0",
+    "confidence_score": "52",
+    "result": "pending",
+    "pnl": "0.0",
+    "reasoning_summary": "Milwaukee is the materially better club by full-season fundamentals \u2014 +214 run differential vs +86 (Pythagorean ~.644 vs ~.562) and a better bullpen (3.40 ERA vs 3.99) with comparable fatigue \u2014 yet is priced as a road underdog at plus money. The SP m",
+    "bankroll_after": "1791.2"
   }
 ]
