@@ -2669,7 +2669,7 @@
     "result": "win",
     "pnl": "46.127",
     "reasoning_summary": "The Mets are -136 favorites almost entirely on McLean's strength (career 2.89 ERA, 2.92 xERA), but their lineup is catastrophic at .567 OPS \u00e2\u20ac\u201d well below the B-squad threshold \u00e2\u20ac\u201d and can't be trusted to score even against a struggling Lodolo whose ",
-    "bankroll_after": "772.97"
+    "bankroll_after": "772.967"
   },
   {
     "date": "2026-05-27",
@@ -2685,7 +2685,7 @@
     "result": "win",
     "pnl": "36.705",
     "reasoning_summary": "Elite, in-form SP (S\u00c3\u00a1nchez: career 3.05 ERA, 2.88 xERA, three straight scoreless 7-9 IP starts) faces a genuinely weak Padres lineup (.642 avg OPS, bottom four all sub-.620) in a strong pitcher's park (Petco, 62\u00c2\u00b0F overcast, neutral wind). Padres pr",
-    "bankroll_after": "809.68"
+    "bankroll_after": "809.672"
   },
   {
     "date": "2026-05-27",
@@ -2701,7 +2701,7 @@
     "result": "win",
     "pnl": "28.937",
     "reasoning_summary": "Clear starting-pitcher mismatch: S\u00c3\u00a1nchez (career 3.05 ERA, 2.88 xERA, .271 xwOBA, three straight scoreless deep starts) is meaningfully superior to Buehler (5.05 ERA, 4.67 xERA, .339 xwOBA allowed), and the Padres lineup is genuinely weak (.642 OPS ",
-    "bankroll_after": "838.62"
+    "bankroll_after": "838.609"
   },
   {
     "date": "2026-05-28",
@@ -2717,7 +2717,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: Davis Martin has a reliable 317-IP career profile with elite control this year (1.8 BB/9, 1.02 WHIP over 61 IP), while Kendry Rojas is a 14-IP rookie walking 6.3/9 \u00e2\u20ac\u201d a wildness profile that produces crooked-number i",
-    "bankroll_after": "838.62"
+    "bankroll_after": "838.609"
   },
   {
     "date": "2026-05-29",
@@ -2733,7 +2733,7 @@
     "result": "loss",
     "pnl": "-42.0",
     "reasoning_summary": "Clear SP mismatch \u00e2\u20ac\u201d Wheeler (career 3.25 ERA / 1766 IP, prior-year xERA 2.49, current xERA 3.16, last two starts 13.0 IP / 0 ER) vs Wrobleski (career 4.20 ERA, prior-year xERA 3.43, current xERA 4.09 with a 5 ER start last time out). Getting Philli",
-    "bankroll_after": "796.62"
+    "bankroll_after": "796.609"
   },
   {
     "date": "2026-05-30",
@@ -2749,7 +2749,7 @@
     "result": "loss",
     "pnl": "-40.0",
     "reasoning_summary": "Both starters are quality with career ERA well under 3.80 (Gray 3.57 over 1962 IP, Messick 2.42 over 104 IP with 3.07 prior-year xERA), so the 1H/full-game suppression case rests on real career data for BOTH sides \u00e2\u20ac\u201d meeting the bar for an under the",
-    "bankroll_after": "756.62"
+    "bankroll_after": "756.609"
   },
   {
     "date": "2026-05-30",
@@ -2765,7 +2765,7 @@
     "result": "win",
     "pnl": "45.396",
     "reasoning_summary": "Clear starting-pitcher mismatch underpriced at plus money. Luzardo brings a career 4.21 ERA over 757 IP with elite contact quality (xERA 3.15, xwOBA .283) and is in dominant recent form (2 ER over his last 18 IP across three quality starts). Sasaki h",
-    "bankroll_after": "802.02"
+    "bankroll_after": "802.005"
   },
   {
     "date": "2026-05-30",
@@ -2781,7 +2781,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "This is a weather-driven under setup: 57\u00c2\u00b0F with a STRONG_IN 25 mph wind to center field, plus two below-average offenses (Miami .675 OPS, Mets .643 OPS, both under the .700 threshold where run production is suspect). Phillips owns the SP edge (caree",
-    "bankroll_after": "802.02"
+    "bankroll_after": "802.005"
   },
   {
     "date": "2026-05-31",
@@ -2797,7 +2797,7 @@
     "result": "loss",
     "pnl": "-40.0",
     "reasoning_summary": "Clear SP mismatch favoring Kansas City: Wacha is a reliable above-average veteran (career 3.84 ERA/1697 IP, xERA 3.94, 1.02 WHIP) while Leiter is below-average and walk-prone (career 4.79 ERA, xERA 4.65, BB/9 ~4.0). With two weak offenses (.676 vs .6",
-    "bankroll_after": "762.02"
+    "bankroll_after": "762.005"
   },
   {
     "date": "2026-06-01",
@@ -2813,7 +2813,7 @@
     "result": "win",
     "pnl": "31.944",
     "reasoning_summary": "deGrom (career 2.62 ERA, prior-year xERA 3.36, elite K-BB) substantially outclasses McGreevy, whose 2.98 ERA masks a 5.64 xERA and .368 xwOBA \u00e2\u20ac\u201d poor contact quality that signals regression. The market priced Texas at only -124 by anchoring on McGre",
-    "bankroll_after": "793.96"
+    "bankroll_after": "793.949"
   },
   {
     "date": "2026-06-02",
@@ -2829,7 +2829,7 @@
     "result": "loss",
     "pnl": "-40.0",
     "reasoning_summary": "Gausman is the more reliable, higher-quality starter \u00e2\u20ac\u201d career 3.79 ERA over 1980 IP, xERA 3.45, excellent current form and elite walk control \u00e2\u20ac\u201d while Elder is a career 4.28-ERA back-end arm whose 2.50 ERA is unsupported by his career profile and ",
-    "bankroll_after": "753.96"
+    "bankroll_after": "753.949"
   },
   {
     "date": "2026-06-02",
@@ -2845,7 +2845,7 @@
     "result": "win",
     "pnl": "27.391",
     "reasoning_summary": "Structural mismatch favors Seattle: Logan Gilbert is a reliable, durable starter (career 3.59 ERA over 903 IP, two scoreless outings in his last three) who carries the first 5-6 innings himself, while the Mets are running Brazob\u00c3\u00a1n as a 1-inning open",
-    "bankroll_after": "781.35"
+    "bankroll_after": "781.34"
   },
   {
     "date": "2026-06-03",
@@ -2861,7 +2861,7 @@
     "result": "loss",
     "pnl": "-39.0",
     "reasoning_summary": "Clear starting-pitcher mismatch: S\u00c3\u00a1nchez is a genuine ace (career 3.01 ERA, current 2.91 xERA confirming the 1.47 ERA is largely real, 10.8 K/9) and just threw 7 shutout innings against this same San Diego lineup a week ago, while Buehler has been m",
-    "bankroll_after": "742.35"
+    "bankroll_after": "742.34"
   },
   {
     "date": "2026-06-03",
@@ -2877,7 +2877,7 @@
     "result": "win",
     "pnl": "51.813",
     "reasoning_summary": "Clear, reliable SP mismatch: Ure\u00c3\u00b1a (xERA 3.30, xwOBA .289, 1/1/0 ER last three) versus a Lorenzen who is genuinely getting hit (7.22 ERA, 1.90 WHIP, 5.88 xERA confirming it's not luck). Angels ML -157 is real but ~62% true vs ~61% implied \u00e2\u20ac\u201d the ed",
-    "bankroll_after": "794.16"
+    "bankroll_after": "794.153"
   },
   {
     "date": "2026-06-03",
@@ -2893,7 +2893,7 @@
     "result": "win",
     "pnl": "44.261",
     "reasoning_summary": "The Athletics carry the clear starting-pitcher edge yet sit as underdogs: Springs (career 3.69 ERA / 3.87 xERA / .311 xwOBA over 551 IP) is materially better than Rea (career 4.44 ERA / 5.14 current xERA / .353 xwOBA), who profiles as hittable. The m",
-    "bankroll_after": "838.42"
+    "bankroll_after": "838.414"
   },
   {
     "date": "2026-06-04",
@@ -2909,7 +2909,7 @@
     "result": "win",
     "pnl": "39.939",
     "reasoning_summary": "Large SP mismatch: Wheeler is elite with reliable data (2.27 ERA, 3.19 xERA, 0.85 WHIP) while Giolito is wild and ineffective (4.97 ERA, 8.5 BB/9, 1.74 WHIP). SD's weak .650-OPS all-RHB lineup should be smothered to 0-1 runs, while PHI draws walks an",
-    "bankroll_after": "878.36"
+    "bankroll_after": "878.353"
   },
   {
     "date": "2026-06-04",
@@ -2925,7 +2925,7 @@
     "result": "win",
     "pnl": "44.514",
     "reasoning_summary": "Bello is the clearly worse starter on predictive metrics (xERA 5.98, xwOBA .376, prior-year xERA 4.48 and three straight blowups), while Rogers carries the better career profile (4.08 ERA over 568 IP, prior-year xERA 3.41). Baltimore also has the str",
-    "bankroll_after": "922.87"
+    "bankroll_after": "922.867"
   },
   {
     "date": "2026-06-04",
@@ -2941,7 +2941,7 @@
     "result": "loss",
     "pnl": "-42.0",
     "reasoning_summary": "Two struggling starters anchor this over: Bello carries a 5.98 xERA and .376 xwOBA with three recent blowup starts, and Rogers despite a decent career profile is in poor current form. Both lineups are competent (BAL .741 OPS, BOS .716), clearing the ",
-    "bankroll_after": "880.87"
+    "bankroll_after": "880.867"
   },
   {
     "date": "2026-06-05",
@@ -2957,7 +2957,7 @@
     "result": "win",
     "pnl": "42.214",
     "reasoning_summary": "Strong 14 mph tailwind out at Wrigley combines with two starters who cannot finish five innings \u00e2\u20ac\u201d Ray has gone exactly 4 IP in three straight starts (9 ER, then 7 BB) with a 5.19 xERA, and Cabrera's recent outings are equally short. Both bullpens h",
-    "bankroll_after": "923.08"
+    "bankroll_after": "923.081"
   },
   {
     "date": "2026-06-05",
@@ -2973,7 +2973,7 @@
     "result": "win",
     "pnl": "46.982",
     "reasoning_summary": "Petco is a strong pitcher's park and both lineups are below average \u00e2\u20ac\u201d Mets average .700 OPS (Soto/Young carry it, the rest is .58\u00e2\u20ac\u201c.63) and the Padres are a genuinely weak .638 (Machado .174 AVG, Song/Dur\u00c3\u00a1n sub-.500 OPS). Two offenses with roughl",
-    "bankroll_after": "970.06"
+    "bankroll_after": "970.063"
   },
   {
     "date": "2026-06-06",
@@ -2989,7 +2989,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "Pittsburgh holds both edges yet is priced as a near-pickem underdog. Ashcraft is the more reliable starter on real data (career 2.74 ERA over 144 IP, 2.78 xERA, and dominant recent form: 19 ER-suppressing innings with 25 K in his last three), while S",
-    "bankroll_after": "921.06"
+    "bankroll_after": "921.063"
   },
   {
     "date": "2026-06-06",
@@ -3005,7 +3005,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "Clean starting-pitcher mismatch: McClanahan carries elite, reliable career data (2.96 ERA / 1.09 WHIP over 459 IP, 2.45 ERA this year) against Bachar, who is competent but a clear tier down (3.79 career ERA, only 111 career IP, single recent start). ",
-    "bankroll_after": "872.06"
+    "bankroll_after": "872.063"
   },
   {
     "date": "2026-06-07",
@@ -3021,7 +3021,7 @@
     "result": "win",
     "pnl": "49.935",
     "reasoning_summary": "San Francisco holds both the pitching and lineup edge yet is priced as a plus-money road dog. McDonald carries a prior-year xERA of 3.21 and current 3.84/.309 xwOBA, while Taillon's poor year is earned, not luck \u00e2\u20ac\u201d his 5.24 xERA and .355 xwOBA come ",
-    "bankroll_after": "921.99"
+    "bankroll_after": "921.998"
   },
   {
     "date": "2026-06-09",
@@ -3037,7 +3037,7 @@
     "result": "win",
     "pnl": "39.709",
     "reasoning_summary": "Large, clean starting-pitcher mismatch: Burns is elite (career 3.01 ERA, 2.89 xERA, double-digit K/9, 70 IP reliable sample) while Giolito is a below-average arm walking 7/9 with a 5.14 xERA and 1.74 WHIP \u00e2\u20ac\u201d and his prior-year xERA (5.06) confirms i",
-    "bankroll_after": "961.7"
+    "bankroll_after": "961.707"
   },
   {
     "date": "2026-06-09",
@@ -3053,7 +3053,7 @@
     "result": "loss",
     "pnl": "-46.0",
     "reasoning_summary": "Tolle meaningfully outclasses Martinez: 2.32 xERA / 0.242 xwOBA over a now-reliable 187 PA sample versus Martinez's regression-prone 4.53 xERA / 0.333 xwOBA despite a lucky 2.29 ERA on a 1010-IP league-average career baseline. Tampa carries four taxe",
-    "bankroll_after": "915.7"
+    "bankroll_after": "915.707"
   },
   {
     "date": "2026-06-10",
@@ -3069,7 +3069,7 @@
     "result": "win",
     "pnl": "67.219",
     "reasoning_summary": "Large, real SP mismatch: Rasmussen (career 2.91 ERA over 526 IP, 3.05 xERA, 8.7 K/9) heavily outclasses Bennett (10 career IP, 5.60 xERA, 3.5 K/9, 3.5 BB/9). The full-game ML (-150) and 1H ML (-168) are both eaten by juice and Heritage's markup, and ",
-    "bankroll_after": "982.92"
+    "bankroll_after": "982.926"
   },
   {
     "date": "2026-06-10",
@@ -3085,7 +3085,7 @@
     "result": "win",
     "pnl": "31.73",
     "reasoning_summary": "Clear starting-pitcher mismatch: Luzardo carries a 3.48 xERA (prior-year 3.33, .295 xwOBA) and is a solid mid-rotation arm, while Scherzer at 41 has been knocked out before the 3rd inning in two of his last three starts (7 ER and 8 ER), with a curren",
-    "bankroll_after": "1014.65"
+    "bankroll_after": "1014.656"
   },
   {
     "date": "2026-06-10",
@@ -3101,7 +3101,7 @@
     "result": "win",
     "pnl": "57.452",
     "reasoning_summary": "Austin Warren's shiny 2.01 ERA is luck-driven \u00e2\u20ac\u201d his xERA (4.01 this year, 4.36 prior) pegs him as a ~4.00 arm over a thin 80-IP career sample (last start just 1.0 IP), comparable to or worse than Pallante (3.84 xERA, career 4.28 over 523 IP). The M",
-    "bankroll_after": "1072.1"
+    "bankroll_after": "1072.108"
   },
   {
     "date": "2026-06-11",
@@ -3117,7 +3117,7 @@
     "result": "loss",
     "pnl": "-54.0",
     "reasoning_summary": "Strong-out wind (+20 mph tailwind to CF) plus a heavily taxed Kansas City bullpen (five relievers with 2+ appearances in three days) sets up late-inning run leakage behind a starter who has gone only 5-5.2 IP recently. Both starters carry xERA above ",
-    "bankroll_after": "1018.1"
+    "bankroll_after": "1018.108"
   },
   {
     "date": "2026-06-11",
@@ -3133,7 +3133,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Strong weather suppression (23mph wind moderate-in, moderate rain, 65\u00c2\u00b0F) combines with a genuinely weak Braves lineup (0.641 avg OPS, dead bottom third) to push toward the under. P\u00c3\u00a9rez has limited runs in three straight starts, and the wind blunts ",
-    "bankroll_after": "1018.1"
+    "bankroll_after": "1018.108"
   },
   {
     "date": "2026-06-12",
@@ -3149,7 +3149,7 @@
     "result": "win",
     "pnl": "44.366",
     "reasoning_summary": "Oracle Park with 69F mist and a marine layer is among the most run-suppressing environments in the sport, and the under is the cheaper side at this total. Roupp brings a strong 3.32 xERA, .288 xwOBA, and near-a-K-per-inning swing-and-miss, while Assa",
-    "bankroll_after": "1062.47"
+    "bankroll_after": "1062.474"
   },
   {
     "date": "2026-06-13",
@@ -3165,7 +3165,7 @@
     "result": "loss",
     "pnl": "-53.0",
     "reasoning_summary": "deGrom (career 2.60 ERA/1610 IP, 10.8 K/9, three strong recent starts) is a clearly superior pitcher to a declining Suarez (career 3.36, 4 ER and 5 ER in two of his last three). The market has Boston favored almost entirely on Fenway home field; at n",
-    "bankroll_after": "1009.47"
+    "bankroll_after": "1009.474"
   },
   {
     "date": "2026-06-13",
@@ -3181,7 +3181,7 @@
     "result": "loss",
     "pnl": "-53.0",
     "reasoning_summary": "Decisive SP mismatch: Skubal is elite on career data (3.06 ERA/1.02 WHIP over 810 IP, prior-year xERA 2.71) facing Cantillo, who is wild (4.8 BB/9) and getting shelled (7/4/4 ER last three starts). Sharp line movement toward Detroit confirms the read",
-    "bankroll_after": "956.47"
+    "bankroll_after": "956.474"
   },
   {
     "date": "2026-06-14",
@@ -3197,7 +3197,7 @@
     "result": "win",
     "pnl": "42.51",
     "reasoning_summary": "Strong tailwind out to center (+15 mph) at Fenway is a genuine physical over signal, and both starters profile as hittable on contact quality \u00e2\u20ac\u201d Eovaldi carries a 4.63 current-year xERA and has allowed 4-5 ER in each of his last three starts, while ",
-    "bankroll_after": "998.98"
+    "bankroll_after": "998.984"
   },
   {
     "date": "2026-06-15",
@@ -3213,7 +3213,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Detroit holds the starting-pitcher edge (Melton career 2.78 ERA/1.01 WHIP and strong recent form vs Teng's 5.30 career ERA, 4.2 BB/9, and 12 ER over his last 3 starts), though xERA narrows the gap so I keep confidence modest. The decisive factor is b",
-    "bankroll_after": "998.98"
+    "bankroll_after": "998.984"
   },
   {
     "date": "2026-06-16",
@@ -3229,7 +3229,7 @@
     "result": "loss",
     "pnl": "-50.0",
     "reasoning_summary": "Two below-average starters face off \u00e2\u20ac\u201d Feltner (career 5.19 ERA over 376 IP) and Cabrera (career 4.17 ERA, walk-prone at 4.3 BB/9) \u00e2\u20ac\u201d neither projects to suppress runs. The dominant signal is a STRONG_OUT tailwind (+13.8 mph to CF) at Wrigley in 60",
-    "bankroll_after": "948.98"
+    "bankroll_after": "948.984"
   },
   {
     "date": "2026-06-16",
@@ -3245,7 +3245,7 @@
     "result": "win",
     "pnl": "48.904",
     "reasoning_summary": "Genuine, meaningful-sample SP mismatch the market is underpricing. Detmers (81 IP this year) is pitching at a high level \u00e2\u20ac\u201d 2.87 xERA, 1.05 WHIP, 10.8 K/9, and three strong recent starts \u00e2\u20ac\u201d while Kelly (64 IP) is getting hit hard with a 7.19 xERA, ",
-    "bankroll_after": "997.88"
+    "bankroll_after": "997.888"
   },
   {
     "date": "2026-06-16",
@@ -3261,7 +3261,7 @@
     "result": "loss",
     "pnl": "-50.0",
     "reasoning_summary": "The clearly superior and more reliable starter is on the underdog: Rasmussen (career 2.87 ERA/533 IP, xERA 2.90, xwOBA .269) versus Wrobleski (career 4.03 ERA, xERA 4.19 outrunning a lucky 2.95 ERA, weak 5.5 K/9) \u00e2\u20ac\u201d about a 1.3-run expected-pitching",
-    "bankroll_after": "947.88"
+    "bankroll_after": "947.888"
   },
   {
     "date": "2026-06-18",
@@ -3277,7 +3277,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "STRONG_OUT wind (+17 mph tailwind to CF) at an already hitter-friendly park is the dominant signal, and it stacks with two non-suppressing starters (Nola 4.40 xERA and getting hit hard his last three starts; Manaea a mid-4 ERA arm), both bullpens tax",
-    "bankroll_after": "947.88"
+    "bankroll_after": "947.888"
   },
   {
     "date": "2026-06-19",
@@ -3293,7 +3293,7 @@
     "result": "win",
     "pnl": "30.339",
     "reasoning_summary": "Clear and large starting-pitcher mismatch favoring Texas: deGrom is a true ace (career 2.60 ERA/0.99 WHIP, 3.54 xERA, .296 xwOBA) facing V\u00c3\u00a1squez, who carries a 6.23 xERA and .380 xwOBA \u00e2\u20ac\u201d his 3.63 ERA is luck-driven and due for regression, meaning ",
-    "bankroll_after": "978.22"
+    "bankroll_after": "978.227"
   },
   {
     "date": "2026-06-20",
@@ -3309,7 +3309,7 @@
     "result": "win",
     "pnl": "51.933",
     "reasoning_summary": "This is a value-on-the-underdog spot: the market gives Arizona home-field credit at -120, but the underlying matchup favors Minnesota. Gallen carries an elite career profile but is genuinely diminished this year over a meaningful 75+ IP sample \u00e2\u20ac\u201d K/",
-    "bankroll_after": "1030.15"
+    "bankroll_after": "1030.16"
   },
   {
     "date": "2026-06-21",
@@ -3325,7 +3325,7 @@
     "result": "win",
     "pnl": "51.314",
     "reasoning_summary": "Clear, well-documented SP talent gap: Chase Burns has a reliable career sample (2.90 career ERA, 2.93 xERA, 11.8 career K/9, 1.12 WHIP over 124 IP) and is pitching well this year, while Elmer Rodr\u00c3\u00adguez is a 13-IP arm with alarming peripherals \u00e2\u20ac\u201d 4.",
-    "bankroll_after": "1081.46"
+    "bankroll_after": "1081.474"
   },
   {
     "date": "2026-06-21",
@@ -3341,7 +3341,7 @@
     "result": "loss",
     "pnl": "-52.0",
     "reasoning_summary": "Large, reliable SP mismatch: Webb (career 3.39 ERA / 1137 IP, xERA 3.73, last 3 starts 23 IP / 1 ER) is dominant while Gusto is a back-end arm getting hit (career 5.85 ERA, current 7.24, xERA 6.49, two of last three starts \u00e2\u2030\u00a44.2 IP with 5 and 3 ER).",
-    "bankroll_after": "1029.46"
+    "bankroll_after": "1029.474"
   },
   {
     "date": "2026-06-21",
@@ -3357,7 +3357,7 @@
     "result": "win",
     "pnl": "59.991",
     "reasoning_summary": "Clear and reliable starting-pitcher edge to the Angels: Detmers has 88 IP of strong current-year data (2.79 xERA, 0.263 xwOBA, 10.2 K/9) and is dominant in his last three (20 IP, 1 ER, 18 K), while Perkins is running a 6.15 ERA, not finishing five in",
-    "bankroll_after": "1089.45"
+    "bankroll_after": "1089.465"
   },
   {
     "date": "2026-06-21",
@@ -3373,7 +3373,7 @@
     "result": "win",
     "pnl": "50.823",
     "reasoning_summary": "Both starters are quality arms with strong contact suppression: Gilbert is an established 3.56-career-ERA strikeout pitcher (xwOBA .313, recent form excellent) and Tolle is pitching to a 2.67 xERA / .257 xwOBA. Both lineups are genuinely weak \u00e2\u20ac\u201d Bos",
-    "bankroll_after": "1140.27"
+    "bankroll_after": "1140.288"
   },
   {
     "date": "2026-06-21",
@@ -3389,7 +3389,7 @@
     "result": "win",
     "pnl": "59.05",
     "reasoning_summary": "Clear, data-backed SP mismatch: Wheeler is elite and reliable (career 3.24 ERA / 3.04 xERA over 1791 IP, prior-year xERA 2.49) while Peterson is hittable (career 4.29 ERA, 4.82 xERA, 1.63 WHIP). The weak Mets lineup (.704 OPS, only Soto a threat) fac",
-    "bankroll_after": "1199.32"
+    "bankroll_after": "1199.338"
   },
   {
     "date": "2026-06-22",
@@ -3405,7 +3405,7 @@
     "result": "loss",
     "pnl": "-60.0",
     "reasoning_summary": "Clear career-data SP edge for Cleveland: Williams (career 3.60 ERA/1.26 WHIP, 417 IP) vs Kay (career 5.15 ERA/1.53 WHIP, 155 IP, 5.64 xERA, .363 xwOBA allowed). Williams' 7-ER last start and current xERA are small-sample noise to discount per reliabi",
-    "bankroll_after": "1139.32"
+    "bankroll_after": "1139.338"
   },
   {
     "date": "2026-06-22",
@@ -3421,7 +3421,7 @@
     "result": "loss",
     "pnl": "-60.0",
     "reasoning_summary": "Houston is the rare road dog with both the SP and lineup edge. Hunter Brown's profile is stronger than the price implies \u00e2\u20ac\u201d career 3.42 ERA over 547 IP, prior-year xERA 3.14 and current xwOBA .232 (elite contact suppression), versus Cease's career 3",
-    "bankroll_after": "1079.32"
+    "bankroll_after": "1079.338"
   },
   {
     "date": "2026-06-23",
@@ -3437,7 +3437,7 @@
     "result": "loss",
     "pnl": "-54.0",
     "reasoning_summary": "Large, clean starting-pitcher mismatch: Baz is an established competent arm (career 4.20 ERA/375 IP) in solid recent form, while Johnson is a struggling rookie getting shelled (12.83 ERA, 2.33 WHIP, 5.4 BB/9, career 9.96 over 28 IP). The 1H ML is the",
-    "bankroll_after": "1025.32"
+    "bankroll_after": "1025.338"
   },
   {
     "date": "2026-06-23",
@@ -3453,7 +3453,7 @@
     "result": "loss",
     "pnl": "-54.0",
     "reasoning_summary": "Messick is the clearly superior starter \u00e2\u20ac\u201d career 2.71 ERA / 1.16 WHIP over 126 IP with a 3.07 prior-year xERA and 9+ K/9 \u00e2\u20ac\u201d versus Burke's league-average career 3.88 ERA / 1.33 WHIP and 3.99 xERA. That SP gap alone supports a Guardians lean, and i",
-    "bankroll_after": "971.32"
+    "bankroll_after": "971.338"
   },
   {
     "date": "2026-06-28",
@@ -3469,7 +3469,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "Two genuinely poor starters in a run-friendly setup: Civale is imploding (15 ER over his last 11 IP, xERA 5.30) despite a respectable career line, and Aldegheri is wild and hittable (1.50 WHIP, 4.4 BB/9, 5.96 career ERA). The Athletics bullpen is hea",
-    "bankroll_after": "922.32"
+    "bankroll_after": "922.338"
   },
   {
     "date": "2026-06-28",
@@ -3485,7 +3485,7 @@
     "result": "win",
     "pnl": "45.371",
     "reasoning_summary": "Oracle Park is an extreme run-suppressing venue with cold, calm conditions, and Chris Sale (elite, career 2.98 ERA / 3.44 xERA over 2168 IP) neutralizes the Giants' stronger lineup. Robbie Ray is below-average and wild, but the Braves' offense thins ",
-    "bankroll_after": "967.69"
+    "bankroll_after": "967.709"
   },
   {
     "date": "2026-06-28",
@@ -3501,7 +3501,7 @@
     "result": "win",
     "pnl": "46.602",
     "reasoning_summary": "The first five innings is a pure starter matchup between two career-proven RHP \u00e2\u20ac\u201d Gray (career 3.56 ERA / 1994 IP, hot recently with 11K/1ER and 1ER outings) and Rod\u00c3\u00b3n (career 3.73 / 1323 IP, solid). Both clear the reliable-data and sub-3.80 career",
-    "bankroll_after": "1014.29"
+    "bankroll_after": "1014.311"
   },
   {
     "date": "2026-06-29",
@@ -3517,7 +3517,7 @@
     "result": "win",
     "pnl": "60.756",
     "reasoning_summary": "By late June both starters have ~90 IP, so current-year stats are signal, not noise \u00e2\u20ac\u201d and Burke is the cleaner arm: xERA 3.95 vs Baz's 4.54, xwOBA .310 vs .330, WHIP 1.21 vs 1.38. Prior-year context narrows the gap (Baz was better in 2025, Burke wo",
-    "bankroll_after": "1075.05"
+    "bankroll_after": "1075.067"
   },
   {
     "date": "2026-06-29",
@@ -3533,7 +3533,7 @@
     "result": "loss",
     "pnl": "-51.0",
     "reasoning_summary": "Strong 15+ mph tailwind straight out to CF at Wrigley is a mandatory over signal, and the offensive case compounds it: the Cubs' solid lineup (.744 OPS) faces Griffin Canning, a career 4.84-ERA arm who is walking the park this year (5.5 BB/9, .350 xw",
-    "bankroll_after": "1024.05"
+    "bankroll_after": "1024.067"
   },
   {
     "date": "2026-06-29",
@@ -3549,7 +3549,7 @@
     "result": "loss",
     "pnl": "-51.0",
     "reasoning_summary": "E-Rod's 2.27 ERA sits on a 4.82 xERA (heavy regression risk), while Mahle's 5.49 ERA masks a stable 4.35 xERA over 268 PA \u00e2\u20ac\u201d on contact quality Mahle grades better than the home starter. SF also has the clearly stronger lineup (.778 vs .705 OPS), wi",
-    "bankroll_after": "973.05"
+    "bankroll_after": "973.067"
   },
   {
     "date": "2026-06-30",
@@ -3565,7 +3565,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "STRONG_OUT wind (+10.4 mph tailwind to CF) at hitter-friendly Citizens Bank Park is the dominant signal. S\u00c3\u00a1nchez's 2.13 ERA masks a 3.00 xERA and he's been hittable in 2 of his last 3 (9 ER over 10.2 IP), signaling regression. Chandler's BB/9 of 5.2",
-    "bankroll_after": "924.05"
+    "bankroll_after": "924.067"
   },
   {
     "date": "2026-06-30",
@@ -3581,7 +3581,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "deGrom is a genuine ace (2.63 career ERA over 1628 IP, 3.50 xERA, 10.8 K/9) facing Bibee, a league-average arm with regression flags (4.63 current xERA, .333 xwOBA). The 1H is a pure starter matchup and isolates deGrom's clear edge while dodging Texa",
-    "bankroll_after": "924.05"
+    "bankroll_after": "924.067"
   },
   {
     "date": "2026-06-30",
@@ -3597,7 +3597,7 @@
     "result": "win",
     "pnl": "51.474",
     "reasoning_summary": "McLean is the better starter here on the metric that matters most this season: xERA 3.43 (prior 3.51) and xwOBA .290 vs Gausman's 3.71 xERA / .301 xwOBA, with a clear K/9 edge (10.7 vs 8.8) and lower WHIP (1.12 vs 1.19). The full-game ML also capture",
-    "bankroll_after": "975.52"
+    "bankroll_after": "975.541"
   },
   {
     "date": "2026-06-30",
@@ -3613,7 +3613,7 @@
     "result": "win",
     "pnl": "49.155",
     "reasoning_summary": "Neither starter projects as a run-suppressor: Sears carries a 4.51 career ERA / 4.24 prior-year xERA, and Boyd sits at 4.30 xERA this year over 28.2 IP with an inflated 5.02 ERA \u00e2\u20ac\u201d both are roughly league-average arms, not the dual-quality pairing a",
-    "bankroll_after": "1024.67"
+    "bankroll_after": "1024.696"
   },
   {
     "date": "2026-06-30",
@@ -3629,7 +3629,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "SF holds a clear double edge yet is priced at even money: Roupp (career 3.85 ERA, 3.28 xERA, .284 xwOBA over real sample) is a markedly better, more reliable starter than Pfaadt (career 5.19 ERA, 5.26 xERA), who is making what looks like a first star",
-    "bankroll_after": "975.67"
+    "bankroll_after": "975.696"
   },
   {
     "date": "2026-07-01",
@@ -3645,7 +3645,7 @@
     "result": "win",
     "pnl": "53.9",
     "reasoning_summary": "Clean first-5 SP mismatch favoring the road underdog: Melton (xERA 3.36, WHIP 0.85, xwOBA .287, strong recent form) clearly outclasses Warren (xERA 4.11, WHIP 1.36, career 4.72 ERA, hittable in recent starts). The full-game market prices NYY -141 on ",
-    "bankroll_after": "1029.57"
+    "bankroll_after": "1029.596"
   },
   {
     "date": "2026-07-01",
@@ -3661,7 +3661,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "STRONG_OUT wind (17 mph, +14.8 mph tailwind to CF) at Kauffman pairs with two below-average pitchers by predictive metric: McClanahan xERA 4.31 (xwOBA .322) despite a shiny 3.07 career ERA, and Lugo xERA 5.27 / xwOBA .352, a genuinely hittable profil",
-    "bankroll_after": "980.57"
+    "bankroll_after": "980.596"
   },
   {
     "date": "2026-07-02",
@@ -3677,7 +3677,7 @@
     "result": "win",
     "pnl": "55.61",
     "reasoning_summary": "The pitching matchup is close to a wash between two below-average arms \u2014 Jones carries a mediocre but real 146 IP career track record (4.42 ERA, 4.81 xERA), while Rangel is a near-unknown with only 23 career IP whose prior-year xERA was 5.77 (his 2.9",
-    "bankroll_after": "1036.18"
+    "bankroll_after": "1036.206"
   },
   {
     "date": "2026-07-03",
@@ -3693,7 +3693,7 @@
     "result": "win",
     "pnl": "50.98",
     "reasoning_summary": "This is a genuine SP mismatch on current-season data with reliable samples: Pallante (89.1 IP, 3.79 xERA, 1.23 WHIP) is running more than a full run better than Peterson (73.2 IP, 4.86 xERA, 1.59 WHIP), and both samples are well past the 30-IP reliab",
-    "bankroll_after": "1087.16"
+    "bankroll_after": "1087.186"
   },
   {
     "date": "2026-07-03",
@@ -3709,7 +3709,7 @@
     "result": "win",
     "pnl": "54.0",
     "reasoning_summary": "The full-game market moved sharply from near pick'em to Boston -158, but the 1H line still prices Boston as a +105 underdog \u2014 an internal inversion, since the 1H is the most SP-driven segment and Boston has the better current arm (Bennett xERA 2.65, ",
-    "bankroll_after": "1141.16"
+    "bankroll_after": "1141.186"
   },
   {
     "date": "2026-07-04",
@@ -3725,7 +3725,7 @@
     "result": "win",
     "pnl": "88.92",
     "reasoning_summary": "Clear SP mismatch in the first five: Matthews has a real 2026 sample (56.1 IP, 4.27 xERA, 1.9 BB/9) and three straight quality starts against strong lineups (HOU, LAD, TEX), while Beck has 3 career MLB innings with no reliable track record and severe",
-    "bankroll_after": "1230.08"
+    "bankroll_after": "1230.106"
   },
   {
     "date": "2026-07-04",
@@ -3741,7 +3741,7 @@
     "result": "win",
     "pnl": "45.6",
     "reasoning_summary": "This is a first-half structural spot: Alcantara (career 3.70 ERA over 1191 IP, current xERA 3.90 on a real 486-PA sample) holds a large in-season gap over Civale (xERA 5.33, 1.57 WHIP, and outings of 3.0/4.0/5.0 IP in his last three \u2014 both pitchers w",
-    "bankroll_after": "1275.68"
+    "bankroll_after": "1275.706"
   },
   {
     "date": "2026-07-04",
@@ -3757,7 +3757,7 @@
     "result": "win",
     "pnl": "37.665",
     "reasoning_summary": "Enormous and reliably-documented SP gap: Ashcraft has a 3.07 xERA over 416 PA this season and a 3.08 career ERA across 172 IP, while Palmquist owns a career 8.15 ERA / 1.94 WHIP with 6.0 BB/9 and a 6.27 prior-year xERA \u2014 his 2.08 season ERA covers ju",
-    "bankroll_after": "1313.35"
+    "bankroll_after": "1313.371"
   },
   {
     "date": "2026-07-04",
@@ -3773,7 +3773,7 @@
     "result": "win",
     "pnl": "45.968",
     "reasoning_summary": "This is a surface-stat mirage matchup: Quantrill's 3.31 ERA hides a 4.83 xERA and a 5.81 prior-year xERA, while Flaherty's 4.97 ERA overstates his decline (4.39 xERA, 3.99 prior year, career 3.88 over 1061 IP) \u2014 a ~1.8-run gap in the most reliable St",
-    "bankroll_after": "1359.32"
+    "bankroll_after": "1359.339"
   },
   {
     "date": "2026-07-04",
@@ -3789,7 +3789,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "This is one of the largest reliable-sample SP mismatches available: Woodruff (2.84 xERA on 160 PA, 2.22 prior-year xERA, .264 xwOBA, 0 ER across his last two starts) against Kelly, whose 7.57 xERA and .408 xwOBA over 362 PA (81.2 IP) is a full-sample",
-    "bankroll_after": "1302.32"
+    "bankroll_after": "1302.339"
   },
   {
     "date": "2026-07-04",
@@ -3805,7 +3805,7 @@
     "result": "win",
     "pnl": "63.926",
     "reasoning_summary": "Large, reliable SP mismatch: Gray (career 3.54 ERA / 2001 IP, xERA 3.61, xwOBA .296, three straight dominant starts) vs Aldegheri (career 5.59 ERA, 1.74 WHIP, xERA 5.06, two of last three starts blown up early), compounded by a lineup gap (.758 vs .6",
-    "bankroll_after": "1366.25"
+    "bankroll_after": "1366.265"
   },
   {
     "date": "2026-07-05",
@@ -3821,7 +3821,7 @@
     "result": "win",
     "pnl": "62.963",
     "reasoning_summary": "Large, reliable SP quality gap: McLean's career 3.20 ERA/143 IP and stable ~3.5 xERA across two seasons (.290 xwOBA, 10.7 K/9) against P\u00e9rez, whose 3.27 ERA masks a 4.36 xERA matching his 4.36 career ERA over 1708 IP, with regression visible in his l",
-    "bankroll_after": "1429.21"
+    "bankroll_after": "1429.228"
   },
   {
     "date": "2026-07-05",
@@ -3837,7 +3837,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Clear SP quality gap that the near-pickem market underprices in the first half: Bradish carries a 3.53 career ERA over 450 IP with a 3.99 current xERA (.310 xwOBA), while Lodolo's 6.11 xERA and .374 xwOBA over 231 PA show badly degraded contact quali",
-    "bankroll_after": "1361.21"
+    "bankroll_after": "1361.228"
   },
   {
     "date": "2026-07-05",
@@ -3853,7 +3853,7 @@
     "result": "win",
     "pnl": "60.306",
     "reasoning_summary": "Large, reliably-sampled SP mismatch: Mize has a 2.82 xERA over 253 PA (65 IP, past the reliability threshold) with a career 3.99 baseline and prior-year 3.66 xERA supporting a real breakout, while Rocker's 4.51 xERA (344 PA) sits worse than his 3.83 ",
-    "bankroll_after": "1421.52"
+    "bankroll_after": "1421.534"
   },
   {
     "date": "2026-07-05",
@@ -3869,7 +3869,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Clear SP quality mismatch favoring the road team: Yesavage carries a 3.19 xERA (274 PA, well past the reliability threshold) with three straight strong starts, while Hancock's 3.47 ERA masks a 4.48 xERA, 4.33 career ERA over 253 IP, and a 5.51 prior-",
-    "bankroll_after": "1353.52"
+    "bankroll_after": "1353.534"
   },
   {
     "date": "2026-07-05",
@@ -3885,7 +3885,7 @@
     "result": "win",
     "pnl": "66.667",
     "reasoning_summary": "Real SP mismatch with reliable data on both sides: Ryan (xERA 3.21 this year, 3.43 prior, career 3.76 over 738 IP, 0.280 xwOBA) clearly outclasses Weathers, whose 4.08 ERA hides a 4.64 xERA and 0.332 xwOBA consistent with his 4.73 career mark. The 1H",
-    "bankroll_after": "1420.19"
+    "bankroll_after": "1420.201"
   },
   {
     "date": "2026-07-05",
@@ -3901,7 +3901,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Strong 13+ mph wind blowing in at Wrigley is a major run-suppression signal that affects both offenses, and the total moved from 8 to 8.5, giving the best number in the market range with a half run of cushion against a shaky Liberatore start. Both li",
-    "bankroll_after": "1352.19"
+    "bankroll_after": "1352.201"
   },
   {
     "date": "2026-07-06",
@@ -3917,7 +3917,7 @@
     "result": "win",
     "pnl": "61.261",
     "reasoning_summary": "Large SP mismatch defines the first five innings: Schlittler carries a 3.14 xERA / .277 xwOBA over a meaningful 414 PA sample (104 IP, career 2.44 ERA), while Jax sits at 5.37 xERA / .354 xwOBA over 248 PA as a converted reliever, so the contact-qual",
-    "bankroll_after": "1413.45"
+    "bankroll_after": "1413.462"
   },
   {
     "date": "2026-07-06",
@@ -3933,7 +3933,7 @@
     "result": "win",
     "pnl": "75.257",
     "reasoning_summary": "Peralta holds the real pitching edge despite the worse surface ERA: current xERA 3.77 (422 PA) vs Lopez's 4.61, with Lopez overperforming his contact quality (3.31 ERA vs 4.61 xERA) and carrying a career 3.90 vs Peralta's 3.70 over 1000+ IP. Lopez is",
-    "bankroll_after": "1488.71"
+    "bankroll_after": "1488.719"
   },
   {
     "date": "2026-07-06",
@@ -3949,7 +3949,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Clear SP edge to Drohan (3.33 xERA over 241 PA, three straight strong starts) over May, whose current-year xERA of 3.85 masks severe recent instability \u2014 11 ER over 2.2 IP across two of his last three starts, exactly the early-blowup profile that dec",
-    "bankroll_after": "1420.71"
+    "bankroll_after": "1420.719"
   },
   {
     "date": "2026-07-06",
@@ -3965,7 +3965,7 @@
     "result": "win",
     "pnl": "64.378",
     "reasoning_summary": "The market prices this near pick-em (SF -106 implied 51.5%), but the confirmed lineup gap is large: SF averages .788 OPS across nine spots versus Toronto's .676, with two sub-.600 OPS bats (Keys .571, Kirk .544) in Toronto's 5-6 holes. The pitching m",
-    "bankroll_after": "1485.09"
+    "bankroll_after": "1485.097"
   },
   {
     "date": "2026-07-07",
@@ -3981,7 +3981,7 @@
     "result": "win",
     "pnl": "56.061",
     "reasoning_summary": "This is a large, well-supported SP mismatch: Tolle carries a 3.19 xERA over 305 PA this season (74 IP, with a 3.87 career ERA over 90 IP backing it), while Schultz sits at 5.86 ERA / 5.49 xERA with a 5.4 BB/9 across his entire 43 IP career \u2014 a ~2.3-r",
-    "bankroll_after": "1541.15"
+    "bankroll_after": "1541.158"
   },
   {
     "date": "2026-07-07",
@@ -3997,7 +3997,7 @@
     "result": "loss",
     "pnl": "-74.0",
     "reasoning_summary": "Woo's underlying profile (career 3.40 ERA/0.99 WHIP over 495 IP, xERA 3.34, xwOBA .285) is clearly better than Meyer's (career 4.06/1.28, xERA 3.75 vs a luck-flattered 2.53 ERA, prior-year xERA 4.80). The full-game market moved sharply to Seattle (-1",
-    "bankroll_after": "1467.15"
+    "bankroll_after": "1467.158"
   },
   {
     "date": "2026-07-07",
@@ -4013,7 +4013,7 @@
     "result": "win",
     "pnl": "91.915",
     "reasoning_summary": "The home side is priced -143 while starting a converted reliever with a 6.01 xERA as an opener, backed by the most heavily taxed bullpen on the slate (three high-leverage arms with 2 appearances in 3 days). Kansas City has the structurally sounder pi",
-    "bankroll_after": "1559.07"
+    "bankroll_after": "1559.073"
   },
   {
     "date": "2026-07-07",
@@ -4029,7 +4029,7 @@
     "result": "loss",
     "pnl": "-73.0",
     "reasoning_summary": "Toronto's starter Spencer Miles has not pitched in the majors since May 31 (over five weeks), his last outing was 3 IP / 6 ER / 3 BB, and his entire career is 54 IP \u2014 the market is pricing his 2.83 ERA / 3.29 xERA, but a layoff return means rust plus",
-    "bankroll_after": "1486.07"
+    "bankroll_after": "1486.073"
   },
   {
     "date": "2026-07-08",
@@ -4045,7 +4045,7 @@
     "result": "credit",
     "pnl": "17.17",
     "reasoning_summary": "Non-wager cash credit reconciled 2026-07-08. All 88 wagers since the 5/25 Heritage migration reconciled EXACTLY to Heritage's records; the $17.17 gap (Heritage $1503.23 vs computed $1486.06) is a non-wager credit (cashback/rebate, VIP-4). User confirmed in Heritage Account History.",
-    "bankroll_after": "1503.24"
+    "bankroll_after": "1503.243"
   },
   {
     "date": "2026-07-08",
@@ -4061,7 +4061,7 @@
     "result": "win",
     "pnl": "52.448",
     "reasoning_summary": "Clear first-half starting-pitcher mismatch: Melton (career 2.41 ERA over 89 IP, xERA 3.08, xwOBA .274, and 0/1/1 ER across his last three starts) is genuinely good, while Springs is struggling and hittable (career xERA 4.30-4.62, and 6/3/6 ER in his ",
-    "bankroll_after": "1555.69"
+    "bankroll_after": "1555.691"
   },
   {
     "date": "2026-07-08",
@@ -4077,7 +4077,7 @@
     "result": "loss",
     "pnl": "-75.0",
     "reasoning_summary": "Both starters are pitching to ~4 innings per outing (Scott's last three: 4.0/4.1/4.2 IP; Cruz went 1.1 last time) and both are walk-prone (BB/9 4.6 and 5.1), so the game reaches the bullpens early. Both bullpens are heavily taxed with five relievers ",
-    "bankroll_after": "1480.69"
+    "bankroll_after": "1480.691"
   },
   {
     "date": "2026-07-08",
@@ -4093,7 +4093,7 @@
     "result": "win",
     "pnl": "70.093",
     "reasoning_summary": "The first-5 is a pure SP matchup and Bennett is clearly the better arm: xERA 2.83 / xwOBA .263 with three strong recent starts, versus Martin's xERA 4.11 (career 3.98 over 352 IP, prior-year xERA 5.13) and a wobbly last outing (5 BB in 3.1 IP). Despi",
-    "bankroll_after": "1550.78"
+    "bankroll_after": "1550.784"
   },
   {
     "date": "2026-07-09",
@@ -4109,7 +4109,7 @@
     "result": "win",
     "pnl": "58.647",
     "reasoning_summary": "Clear starting-pitcher mismatch isolated to the first five innings. Peterson is genuinely struggling on a full current-season sample (6.75 ERA / 1.67 WHIP / 5.14 xERA over 77 IP) and specifically surrenders runs early \u2014 10 ER in 3.2 IP his last outin",
-    "bankroll_after": "1609.43"
+    "bankroll_after": "1609.431"
   },
   {
     "date": "2026-07-09",
@@ -4125,7 +4125,7 @@
     "result": "loss",
     "pnl": "-78.0",
     "reasoning_summary": "Genuine starting-pitcher mismatch: Bryce Miller carries a career 3.74 ERA / 1.07 WHIP with a strong current-season xERA of 2.09 over a real 187-PA sample (xwOBA .226), while Janson Junk is a below-average arm (career 4.84 ERA, current xERA 4.00, xwOB",
-    "bankroll_after": "1531.43"
+    "bankroll_after": "1531.431"
   },
   {
     "date": "2026-07-09",
@@ -4141,7 +4141,7 @@
     "result": "win",
     "pnl": "60.276",
     "reasoning_summary": "Henderson is the clear SP edge: career 2.23 ERA / 11.7 K/9 with a prior-year xERA of 3.69 improving to 2.98 this year and a 0.270 xwOBA \u2014 elite contact suppression and swing-and-miss versus Pallante, a career 4.20-ERA contact pitcher (6.3 career K/9)",
-    "bankroll_after": "1591.71"
+    "bankroll_after": "1591.707"
   },
   {
     "date": "2026-07-09",
@@ -4157,7 +4157,7 @@
     "result": "loss",
     "pnl": "-78.0",
     "reasoning_summary": "First five innings is a pure starter matchup, and it's a clear mismatch: Rasmussen is a reliably good arm (career 2.87 ERA / 3.17 xERA over 557 IP) while Blackburn's tidy 2.22 season ERA sits on just 44.2 IP over a career 4.73 ERA profile, plus irreg",
-    "bankroll_after": "1513.71"
+    "bankroll_after": "1513.707"
   },
   {
     "date": "2026-07-10",
@@ -4173,7 +4173,7 @@
     "result": "win",
     "pnl": "77.028",
     "reasoning_summary": "Messick is the better starter tonight by every predictive metric \u2014 xERA 3.22 vs Alcantara's 3.78, 9.2 vs 6.7 K/9, and stronger current ERA/WHIP \u2014 yet Cleveland is available at even money on the road. The market leans Miami on home field and Alcantara",
-    "bankroll_after": "1590.74"
+    "bankroll_after": "1590.735"
   },
   {
     "date": "2026-07-10",
@@ -4189,7 +4189,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Clean first-5 SP mismatch backed by reliable career samples on both sides: Ashcraft (career 3.03 ERA, 3.17 xERA, .278 xwOBA, 2.5 BB/9 over 178 IP) is a genuinely above-average arm, while Sproat (career 5.06 ERA, 4.62 xERA, 4.0 BB/9 over 99 IP) is a b",
-    "bankroll_after": "1590.74"
+    "bankroll_after": "1590.735"
   },
   {
     "date": "2026-07-10",
@@ -4205,7 +4205,7 @@
     "result": "loss",
     "pnl": "-76.0",
     "reasoning_summary": "Castillo is the materially better starter by true talent (career 3.62 ERA/1.19 WHIP, 9.5 K/9, xERA 4.56) while Martinez's 2.61 ERA is unsustainable against a 4.68 xERA and 5.5 K/9 \u2014 a regression candidate. Getting the superior pitcher's team at even ",
-    "bankroll_after": "1514.74"
+    "bankroll_after": "1514.735"
   },
   {
     "date": "2026-07-10",
@@ -4221,7 +4221,7 @@
     "result": "loss",
     "pnl": "-76.0",
     "reasoning_summary": "The cleanest edge is the starting-pitcher mismatch, best isolated in the 1H where the SP dominates and Houston's taxed bullpen (Santa, Javier) is irrelevant. Brown carries a career 3.48 ERA over 560 IP with a 3.41 xERA and .288 xwOBA \u2014 genuine contac",
-    "bankroll_after": "1438.74"
+    "bankroll_after": "1438.735"
   },
   {
     "date": "2026-07-10",
@@ -4237,7 +4237,7 @@
     "result": "win",
     "pnl": "44.186",
     "reasoning_summary": "This is a large, reliable career-data SP mismatch: Sale (career 2.98 ERA / 1.05 WHIP over 2179 IP, prior-year xERA 2.84, elite K/9) versus Leahy (career 3.73 ERA but 1.45 WHIP this year, xwOBA .359, prior-year xERA 4.42 \u2014 a hittable back-end arm). Th",
-    "bankroll_after": "1482.93"
+    "bankroll_after": "1482.921"
   },
   {
     "date": "2026-07-10",
@@ -4253,7 +4253,7 @@
     "result": "loss",
     "pnl": "-76.0",
     "reasoning_summary": "Two quality, reliable starters (Gray career 3.54 ERA/xERA 3.70 and in dominant recent form; McLean career 3.19/xERA 3.41) against a notably weak Mets lineup (.698 OPS, only Soto and Ewing dangerous, punchless bottom third) and an average Boston lineu",
-    "bankroll_after": "1406.93"
+    "bankroll_after": "1406.921"
   },
   {
     "date": "2026-07-11",
@@ -4269,7 +4269,7 @@
     "result": "loss",
     "pnl": "-70.0",
     "reasoning_summary": "Clear starting-pitcher edge for Seattle that the near-pickem 1H ML underprices. Gilbert is the more reliable arm on every axis \u2014 career 3.53 ERA/1.05 WHIP over 942 IP, current 3.19 ERA/0.95 WHIP, xERA 3.62 \u2014 versus Jax at 3.60 ERA but a 1.22 WHIP, 3.",
-    "bankroll_after": "1336.93"
+    "bankroll_after": "1336.921"
   },
   {
     "date": "2026-07-11",
@@ -4285,7 +4285,7 @@
     "result": "win",
     "pnl": "68.627",
     "reasoning_summary": "The first-5 innings isolate a matchup of two starters who both project to suppress runs on reliable career data \u2014 Perez (career 3.75 ERA, K/9 10+, prior-year xERA 3.23, elite recent form) and Bibee (career 3.69 ERA over 604 IP, prior-year xERA 3.64).",
-    "bankroll_after": "1405.56"
+    "bankroll_after": "1405.548"
   },
   {
     "date": "2026-07-11",
@@ -4301,7 +4301,7 @@
     "result": "win",
     "pnl": "73.534",
     "reasoning_summary": "Lambert holds a clear current-season pitching edge over Rocker (3.54 xERA / .293 xwOBA vs 4.59 xERA / .330 xwOBA, roughly a full run of separation) on an adequate 80-IP sample. The market prices Houston as a +100 road dog on home-field weight alone, ",
-    "bankroll_after": "1479.09"
+    "bankroll_after": "1479.082"
   },
   {
     "date": "2026-07-11",
@@ -4317,7 +4317,7 @@
     "result": "loss",
     "pnl": "-70.0",
     "reasoning_summary": "Clear starting-pitcher edge for Atlanta: L\u00f3pez (career 3.89 ERA over 877 IP, 1 ER in each of his last three starts) is meaningfully better than Liberatore (career 4.78, 5.34 ERA, 1.53 WHIP, 5.49 xERA, .357 xwOBA \u2014 genuinely hittable). The 1H ML isola",
-    "bankroll_after": "1409.09"
+    "bankroll_after": "1409.082"
   },
   {
     "date": "2026-07-11",
@@ -4333,7 +4333,7 @@
     "result": "loss",
     "pnl": "-70.0",
     "reasoning_summary": "Clear starting-pitcher edge for Toronto backed by reliable data, not noise: Buehler's xERA is 4.46 this year (375 PA) and 5.41 prior year \u2014 a sustained ~1.5-season decline confirmed by two recent blowups (7 ER, 9 ER), so his 3.66 career ERA overstate",
-    "bankroll_after": "1339.09"
+    "bankroll_after": "1339.082"
   },
   {
     "date": "2026-07-11",
@@ -4349,7 +4349,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Clear SP mismatch: Drohan (3.49 xERA, .291 xwOBA, 1.24 WHIP, three straight strong starts) vs Chandler (4.28 xERA over 400 PA, 5.2 BB/9, 9 ER across his last two outings with collapsing command). The first-five market isolates this edge from bullpen/",
-    "bankroll_after": "1339.09"
+    "bankroll_after": "1339.082"
   },
   {
     "date": "2026-07-12",
@@ -4365,7 +4365,7 @@
     "result": "win",
     "pnl": "81.07",
     "reasoning_summary": "This is a pure SP-quality mismatch that the 1H market prices as a near pick-em. Cantillo holds a clear current-form edge over Phillips with meaningful mid-season samples behind it: xERA 4.07 vs 4.80, xwOBA .313 vs .337, K/9 9.0 vs 6.7, and 1 ER over ",
-    "bankroll_after": "1420.16"
+    "bankroll_after": "1420.152"
   },
   {
     "date": "2026-07-12",
@@ -4381,7 +4381,7 @@
     "result": "loss",
     "pnl": "-67.0",
     "reasoning_summary": "Clear SP mismatch: Ginn brings 223 career IP (4.08 ERA), 98.2 IP this season, and a 4.04 xERA, while Schultz is a rookie with consistent bad indicators across his full 48 IP \u2014 6.00 ERA, 6.04 xERA, .372 xwOBA, 5.4 BB/9, and three straight poor starts.",
-    "bankroll_after": "1353.16"
+    "bankroll_after": "1353.152"
   },
   {
     "date": "2026-07-12",
@@ -4397,7 +4397,7 @@
     "result": "loss",
     "pnl": "-67.0",
     "reasoning_summary": "Clear SP mismatch by contact quality: Seymour's xERA is 3.21 (K/9 10.6, prior-year xERA 3.93, career 3.88) while Hancock's 3.23 ERA masks a 4.33 xERA (prior-year 5.51, career 4.22) \u2014 the ERA gap inverts on expected performance. The away lineup averag",
-    "bankroll_after": "1286.16"
+    "bankroll_after": "1286.152"
   },
   {
     "date": "2026-07-12",
@@ -4413,7 +4413,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Large, well-sampled SP gap: Gausman (career 3.84 ERA/2017 IP, current xERA 3.88) vs Marquez (xERA 5.62 current, 5.81 prior year, K/9 collapsed to 5.7 with BB/9 4.3, second start off a two-month layoff). Toronto's confirmed lineup (.751 OPS) clearly o",
-    "bankroll_after": "1218.16"
+    "bankroll_after": "1218.152"
   },
   {
     "date": "2026-07-17",
@@ -4429,7 +4429,7 @@
     "result": "win",
     "pnl": "53.509",
     "reasoning_summary": "This is a large career-grade SP mismatch: Cole (career 3.20 ERA over 2000+ IP, current xERA 3.48, xwOBA .291, three solid recent starts) against Sasaki (career 5.06 ERA, 4.2 BB/9, current xERA 4.64 on a real 352-PA sample). The full-game price is nea",
-    "bankroll_after": "1271.67"
+    "bankroll_after": "1271.661"
   },
   {
     "date": "2026-07-17",
@@ -4445,7 +4445,7 @@
     "result": "win",
     "pnl": "74.619",
     "reasoning_summary": "The starting pitcher edge runs clearly toward Minnesota: Ober's underlying quality is stable and solid (career 4.11 ERA / 1.13 WHIP over 689 IP, xERA 4.33 tracking his prior-year 4.36, xwOBA .322), while Rea is having a genuinely poor underlying seas",
-    "bankroll_after": "1346.29"
+    "bankroll_after": "1346.28"
   },
   {
     "date": "2026-07-17",
@@ -4461,7 +4461,7 @@
     "result": "win",
     "pnl": "54.464",
     "reasoning_summary": "Mid-season Statcast samples are now reliable and show a real SP gap: King (xERA 4.55, xwOBA .329, WHIP 1.15, two quality starts in last three) vs Lugo (xERA 5.48 for a second straight year, xwOBA .357, WHIP 1.43, last two starts 4.0 and 4.1 IP with 8",
-    "bankroll_after": "1400.75"
+    "bankroll_after": "1400.744"
   },
   {
     "date": "2026-07-17",
@@ -4477,7 +4477,7 @@
     "result": "win",
     "pnl": "72.095",
     "reasoning_summary": "The board price of +118 on Chicago is dramatically off-market: consensus has moved from Toronto -134 at open to Chicago -116 now (a 30+ cent sharp move toward the White Sox), making the devigged market estimate ~51-52% for Chicago while +118 only req",
-    "bankroll_after": "1472.85"
+    "bankroll_after": "1472.839"
   },
   {
     "date": "2026-07-17",
@@ -4493,7 +4493,7 @@
     "result": "loss",
     "pnl": "-61.0",
     "reasoning_summary": "The bettable +131 on Miami is meaningfully better than the +115 consensus, and the market has moved toward Miami all day (home side lengthened from -149 to -135). Devigged consensus puts Miami near 45%, and the analytical lean adds to that: Miami's c",
-    "bankroll_after": "1411.85"
+    "bankroll_after": "1411.839"
   },
   {
     "date": "2026-07-17",
@@ -4509,7 +4509,7 @@
     "result": "loss",
     "pnl": "-61.0",
     "reasoning_summary": "Lambert's breakout is supported by a real sample: 3.38 xERA / .287 xwOBA over 354 PA (86 IP) with three strong recent starts, while his ugly 5.46 career ERA is Coors-inflated and likely still anchoring his market price. Kremer's shiny 1.00 WHIP sits ",
-    "bankroll_after": "1350.85"
+    "bankroll_after": "1350.839"
   },
   {
     "date": "2026-07-18",
@@ -4525,7 +4525,7 @@
     "result": "win",
     "pnl": "73.981",
     "reasoning_summary": "Consensus prices this game dead even (-108/-109), but the bettable board offers the Pirates at +108 \u2014 a meaningfully off-market price worth roughly 4-6% EV even at a coin-flip probability. The pitcher matchup independently supports the away side: Jon",
-    "bankroll_after": "1424.83"
+    "bankroll_after": "1424.82"
   },
   {
     "date": "2026-07-18",
@@ -4541,7 +4541,7 @@
     "result": "win",
     "pnl": "61.261",
     "reasoning_summary": "Clear starting pitcher edge for Baltimore priced as a near pick'em: Rogers (career 3.92 ERA/610 IP, prior-year xERA 3.41, three straight strong starts of 1 ER or fewer) against Arrighetti (career 4.63, xERA 5.20 on top of a 5.44 prior year, 4.8 BB/9,",
-    "bankroll_after": "1486.09"
+    "bankroll_after": "1486.081"
   },
   {
     "date": "2026-07-18",
@@ -4557,7 +4557,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Both starters carry mediocre career profiles, but the expected-stats gap favors Canning: prior-year xERA 4.70 vs Dobnak's 5.73, and Dobnak's 1.86 ERA rests on just 9.2 IP with a 3.7 K/9 \u2014 an extreme-contact profile whose results small-sample luck is ",
-    "bankroll_after": "1418.09"
+    "bankroll_after": "1418.081"
   },
   {
     "date": "2026-07-18",
@@ -4573,7 +4573,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Large career SP mismatch: May (career 4.01 ERA, 417 IP; current xERA 3.74 over 389 PA) vs Pfaadt (career 5.08 ERA, 508 IP; xERA 4.42), yet the 1H is priced nearly even at -107. The 1H isolates the starting-pitcher edge with no bullpen dilution, in a ",
-    "bankroll_after": "1350.09"
+    "bankroll_after": "1350.081"
   },
   {
     "date": "2026-07-18",
@@ -4589,7 +4589,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Sheehan's underlying profile is clearly better than Weathers': xERA 3.88 vs 4.39, xwOBA .306 vs .324, and prior-year xERA 3.00 vs 3.96, with Sheehan's 4.81 ERA masking strong recent run prevention (4 ER over his last 14.2 IP). Weathers' season ERA (4",
-    "bankroll_after": "1350.09"
+    "bankroll_after": "1350.081"
   },
   {
     "date": "2026-07-18",
@@ -4605,7 +4605,7 @@
     "result": "loss",
     "pnl": "-68.0",
     "reasoning_summary": "Bradley has a clear current-season edge over Boyd on real samples: xERA 3.82 over 431 PA and 102.2 IP versus Boyd's 4.90 xERA, with Bradley in elite recent form (4 ER over his last 19 IP with 27 K). The matchup-level factors mostly favor the road sid",
-    "bankroll_after": "1282.09"
+    "bankroll_after": "1282.081"
   },
   {
     "date": "2026-07-19",
@@ -4621,7 +4621,7 @@
     "result": "loss",
     "pnl": "-64.0",
     "reasoning_summary": "The market prices Arizona as the favorite largely on Rodriguez's 2.29 ERA, but his 5.10 xERA over a full 462 PA sample (with a .345 xwOBA and a 4.51 prior-year xERA) says he has been substantially outperforming his contact quality and is a strong reg",
-    "bankroll_after": "1218.09"
+    "bankroll_after": "1218.081"
   },
   {
     "date": "2026-07-19",
@@ -4637,7 +4637,7 @@
     "result": "win",
     "pnl": "64.866",
     "reasoning_summary": "Skenes carries a large reliability-weighted pitching edge over Cantillo (career 2.37 ERA / xERA 2.73 over 429 IP vs career 3.64 / xERA 3.90 with a 1.40 WHIP and 4.4 BB/9), and the lineup gap compounds it: Cleveland's confirmed lineup averages .642 OP",
-    "bankroll_after": "1282.96"
+    "bankroll_after": "1282.947"
   },
   {
     "date": "2026-07-19",
@@ -4653,7 +4653,7 @@
     "result": "loss",
     "pnl": "-64.0",
     "reasoning_summary": "Cameron holds a clear pitcher edge over M\u00e1rquez on every reliable layer: career (3.77 ERA/1.23 WHIP vs 4.69/1.34), current xERA (4.96 vs 5.70), and current peripherals (8.6 K/9 vs 6.0 K/9 with 4.3 BB/9 for M\u00e1rquez, whose .362 xwOBA marks him as genui",
-    "bankroll_after": "1218.96"
+    "bankroll_after": "1218.947"
   },
   {
     "date": "2026-07-19",
@@ -4669,7 +4669,7 @@
     "result": "win",
     "pnl": "65.514",
     "reasoning_summary": "The bettable board posts this total at 8 (over -101) while a 9-book consensus sits a full run higher at 9, with the line having steamed upward from its opener \u2014 the market has moved decisively toward runs and the bettable number has not caught up. Ge",
-    "bankroll_after": "1284.47"
+    "bankroll_after": "1284.461"
   },
   {
     "date": "2026-07-19",
@@ -4685,7 +4685,7 @@
     "result": "loss",
     "pnl": "-64.0",
     "reasoning_summary": "Both starters have genuine career-data run-suppression profiles: McClanahan (career 2.99 ERA over 490 IP, three straight dominant starts) and Gray (career 3.53 over 2013 IP, 3.63 xERA, 2 ER total in last three starts), satisfying the both-pitchers re",
-    "bankroll_after": "1220.47"
+    "bankroll_after": "1220.461"
   },
   {
     "date": "2026-07-19",
@@ -4701,7 +4701,7 @@
     "result": "loss",
     "pnl": "-64.0",
     "reasoning_summary": "This is an elite-SP suppression spot: Skenes (career 2.37 ERA, xERA 2.73, xwOBA .258) faces a Cleveland lineup averaging .642 OPS with three bats under .570 OPS, while Cantillo backs it up with strong recent form (3 ER over his last 15 IP, xERA 3.90)",
-    "bankroll_after": "1156.47"
+    "bankroll_after": "1156.461"
   },
   {
     "date": "2026-07-20",
@@ -4717,7 +4717,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "Pittsburgh has the clear starting pitching edge: Ashcraft (xERA 3.31, career 3.20 ERA over 183 IP, 0.283 xwOBA) profiles a full run-plus better than Weathers (xERA 4.43, career 4.73 over 378 IP, 0.324 xwOBA), whose last three starts include a 1.2 IP ",
-    "bankroll_after": "1098.47"
+    "bankroll_after": "1098.461"
   },
   {
     "date": "2026-07-20",
@@ -4733,7 +4733,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "The market prices this near pick'em, but the underlying pitching quality favors the away starter: McDonald's 5.02 ERA masks a 3.91 current xERA (291 PA, real sample) and a 3.21 prior-year xERA, while Wacha sits at 4.16 xERA both this year and last \u2014 ",
-    "bankroll_after": "1040.47"
+    "bankroll_after": "1040.461"
   },
   {
     "date": "2026-07-20",
@@ -4749,7 +4749,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "The bettable away price of +131 is significantly better than the consensus +115, an off-market number worth roughly 6 cents of extra edge on its own. The pitching gap favors the home side but is narrower than surface ERA suggests: Sheehan's 3.91 xERA",
-    "bankroll_after": "982.47"
+    "bankroll_after": "982.461"
   },
   {
     "date": "2026-07-20",
@@ -4765,7 +4765,7 @@
     "result": "win",
     "pnl": "56.645",
     "reasoning_summary": "The bettable total of 10 sits above the entire 6-book consensus range (9\u20139.5) after a full-run steam from the 10.5 open, so the under gets a half run of pure line value plus push protection at exactly 10 for near-flat juice. Devigging current consens",
-    "bankroll_after": "1039.12"
+    "bankroll_after": "1039.106"
   },
   {
     "date": "2026-07-20",
@@ -4781,7 +4781,7 @@
     "result": "win",
     "pnl": "57.746",
     "reasoning_summary": "Flaherty holds a clear current-form edge: 2 ER over his last 16.2 IP with a 4.34 xERA, while Taillon returns from a six-week layoff with a 5.52 xERA over a real 287-PA sample and likely a capped pitch count, forcing the Cubs pen in early. Consensus p",
-    "bankroll_after": "1096.87"
+    "bankroll_after": "1096.852"
   },
   {
     "date": "2026-07-20",
@@ -4797,7 +4797,7 @@
     "result": "win",
     "pnl": "48.756",
     "reasoning_summary": "Blanco has a clear career-data edge over Junk (career 3.45 ERA / 3.19 prior-year xERA over 274 IP vs Junk's career 4.77 over 215 IP), and the actual bettable home ML at -119 is roughly 15 cents better than the consensus -134 \u2014 an off-market price imp",
-    "bankroll_after": "1145.63"
+    "bankroll_after": "1145.608"
   },
   {
     "date": "2026-07-21",
@@ -4813,7 +4813,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "Both starters project hittable and short: Imai carries a 5.11 xERA with a 5.7 BB/9 and has failed to reach 4 innings in two of his last three starts, while Phillips' 3.48 ERA masks a 4.87 xERA (nearly 1.4 runs of positive luck) with a 4.2 BB/9 and si",
-    "bankroll_after": "1088.63"
+    "bankroll_after": "1088.608"
   },
   {
     "date": "2026-07-21",
@@ -4829,7 +4829,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "Clear SP mismatch across every reliability tier: away starter has a 3.43 career ERA over 1188 IP with a 4.22 current xERA (3.79 prior year), versus the home starter's 4.39 career ERA, 5.35 current xERA, and 6.45 season ERA with escalating walk proble",
-    "bankroll_after": "1031.63"
+    "bankroll_after": "1031.608"
   },
   {
     "date": "2026-07-21",
@@ -4845,7 +4845,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "Established SP edge: Bradish (career 3.50 ERA / 1.21 WHIP over 465 IP, prior-year xERA 3.09, two strong recent starts) faces a home starter with only 9 career IP who has not pitched past the 4th inning, forcing 5-6 innings from a bullpen with three t",
-    "bankroll_after": "1031.63"
+    "bankroll_after": "1031.608"
   },
   {
     "date": "2026-07-21",
@@ -4861,7 +4861,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "The bettable away price (+133) is stranded at the opening number while the market has moved sharply toward Minnesota (home ML -148 open to -126 consensus, a 22-cent move), making this a clear off-market price: devigged consensus puts Minnesota near 4",
-    "bankroll_after": "974.63"
+    "bankroll_after": "974.608"
   },
   {
     "date": "2026-07-21",
@@ -4877,7 +4877,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "This is an off-market line, not a scoring thesis: the consensus total steamed from 8.5 at open to 10 now (no book in the 7-book set is below 9.5), while the bettable board still shows 9 with the over at -102. A 1.5-run steam is sharp, likely environm",
-    "bankroll_after": "917.63"
+    "bankroll_after": "917.608"
   },
   {
     "date": "2026-07-21",
@@ -4893,7 +4893,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "Buehler is in severe decline with a full-season sample confirming it (5.36 ERA over 89 IP, 20 ER in his last 11 IP with command loss), while Lopez is in strong form (3.50 ERA, 6 ER over his last 15 IP) \u2014 career numbers converge but current-year data ",
-    "bankroll_after": "860.63"
+    "bankroll_after": "860.608"
   },
   {
     "date": "2026-07-22",
@@ -4909,7 +4909,7 @@
     "result": "win",
     "pnl": "47.589",
     "reasoning_summary": "Ober is the clearly better starter on reliable data: career 4.11 ERA / 1.13 WHIP over 694 IP, xERA 4.28, xwOBA .319, and two solid recent starts including 5 IP/1 ER against this same Cleveland club on 7/09. Cecconi is a below-average arm (career 4.92",
-    "bankroll_after": "908.22"
+    "bankroll_after": "908.197"
   },
   {
     "date": "2026-07-22",
@@ -4925,7 +4925,7 @@
     "result": "win",
     "pnl": "44.72",
     "reasoning_summary": "The first five innings are a pure starter matchup, and there is a real quality gap: Montero (3.22 ERA, 3.49 xERA, .290 xwOBA, 0.98 WHIP over 100 reliable IP) is meaningfully better than Rea (4.74 ERA, 5.46 xERA, .355 xwOBA), yet the road side is pric",
-    "bankroll_after": "952.94"
+    "bankroll_after": "952.917"
   },
   {
     "date": "2026-07-22",
@@ -4941,7 +4941,7 @@
     "result": "win",
     "pnl": "41.317",
     "reasoning_summary": "Toronto is using Fisher as an opener (last three outings 1.0/1.1/1.0 IP), pushing the game onto a bullpen that is taxed \u2014 Corbin threw 48 pitches yesterday, plus Fluharty and Fisher both worked twice. Jax is a legitimate starter (career 4.04 ERA over",
-    "bankroll_after": "994.26"
+    "bankroll_after": "994.234"
   },
   {
     "date": "2026-07-22",
@@ -4957,7 +4957,7 @@
     "result": "loss",
     "pnl": "-43.0",
     "reasoning_summary": "SP matchup is roughly even \u2014 Alcantara is the more proven arm, and Lambert's poor career line is offset by a genuine current-year xERA of 3.29 over a meaningful 379-PA sample. The edge is offensive: Miami's balanced .802-OPS lineup outclasses Houston",
-    "bankroll_after": "951.26"
+    "bankroll_after": "951.234"
   },
   {
     "date": "2026-07-23",
@@ -4973,7 +4973,7 @@
     "result": "win",
     "pnl": "60.524",
     "reasoning_summary": "Minnesota carries the clearly stronger lineup (.761 OPS vs Cleveland's .693, with Buxton/Jeffers at .900+ against a Cleveland order whose 7-8-9 all sit under .675), and Bradley's xERA (3.91) actually edges Williams' (4.37) despite Williams' louder K ",
-    "bankroll_after": "1011.78"
+    "bankroll_after": "1011.758"
   },
   {
     "date": "2026-07-24",
@@ -4989,7 +4989,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Large career SP gap: Rodriguez is an established veteran (career 4.06 ERA, 1421 IP) against Palmquist, a genuinely bad starter (career 8.87 ERA, 1.95 WHIP, 5.5 BB/9, prior-year xERA 6.27) who cannot escape the early innings (last three starts: 1.2, 3",
-    "bankroll_after": "1011.78"
+    "bankroll_after": "1011.758"
   },
   {
     "date": "2026-07-24",
@@ -5005,7 +5005,7 @@
     "result": "loss",
     "pnl": "-51.0",
     "reasoning_summary": "Clear starting-pitcher edge to Toronto in the first five: Yesavage carries a 3.69 career ERA / 3.34 prior-year xERA / .284 xwOBA versus Sandoval, who owns a 1.71 WHIP this year, a walk-prone 3.9 career BB/9, and only 9.1 rusty IP back off the shelf. ",
-    "bankroll_after": "960.78"
+    "bankroll_after": "960.758"
   },
   {
     "date": "2026-07-25",
@@ -5021,7 +5021,7 @@
     "result": "loss",
     "pnl": "-48.0",
     "reasoning_summary": "Large SP mismatch: Perez (career 3.65 ERA, 1.10 WHIP, 10.2 K/9; current xERA 4.04 with 19 IP / 2 ER over his last three starts) vs Vasquez, whose 87 IP this season carry a 6.77 xERA / .389 xwOBA (prior-year xERA 5.37, so this is confirmation not smal",
-    "bankroll_after": "912.78"
+    "bankroll_after": "912.758"
   },
   {
     "date": "2026-07-25",
@@ -5037,7 +5037,7 @@
     "result": "win",
     "pnl": "45.241",
     "reasoning_summary": "V\u00e1squez (6.77 xERA over 386 PA, .389 xwOBA, two of last three starts under 3.2 IP) faces a confirmed .780-OPS lineup, and the bullpen behind him has five taxed relievers covering the likely 4-5 post-starter innings \u2014 the home side alone projects near",
-    "bankroll_after": "958.02"
+    "bankroll_after": "957.999"
   },
   {
     "date": "2026-07-25",
@@ -5053,7 +5053,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "The starters are near-equivalent below-average arms (Paredes: 5.0 K/9, 5.23 xERA over 34 IP; Basso: 5.34 xERA this year but 4.04 career ERA and 4.16 prior-year xERA), so neither side gets a meaningful SP edge and both project short outings. The diffe",
-    "bankroll_after": "958.02"
+    "bankroll_after": "957.999"
   },
   {
     "date": "2026-07-25",
@@ -5069,7 +5069,7 @@
     "result": "loss",
     "pnl": "-48.0",
     "reasoning_summary": "Three fundamentals converge on Seattle: Woo holds a clear SP edge over Eovaldi (xERA 3.45 vs 4.01, xwOBA .289 vs .310, career WHIP 1.00 vs 1.25) with better recent form (Eovaldi lasted only 4 IP with 4 ER last out). Texas fields a notably weak lineup",
-    "bankroll_after": "910.02"
+    "bankroll_after": "909.999"
   },
   {
     "date": "2026-07-26",
@@ -5085,7 +5085,7 @@
     "result": "win",
     "pnl": "51.3",
     "reasoning_summary": "The expected-metrics gap favors the road dog: Abbott carries the better career profile (3.52 ERA over 524 IP), a far better prior-year xERA (3.56 vs 4.42), and a better current xERA (4.58 vs 5.23 on 400+ PA samples). Leahy's 3.59 ERA against a 5.23 x",
-    "bankroll_after": "961.32"
+    "bankroll_after": "961.299"
   },
   {
     "date": "2026-07-26",
@@ -5101,7 +5101,7 @@
     "result": "win",
     "pnl": "42.056",
     "reasoning_summary": "Extreme heat (103F) at Target Field materially boosts carry, and both starters project hittable on real samples: Springs xERA 4.79 over 450 PA this year (career 4.05 fading), Prielipp xERA 4.26 with a modest 66 IP track record. Lineups clear the offe",
-    "bankroll_after": "1003.38"
+    "bankroll_after": "1003.355"
   },
   {
     "date": "2026-07-26",
@@ -5117,7 +5117,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "Both starters are significant regression candidates by contact quality: Leahy's xERA is 5.26 against a 3.59 ERA (prior-year xERA 4.42 confirms the profile) and Abbott's is 4.60 against 3.89, so the run environment is stronger than surface stats and r",
-    "bankroll_after": "958.38"
+    "bankroll_after": "958.355"
   },
   {
     "date": "2026-07-27",
@@ -5133,7 +5133,7 @@
     "result": "win",
     "pnl": "42.478",
     "reasoning_summary": "This is a genuine SP mismatch concentrated in the first five innings: Urena carries a 3.28 xERA over a meaningful 378-PA sample with three straight run-suppressing starts (1 ER, 0 ER, 1 ER), while Imai sits at 4.89 xERA / .339 xwOBA with 5.6 BB/9 and",
-    "bankroll_after": "1000.86"
+    "bankroll_after": "1000.833"
   },
   {
     "date": "2026-07-27",
@@ -5149,7 +5149,7 @@
     "result": "win",
     "pnl": "34.991",
     "reasoning_summary": "This is a large, reliable SP mismatch: Fried carries a 3.03 career ERA over 1146 IP and a 2.48 xERA / .246 xwOBA this season (256 PA), while Schultz's 6.04 ERA is fully confirmed by a 6.03 xERA / .371 xwOBA over 253 PA \u2014 no luck component to regress.",
-    "bankroll_after": "1035.85"
+    "bankroll_after": "1035.824"
   },
   {
     "date": "2026-07-27",
@@ -5165,7 +5165,7 @@
     "result": "win",
     "pnl": "44.437",
     "reasoning_summary": "Both starters are genuinely hittable on meaningful current-season samples (Peterson xERA 5.23 over 89 IP, Liberatore xERA 5.26 over 99 IP \u2014 nearly identical, both well below average), so neither side projects to suppress runs. The environment compoun",
-    "bankroll_after": "1080.29"
+    "bankroll_after": "1080.261"
   },
   {
     "date": "2026-07-27",
@@ -5181,7 +5181,7 @@
     "result": "win",
     "pnl": "58.266",
     "reasoning_summary": "The pitching and bullpen fundamentals favor the home dog. Mahle's career profile (4.19 ERA, 4.24 xERA over 818 IP, matching prior-year xERA) is meaningfully better than Sproat's (5.03 career ERA, 4.83 xERA, 4.5 BB/9), and Sproat hasn't completed 5 in",
-    "bankroll_after": "1138.56"
+    "bankroll_after": "1138.527"
   },
   {
     "date": "2026-07-28",
@@ -5197,7 +5197,7 @@
     "result": "win",
     "pnl": "40.141",
     "reasoning_summary": "This is a genuine large-gap SP mismatch, the cleanest 1H ML profile: Cole (career 3.20 ERA over 2016 IP, current xERA 3.50, dominant recent form \u2014 19 IP, 8 ER, 25 K, 2 BB over last three) against Kay (career 4.85 ERA, current xERA 5.30 over 444 PA, 1",
-    "bankroll_after": "1178.7"
+    "bankroll_after": "1178.668"
   },
   {
     "date": "2026-07-28",
@@ -5213,7 +5213,7 @@
     "result": "win",
     "pnl": "57.21",
     "reasoning_summary": "Both starters carry large-sample current-year xERAs near 5.5 (Rea 5.59, McGreevy 5.48 on 450+ PA each), signaling loud contact allowed on both sides; McGreevy's 3.07 ERA vs 5.48 xERA is a major overperformance gap for a 5.8 K/9 contact pitcher, and h",
-    "bankroll_after": "1235.91"
+    "bankroll_after": "1235.878"
   },
   {
     "date": "2026-07-28",
@@ -5229,7 +5229,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "Both starters clear the career-data bar for a 1H under: Henderson (career 2.54 ERA, 0.96 WHIP, current xERA 2.88, elite 11 K/9 vs 1.6 BB/9) covers the full first five himself given his consistent 5-IP outings, and Roupp (267 career IP at 3.81, curren",
-    "bankroll_after": "1178.91"
+    "bankroll_after": "1178.878"
   },
   {
     "date": "2026-07-29",
@@ -5245,7 +5245,7 @@
     "result": "win",
     "pnl": "45.966",
     "reasoning_summary": "Grayson Rodriguez is in a legitimately bad stretch with a meaningful sample behind it: 7.82 current xERA over 186 PA (39 IP, past the reliability threshold), .411 xwOBA, 11 ER over his last 8 innings, against a below-average career baseline (4.73 ERA",
-    "bankroll_after": "1224.88"
+    "bankroll_after": "1224.844"
   },
   {
     "date": "2026-07-30",
@@ -5261,7 +5261,7 @@
     "result": "win",
     "pnl": "55.076",
     "reasoning_summary": "Burke over Weathers is a genuine SP mismatch at a near pick'em price: Burke's current-season xERA (3.44 over 482 PA) and xwOBA (.288) are far better than Weathers' (4.50, .326), and his last three starts (19.2 IP, 3 ER, 24 K) confirm the form. The Ya",
-    "bankroll_after": "1279.96"
+    "bankroll_after": "1279.92"
   },
   {
     "date": "2026-07-30",
@@ -5277,7 +5277,7 @@
     "result": "loss",
     "pnl": "-61.0",
     "reasoning_summary": "Clear SP quality gap toward Seattle: Woo (career 3.47 ERA/1.02 WHIP over 511 IP, xERA 3.52, 1.9 BB/9) profiles roughly 0.8 runs better than Sasaki (career 4.64 ERA, xERA 4.35 over 399 PA, 3.5 BB/9), whose strong recent starts don't outweigh his seaso",
-    "bankroll_after": "1218.96"
+    "bankroll_after": "1218.92"
   },
   {
     "date": "2026-07-30",
@@ -5293,7 +5293,7 @@
     "result": "loss",
     "pnl": "-64.0",
     "reasoning_summary": "This is a genuine SP mismatch backed by meaningful mid-season samples, not early-season noise: Lowder has a 5.61 xERA and .359 xwOBA over 353 PA (with two of his last three starts allowing 6+ ER), while Ramirez sits at 3.81 xERA and .302 xwOBA over 2",
-    "bankroll_after": "1154.96"
+    "bankroll_after": "1154.92"
   },
   {
     "date": "2026-07-31",
@@ -5309,7 +5309,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "Market prices this as a pick'em, but the SP gap favors the road team meaningfully: Wacha (career 3.87 ERA over 1759 IP, 4.25 xERA, .318 xwOBA, strong last two starts) against Sugano, whose 4.69 ERA hides a 7.27 xERA and .400 xwOBA allowed over 405 PA",
-    "bankroll_after": "1096.96"
+    "bankroll_after": "1096.92"
   },
   {
     "date": "2026-07-31",
@@ -5325,7 +5325,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "Skenes (career 2.43 ERA, current xERA 2.82 on 490 PA) is a large, reliable-data upgrade over Greene, who has only 21.2 IP this season with a 4.68 xERA and 6 ER in his last start \u2014 his elite prior-year xERA (3.02) is why the market keeps this close, b",
-    "bankroll_after": "1038.96"
+    "bankroll_after": "1038.92"
   },
   {
     "date": "2026-07-31",
@@ -5341,7 +5341,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "The pitching matchup is far closer than surface ERAs suggest: the home starter's 2.45 ERA sits against a 4.34 xERA (4.04 prior year, 5.1 K/9), a contact profile due for run-scoring regression, while the road starter's 4.71 xERA makes him plainly hitt",
-    "bankroll_after": "980.96"
+    "bankroll_after": "980.92"
   },
   {
     "date": "2026-07-31",
@@ -5357,7 +5357,7 @@
     "result": "win",
     "pnl": "60.928",
     "reasoning_summary": "Senga's career 3.73 ERA is not the pitcher taking the mound tonight: 8.85 ERA and 6.6 BB/9 across 40.2 IP in 2026, a 5.42 xERA over 194 PA, three straight poor starts, and a 5-week layoff since June 23 (rust plus a short leash into middle relief). Ju",
-    "bankroll_after": "1041.89"
+    "bankroll_after": "1041.848"
   },
   {
     "date": "2026-08-01",
@@ -5373,7 +5373,7 @@
     "result": "loss",
     "pnl": "-52.0",
     "reasoning_summary": "Both starters project as hittable despite surface numbers: Thornton's 2.43 ERA sits on just 29 career IP with a 4.55 xERA (.328 xwOBA), a classic small-sample overperformance facing the stronger lineup tonight, while Phillips carries a 4.71 xERA and ",
-    "bankroll_after": "989.89"
+    "bankroll_after": "989.848"
   },
   {
     "date": "2026-08-01",
@@ -5389,7 +5389,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "The first-5 is a pure SP matchup and this is a large, reliable gap: Fried carries a 3.05 career ERA over 1149 IP and a 2.51 current xERA, while Peterson sits at a 5.13 xERA / 5.80 ERA with a 4.34 career baseline. A 21 mph wind blowing in suppresses t",
-    "bankroll_after": "989.89"
+    "bankroll_after": "989.848"
   },
   {
     "date": "2026-08-01",
@@ -5405,7 +5405,7 @@
     "result": "win",
     "pnl": "45.643",
     "reasoning_summary": "Coors Field with clear 75-degree weather and two well-below-average starters: home SP carries a 5.85 xERA with 17 ER over his last 11.2 IP, and the road SP a 4.83 xERA with 5.2 BB/9, which altitude punishes. Both confirmed lineups are above league av",
-    "bankroll_after": "1035.53"
+    "bankroll_after": "1035.491"
   },
   {
     "date": "2026-08-01",
@@ -5421,7 +5421,7 @@
     "result": "loss",
     "pnl": "-52.0",
     "reasoning_summary": "Market prices San Diego at 59% largely on Buehler's name, but current data favors the road side: Mahle is the better pitcher right now (xERA 4.16 vs 4.43, prior-year xERA 4.24 vs Buehler's 5.41, and three strong recent starts including 6 shutout inni",
-    "bankroll_after": "983.53"
+    "bankroll_after": "983.491"
   },
   {
     "date": "2026-08-01",
@@ -5437,7 +5437,7 @@
     "result": "win",
     "pnl": "50.335",
     "reasoning_summary": "Both starters project hittable by current-season data: Valdez is in a clear down year (4.53 ERA, 1.38 WHIP, K/9 down to 7.3 from a career 8.6, 4.28 xERA), and Perkins is a career 5.64 ERA pitcher facing a confirmed Detroit lineup averaging ~.758 OPS ",
-    "bankroll_after": "1033.87"
+    "bankroll_after": "1033.826"
   },
   {
     "date": "2026-08-02",
@@ -5453,7 +5453,7 @@
     "result": "win",
     "pnl": "38.518",
     "reasoning_summary": "This is a large, reliable-sample SP mismatch: the away starter carries a career 3.19 ERA / 3.28 xERA / .282 xwOBA over 2000+ IP against a home starter at 4.45 career ERA with a 5.52 current xERA and .357 xwOBA \u2014 the gap is in true contact quality, no",
-    "bankroll_after": "1072.39"
+    "bankroll_after": "1072.344"
   },
   {
     "date": "2026-08-02",
@@ -5469,7 +5469,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "The market is pricing this off surface ERAs (King 3.38 vs Roupp 4.12), but the full-season contact-quality data inverts that edge: Roupp's 3.48 xERA / .290 xwOBA (475 PA) versus King's 4.58 xERA / .329 xwOBA (515 PA), with King's K/9 down from a 9.7 ",
-    "bankroll_after": "1072.39"
+    "bankroll_after": "1072.344"
   },
   {
     "date": "2026-08-02",
@@ -5485,7 +5485,7 @@
     "result": "win",
     "pnl": "45.294",
     "reasoning_summary": "Enormous starting pitching mismatch: Alcantara is an in-form workhorse (career 3.67 ERA over 1226 IP, current xERA 3.77, 7 shutout innings last start) while Stock is a career 4.90 ERA reliever with 2.2 IP this season, a 13.5 BB/9, and a prior-year xE",
-    "bankroll_after": "1117.68"
+    "bankroll_after": "1117.638"
   },
   {
     "date": "2026-08-02",
@@ -5501,7 +5501,7 @@
     "result": "win",
     "pnl": "52.635",
     "reasoning_summary": "Strong 15 mph wind blowing in at Wrigley is a mandatory physical run-suppressor, and the matchup pairing amplifies it: the elite starter (career 3.19 ERA, 3.28 xERA, 2 ER over his last 13 IP) faces the strong lineup, while the weak starter (5.52 xERA",
-    "bankroll_after": "1170.32"
+    "bankroll_after": "1170.273"
   },
   {
     "date": "2026-08-02",
@@ -5517,7 +5517,7 @@
     "result": "loss",
     "pnl": "-52.0",
     "reasoning_summary": "Both starters carry poor contact-quality profiles on large samples \u2014 Lugo's xERA is 5.38 over 523 PA (5.16 prior year) despite shiny recent run-prevention, and Freeland sits at 5.63 xERA with 13 ER allowed over his last 17.1 IP \u2014 and Coors at altitud",
-    "bankroll_after": "1118.32"
+    "bankroll_after": "1118.273"
   },
   {
     "date": "2026-08-02",
@@ -5533,7 +5533,7 @@
     "result": "win",
     "pnl": "47.37",
     "reasoning_summary": "Detroit holds a moderate SP edge on large current-season samples: Montero's 3.48 xERA over 443 PA with elite control (1.9 BB/9, 1.02 WHIP) against rookie Jump's 4.07 xERA with 3.6 BB/9 and high volatility. The decisive full-game factor is bullpen sta",
-    "bankroll_after": "1165.69"
+    "bankroll_after": "1165.643"
   },
   {
     "date": "2026-08-03",
@@ -5549,7 +5549,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "Large SP mismatch: home starter carries a 2.89 xERA over 538 PA with elite recent form, while the away starter's 3.57 ERA hides a 5.66 xERA, .361 xwOBA, and a 1.2 IP/7 ER last start \u2014 a contact pitcher due for regression. My win probability (~68%) of",
-    "bankroll_after": "1107.69"
+    "bankroll_after": "1107.643"
   },
   {
     "date": "2026-08-03",
@@ -5565,7 +5565,7 @@
     "result": "win",
     "pnl": "66.368",
     "reasoning_summary": "Houston's pitching situation is structurally compromised tonight: Javier has thrown only 21.1 IP all season with a 3-week layoff since his last start (3 IP on 7/12), meaning a short leash in front of a bullpen with SIX relievers taxed from the last 3",
-    "bankroll_after": "1174.06"
+    "bankroll_after": "1174.011"
   },
   {
     "date": "2026-08-03",
@@ -5581,7 +5581,7 @@
     "result": "win",
     "pnl": "66.368",
     "reasoning_summary": "Logan Webb holds a clear starting-pitcher edge over Cal Quantrill: career 3.44 ERA over 1181 IP vs 4.31, current xERA 3.93 vs 4.48, and Quantrill's prior-year 5.77 xERA suggests his 3.84 ERA this season flatters his true contact quality (xwOBA .326 v",
-    "bankroll_after": "1240.43"
+    "bankroll_after": "1240.379"
   },
   {
     "date": "2026-08-04",
@@ -5597,7 +5597,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Real SP mismatch by best current estimators: Ginn xERA 3.96 (prior yr 3.74, xwOBA .308) vs Singer 4.96 (xwOBA .341) \u2014 a full run of contact-quality gap with both past 100 IP, while Singer's 4.35 ERA overstates his form. The 1H isolates this edge and ",
-    "bankroll_after": "1240.43"
+    "bankroll_after": "1240.379"
   },
   {
     "date": "2026-08-04",
@@ -5613,7 +5613,7 @@
     "result": "loss",
     "pnl": "-62.0",
     "reasoning_summary": "Clear starting pitcher edge to Toronto: Yesavage carries a 3.33 xERA over 379 PA this season (91.2 IP, consistent with his 3.66 career ERA) while Wesneski has thrown just 5.2 IP all season and is effectively returning cold \u2014 his career 4.03 ERA is th",
-    "bankroll_after": "1178.43"
+    "bankroll_after": "1178.379"
   },
   {
     "date": "2026-08-04",
@@ -5629,7 +5629,7 @@
     "result": "loss",
     "pnl": "-62.0",
     "reasoning_summary": "This is a true-talent pitching and bullpen mismatch in Arizona's favor. Vasquez carries a 6.49 xERA (414 PA, prior year 5.37 \u2014 chronic contact-quality problems, not a blip) and hasn't completed 4 innings in any of his last three starts, which forces ",
-    "bankroll_after": "1116.43"
+    "bankroll_after": "1116.379"
   },
   {
     "date": "2026-08-04",
@@ -5645,7 +5645,7 @@
     "result": "win",
     "pnl": "63.86",
     "reasoning_summary": "Clear SP quality gap: Melton's contact-quality profile is legitimately strong (xERA 3.26, xwOBA .281, career 2.16 ERA, 7 IP / 0 ER last out), while Hancock's 3.26 ERA masks mediocre underlying quality (xERA 4.16, career 4.19 ERA over 273 IP, prior-ye",
-    "bankroll_after": "1180.29"
+    "bankroll_after": "1180.239"
   },
   {
     "date": "2026-08-05",
@@ -5661,7 +5661,7 @@
     "result": "loss",
     "pnl": "-59.0",
     "reasoning_summary": "This is a genuine SP mismatch hidden by surface ERAs: Jacob Lopez's 5.79 ERA masks a 3.69 xERA over a real sample (326 PA, 70 IP) that matches his prior-year 3.64, and his last three starts (3 ER in 14.2 IP) confirm the underlying quality, while Rhet",
-    "bankroll_after": "1121.29"
+    "bankroll_after": "1121.239"
   },
   {
     "date": "2026-08-05",
@@ -5677,7 +5677,7 @@
     "result": "loss",
     "pnl": "-59.0",
     "reasoning_summary": "This is a genuine SP mismatch concentrated in the first five innings: Mize has an elite, well-sampled season (2.70 ERA, 0.99 WHIP, 3.07 xERA over 86.2 IP, backed by a 3.66 prior-year xERA) while Bratt has only 20 career IP with a 1.84 WHIP, 6.5 BB/9,",
-    "bankroll_after": "1062.29"
+    "bankroll_after": "1062.239"
   },
   {
     "date": "2026-08-05",
@@ -5693,7 +5693,7 @@
     "result": "loss",
     "pnl": "-59.0",
     "reasoning_summary": "Fundamentals project roughly 9 runs: Imanaga (career 3.39 ERA/1.03 WHIP, 2 ER total over his last three starts) faces a Dodgers lineup in an 11 mph wind-in Wrigley environment, the strongest run-suppression setup this park offers, and Lauer is servic",
-    "bankroll_after": "1003.29"
+    "bankroll_after": "1003.239"
   },
   {
     "date": "2026-08-05",
@@ -5709,7 +5709,7 @@
     "result": "loss",
     "pnl": "-59.0",
     "reasoning_summary": "Both starters project as highly hittable by contact-quality metrics: Sugano's 7.22 xERA (.399 xwOBA) is among the worst marks a qualified starter can post, and Martinez's 2.77 ERA masks a 4.58 xERA with only 5.0 K/9 \u2014 a low-strikeout regression candi",
-    "bankroll_after": "944.29"
+    "bankroll_after": "944.239"
   },
   {
     "date": "2026-08-05",
@@ -5725,7 +5725,7 @@
     "result": "win",
     "pnl": "72.013",
     "reasoning_summary": "Pallante is the better starter by a meaningful margin \u2014 3.72 xERA over 496 PA vs Warren's 4.46, with stronger recent form (0.30 ER/start over his last three) and better command, and both have 100+ IP so current-year data is reliable. The home lineup'",
-    "bankroll_after": "1016.3"
+    "bankroll_after": "1016.252"
   },
   {
     "date": "2026-08-05",
@@ -5741,7 +5741,7 @@
     "result": "loss",
     "pnl": "-53.0",
     "reasoning_summary": "This is a large career-grade SP mismatch: Skenes (career 2.51 ERA / 0.99 WHIP over 445 IP, 2.93 current xERA) against Harrison (career 3.98 ERA / 1.24 WHIP), and Harrison hasn't started since July 8 \u2014 a near month-long layoff that implies rust and a ",
-    "bankroll_after": "963.3"
+    "bankroll_after": "963.252"
   },
   {
     "date": "2026-08-06",
@@ -5757,7 +5757,7 @@
     "result": "loss",
     "pnl": "-48.0",
     "reasoning_summary": "The market is pricing Abbott's surface line (3.91 ERA), but his 122-IP expected stats say decline: 4.70 xERA over 528 PA, K/9 down from 8.0 career to 7.0, BB/9 up from 3.3 to 4.3, and 9 walks across his last two starts. Barnett's contact-quality prof",
-    "bankroll_after": "915.3"
+    "bankroll_after": "915.252"
   },
   {
     "date": "2026-08-06",
@@ -5773,7 +5773,7 @@
     "result": "win",
     "pnl": "81.389",
     "reasoning_summary": "The market is pricing Baltimore at 65% largely on Young's 3.31 surface ERA, but his xERA (4.30, matching his 4.27 prior year and 4.36 career) says he's a roughly league-average starter due regression, while Johnson's xERA of 5.30 makes him bad but no",
-    "bankroll_after": "996.69"
+    "bankroll_after": "996.641"
   },
   {
     "date": "2026-08-06",
@@ -5789,7 +5789,7 @@
     "result": "loss",
     "pnl": "-48.0",
     "reasoning_summary": "Ashcraft holds a real SP edge over May on reliable samples (xERA 3.38 vs 3.90, xwOBA .286 vs .306, career 3.52 vs 3.99), and Milwaukee's bullpen is heavily taxed with four relievers at 2+ appearances in three days including their high-leverage arms, ",
-    "bankroll_after": "948.69"
+    "bankroll_after": "948.641"
   },
   {
     "date": "2026-08-07",
@@ -5805,7 +5805,7 @@
     "result": "win",
     "pnl": "33.098",
     "reasoning_summary": "This is a large, career-data-backed SP mismatch: Messick (2.60 career ERA over 169 IP, 3.09 xERA, .274 xwOBA, three straight 1-ER starts) vs Schultz (5.82 career ERA, 5.66 xERA, .361 xwOBA, failed to finish 4 innings in two of his last three). A run-",
-    "bankroll_after": "981.79"
+    "bankroll_after": "981.739"
   },
   {
     "date": "2026-08-07",
@@ -5821,7 +5821,7 @@
     "result": "loss",
     "pnl": "-47.0",
     "reasoning_summary": "The home favorite is overpriced at an implied 68.8%. Perkins' 6.72 ERA badly overstates his true talent \u2014 his 4.01 xERA (332 PA) and 3.64 prior-year xERA indicate quality contact suppression, and he held this same Boston lineup to 2 ER on 7/27. Tolle",
-    "bankroll_after": "934.79"
+    "bankroll_after": "934.739"
   },
   {
     "date": "2026-08-07",
@@ -5837,7 +5837,7 @@
     "result": "win",
     "pnl": "46.794",
     "reasoning_summary": "Market prices this dead even, but Houston holds the deeper edges: a .757-OPS all-RHB lineup with full platoon advantage against a lefty whose 4.42 xERA and sharply declined K rate say his 3.08 ERA is overperformance, plus a fresh high-end bullpen aga",
-    "bankroll_after": "981.58"
+    "bankroll_after": "981.533"
   },
   {
     "date": "2026-08-08",
@@ -5853,7 +5853,7 @@
     "result": "win",
     "pnl": "64.269",
     "reasoning_summary": "The SP edge for Atlanta is real but modest \u2014 Sale (xERA 3.04, career 2.96) over Cole (xERA 3.40, career 3.19) is a gap between two aces, not a mismatch, and posted lineup quality is essentially even (.754 vs .747 avg OPS). Atlanta's bullpen is severe",
-    "bankroll_after": "1045.85"
+    "bankroll_after": "1045.802"
   },
   {
     "date": "2026-08-08",
@@ -5869,7 +5869,7 @@
     "result": "win",
     "pnl": "41.923",
     "reasoning_summary": "This is a stark fundamentals mismatch priced like a coin flip. The home starter is an established mid-rotation arm (110 IP this season, 4.10 xERA on 487 PA, 3.66 prior-year xERA) while the visitor sends a 36-year-old journeyman with a career 4.71 ERA",
-    "bankroll_after": "1087.77"
+    "bankroll_after": "1087.725"
   },
   {
     "date": "2026-08-08",
@@ -5885,7 +5885,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "The underlying pitching metrics favor the road side: Lambert's 3.35 xERA and .285 xwOBA over a real sample (449 PA, 108 IP) confirm his 3.06 ERA is earned, while King's 4.54 xERA and .328 xwOBA (second straight year of xERA well above results, K/9 do",
-    "bankroll_after": "1038.77"
+    "bankroll_after": "1038.725"
   },
   {
     "date": "2026-08-08",
@@ -5901,7 +5901,7 @@
     "result": "win",
     "pnl": "52.635",
     "reasoning_summary": "Yamamoto (career 2.70 ERA, 3.11 xERA, three dominant recent starts) has a real SP edge, but Pfaadt is legitimately improved this year (3.82 xERA over 78.2 IP, 2 ER total across his last three starts), so this profiles as a low-scoring, close game in ",
-    "bankroll_after": "1091.4"
+    "bankroll_after": "1091.36"
   },
   {
     "date": "2026-08-09",
@@ -5917,7 +5917,7 @@
     "result": "loss",
     "pnl": "-55.0",
     "reasoning_summary": "Both starters project below average on reliable samples: Singer's current xERA is 4.95 over 503 PA (regressing from last year's 4.27) and Lord is a 4.18 career ERA arm whose lone listed start since July 1 (2.1 IP) points to a layoff and a capped pitc",
-    "bankroll_after": "1036.4"
+    "bankroll_after": "1036.36"
   },
   {
     "date": "2026-08-09",
@@ -5933,7 +5933,7 @@
     "result": "win",
     "pnl": "69.351",
     "reasoning_summary": "The SP edge favors Pittsburgh early (Jones xERA 3.32 vs Manaea 4.63), but Jones is on a limited workload (56 IP season, only 4 IP last start) while four Pirates relievers are taxed from the last three days; the Mets bullpen is nearly fully rested wit",
-    "bankroll_after": "1105.75"
+    "bankroll_after": "1105.711"
   },
   {
     "date": "2026-08-09",
@@ -5949,7 +5949,7 @@
     "result": "loss",
     "pnl": "-55.0",
     "reasoning_summary": "Large starting pitcher edge: Schlittler's 2.95 xERA over 555 PA (career 2.50 ERA, 212 IP) is now a reliable sample, while Holmes' 3.67 ERA masks a 4.70 xERA (4.55 prior year) \u2014 he is overperforming contact quality by a full run. Atlanta's bullpen is ",
-    "bankroll_after": "1050.75"
+    "bankroll_after": "1050.711"
   },
   {
     "date": "2026-08-09",
@@ -5965,7 +5965,7 @@
     "result": "loss",
     "pnl": "-55.0",
     "reasoning_summary": "Both starters are significant regression candidates: Rodriguez's 2.71 ERA comes with a 4.86 xERA, a 6.1 K/9 contact-heavy profile, and a 4.05 career ERA, while Wrobleski's 3.31 ERA masks a 4.51 xERA and he has allowed 12 ER over his last 10.1 IP. Tru",
-    "bankroll_after": "995.75"
+    "bankroll_after": "995.711"
   },
   {
     "date": "2026-08-09",
@@ -5981,7 +5981,7 @@
     "result": "loss",
     "pnl": "-55.0",
     "reasoning_summary": "Washington's starter has thrown 2.1 innings since July 1 (one abbreviated start, likely first game back from a layoff), so his workload is capped and 5+ innings will fall to a bullpen whose three most-used arms (Beeter, Kranick, Cruz) all pitched yes",
-    "bankroll_after": "940.75"
+    "bankroll_after": "940.711"
   },
   {
     "date": "2026-08-09",
@@ -5997,7 +5997,7 @@
     "result": "win",
     "pnl": "53.239",
     "reasoning_summary": "Extreme run environment: 105\u00b0F with a 14 mph wind blowing out (+10.6 mph to CF) is one of the strongest scoring boosts in baseball, and both starters are regression candidates despite surface ERAs \u2014 Dobnak's 1.16 ERA sits on a 4.86 xERA with a 4.3 K/",
-    "bankroll_after": "993.99"
+    "bankroll_after": "993.95"
   },
   {
     "date": "2026-08-10",
@@ -6013,7 +6013,7 @@
     "result": "loss",
     "pnl": "-50.0",
     "reasoning_summary": "Real SP mismatch: Rogers (3.76 xERA on 484 PA, 3.41 prior year, strong recent form) vs Kremer (4.57 xERA, 4.36 career ERA, shelled in 2 of last 3 starts). Minnesota's bullpen is heavily taxed with six relievers at 2+ appearances in 3 days while Balti",
-    "bankroll_after": "943.99"
+    "bankroll_after": "943.95"
   },
   {
     "date": "2026-08-10",
@@ -6029,7 +6029,7 @@
     "result": "loss",
     "pnl": "-50.0",
     "reasoning_summary": "Market prices the away side at ~59% devigged on Peralta's reputation, but current-year xERA (Lopez 3.52 on 345 PA, second straight year ~3.5-3.6) versus Peralta (3.95, declining K rate, two 7-ER starts in his last three) makes the SP matchup a wash o",
-    "bankroll_after": "893.99"
+    "bankroll_after": "893.95"
   },
   {
     "date": "2026-08-10",
@@ -6045,7 +6045,7 @@
     "result": "win",
     "pnl": "65.11",
     "reasoning_summary": "Christian Scott has the better underlying profile than Bryce Elder (xERA 3.78 vs 3.92, 11.1 vs 7.4 K/9), whose 1-ER recent run is contact-driven and sits well above his 561-IP career baseline (4.38 ERA, 4.73 prior-year xERA). Atlanta's bullpen is hea",
-    "bankroll_after": "959.1"
+    "bankroll_after": "959.06"
   },
   {
     "date": "2026-08-10",
@@ -6061,7 +6061,7 @@
     "result": "loss",
     "pnl": "-50.0",
     "reasoning_summary": "The home starter has not pitched in a game since June 19, when he exited after 1 inning \u2014 this is his first start off a ~7-week layoff, meaning a probable pitch limit and 4+ innings from a bullpen whose top arms (two relievers on back-to-back days, a",
-    "bankroll_after": "909.1"
+    "bankroll_after": "909.06"
   },
   {
     "date": "2026-08-11",
@@ -6077,7 +6077,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "The starting pitcher edge belongs to the road dog: Woo's career profile (3.48 ERA, 1.01 WHIP over 523 IP) and current 3.62 xERA are meaningfully better than Weathers' career 4.59/1.34 and 4.38 xERA. Weathers' three-start scoreless stretch is surface-",
-    "bankroll_after": "864.1"
+    "bankroll_after": "864.06"
   },
   {
     "date": "2026-08-11",
@@ -6093,7 +6093,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "The starting pitcher edge runs opposite the price. McLean carries a 3.65 xERA (.296 xwOBA, 10.7 K/9) with a 3.12 career ERA, while P\u00e9rez's 3.14 season ERA sits far above his 4.32 xERA, .320 xwOBA, and 4.34 career ERA over 1732 IP \u2014 his run prevention",
-    "bankroll_after": "819.1"
+    "bankroll_after": "819.06"
   },
   {
     "date": "2026-08-11",
@@ -6109,7 +6109,7 @@
     "result": "win",
     "pnl": "66.692",
     "reasoning_summary": "By season fundamentals these are near-equal clubs: run differentials +1 vs -9, runs scored/allowed almost identical (534/533 vs 520/529), and bullpens effectively even (4.43 vs 4.35 ERA), with the Cardinals at home. The SP gap is real but narrower th",
-    "bankroll_after": "885.79"
+    "bankroll_after": "885.752"
   },
   {
     "date": "2026-08-11",
@@ -6125,7 +6125,7 @@
     "result": "win",
     "pnl": "45.83",
     "reasoning_summary": "Snell is elite by career profile but has thrown 3 total innings this season and hasn't started since early May, so this is a short-leash return start that hands 5+ innings to a bullpen with five relievers at 2+ appearances in the last 3 days. Kansas ",
-    "bankroll_after": "931.62"
+    "bankroll_after": "931.582"
   },
   {
     "date": "2026-08-12",
@@ -6141,7 +6141,7 @@
     "result": "loss",
     "pnl": "-44.0",
     "reasoning_summary": "The teams are statistical twins (58-62 vs 59-62, both -34 run differential), so this prices as a pure pick'em plus home field \u2014 but the pitching splits are not even. Baz holds a clear SP edge over Matthews (xERA 4.14 vs 4.78, career 4.09 vs 5.63) and",
-    "bankroll_after": "887.62"
+    "bankroll_after": "887.582"
   },
   {
     "date": "2026-08-12",
@@ -6157,7 +6157,7 @@
     "result": "loss",
     "pnl": "-44.0",
     "reasoning_summary": "Large and reliable SP mismatch: Quantrill is a 900-IP veteran in good form (3.56 ERA, 4.44 xERA) while Klassen carries a 14.5 BB/9 and 7.80 xERA and projects for a short outing, forcing a heavily taxed Angels bullpen (five relievers with 2+ appearanc",
-    "bankroll_after": "843.62"
+    "bankroll_after": "843.582"
   },
   {
     "date": "2026-08-12",
@@ -6173,7 +6173,7 @@
     "result": "win",
     "pnl": "40.886",
     "reasoning_summary": "Both starters project poorly on current-season expected stats with real samples: Kelly's 6.97 xERA and .393 xwOBA over 519 PA say his 4.88 ERA is heavily flattered (K/9 down 7.9\u21926.0, BB/9 up vs career, corroborating genuine decline), and Feltner's 5.",
-    "bankroll_after": "884.51"
+    "bankroll_after": "884.468"
   },
   {
     "date": "2026-08-13",
@@ -6189,7 +6189,7 @@
     "result": "win",
     "pnl": "49.522",
     "reasoning_summary": "The market makes Cleveland a road favorite on the strength of the starting pitcher gap, but that gap is modest \u2014 Messick's 3.08 xERA vs Montero's 3.52, worth roughly a quarter run over five innings \u2014 while the season-level gap runs the other way and ",
-    "bankroll_after": "934.03"
+    "bankroll_after": "933.99"
   },
   {
     "date": "2026-08-13",
@@ -6205,7 +6205,7 @@
     "result": "win",
     "pnl": "55.895",
     "reasoning_summary": "These are the same team on season quality \u2014 Milwaukee 74-47/+130, Los Angeles 73-48/+142, runs scored within 14 \u2014 so the honest starting point is a coin flip plus home field, roughly 53-54% for the home side, not the 57% the price devigs to. The pitc",
-    "bankroll_after": "989.92"
+    "bankroll_after": "989.885"
   },
   {
     "date": "2026-08-14",
@@ -6221,7 +6221,7 @@
     "result": "win",
     "pnl": "64.731",
     "reasoning_summary": "Detroit is priced at an implied 59.7% behind a starter with 5 IP all season: Jackson Jobe's most reliable large-sample indicator is a 4.90 prior-year xERA with a career 4.5 BB/9 over just 58 IP, and his short post-layoff leash hands 4+ innings to a b",
-    "bankroll_after": "1054.65"
+    "bankroll_after": "1054.616"
   },
   {
     "date": "2026-08-14",
@@ -6237,7 +6237,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "The road team holds both the starting pitching and team-quality edge yet gets plus money. Alvarez (career 3.40 ERA over 92 IP, prior-year 2.87 xERA, three solid recent starts) is a clear tier above Stock (career 5.40 ERA/1.70 WHIP, 8 IP this season w",
-    "bankroll_after": "1005.65"
+    "bankroll_after": "1005.616"
   },
   {
     "date": "2026-08-14",
@@ -6253,7 +6253,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "Two near-equal elite teams by season quality: Milwaukee has the better record (.615 vs .598), a comparable run differential (+131 vs +141), and the meaningfully better bullpen (3.51 vs 4.03 ERA) with the home team's top three relievers all at 2 appea",
-    "bankroll_after": "956.65"
+    "bankroll_after": "956.616"
   },
   {
     "date": "2026-08-14",
@@ -6269,7 +6269,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "The starting pitcher matchup is near-even on rates (Burns xERA 3.20 edges Alcantara's 3.65), but Alcantara carries a large length advantage \u2014 he's working 6-7 innings while Burns has averaged ~5.1 over his last three \u2014 which shifts more of the game o",
-    "bankroll_after": "907.65"
+    "bankroll_after": "907.616"
   },
   {
     "date": "2026-08-15",
@@ -6285,7 +6285,7 @@
     "result": "win",
     "pnl": "44.803",
     "reasoning_summary": "Miami is the meaningfully better club by full-season quality: +10 run differential vs Cincinnati's -76 (a .509 vs .429 pythag gap), and a clearly better bullpen (3.95/1.25 vs 4.48/1.42) with three Reds relievers taxed (Burke, Garcia, Moll at 2 appear",
-    "bankroll_after": "952.45"
+    "bankroll_after": "952.419"
   },
   {
     "date": "2026-08-15",
@@ -6301,7 +6301,7 @@
     "result": "win",
     "pnl": "35.64",
     "reasoning_summary": "These are two near-identical teams by record and run differential, but tonight's pitching matchup is heavily one-sided: Misiorowski is elite by both results and contact quality (1.93 xERA, .216 xwOBA over 503 PA, career 2.62 ERA), while Wrobleski's 3",
-    "bankroll_after": "988.09"
+    "bankroll_after": "988.059"
   },
   {
     "date": "2026-08-16",
@@ -6317,7 +6317,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "The price implies 63% for a Mets team that is 55-69 with a -43 run differential and the weaker offense in this matchup by a wide margin (4.19 runs/game scored vs Washington's 5.34, a 62-run diff gap), while Washington is actually the better season-lo",
-    "bankroll_after": "939.09"
+    "bankroll_after": "939.059"
   },
   {
     "date": "2026-08-16",
@@ -6333,7 +6333,7 @@
     "result": "win",
     "pnl": "77.555",
     "reasoning_summary": "These are near-mirror-image teams by full-season quality (76-48/+132 run diff for Milwaukee vs 74-50/+140 for the home side), yet the road team is priced at only 39.4% implied. The SP matchup is close to even with a slight lean to Henderson on curren",
-    "bankroll_after": "1016.64"
+    "bankroll_after": "1016.614"
   },
   {
     "date": "2026-08-16",
@@ -6349,7 +6349,7 @@
     "result": "win",
     "pnl": "53.77",
     "reasoning_summary": "The Yankees are the substantially better club \u2014 +84 run differential vs -56 (a ~1.1 run/game gap), a 3.09 bullpen ERA vs 3.78 for the innings after the starters leave, and the stronger confirmed lineup today (.728 vs .691 OPS with one Toronto bat unk",
-    "bankroll_after": "1070.41"
+    "bankroll_after": "1070.384"
   },
   {
     "date": "2026-08-16",
@@ -6365,7 +6365,7 @@
     "result": "win",
     "pnl": "45.037",
     "reasoning_summary": "Mize holds a clear current-season pitching edge over Bibee (xERA 3.39 vs 4.29, xwOBA .286 vs .319, both on large 380+ PA samples, so current-year Statcast is meaningful; Bibee's decline from his 3.64 prior-year xERA looks real). San Diego also brings",
-    "bankroll_after": "1115.45"
+    "bankroll_after": "1115.421"
   },
   {
     "date": "2026-08-16",
@@ -6381,7 +6381,7 @@
     "result": "win",
     "pnl": "40.482",
     "reasoning_summary": "Large SP mismatch: Perez (3.65 xERA, 116 IP, 7 shutout innings last out) vs Lodolo, whose 6.18 xERA and .374 xwOBA over 297 PA is a genuinely poor contact-quality profile, compounded by a month-long layoff and a 4 IP / 4 ER return start. Every platoo",
-    "bankroll_after": "1155.93"
+    "bankroll_after": "1155.903"
   },
   {
     "date": "2026-08-16",
@@ -6397,7 +6397,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "The pitching edge is with the home side: Kremer carries a 4.23 xERA (3.82 prior year, career 4.33 over 719 IP) against Painter's 4.91 xERA and 6.27 ERA in his 80-IP rookie season, roughly a 0.4-run gap over the starters' innings. Today's confirmed li",
-    "bankroll_after": "1106.93"
+    "bankroll_after": "1106.903"
   },
   {
     "date": "2026-08-17",
@@ -6413,7 +6413,7 @@
     "result": "win",
     "pnl": "47.056",
     "reasoning_summary": "Valdez (career 3.46 ERA over 1213 IP, two of his last three starts at 7 IP with 2 ER or fewer) faces Mlodzinski, whose 3.79 ERA masks a 5.15 xERA and whose last two starts were 2.1 IP/4 ER and 3.0 IP/5 ER \u2014 he is not stretched out, making this effect",
-    "bankroll_after": "1153.99"
+    "bankroll_after": "1153.959"
   },
   {
     "date": "2026-08-17",
@@ -6429,7 +6429,7 @@
     "result": "win",
     "pnl": "53.239",
     "reasoning_summary": "Home SP is a clear quality edge (career 3.07 ERA, 3.62 xERA, 10.5 K/9) and while the road SP is hittable (4.35 xERA), the run environment strongly favors suppression: 50F and clear is unusually cold with minimal wind, both bullpens are better than le",
-    "bankroll_after": "1207.23"
+    "bankroll_after": "1207.198"
   },
   {
     "date": "2026-08-17",
@@ -6445,7 +6445,7 @@
     "result": "loss",
     "pnl": "-55.0",
     "reasoning_summary": "Pallante holds a large expected-performance edge over Lowder (xERA 3.84 vs 5.22, xwOBA .303 vs .348) with strong recent form, and the surrounding context all points the same way: Cardinals field a .775 OPS lineup against Cincinnati's .625 unit featur",
-    "bankroll_after": "1152.23"
+    "bankroll_after": "1152.198"
   },
   {
     "date": "2026-08-18",
@@ -6461,7 +6461,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "The SP gap is smaller than the -140/+127 price implies: Ashcraft (3.34 xERA, 574 PA) vs Montero (3.50 xERA, 515 PA) are near-equals by current-year contact quality on full-season samples, and the price looks inflated by Ashcraft's recent 9-inning com",
-    "bankroll_after": "1094.23"
+    "bankroll_after": "1094.198"
   },
   {
     "date": "2026-08-18",
@@ -6477,7 +6477,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "Atlanta holds edges in every phase: run differential (+115 vs -46) implies roughly a 63% neutral-site log5 win probability, still ~59-60% after home-field adjustment for Minnesota. Today's starters widen it \u2014 Mahle (xERA 3.92, career 4.14 over 841 IP",
-    "bankroll_after": "1036.23"
+    "bankroll_after": "1036.198"
   },
   {
     "date": "2026-08-18",
@@ -6493,7 +6493,7 @@
     "result": "loss",
     "pnl": "-58.0",
     "reasoning_summary": "Strong tailwind out at Wrigley (+11.8 mph to CF, MANDATORY over-lean signal) meets two above-average lineups (.747/.773 avg OPS, real power in Murakami/Crow-Armstrong/Suzuki), and the pitching structure compounds it: the away side is an opener/bullpe",
-    "bankroll_after": "978.23"
+    "bankroll_after": "978.198"
   },
   {
     "date": "2026-08-19",
@@ -6509,7 +6509,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "The fundamentals point the wrong way from the price: Alcantara (3.62 xERA on 702 PA, 20 IP/1 ER over his last three, deep-innings workhorse) has a clear edge over Nola (4.26 xERA this year, 4.13 prior year, 1.45 WHIP, working 5-6 innings), and Miami ",
-    "bankroll_after": "929.23"
+    "bankroll_after": "929.198"
   },
   {
     "date": "2026-08-19",
@@ -6525,7 +6525,7 @@
     "result": "win",
     "pnl": "59.94",
     "reasoning_summary": "Cavalli holds a clear, well-sampled pitching edge over Rocker: xERA 3.95 vs 4.63, career 3.84 vs 4.88, and diverging recent form (8 IP/0 ER with 10 K last out vs Rocker's 9 ER over his last 8 IP with control trouble). Season context reinforces the vi",
-    "bankroll_after": "989.17"
+    "bankroll_after": "989.138"
   },
   {
     "date": "2026-08-19",
@@ -6541,7 +6541,7 @@
     "result": "loss",
     "pnl": "-49.0",
     "reasoning_summary": "Ure\u00f1a is a legitimately good starter with a real sample (107 IP, 2.67 ERA, 3.30 xERA, .282 xwOBA), while Houston counters with Ethan Pecko making what appears to be his MLB debut (0 IP, no confirmed stats) \u2014 debut starters carry high variance and a b",
-    "bankroll_after": "940.17"
+    "bankroll_after": "940.138"
   },
   {
     "date": "2026-08-20",
@@ -6557,7 +6557,7 @@
     "result": "loss",
     "pnl": "-47.0",
     "reasoning_summary": "The market prices Texas at 62% on deGrom's pedigree, but he has averaged under 4 IP over his last three starts (2.0, 5.0, 3.1), which shifts roughly half the game onto a 4.37-ERA bullpen against a Nationals offense scoring 5.3 runs per game. Washingt",
-    "bankroll_after": "893.17"
+    "bankroll_after": "893.138"
   },
   {
     "date": "2026-08-20",
@@ -6573,7 +6573,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "Neither starter projects to suppress runs: Dobnak's 1.73 ERA is a luck artifact (4.57 xERA, 5.73 prior-year xERA, career 4.15, 5.4 K/9), and Jump's 4.26 xERA with 4.3 BB/9 faces an all-righty KC lineup holding the platoon advantage on every bat. Behi",
-    "bankroll_after": "893.17"
+    "bankroll_after": "893.138"
   },
   {
     "date": "2026-08-21",
@@ -6589,7 +6589,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "The market has priced this as a substantial home-favorite spot for a 61-67 team with a -36 run differential hosting a 76-51 team at +45, and the pitching gap doesn't justify it. Pythag/log5 puts Tampa Bay around 57% on a neutral field, roughly 53% af",
-    "bankroll_after": "848.17"
+    "bankroll_after": "848.138"
   },
   {
     "date": "2026-08-21",
@@ -6605,7 +6605,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "Detmers is meaningfully the better starter with fully reliable samples (143 IP): xERA 3.32 vs Gore's 3.86, WHIP 1.06 vs 1.26, xwOBA .283 vs .304, and he held this same Rangers lineup to 1 ER over 6 IP eleven days ago. The bullpens are effectively ide",
-    "bankroll_after": "803.17"
+    "bankroll_after": "803.138"
   },
   {
     "date": "2026-08-21",
@@ -6621,7 +6621,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "A 74-54, +100 run-differential team is priced at a coin flip against a 60-68, -46 team, and the gap the market is bridging rests almost entirely on today's starters and home field. The SP edge to Hancock is real but smaller than his 3.30 ERA suggests",
-    "bankroll_after": "758.17"
+    "bankroll_after": "758.138"
   },
   {
     "date": "2026-08-21",
@@ -6637,7 +6637,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "Detroit holds edges in all three phases that decide a full game: Melton's xERA (3.06, 329 PA) beats Cameron's (4.17) by over a run despite Cameron's recent shutout, the season run differentials are 182 runs apart (+82 vs -100, the largest-sample team",
-    "bankroll_after": "713.17"
+    "bankroll_after": "713.138"
   },
   {
     "date": "2026-08-21",
@@ -6653,7 +6653,7 @@
     "result": "loss",
     "pnl": "-45.0",
     "reasoning_summary": "Coors game where the home starter (career 6.46 ERA, 4.85 xERA, low-K contact profile) is making his first start in six weeks, meaning rust plus a short pitch count that hands the game early to a 4.81 ERA bullpen; the away starter is legitimately good",
-    "bankroll_after": "668.17"
+    "bankroll_after": "668.138"
   },
   {
     "date": "2026-08-22",
@@ -6669,7 +6669,7 @@
     "result": "loss",
     "pnl": "-33.0",
     "reasoning_summary": "The market prices this near pick'em, but the underlying quality gap is wide: Detroit is +79 run differential with a 3.80 ERA bullpen versus Kansas City at -97 with a 5.21 ERA bullpen that is also heavily taxed (four relievers with 2+ appearances in t",
-    "bankroll_after": "635.17"
+    "bankroll_after": "635.138"
   },
   {
     "date": "2026-08-22",
@@ -6685,7 +6685,7 @@
     "result": "loss",
     "pnl": "-33.0",
     "reasoning_summary": "The Cubs are a substantially better team (74-55, +99 run differential) than the Mariners (61-68, -45), yet are priced as underdogs at +104 \u2014 a record-based prior puts Chicago near 56% even after home-field adjustment. Seattle is starting a debuting p",
-    "bankroll_after": "602.17"
+    "bankroll_after": "602.138"
   },
   {
     "date": "2026-08-22",
@@ -6701,7 +6701,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "The 1H price (-220/+174) treats this as a big SP mismatch, but the underlying pitching data says it is near-even: Lopez carries a 3.44 xERA over 396 PA (3.64 prior year) with three straight strong starts (18 IP, 6 ER, 20 K), while Brown is declining ",
-    "bankroll_after": "602.17"
+    "bankroll_after": "602.138"
   },
   {
     "date": "2026-08-23",
@@ -6717,7 +6717,7 @@
     "result": "win",
     "pnl": "28.319",
     "reasoning_summary": "A 74-56 team with a +98 run differential is priced at a coin flip against a 62-68 team at -44, and the pitching matchup doesn't justify it: Imanaga (career 3.43 ERA, 1.03 WHIP over 461 IP) profiles at least as well as Miller (career 3.95, prior-year ",
-    "bankroll_after": "630.49"
+    "bankroll_after": "630.457"
   },
   {
     "date": "2026-08-23",
@@ -6733,7 +6733,7 @@
     "result": "loss",
     "pnl": "-30.0",
     "reasoning_summary": "Detroit is the substantially better club (+77 run differential vs -95, a ~170-run gap; pythag ~.571 vs .421) yet is priced at only -110, implying 52.4%. The matchup specifics compound the season-quality gap: Lynch's 2.83 surface ERA masks a 4.34 care",
-    "bankroll_after": "600.49"
+    "bankroll_after": "600.457"
   },
   {
     "date": "2026-08-23",
@@ -6749,7 +6749,7 @@
     "result": "loss",
     "pnl": "-30.0",
     "reasoning_summary": "Sugano's 7.05 xERA and .395 xwOBA over 498 PA is an extreme contact-quality red flag for a 5.2 K/9 contact pitcher at Coors in 85-degree heat, while Griffin's 3.18 ERA masks a 4.17 xERA whose regression risk is amplified by altitude. Cleveland's .734",
-    "bankroll_after": "570.49"
+    "bankroll_after": "570.457"
   },
   {
     "date": "2026-08-24",
@@ -6765,7 +6765,7 @@
     "result": "loss",
     "pnl": "-29.0",
     "reasoning_summary": "Both starters are in poor current form: Kelly's 7.23 xERA / .399 xwOBA over 565 PA is a large-sample collapse (12 ER in his last 9 IP), and Gausman has allowed 9 ER over his last two starts (9 IP combined), so both project hittable tonight. A strong ",
-    "bankroll_after": "541.49"
+    "bankroll_after": "541.457"
   },
   {
     "date": "2026-08-24",
@@ -6781,7 +6781,7 @@
     "result": "win",
     "pnl": "32.242",
     "reasoning_summary": "Large, reliable SP mismatch: Cavalli (3.83 xERA on 600 PA, career 3.73, 10+ K/9, 0 ER in two of his last three starts) vs Feltner (5.57 xERA on 408 PA, career 5.36 over 431 IP, 7 ER last out), backed by a big team-quality gap (+10 vs -136 run diff). ",
-    "bankroll_after": "573.73"
+    "bankroll_after": "573.699"
   },
   {
     "date": "2026-08-24",
@@ -6797,7 +6797,7 @@
     "result": "win",
     "pnl": "29.392",
     "reasoning_summary": "Ashcraft (career 3.37 ERA/219 IP, xERA 3.36, xwOBA .285, dominant recent form) holds a ~1.2-run xERA edge over Ray, whose 3.20 ERA masks a 4.59 xERA, .329 xwOBA, and 4.5 BB/9. The all-RHB Pirates lineup (.772 avg OPS) has a full platoon advantage aga",
-    "bankroll_after": "603.12"
+    "bankroll_after": "603.091"
   },
   {
     "date": "2026-08-25",
@@ -6813,7 +6813,7 @@
     "result": "win",
     "pnl": "40.762",
     "reasoning_summary": "Glasnow has not pitched since May 6 (a 1-inning exit), so this is his first start back from a ~3.5-month layoff \u2014 his elite 2.72 ERA/0.83 WHIP rate stats overstate what a rust-limited, pitch-capped outing delivers, and his last full start before the ",
-    "bankroll_after": "643.88"
+    "bankroll_after": "643.853"
   },
   {
     "date": "2026-08-25",
@@ -6829,7 +6829,7 @@
     "result": "loss",
     "pnl": "-30.0",
     "reasoning_summary": "Philadelphia is the substantially better team (73-59, +20 run diff vs 63-69, -54; pythag .517 vs .451) yet is priced as a plus-money underdog at 48.3% devigged. The SP matchup is near-even by xERA (Nola 4.17 vs Kirby 4.00) with recent form favoring N",
-    "bankroll_after": "613.88"
+    "bankroll_after": "613.853"
   },
   {
     "date": "2026-08-25",
@@ -6845,7 +6845,7 @@
     "result": "loss",
     "pnl": "-30.0",
     "reasoning_summary": "Thornton's 3.04 ERA masks a 4.85 xERA and .337 xwOBA over 200 PA with only 6.4 K/9 \u2014 a clear regression profile facing a confirmed .758-OPS Brewers lineup that is all right-handed against the lefty, while the Mets' .705 lineup provides moderate suppo",
-    "bankroll_after": "583.88"
+    "bankroll_after": "583.853"
   },
   {
     "date": "2026-08-26",
@@ -6861,7 +6861,7 @@
     "result": "loss",
     "pnl": "-29.0",
     "reasoning_summary": "Detroit has the clear starting pitching edge today: Melton's xERA 3.22 (355 PA) aligns with his career 2.06/1.01 profile, while Peralta's 4.11 xERA over 601 PA marks real decline from his 3.43 prior year, corroborated by recent results. The Tigers' 6",
-    "bankroll_after": "554.88"
+    "bankroll_after": "554.853"
   },
   {
     "date": "2026-08-26",
@@ -6877,7 +6877,7 @@
     "result": "win",
     "pnl": "23.77",
     "reasoning_summary": "The first five innings concentrate the real edge in this game: Webb (3.83 xERA over 141 IP, career 3.42 across 1200+ IP) against Lodolo, whose 75-IP current sample is legitimately bad (6.49 xERA, .382 xwOBA, 1.52 WHIP, K/9 collapsed from career 9.6 t",
-    "bankroll_after": "578.65"
+    "bankroll_after": "578.623"
   },
   {
     "date": "2026-08-26",
@@ -6893,7 +6893,7 @@
     "result": "loss",
     "pnl": "-29.0",
     "reasoning_summary": "Both starters are large-sample xERA overperformers (Rodriguez 2.61 ERA vs 4.59 xERA over 635 PA with declining strikeouts; Boyd 4.15 vs 5.01), so true pitching talent tonight is roughly 4.6-5.0 on both sides despite the sparkling surface ERAs. Both l",
-    "bankroll_after": "549.65"
+    "bankroll_after": "549.623"
   },
   {
     "date": "2026-08-26",
@@ -6909,7 +6909,7 @@
     "result": "loss",
     "pnl": "-29.0",
     "reasoning_summary": "The expected-quality gap at starter runs opposite the price: Chandler carries a 4.08 xERA (.312 xwOBA) while V\u00e1squez sits at 5.71 xERA (.362 xwOBA) with a 5.6 K/9 \u2014 his 4.19 ERA and recent low-strikeout scoreless starts are contact-luck overperforman",
-    "bankroll_after": "520.65"
+    "bankroll_after": "520.623"
   },
   {
     "date": "2026-08-28",
@@ -6925,7 +6925,7 @@
     "result": "win",
     "pnl": "26.082",
     "reasoning_summary": "Both starters are below-average by true-talent metrics \u2014 Peterson (xERA 4.87, season 5.17) and Lowder (xERA 5.14, xwOBA .346) \u2014 in a wind-sensitive park with a moderate 6.8 mph tailwind out to CF at 78\u00b0F. Season run rates support a high-scoring envir",
-    "bankroll_after": "546.73"
+    "bankroll_after": "546.705"
   },
   {
     "date": "2026-08-28",
@@ -6941,7 +6941,7 @@
     "result": "loss",
     "pnl": "-26.0",
     "reasoning_summary": "This is close to a maximal SP mismatch: Eury P\u00e9rez (career 3.49 ERA/1.10 WHIP over 314 IP, xERA 3.67, 1 ER across his last 18 IP including a start at Washington) against Jackson Kent, whose 8.03 ERA, 2.11 WHIP, and 8.0 BB/9 are corroborated by a 6.09",
-    "bankroll_after": "520.73"
+    "bankroll_after": "520.705"
   },
   {
     "date": "2026-08-28",
@@ -6957,7 +6957,7 @@
     "result": "loss",
     "pnl": "-26.0",
     "reasoning_summary": "The record gap (.500 vs .448) overstates the quality gap: run differentials are nearly identical (-44 vs -52, ~0.06 runs/game apart), making these effectively equal teams, and an equal-team home game is roughly a 53-54% proposition before specifics. ",
-    "bankroll_after": "494.73"
+    "bankroll_after": "494.705"
   },
   {
     "date": "2026-08-28",
@@ -6973,7 +6973,7 @@
     "result": "loss",
     "pnl": "-26.0",
     "reasoning_summary": "The market is pricing Tampa Bay on record and McClanahan's reputation, but the underlying form runs the other way: Mize's 3.49 xERA (421 PA, backed by a 3.66 prior year) is well ahead of McClanahan's 4.14 xERA with declining K/9 (8.3 vs 9.8 career) a",
-    "bankroll_after": "468.73"
+    "bankroll_after": "468.705"
   },
   {
     "date": "2026-08-29",
@@ -6989,7 +6989,7 @@
     "result": "win",
     "pnl": "24.808",
     "reasoning_summary": "The White Sox are the meaningfully better team this season (71-63, +47 run diff vs 64-71, -59) yet are priced as underdogs at +108 largely on home field and Ober's career pedigree. The starting pitcher matchup is effectively even by current-year cont",
-    "bankroll_after": "493.54"
+    "bankroll_after": "493.513"
   },
   {
     "date": "2026-08-29",
@@ -7005,7 +7005,7 @@
     "result": "win",
     "pnl": "25.455",
     "reasoning_summary": "Pittsburgh profiles as the better team by full-season run differential (+21 vs -10) yet is priced as a 47.4% underdog largely on home field and Leahy's surface ERA. Leahy's 3.13 ERA sits on a 4.84 xERA over 531 PA \u2014 a large-sample overperformance fla",
-    "bankroll_after": "519.0"
+    "bankroll_after": "518.968"
   },
   {
     "date": "2026-08-29",
@@ -7021,7 +7021,7 @@
     "result": "win",
     "pnl": "22.297",
     "reasoning_summary": "Boston has the better starter tonight by expected metrics (3.29 xERA, 1.9 BB/9, stretched to 7 IP) while Rod\u00f3n is in a post-injury build-up capped near 4 innings with a 4.00 xERA and 5.0 BB/9, pushing ~5 innings onto the more taxed of two otherwise c",
-    "bankroll_after": "541.3"
+    "bankroll_after": "541.265"
   },
   {
     "date": "2026-08-29",
@@ -7037,7 +7037,7 @@
     "result": "win",
     "pnl": "23.073",
     "reasoning_summary": "The home side has a real multi-factor edge: current-year SP quality favors Gausman (3.86 xERA over 633 PA vs Abbott's 4.68 with a BB/9 spike to 4.2 \u2014 both samples large enough to trust at 145+ IP), and the platoon layout compounds it, with nine right",
-    "bankroll_after": "564.37"
+    "bankroll_after": "564.338"
   },
   {
     "date": "2026-08-30",
@@ -7053,7 +7053,7 @@
     "result": "loss",
     "pnl": "-28.0",
     "reasoning_summary": "Both starters project hittable by the reliable metrics (Junk 4.19 xERA, contact-heavy 6.2 K/9; Alvarez 4.58 current xERA with 4.0 BB/9, prior-year form not holding). Washington's offense is high-volume (718 runs, ~5.2/game) and their 4.88 ERA bullpen",
-    "bankroll_after": "536.37"
+    "bankroll_after": "536.338"
   },
   {
     "date": "2026-08-30",
@@ -7069,7 +7069,7 @@
     "result": "win",
     "pnl": "28.856",
     "reasoning_summary": "A 16.8 mph tailwind out to center at Wrigley in 80-degree heat is one of the strongest physical over-environments in baseball, and the board is offering over 9 at plus money \u2014 pricing that suggests the wind is not fully baked in, since strong-out Wri",
-    "bankroll_after": "565.23"
+    "bankroll_after": "565.194"
   },
   {
     "date": "2026-08-30",
@@ -7085,7 +7085,7 @@
     "result": "loss",
     "pnl": "-28.0",
     "reasoning_summary": "The season-quality gap strongly favors Chicago: 72-63 with a +48 run differential versus Minnesota at 64-72 and -60, a ~110-run spread that home field only partly offsets, yet the better team is plus-money. The pitching picture doesn't rescue the Twi",
-    "bankroll_after": "537.23"
+    "bankroll_after": "537.194"
   },
   {
     "date": "2026-08-30",
@@ -7101,7 +7101,7 @@
     "result": "win",
     "pnl": "22.047",
     "reasoning_summary": "Large, reliable SP mismatch: Ashcraft (3.41 xERA, .287 xwOBA, career 3.32 over 225 IP, 23 IP / 3 ER across his last three starts) vs Liberatore (4.94 xERA, career 4.86, 8 ER in his last outing), and Ashcraft's recent 8-9 IP outings mean he alone cove",
-    "bankroll_after": "559.28"
+    "bankroll_after": "559.241"
   },
   {
     "date": "2026-08-31",
@@ -7117,7 +7117,7 @@
     "result": "loss",
     "pnl": "-28.0",
     "reasoning_summary": "Dion holds a large quality edge over Gusto by best-available data: xERA 3.14 vs 4.49, xwOBA .276 vs .326, 10.8 K/9 vs 7.5, and his 34 IP is past the ~30 IP threshold where current-year xERA becomes meaningful. Gusto's shiny recent line (0 ER in two o",
-    "bankroll_after": "531.28"
+    "bankroll_after": "531.241"
   },
   {
     "date": "2026-08-31",
@@ -7133,7 +7133,7 @@
     "result": "loss",
     "pnl": "-28.0",
     "reasoning_summary": "Milwaukee gets even money despite being the better team on season fundamentals (85-52 vs 77-60, +177 vs +127 run differential, 3.25 vs 3.90 bullpen ERA) and holding the starting pitcher edge: Harrison's xERA 3.24 / xwOBA .280 with an 11.1 K/9 over a ",
-    "bankroll_after": "503.28"
+    "bankroll_after": "503.241"
   },
   {
     "date": "2026-08-31",
@@ -7149,7 +7149,7 @@
     "result": "win",
     "pnl": "28.28",
     "reasoning_summary": "The first-5 is a genuine SP mismatch in the Angels' favor: Ure\u00f1a carries a 3.43 xERA over 500 PA (116 IP), while Rodr\u00edguez profiles poorly even after regressing his 23-IP sample \u2014 5.45 xERA, 1.52 WHIP, and a near-1:1 K/BB (6.3 K/9 vs 5.1 BB/9) all po",
-    "bankroll_after": "531.56"
+    "bankroll_after": "531.521"
   },
   {
     "date": "2026-09-01",
@@ -7165,7 +7165,7 @@
     "result": "win",
     "pnl": "28.111",
     "reasoning_summary": "Miami is the meaningfully better club (+12 run differential vs -83, ~.510 vs ~.435 pythag) yet is priced at even money because the market appears to be crediting the home starter's 1.92 ERA, which his 4.56 xERA, 5.73 prior-year xERA, and 4.07 career ",
-    "bankroll_after": "559.67"
+    "bankroll_after": "559.632"
   },
   {
     "date": "2026-09-01",
@@ -7181,7 +7181,7 @@
     "result": "win",
     "pnl": "29.628",
     "reasoning_summary": "The Brewers are the meaningfully better team (.616 vs .565, +163 vs +141 run differential, 3.36 vs 3.93 bullpen ERA) yet are priced as +110 underdogs, implying only 47.6%. The SP matchup is near-even with a slight Milwaukee lean: Gasser's current xER",
-    "bankroll_after": "589.3"
+    "bankroll_after": "589.26"
   },
   {
     "date": "2026-09-01",
@@ -7197,7 +7197,7 @@
     "result": "loss",
     "pnl": "-27.0",
     "reasoning_summary": "Two essentially equal teams (.493 vs .504, identical bullpen ERAs, near-equal runs scored) are priced as a 62% home favorite, which overstates Cleveland's edge. Gavin Williams is league-average by xERA (4.00, .309 xwOBA) and erratic lately (5 ER in 1",
-    "bankroll_after": "562.3"
+    "bankroll_after": "562.26"
   },
   {
     "date": "2026-09-01",
@@ -7213,7 +7213,7 @@
     "result": "win",
     "pnl": "24.324",
     "reasoning_summary": "This is close to the largest starting-pitcher gap a board can offer: Bryan Woo brings 538 career IP at a 3.51 ERA / 1.01 WHIP with a 3.67 xERA this year, while Boston counters with Jedixson Paez, who has 3 career MLB innings, zero strikeouts, 9.0 BB/",
-    "bankroll_after": "586.62"
+    "bankroll_after": "586.584"
   },
   {
     "date": "2026-09-02",
@@ -7229,7 +7229,7 @@
     "result": "loss",
     "pnl": "-29.0",
     "reasoning_summary": "This is a large, reliably-documented SP mismatch: Mize carries a 3.50 xERA over 446 PA (3.66 prior year) with strong command, while Williamson has a 6.81 xERA and 6.4 BB/9 in limited work, a 4.69 career ERA, and hasn't made a major-league start since",
-    "bankroll_after": "557.62"
+    "bankroll_after": "557.584"
   },
   {
     "date": "2026-09-02",
@@ -7245,7 +7245,7 @@
     "result": "win",
     "pnl": "34.8",
     "reasoning_summary": "This is a genuine SP mismatch pointing at the underdog: Lopez carries a 3.40 xERA over a large 441-PA sample (3.64 prior year, 8.7 K/9) and has allowed 4 ER total across his last three starts, while Bradford is outperforming his contact quality badly",
-    "bankroll_after": "592.42"
+    "bankroll_after": "592.384"
   },
   {
     "date": "2026-09-02",
@@ -7261,7 +7261,7 @@
     "result": "win",
     "pnl": "29.392",
     "reasoning_summary": "Detroit profiles as the better team by the larger-sample measures despite the worse record: +42 run differential vs Minnesota's -33 (pythag ~.535 vs ~.475) and a clearly better bullpen (4.03 vs 4.78 ERA). Today's SP matchup adds to it \u2014 Anderson's 3.",
-    "bankroll_after": "621.81"
+    "bankroll_after": "621.776"
   },
   {
     "date": "2026-09-02",
@@ -7277,7 +7277,7 @@
     "result": "win",
     "pnl": "28.364",
     "reasoning_summary": "Miami is clearly the better club (+15 run differential vs -86, ~0.7 runs/game gap) yet is priced essentially even at -104 because of home field and Cameron's recent form. The SP matchup is close to neutral: Perez holds the better arsenal and expected",
-    "bankroll_after": "650.17"
+    "bankroll_after": "650.14"
   },
   {
     "date": "2026-09-03",
@@ -7293,7 +7293,7 @@
     "result": "loss",
     "pnl": "-33.0",
     "reasoning_summary": "Milwaukee has a clear starting pitcher edge: Henderson (2.48 ERA, 0.83 WHIP, 2.73 xERA on 286 PA, career 2.30 over 101 IP, three straight 1-ER starts) profiles well ahead of Gausman, whose 4.52 ERA is backed by a 3.92 xERA \u2014 real decline, not bad luc",
-    "bankroll_after": "617.17"
+    "bankroll_after": "617.14"
   },
   {
     "date": "2026-09-03",
@@ -7309,7 +7309,7 @@
     "result": "loss",
     "pnl": "-33.0",
     "reasoning_summary": "Cleveland holds the better and more reliable starter: Bibee's career 3.68 ERA/1.17 WHIP with 2.5 BB/9 and three straight 6-inning starts of 3 ER or fewer, versus Soriano whose 3.45 ERA masks a 4.48 xERA and 4.0 BB/9 walk problem. Cleveland also field",
-    "bankroll_after": "584.17"
+    "bankroll_after": "584.14"
   },
   {
     "date": "2026-09-03",
@@ -7325,7 +7325,7 @@
     "result": "win",
     "pnl": "28.966",
     "reasoning_summary": "A 14 mph wind blowing straight in at Wrigley (-13.4 mph to CF) is one of the strongest run-suppression environments in baseball, and it pairs with a genuine SP quality edge on the under: Henderson is elite by both career (2.30 ERA, 101 IP) and curren",
-    "bankroll_after": "613.14"
+    "bankroll_after": "613.106"
   },
   {
     "date": "2026-09-03",
@@ -7341,7 +7341,7 @@
     "result": "loss",
     "pnl": "-31.0",
     "reasoning_summary": "Miami rates as the better side on every predictive fundamental: Alcantara over Wacha on xERA (3.63 vs 3.98) and career ERA (3.62 vs 3.83), a ~107-run season run-differential gap (+18 vs -89), and a full run of bullpen quality (4.00 vs 5.09 ERA) that ",
-    "bankroll_after": "582.14"
+    "bankroll_after": "582.106"
   },
   {
     "date": "2026-09-04",
@@ -7357,7 +7357,7 @@
     "result": "loss",
     "pnl": "-29.0",
     "reasoning_summary": "Detroit's +47 run differential (610/563) against Cleveland's -11 (566/577) makes the Tigers the stronger club by full-season quality despite the worse record, yet they're priced as a 45.7% underdog. The SP matchup compounds it: Montero carries a 3.42",
-    "bankroll_after": "553.14"
+    "bankroll_after": "553.106"
   },
   {
     "date": "2026-09-04",
@@ -7373,7 +7373,7 @@
     "result": "win",
     "pnl": "29.131",
     "reasoning_summary": "Run differential (+118 vs +36) and pythagorean records make Atlanta roughly a .570 neutral-field favorite over Philadelphia; even after full home-field credit the visitors project around 53%. The SP matchup adds slightly to that: Sale (xERA 2.99, car",
-    "bankroll_after": "582.27"
+    "bankroll_after": "582.237"
   },
   {
     "date": "2026-09-05",
@@ -7389,7 +7389,7 @@
     "result": "win",
     "pnl": "27.619",
     "reasoning_summary": "The market prices this as a pure pick'em, but the team-quality gap is large: Tampa Bay is 84-57 with a +46 run differential versus Texas at 70-72 and -43, and the Rays' bullpen (4.09 ERA) outclasses the Rangers' (4.46). The SP matchup is roughly even",
-    "bankroll_after": "609.89"
+    "bankroll_after": "609.856"
   },
   {
     "date": "2026-09-05",
@@ -7405,7 +7405,7 @@
     "result": "win",
     "pnl": "28.114",
     "reasoning_summary": "Toronto holds three stacked advantages the near-pickem price doesn't reflect: a ~1.00 xERA gap at starter (Scherzer 4.21 vs Lugo 5.16, with Lugo's identical prior-year xERA confirming real decline over a 662-PA sample), a large bullpen gap (3.76 vs 5",
-    "bankroll_after": "638.0"
+    "bankroll_after": "637.97"
   },
   {
     "date": "2026-09-05",
@@ -7421,7 +7421,7 @@
     "result": "win",
     "pnl": "26.605",
     "reasoning_summary": "This is a genuine SP mismatch on large in-season samples: Bradley (3.92 xERA, 10.4 K/9 over 154 IP, 7 IP/1 ER last out) projects roughly a full run better than Kay (4.92 xERA, 7.4 K/9, consecutive 4.2 IP outings with 4-5 ER), with recent form divergi",
-    "bankroll_after": "664.61"
+    "bankroll_after": "664.575"
   },
   {
     "date": "2026-09-05",
@@ -7437,7 +7437,7 @@
     "result": "win",
     "pnl": "28.114",
     "reasoning_summary": "Clear SP mismatch at a near pick'em price: Pfaadt is an established starter having a genuinely improved year (3.76 xERA over 455 PA, 111 IP) while Pecko has only 13 career IP with a 7.29 xERA, 0.400 xwOBA, and 6.2 BB/9, averaging barely 4+ innings pe",
-    "bankroll_after": "692.72"
+    "bankroll_after": "692.689"
   },
   {
     "date": "2026-09-06",
@@ -7453,7 +7453,7 @@
     "result": "loss",
     "pnl": "-35.0",
     "reasoning_summary": "Tampa Bay is the substantially better club (85-57, +49 run diff vs 70-73, -46; pythag ~.540 vs ~.463) yet is priced as a near pick'em on the road. The SP matchup also tilts their way: Seymour's 3.45 xERA over a real sample (470 PA), 11.0 K/9 with 2.5",
-    "bankroll_after": "657.72"
+    "bankroll_after": "657.689"
   },
   {
     "date": "2026-09-06",
@@ -7469,7 +7469,7 @@
     "result": "win",
     "pnl": "31.543",
     "reasoning_summary": "The away starter's 3.13 ERA masks a 4.79 xERA (545 PA) and he has been stretched only 3-5 IP in recent outings, meaning 4-6 innings fall to a 4.56 ERA bullpen whose three most-used arms all worked twice in the last three days; the home starter is a c",
-    "bankroll_after": "689.26"
+    "bankroll_after": "689.232"
   },
   {
     "date": "2026-09-06",
@@ -7485,7 +7485,7 @@
     "result": "win",
     "pnl": "34.519",
     "reasoning_summary": "Both starters have expected-stat regression profiles (xERA 4.36 and 4.66, well above their surface ERAs), the home starter is returning from a three-week layoff with 14 ER over his last 13.2 IP, and the away starter's 4.1 BB/9 faces a patient, elite ",
-    "bankroll_after": "723.78"
+    "bankroll_after": "723.751"
   },
   {
     "date": "2026-09-06",
@@ -7501,7 +7501,7 @@
     "result": "loss",
     "pnl": "-35.0",
     "reasoning_summary": "The Yankees are the substantially better team (+118 run differential vs +7, 643 runs scored vs 598, 3.06 vs 3.44 bullpen ERA) with the better starting pitcher by expected metrics: Cole's 3.40 xERA and .286 xwOBA against King's 4.36 xERA (662 PA, and ",
-    "bankroll_after": "688.78"
+    "bankroll_after": "688.751"
   },
   {
     "date": "2026-09-07",
@@ -7517,7 +7517,7 @@
     "result": "loss",
     "pnl": "-34.0",
     "reasoning_summary": "The teams are far closer than the price implies: run differentials are essentially identical (+9 vs +8), meaning the Nationals' .462 record understates their true quality while the Padres' .524 slightly overstates theirs. Pivetta has thrown only 16 I",
-    "bankroll_after": "654.78"
+    "bankroll_after": "654.751"
   },
   {
     "date": "2026-09-07",
@@ -7533,7 +7533,7 @@
     "result": "loss",
     "pnl": "-34.0",
     "reasoning_summary": "The market prices the Giants at 56% largely on Webb's career profile, but the team-quality gap runs the other way: St. Louis is 72-72 with a -9 run differential versus San Francisco at .410 and -75, and today's lineup gap is stark (.771 avg OPS with ",
-    "bankroll_after": "620.78"
+    "bankroll_after": "620.751"
   },
   {
     "date": "2026-09-08",
@@ -7549,7 +7549,7 @@
     "result": "win",
     "pnl": "35.473",
     "reasoning_summary": "The road dog has the better pitcher by the reliable metrics: Bibee's career 3.73 ERA over 664 IP and prior-year 3.64 xERA clearly beat Young's career 4.25 ERA / 1.38 WHIP, and Young's 3.42 season ERA is outrunning his 4.32 xERA \u2014 he profiles as a reg",
-    "bankroll_after": "656.25"
+    "bankroll_after": "656.224"
   },
   {
     "date": "2026-09-08",
@@ -7565,7 +7565,7 @@
     "result": "win",
     "pnl": "31.0",
     "reasoning_summary": "Large, reliably-sampled SP mismatch favoring the away side: Detmers at a 3.25 xERA over 651 PA with three straight starts of 1 ER or fewer, against Sandoval at a 5.29 xERA with a 1.73 WHIP and 4.6 BB/9 who hasn't finished six innings in a month. The ",
-    "bankroll_after": "687.25"
+    "bankroll_after": "687.224"
   },
   {
     "date": "2026-09-08",
@@ -7581,7 +7581,7 @@
     "result": "win",
     "pnl": "27.434",
     "reasoning_summary": "Large, reliable SP mismatch: Peralta is an established arm (career 3.77 ERA/1.17 WHIP over 1078 IP, 3.89 xERA on 643 PA this year \u2014 his 4.96 ERA is running well above contact quality) and is in dominant recent form (1 ER over his last 12 IP), while S",
-    "bankroll_after": "714.68"
+    "bankroll_after": "714.658"
   },
   {
     "date": "2026-09-09",
@@ -7597,7 +7597,7 @@
     "result": "win",
     "pnl": "37.431",
     "reasoning_summary": "The SP matchup is softer than surface ERAs suggest: Griffin's 3.26 ERA masks a 4.26 xERA (full-run contact-quality gap the market likely prices off the ERA), and Baz sits at 4.03 xERA \u2014 effectively two league-average-expected starters, not a pitching",
-    "bankroll_after": "752.11"
+    "bankroll_after": "752.089"
   },
   {
     "date": "2026-09-09",
@@ -7613,7 +7613,7 @@
     "result": "win",
     "pnl": "47.897",
     "reasoning_summary": "These are near-equal teams by full-season quality (run diffs +32 vs +43, ~0.08 runs/game apart), which supports a home-side probability around 54%, not the 57% devigged / 59.5% implied the current price demands. The starter matchup tilts toward Pitts",
-    "bankroll_after": "800.01"
+    "bankroll_after": "799.986"
   },
   {
     "date": "2026-09-09",
@@ -7629,7 +7629,7 @@
     "result": "loss",
     "pnl": "-36.0",
     "reasoning_summary": "The market's case for the home favorite rests on Kade Anderson's 3.15 xERA over just 63 PA \u2014 a 15 IP rookie with no career baseline, a 4.2 BB/9, and three mediocre starts, which is below every reliability threshold. The season-long fundamentals favor",
-    "bankroll_after": "764.01"
+    "bankroll_after": "763.986"
   },
   {
     "date": "2026-09-09",
@@ -7645,7 +7645,7 @@
     "result": "loss",
     "pnl": "-36.0",
     "reasoning_summary": "Bennett (3.22 xERA, 1.02 WHIP, 1.6 BB/9) vs Johnson (5.29 xERA, 4.4 BB/9, whose 0-1-1 ER recent run is luck per contact quality) is a large SP mismatch, compounded by the Angels' .580 OPS lineup with four sub-.620 bats and a -75 run diff vs Boston's ",
-    "bankroll_after": "728.01"
+    "bankroll_after": "727.986"
   },
   {
     "date": "2026-09-10",
@@ -7661,7 +7661,7 @@
     "result": "loss",
     "pnl": "-36.0",
     "reasoning_summary": "Texas is the better team by full-season fundamentals (run differential -40 vs -75, Pythagorean ~.468 vs ~.439) and has the better starter today: deGrom (xERA 3.55, xwOBA .292, elite career profile, strong last two starts) over Gilbert (xERA 3.74). Bu",
-    "bankroll_after": "692.01"
+    "bankroll_after": "691.986"
   },
   {
     "date": "2026-09-11",
@@ -7677,7 +7677,7 @@
     "result": "win",
     "pnl": "42.388",
     "reasoning_summary": "Detroit holds a broad fundamentals edge: Valdez (career 3.47 ERA, 1238 IP) against a 13-career-IP rookie whose 5.99 xERA and 1.61 WHIP flag his 3.95 ERA as luck, plus a +55 vs -154 run differential gap and a 3.89 vs 4.85 bullpen ERA gap with two Colo",
-    "bankroll_after": "734.4"
+    "bankroll_after": "734.374"
   },
   {
     "date": "2026-09-11",
@@ -7693,7 +7693,7 @@
     "result": "win",
     "pnl": "30.762",
     "reasoning_summary": "Messick has a clear, career-backed SP edge over Bradley (xERA 3.04 vs 3.92, career 2.57 over 206 IP vs 4.59 over 544 IP), and it extends past the fifth inning: Cleveland's bullpen (3.61 ERA) is far better than Minnesota's (4.79), so the full-game ML ",
-    "bankroll_after": "765.16"
+    "bankroll_after": "765.136"
   },
   {
     "date": "2026-09-11",
@@ -7709,7 +7709,7 @@
     "result": "win",
     "pnl": "30.721",
     "reasoning_summary": "Both starters are below-average lefties with near-identical ~4.9 xERAs on large samples, and both are trending worse \u2014 Kay has allowed 14 ER over his last 13.2 IP and Liberatore 16 ER over his last 14 IP, meaning both bullpens likely cover 4+ innings",
-    "bankroll_after": "795.88"
+    "bankroll_after": "795.857"
   },
   {
     "date": "2026-09-12",
@@ -7725,7 +7725,7 @@
     "result": "loss",
     "pnl": "-40.0",
     "reasoning_summary": "Large career-backed SP mismatch: Skenes (3.25 xERA, 2.57 career ERA over 475 IP) against Holmes, whose 2.83 ERA masks a 4.07 xERA, a 4.33 prior-year xERA, and a career mark inflated by relief work. The first five innings isolate that gap while excisi",
-    "bankroll_after": "755.88"
+    "bankroll_after": "755.857"
   },
   {
     "date": "2026-09-12",
@@ -7741,7 +7741,7 @@
     "result": "loss",
     "pnl": "-40.0",
     "reasoning_summary": "Maximal run-suppression environment: 60F, overcast, 3 mph wind at the most pitcher-friendly park in the league. The away starter is an established arm (career 3.18 ERA over 662 IP) riding 19 consecutive scoreless innings, the home rookie lefty has sh",
-    "bankroll_after": "715.88"
+    "bankroll_after": "715.857"
   },
   {
     "date": "2026-09-14",
@@ -7757,7 +7757,7 @@
     "result": "win",
     "pnl": "42.209",
     "reasoning_summary": "Detroit is the better team by full-season fundamentals despite the worse record: +70 run differential vs Toronto's -31 (pythag roughly .555 vs .475), and the market is pricing them as a 46% dog. The SP matchup also leans Detroit \u2014 Melton's xERA 3.69 ",
-    "bankroll_after": "758.09"
+    "bankroll_after": "758.066"
   },
   {
     "date": "2026-09-14",
@@ -7773,7 +7773,7 @@
     "result": "win",
     "pnl": "36.163",
     "reasoning_summary": "Detmers has a genuine, large-sample SP edge: 3.19 xERA over 672 PA and 168 IP with elite recent form (19 IP, 2 ER, 19 K over last three starts) against a 21-IP rookie whose current-year numbers are below the reliability threshold and whose best prior",
-    "bankroll_after": "794.25"
+    "bankroll_after": "794.229"
   },
   {
     "date": "2026-09-14",
@@ -7789,7 +7789,7 @@
     "result": "win",
     "pnl": "33.939",
     "reasoning_summary": "Both starters project as below-average run suppressors: Peterson carries a 5.28 ERA / 1.58 WHIP with a 5.01 xERA over 599 PA and hasn't completed 5 innings in two of his last three starts, while Lopez is returning from a long layoff (76.1 IP, 4.2 IP ",
-    "bankroll_after": "828.19"
+    "bankroll_after": "828.168"
   },
   {
     "date": "2026-09-15",
@@ -7805,7 +7805,7 @@
     "result": "win",
     "pnl": "49.769",
     "reasoning_summary": "Detroit's +71 run differential against Toronto's -32 marks the Tigers as the substantially better team underneath the records, yet they are priced as a +117 underdog (46.1% implied). Toronto's listed starter has thrown only three appearances since la",
-    "bankroll_after": "877.96"
+    "bankroll_after": "877.937"
   },
   {
     "date": "2026-09-15",
@@ -7821,7 +7821,7 @@
     "result": "win",
     "pnl": "46.915",
     "reasoning_summary": "These are near-identical teams by full-season quality (run diff -34 vs -35, bullpen ERAs 3.91 vs 3.81), so the price should reduce to home field plus tonight's starters \u2014 yet the home side is priced at 55.8% implied. The SP edge runs the other way: B",
-    "bankroll_after": "924.88"
+    "bankroll_after": "924.852"
   },
   {
     "date": "2026-09-15",
@@ -7837,7 +7837,7 @@
     "result": "win",
     "pnl": "40.401",
     "reasoning_summary": "Fried (2.57 xERA, 0.99 WHIP) over Ober (4.56 xERA, career 4.11) is a real SP edge, but the largest structural gap is innings 6-9: a fresh 3.13-ERA bullpen behind a +130 run-diff club versus a 4.94-ERA pen with six relievers taxed after yesterday, fac",
-    "bankroll_after": "965.28"
+    "bankroll_after": "965.253"
   },
   {
     "date": "2026-09-16",
@@ -7853,7 +7853,7 @@
     "result": "loss",
     "pnl": "-48.0",
     "reasoning_summary": "Detroit is the better underlying team masked by its record: +80 run differential vs Toronto's -41 (Pythag ~.560 vs ~.470), yet it is priced as a ~47% underdog. Detroit also has the starting pitcher edge \u2014 Montero's 3.56 xERA over 147 IP against Scher",
-    "bankroll_after": "917.28"
+    "bankroll_after": "917.253"
   },
   {
     "date": "2026-09-16",
@@ -7869,7 +7869,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "These are near-identical clubs by full-season quality (run diff -32 vs -37, bullpen ERA 3.86 vs 3.82), and the SP matchup is effectively neutral by current expected quality: Bassitt's 5.10 xERA over 412 PA vs Stock's 5.07 over 147 PA. Bassitt is the ",
-    "bankroll_after": "917.28"
+    "bankroll_after": "917.253"
   },
   {
     "date": "2026-09-16",
@@ -7885,7 +7885,7 @@
     "result": "loss",
     "pnl": "-48.0",
     "reasoning_summary": "Boston holds every fundamental lever in this matchup yet is priced at a coin flip: a +86 run differential versus -42 (a ~128-run team-quality gap), the better starter today (Bennett xERA 3.51, WHIP 1.07, BB/9 1.6 versus Gore's 4.02 xERA, 1.39 career ",
-    "bankroll_after": "869.28"
+    "bankroll_after": "869.253"
   },
   {
     "date": "2026-09-16",
@@ -7901,7 +7901,7 @@
     "result": "win",
     "pnl": "55.828",
     "reasoning_summary": "These are near-identical teams by full-season quality (run differentials +7 vs +1, equivalent taxed bullpens), yet the home side is priced at 56% implied largely on home field and the veteran starter's name. Kelly's current-season underlying metrics ",
-    "bankroll_after": "925.11"
+    "bankroll_after": "925.081"
   },
   {
     "date": "2026-09-17",
@@ -7917,7 +7917,7 @@
     "result": "win",
     "pnl": "55.233",
     "reasoning_summary": "Philadelphia is the substantially better team over the full season (84-68, +31 run differential vs 69-83, -43), and log5/pythagorean baselines with home-field give the Mets only ~46-49% before pitching. McLean over Nola is a real but modest edge (xER",
-    "bankroll_after": "980.34"
+    "bankroll_after": "980.314"
   },
   {
     "date": "2026-09-17",
@@ -7933,7 +7933,7 @@
     "result": "loss",
     "pnl": "-46.0",
     "reasoning_summary": "The underlying team-quality gap favors the road side: Detroit's +76 run differential (683/607) implies a ~.559 team versus Chicago's +34 (~.524), and the market is pricing the records (72-80 vs 77-75) rather than the larger-sample quality signal. The",
-    "bankroll_after": "934.34"
+    "bankroll_after": "934.314"
   },
   {
     "date": "2026-09-17",
@@ -7949,7 +7949,7 @@
     "result": "win",
     "pnl": "52.205",
     "reasoning_summary": "The teams are near-equal by full-season quality (run differential -78 vs -73, Pythag ~.44 both), yet the home side is priced at only 46.9% implied. The home starter has the better expected-stats profile (3.40 xERA, .286 xwOBA over 137 IP vs 3.98 xERA",
-    "bankroll_after": "986.55"
+    "bankroll_after": "986.519"
   },
   {
     "date": "2026-09-17",
@@ -7965,7 +7965,7 @@
     "result": "loss",
     "pnl": "-46.0",
     "reasoning_summary": "Combined team scoring/allowance rates project roughly 8.6 runs after a Citi Field park adjustment, and a 79-degree night with a 9.6 mph tailwind to center adds carry in a moderate wind-out setup. Neither starter profiles as a suppressor at full-game ",
-    "bankroll_after": "940.55"
+    "bankroll_after": "940.519"
   },
   {
     "date": "2026-09-18",
@@ -7981,7 +7981,7 @@
     "result": "win",
     "pnl": "40.938",
     "reasoning_summary": "The SP matchup is roughly neutral \u2014 Lambert's current-season xERA (3.69 over 617 PA) is actually a tick better than Mahle's 4.04, though Mahle's 873 IP career track and dominant recent form (2 ER over last 19.2 IP) make him the safer profile while La",
-    "bankroll_after": "981.49"
+    "bankroll_after": "981.457"
   },
   {
     "date": "2026-09-18",
@@ -7997,7 +7997,7 @@
     "result": "loss",
     "pnl": "-47.0",
     "reasoning_summary": "The teams are effectively equal by season run differential (-77 vs -74) despite the record gap, so the home side starts near 54% before matchup specifics. Minnesota's SP edge is real but moderate (Prielipp xERA 4.10 vs Rodriguez 5.52, with Rodriguez'",
-    "bankroll_after": "934.49"
+    "bankroll_after": "934.457"
   },
   {
     "date": "2026-09-18",
@@ -8013,7 +8013,7 @@
     "result": "win",
     "pnl": "53.34",
     "reasoning_summary": "Detroit's underlying season quality is meaningfully better than the market price implies: +74 run differential (Pythag ~.557) versus Chicago's +36 (~.526), and run differential outweighs the raw records where they disagree. The SP matchup is effectiv",
-    "bankroll_after": "987.83"
+    "bankroll_after": "987.797"
   },
   {
     "date": "2026-09-18",
@@ -8029,7 +8029,7 @@
     "result": "loss",
     "pnl": "-47.0",
     "reasoning_summary": "A .556 team with a +34 run differential is priced as an underdog (+110, 47.6% implied) against a .451 team with a -46 differential, and the confirmed Phillies lineup is the full A-squad (.742 OPS vs .720). The visible justification is today's pitchin",
-    "bankroll_after": "940.83"
+    "bankroll_after": "940.797"
   },
   {
     "date": "2026-09-19",
@@ -8045,7 +8045,7 @@
     "result": "loss",
     "pnl": "-47.0",
     "reasoning_summary": "Detroit profiles as the better team by full-season run differential (+77 vs +33, pythag ~.558 vs ~.523) yet is priced as a 45% implied underdog at +122. The home SP holds the better season xERA (3.82 vs 4.46), but his last three starts are erratic (1",
-    "bankroll_after": "893.83"
+    "bankroll_after": "893.797"
   },
   {
     "date": "2026-09-19",
@@ -8061,7 +8061,7 @@
     "result": "win",
     "pnl": "51.134",
     "reasoning_summary": "Two near-identical teams (77-77/-33 vs 76-78/-43) yet the road side is priced as a 54.5% favorite, leaving the home team at plus money in what fundamentals say is a coin flip with home advantage. Quantrill's current-season xERA (3.90 over 439 PA) mod",
-    "bankroll_after": "944.96"
+    "bankroll_after": "944.931"
   },
   {
     "date": "2026-09-19",
@@ -8077,7 +8077,7 @@
     "result": "win",
     "pnl": "48.933",
     "reasoning_summary": "The market prices Atlanta at just 49% implied despite a large full-season quality gap: 90-64 with +115 run differential versus a .500 team at -54, plus a meaningfully better bullpen (3.41 vs 4.10 ERA) with Houston's pen the more taxed unit (three rel",
-    "bankroll_after": "993.89"
+    "bankroll_after": "993.864"
   },
   {
     "date": "2026-09-19",
@@ -8093,7 +8093,7 @@
     "result": "win",
     "pnl": "44.366",
     "reasoning_summary": "Detmers is the clearly better pitcher right now on a large in-season sample (174 IP, 3.23 xERA that beats his prior year, three dominant September starts) while Ryan is coming off a month-long absence with back-to-back 4-inning outings and just 1 K i",
-    "bankroll_after": "1038.26"
+    "bankroll_after": "1038.23"
   },
   {
     "date": "2026-09-20",
@@ -8109,7 +8109,7 @@
     "result": "loss",
     "pnl": "-52.0",
     "reasoning_summary": "The road side is the substantially better team (+141 run differential vs -5, .578 vs .523, elite 3.09 bullpen ERA vs 3.91) yet is priced near pickem because the home starter carries ace-level career numbers. Those career numbers overstate his current",
-    "bankroll_after": "986.26"
+    "bankroll_after": "986.23"
   },
   {
     "date": "2026-09-20",
@@ -8125,7 +8125,7 @@
     "result": "win",
     "pnl": "70.164",
     "reasoning_summary": "The price is built almost entirely on the SP gap (Brown xERA 3.30 vs Perez 4.58), but the team-quality gap runs hard the other way: Atlanta is +118 run diff with a 3.40 ERA bullpen vs Houston at -57 with a 4.15 pen, a pythag matchup of roughly 59/41 ",
-    "bankroll_after": "1056.42"
+    "bankroll_after": "1056.394"
   },
   {
     "date": "2026-09-20",
@@ -8141,7 +8141,7 @@
     "result": "win",
     "pnl": "80.667",
     "reasoning_summary": "Two near-equal teams by full-season quality (.490 vs .503, run diff -47 vs -29) with the home side priced at 63.2% implied. The home SP edge is real but covers only 5-6 innings based on his recent workloads; the away starter's elite rates (2.65 ERA, ",
-    "bankroll_after": "1137.09"
+    "bankroll_after": "1137.061"
   },
   {
     "date": "2026-09-22",
@@ -8157,7 +8157,7 @@
     "result": "loss",
     "pnl": "-57.0",
     "reasoning_summary": "Two elite starters with deep career samples (2.85 career ERA / 626 IP and 3.00 / 1185 IP) both in peak form, combining for 1 ER per start across their last six outings. A 20 mph wind blowing in with 62F overcast conditions compounds the run suppressi",
-    "bankroll_after": "1080.09"
+    "bankroll_after": "1080.061"
   },
   {
     "date": "2026-09-22",
@@ -8173,7 +8173,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "The SP gap is large and built on reliable samples: Anderson has a 3.81 xERA over 435 PA and 102 IP this year with strong recent form, while Kent carries a 5.37 xERA, 1.76 WHIP, and 6.4 BB/9 across his entire 32-IP career. The full-game picture compou",
-    "bankroll_after": "1080.09"
+    "bankroll_after": "1080.061"
   },
   {
     "date": "2026-09-22",
@@ -8189,7 +8189,7 @@
     "result": "win",
     "pnl": "59.791",
     "reasoning_summary": "Every run-suppression factor aligns here on fundamentals: two elite left-handed starters with large, reliable samples (Messick career 2.60 ERA/218 IP, xERA 3.11 on 711 PA; Tolle 143 IP this year, xERA 2.66, both in dominant recent form), backed by th",
-    "bankroll_after": "1139.88"
+    "bankroll_after": "1139.852"
   },
   {
     "date": "2026-09-22",
@@ -8205,7 +8205,7 @@
     "result": "win",
     "pnl": "72.409",
     "reasoning_summary": "Two near-equal teams by full-season quality (run diff -41 vs -34) are priced with the home side at ~57% devig, which overstates the gap. The home starter's season contact-quality edge is real but blunted by three straight collapsed starts (11 IP, 12 ",
-    "bankroll_after": "1212.29"
+    "bankroll_after": "1212.261"
   },
   {
     "date": "2026-09-23",
@@ -8221,7 +8221,7 @@
     "result": "win",
     "pnl": "59.136",
     "reasoning_summary": "Near pick'em price (-103) on a game with a large, reliable SP gap: McLean (career 2.94 ERA/220 IP, xERA 3.70, xwOBA .297) vs Bradford (career 4.26, xERA 5.16, xwOBA .345, 4.7 K/9), with Bradford lasting only 4-5 IP in recent starts, exposing the wors",
-    "bankroll_after": "1271.43"
+    "bankroll_after": "1271.397"
   },
   {
     "date": "2026-09-23",
@@ -8237,7 +8237,7 @@
     "result": "win",
     "pnl": "61.193",
     "reasoning_summary": "A 12+ mph headwind in with 57\u00b0F overcast air at Fenway is a strong physical suppressor, and it compounds rather than conflicts with the fundamentals: Gray (3.84 xERA, 16 ER-free-to-3-ER innings streak of strong form) faces a Cleveland lineup with a .",
-    "bankroll_after": "1332.62"
+    "bankroll_after": "1332.59"
   },
   {
     "date": "2026-09-24",
@@ -8253,7 +8253,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "This is a large, career-grade SP mismatch concentrated in the first five innings: Skenes (career 2.63 ERA/1.01 WHIP over 488 IP, current xERA 3.27) against Leahy, whose 3.65 surface ERA masks a 4.88 xERA and who hasn't completed 3 innings cleanly in ",
-    "bankroll_after": "1332.62"
+    "bankroll_after": "1332.59"
   },
   {
     "date": "2026-09-24",
@@ -8269,7 +8269,7 @@
     "result": "win",
     "pnl": "61.481",
     "reasoning_summary": "The total of 10 is low for Coors because the market is crediting the away starter's 2.89 surface ERA, but his 4.29 xERA over 761 PA (prior-year 4.51, career 4.03 over 1488 IP) says he is a ~4.3 true-talent pitcher whose regression is already arriving",
-    "bankroll_after": "1394.1"
+    "bankroll_after": "1394.071"
   },
   {
     "date": "2026-09-24",
@@ -8285,7 +8285,7 @@
     "result": "win",
     "pnl": "80.448",
     "reasoning_summary": "Milwaukee is the substantially better team (99-59, +203 run diff vs 87-71, +28) and holds the starting pitcher edge by expected metrics \u2014 Drohan's 3.83 xERA over a full 510-PA sample beats Painter's 4.50 xERA and 5.59 ERA \u2014 plus a clearly better and ",
-    "bankroll_after": "1474.55"
+    "bankroll_after": "1474.519"
   },
   {
     "date": "2026-09-24",
@@ -8301,7 +8301,7 @@
     "result": "loss",
     "pnl": "-67.0",
     "reasoning_summary": "Large late-season SP mismatch: Singer carries a 5.72 xERA over 707 PA and has allowed 21 ER in his last 12.1 IP, while Mahle has a 3.89 xERA and 2 ER over his last 19 IP. The Reds' confirmed lineup averages .661 OPS with three bats under .630, and th",
-    "bankroll_after": "1407.55"
+    "bankroll_after": "1407.519"
   },
   {
     "date": "2026-09-25",
@@ -8317,7 +8317,7 @@
     "result": "win",
     "pnl": "70.947",
     "reasoning_summary": "Near-even career SP matchup (Bello 4.16 vs Peterson 4.28) with Bello at home and sharp since returning. The away side's advantage is almost entirely offense (5.29 R/G), which 25 mph wind-in, rain, and 53F at a suppressed park specifically blunt, whil",
-    "bankroll_after": "1478.5"
+    "bankroll_after": "1478.466"
   },
   {
     "date": "2026-09-25",
@@ -8333,7 +8333,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "This is one of the largest SP mismatches on the board: Rogers has a full season at 165 IP with a 3.54 xERA and dominant recent form (1 ER over 8 IP and 1 ER over 7.1 IP in two of his last three), while the home side starts a 7-career-IP arm with a 9.",
-    "bankroll_after": "1478.5"
+    "bankroll_after": "1478.466"
   },
   {
     "date": "2026-09-25",
@@ -8349,7 +8349,7 @@
     "result": "win",
     "pnl": "107.271",
     "reasoning_summary": "The market is pricing this off surface ERAs (2.93 vs 4.56), but the underlying gap is far smaller: Peralta's 3.83 xERA and 3.73 career ERA over 1094 IP say he's a good pitcher whose season ERA overstates the damage, and he has allowed 2 ER total acro",
-    "bankroll_after": "1585.77"
+    "bankroll_after": "1585.737"
   },
   {
     "date": "2026-09-25",
@@ -8365,7 +8365,7 @@
     "result": "win",
     "pnl": "60.35",
     "reasoning_summary": "Fundamentals project roughly 7.8-8.2 total runs: both starters are solid but not elite run suppressors (xERA 3.75 and 4.06), both lineups are league-average (.718/.729 OPS, both above the .700 floor for overs), and the home bullpen is both poor (5.00",
-    "bankroll_after": "1646.12"
+    "bankroll_after": "1646.087"
   },
   {
     "date": "2026-09-26",
@@ -8381,7 +8381,7 @@
     "result": "win",
     "pnl": "78.095",
     "reasoning_summary": "This is a large effective-SP mismatch in the innings that decide the 1H market. Verlander has thrown 3.2 IP all season (last outing March 30: 3.2 IP, 5 ER, .474 xwOBA) \u2014 a 43-year-old returning from a six-month layoff is not his 3.33 career ERA today",
-    "bankroll_after": "1724.21"
+    "bankroll_after": "1724.182"
   },
   {
     "date": "2026-09-26",
@@ -8397,7 +8397,7 @@
     "result": "loss",
     "pnl": "-82.0",
     "reasoning_summary": "Season fundamentals say these teams are near-equal: run differentials -89 vs -66, identical runs scored (648 vs 649), and statistically identical bullpens (4.44 vs 4.47 ERA), which supports a home fair price around 57-59% after home field and a modes",
-    "bankroll_after": "1642.21"
+    "bankroll_after": "1642.182"
   },
   {
     "date": "2026-09-26",
@@ -8413,7 +8413,7 @@
     "result": "win",
     "pnl": "79.494",
     "reasoning_summary": "The 24-cent move toward Washington is driven by Connelly Early's activation, but his last start was June 30 \u2014 a near three-month layoff that means rust and a capped pitch count, so his career 3.24 ERA overstates what he delivers today (his 2026 xERA ",
-    "bankroll_after": "1721.7"
+    "bankroll_after": "1721.676"
   },
   {
     "date": "2026-09-26",
@@ -8429,7 +8429,7 @@
     "result": "loss",
     "pnl": "-82.0",
     "reasoning_summary": "The away starter has not pitched since August 7 \u2014 a ~7-week layoff that implies rust and a limited pitch count, exposing a taxed bullpen (five relievers with 2+ appearances in the last 3 days, 4.45 season ERA) for the bulk of the game. The home start",
-    "bankroll_after": "1639.7"
+    "bankroll_after": "1639.676"
   },
   {
     "date": "2026-09-27",
@@ -8445,7 +8445,7 @@
     "result": "void",
     "pnl": "0.0",
     "reasoning_summary": "The 1H is a pure SP matchup and it tilts to Baltimore: Baz is a proven mid-rotation arm (career 4.19 ERA over 465 IP, xERA 4.27) while the home starter is a 26-IP rookie whose 5.40 ERA, 5.4 BB/9, and 5.58 xERA all agree he leaks baserunners \u2014 likely ",
-    "bankroll_after": "1639.7"
+    "bankroll_after": "1639.676"
   },
   {
     "date": "2026-09-27",
@@ -8461,7 +8461,7 @@
     "result": "loss",
     "pnl": "-82.0",
     "reasoning_summary": "The starting pitcher gap is one of the largest on the board and is backed by real samples: Messick carries a 2.58 career ERA over 223 IP with a 3.08 xERA and .272 xwOBA, while Lynch is a 4.48 career ERA / 4.57 xERA arm coming off a 9-ER start. The sh",
-    "bankroll_after": "1557.7"
+    "bankroll_after": "1557.676"
   },
   {
     "date": "2026-09-27",
@@ -8477,7 +8477,7 @@
     "result": "loss",
     "pnl": "-82.0",
     "reasoning_summary": "Soroka holds a large, persistent quality edge over V\u00e1squez \u2014 xERA gap of roughly 1.5 runs both this year (4.09 vs 5.62) and last (3.53 vs 5.37), with V\u00e1squez's 5.7 K/9 contact profile facing a confirmed .748-OPS Arizona lineup. San Diego counters wit",
-    "bankroll_after": "1475.7"
+    "bankroll_after": "1475.676"
   },
   {
     "date": "2026-09-27",
@@ -8493,7 +8493,7 @@
     "result": "win",
     "pnl": "82.371",
     "reasoning_summary": "Near-even SP matchup by the reliable measures (Gore career 4.29 ERA / 4.09 xERA vs Kremer career 4.34 / prior-year 3.88 xERA), but the situational factors all tilt home: Gore is at 170 IP with three straight short, walk-heavy outings (4-5 IP, 8 ER ov",
-    "bankroll_after": "1558.07"
+    "bankroll_after": "1558.047"
   },
   {
     "date": "2026-09-29",
@@ -8509,7 +8509,7 @@
     "result": "push",
     "pnl": "0.0",
     "reasoning_summary": "The 1H is a pure SP matchup and this one is even-to-slightly-Phillies: Luzardo (2.83 xERA, 179 IP, 22.2 IP/1 ER last three starts including 9 IP 0 ER against this exact Atlanta lineup on 9/07) profiles at least as well as Sale (2.97 xERA, 5 ER over h",
-    "bankroll_after": "1558.07"
+    "bankroll_after": "1558.047"
   },
   {
     "date": "2026-09-29",
@@ -8525,7 +8525,7 @@
     "result": "win",
     "pnl": "84.13",
     "reasoning_summary": "The road team is the substantially better full-season club (+56 run differential vs -32, superior bullpen 3.70 vs 4.08 ERA) yet is priced as an underdog at +108; pythagorean baselines put them near 52% even after home-field adjustment vs 48.1% implie",
-    "bankroll_after": "1642.2"
+    "bankroll_after": "1642.177"
   },
   {
     "date": "2026-09-30",
@@ -8541,7 +8541,7 @@
     "result": "win",
     "pnl": "106.781",
     "reasoning_summary": "Full-season fundamentals favor the road side more than the price does: Chicago finished with a +56 run differential (~.537 pythagorean) and a 3.70 bullpen ERA versus Houston's -32 (-.479 pythagorean) and 4.08 pen with four relievers taxed. Brown over",
-    "bankroll_after": "1748.98"
+    "bankroll_after": "1748.958"
   },
   {
     "date": "2026-09-30",
@@ -8557,7 +8557,7 @@
     "result": "loss",
     "pnl": "-82.0",
     "reasoning_summary": "The Cubs profile as the better club by the largest-sample signal available: +147 run differential (850/703) vs +41 for the Padres, a Pythagorean gap of roughly .594 vs .529 that implies the Cubs are near a coin flip even on the road, yet they are pri",
-    "bankroll_after": "1666.98"
+    "bankroll_after": "1666.958"
   },
   {
     "date": "2026-10-01",
@@ -8573,7 +8573,7 @@
     "result": "win",
     "pnl": "76.969",
     "reasoning_summary": "A 94-68 home team with a +116 run differential is priced near pick'em against an 88-74 team at +15, and the fundamentals justify a bigger gap than the price implies: Atlanta's bullpen (3.44 ERA) is a full run better than Philadelphia's (4.43) in a ga",
-    "bankroll_after": "1743.95"
+    "bankroll_after": "1743.927"
   },
   {
     "date": "2026-10-04",
@@ -8589,7 +8589,7 @@
     "result": "win",
     "pnl": "67.231",
     "reasoning_summary": "Milwaukee is the materially better club (103-59, +214 run diff vs +41) at home with the better starter: Henderson's contact-quality profile (2.74 xERA, .257 xwOBA, 0.84 WHIP) sits far above King, whose 4.42 xERA and K/9 decline from 9.5 career to 7.7",
-    "bankroll_after": "1811.18"
+    "bankroll_after": "1811.158"
   },
   {
     "date": "2026-10-05",
@@ -8605,7 +8605,7 @@
     "result": "win",
     "pnl": "121.93",
     "reasoning_summary": "Williams over Kay is a real SP edge (career 3.62 vs 4.85, xERA 3.84 vs 5.05), but -148 overprices it: the White Sox carry the much stronger season profile (+56 run differential vs +11, 776 runs scored vs 678), their confirmed lineup is the better uni",
-    "bankroll_after": "1933.11"
+    "bankroll_after": "1933.088"
   },
   {
     "date": "2026-10-05",
@@ -8621,7 +8621,7 @@
     "result": "loss",
     "pnl": "-91.0",
     "reasoning_summary": "The starting pitcher gap is real and current: Schlittler's 2.85 xERA / 0.262 xwOBA on a full season (backed by a 2.23 career ERA over 266 IP) versus Peralta's down year (3.84 xERA, 4.42 ERA), compounded by an extreme platoon alignment \u2014 8 of 9 Yankee",
-    "bankroll_after": "1842.11"
+    "bankroll_after": "1842.088"
   },
   {
     "date": "2026-10-06",
@@ -8637,7 +8637,7 @@
     "result": "loss",
     "pnl": "-92.0",
     "reasoning_summary": "Milwaukee is a 103-win team with a +214 run differential and the better bullpen, priced as a +117 road underdog. The Padres' SP edge is real but overstated: Pivetta's 2.86 ERA covers only 34.2 IP with a 4.43 career ERA, his recent starts top out near",
-    "bankroll_after": "1750.11"
+    "bankroll_after": "1750.088"
   },
   {
     "date": "2026-10-07",
@@ -8653,7 +8653,7 @@
     "result": "loss",
     "pnl": "-88.0",
     "reasoning_summary": "EXECUTOR FAULT 2026-10-07: evaluator selected h2h Milwaukee Brewers -102, but a failed Heritage column restore left the ML column showing Game Total and the executor clicked 'o7.5-112'. No market check existed on the h2h path, so $88 was placed on Game/Total/Over 7.5 -102 (Heritage ticket G12976501, LOST). Final 3-1 = 4 runs: the Over lost; the intended Brewers ML would have won +85.94. Record corrected to what Heritage actually holds. Guards added in commit for 2026-10-08. Original evaluator reasoning follows. | Milwaukee is the substantially better club over the full season (103-59 vs 91-71, +214 vs +41 run differential, 832/618 runs vs 722/681), yet is priced as a near pick'em underdog at -102. Log5 off pythagorean quality puts a neutral-site Brewers win p",
-    "bankroll_after": "1662.11"
+    "bankroll_after": "1662.088"
   },
   {
     "date": "2026-10-10",
@@ -8669,7 +8669,7 @@
     "result": "loss",
     "pnl": "-83.0",
     "reasoning_summary": "The starting pitchers are effectively even \u2014 Burke (xERA 3.78, career 3.59) and Williams (xERA 3.84, career 3.62) are near-identical by expected contact quality, with Burke in better recent form. Beneath that even SP matchup, the White Sox are the st",
-    "bankroll_after": "1579.11"
+    "bankroll_after": "1579.088"
   },
   {
     "date": "2026-10-12",
@@ -8685,7 +8685,7 @@
     "result": "win",
     "pnl": "94.856",
     "reasoning_summary": "Season-long fundamentals say these teams are equals or better for the home side: Milwaukee has the better record (103-59 vs 100-62), the better run differential (+214 vs +201), the better bullpen (3.40 ERA vs 3.74), and home field, yet is priced at o",
-    "bankroll_after": "1673.97"
+    "bankroll_after": "1673.944"
   },
   {
     "date": "2026-10-14",
@@ -8701,7 +8701,7 @@
     "result": "win",
     "pnl": "127.933",
     "reasoning_summary": "Milwaukee was the better team over the full season (103-59 vs 100-62, +214 vs +201 run differential, 3.40 vs 3.74 bullpen ERA) yet is priced at only 39.7% implied. Snell's per-inning dominance (2.17 xERA) is real, but he has not completed five inning",
-    "bankroll_after": "1801.9"
+    "bankroll_after": "1801.877"
   },
   {
     "date": "2026-10-19",
@@ -8717,7 +8717,7 @@
     "result": "win",
     "pnl": "83.333",
     "reasoning_summary": "The first five innings set up as a run-suppression matchup on both sides: Peralta (career 3.71 ERA, xERA 3.84, 1100 IP) threw six scoreless against this exact Cleveland lineup six days ago and is in dominant form (1 ER over his last 16 IP), while Cle",
-    "bankroll_after": "1885.23"
+    "bankroll_after": "1885.21"
   },
   {
     "date": "2026-10-26",
@@ -8733,6 +8733,6 @@
     "result": "win",
     "pnl": "97.866",
     "reasoning_summary": "Milwaukee is the materially better club by full-season fundamentals \u2014 +214 run differential vs +86 (Pythagorean ~.644 vs ~.562) and a better bullpen (3.40 ERA vs 3.99) with comparable fatigue \u2014 yet is priced as a road underdog at plus money. The SP m",
-    "bankroll_after": "1983.1"
+    "bankroll_after": "1983.076"
   }
 ]
